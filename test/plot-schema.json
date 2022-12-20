@@ -43600,6 +43600,7 @@
      },
      "angleref": {
       "anim": false,
+      "arrayOk": true,
       "description": "Sets the reference for marker angle. With *previous*, angle 0 points along the line from the previous point to this one. With *up*, angle 0 points toward the top of the screen.",
       "dflt": "up",
       "editType": "plot",
@@ -43608,6 +43609,11 @@
        "previous",
        "up"
       ]
+     },
+     "anglerefsrc": {
+      "description": "Sets the source reference on Chart Studio Cloud for `angleref`.",
+      "editType": "none",
+      "valType": "string"
      },
      "anglesrc": {
       "description": "Sets the source reference on Chart Studio Cloud for `angle`.",
@@ -47926,6 +47932,7 @@
       "valType": "angle"
      },
      "angleref": {
+      "arrayOk": true,
       "description": "Sets the reference for marker angle. With *previous*, angle 0 points along the line from the previous point to this one. With *up*, angle 0 points toward the top of the screen.",
       "dflt": "up",
       "editType": "plot",
@@ -47934,6 +47941,11 @@
        "previous",
        "up"
       ]
+     },
+     "anglerefsrc": {
+      "description": "Sets the source reference on Chart Studio Cloud for `angleref`.",
+      "editType": "none",
+      "valType": "string"
      },
      "anglesrc": {
       "description": "Sets the source reference on Chart Studio Cloud for `angle`.",
@@ -49814,6 +49826,7 @@
       "valType": "angle"
      },
      "angleref": {
+      "arrayOk": true,
       "description": "Sets the reference for marker angle. With *previous*, angle 0 points along the line from the previous point to this one. With *up*, angle 0 points toward the top of the screen. With *north*, angle 0 points north based on the current map projection.",
       "dflt": "up",
       "editType": "calc",
@@ -49823,6 +49836,11 @@
        "up",
        "north"
       ]
+     },
+     "anglerefsrc": {
+      "description": "Sets the source reference on Chart Studio Cloud for `angleref`.",
+      "editType": "none",
+      "valType": "string"
      },
      "anglesrc": {
       "description": "Sets the source reference on Chart Studio Cloud for `angle`.",
@@ -55035,6 +55053,7 @@
       "valType": "angle"
      },
      "angleref": {
+      "arrayOk": true,
       "description": "Sets the reference for marker angle. With *previous*, angle 0 points along the line from the previous point to this one. With *up*, angle 0 points toward the top of the screen.",
       "dflt": "up",
       "editType": "plot",
@@ -55043,6 +55062,11 @@
        "previous",
        "up"
       ]
+     },
+     "anglerefsrc": {
+      "description": "Sets the source reference on Chart Studio Cloud for `angleref`.",
+      "editType": "none",
+      "valType": "string"
      },
      "anglesrc": {
       "description": "Sets the source reference on Chart Studio Cloud for `angle`.",
@@ -58784,6 +58808,7 @@
       "valType": "angle"
      },
      "angleref": {
+      "arrayOk": true,
       "description": "Sets the reference for marker angle. With *previous*, angle 0 points along the line from the previous point to this one. With *up*, angle 0 points toward the top of the screen.",
       "dflt": "up",
       "editType": "plot",
@@ -58792,6 +58817,11 @@
        "previous",
        "up"
       ]
+     },
+     "anglerefsrc": {
+      "description": "Sets the source reference on Chart Studio Cloud for `angleref`.",
+      "editType": "none",
+      "valType": "string"
      },
      "anglesrc": {
       "description": "Sets the source reference on Chart Studio Cloud for `angle`.",
@@ -60691,6 +60721,7 @@
       "valType": "angle"
      },
      "angleref": {
+      "arrayOk": true,
       "description": "Sets the reference for marker angle. With *previous*, angle 0 points along the line from the previous point to this one. With *up*, angle 0 points toward the top of the screen.",
       "dflt": "up",
       "editType": "plot",
@@ -60699,6 +60730,11 @@
        "previous",
        "up"
       ]
+     },
+     "anglerefsrc": {
+      "description": "Sets the source reference on Chart Studio Cloud for `angleref`.",
+      "editType": "none",
+      "valType": "string"
      },
      "anglesrc": {
       "description": "Sets the source reference on Chart Studio Cloud for `angle`.",

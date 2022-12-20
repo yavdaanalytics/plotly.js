@@ -1586,6 +1586,10 @@ function rotate(t, xy) {
     ];
 }
 
+function getMarkerAngleref(d, trace) {
+    return d.mr || trace.marker.angleref;
+}
+
 var previousLon;
 var previousLat;
 var previousX;
@@ -1601,7 +1605,7 @@ function getMarkerAngle(d, trace) {
     }
 
     var x, y;
-    var ref = trace.marker.angleref;
+    var ref = getMarkerAngleref(d, trace);
     if(ref === 'previous' || ref === 'north') {
         if(trace._geo) {
             var p = trace._geo.project(d.lonlat);
@@ -1718,3 +1722,4 @@ function getMarkerAngle(d, trace) {
 }
 
 drawing.getMarkerAngle = getMarkerAngle;
+drawing.getMarkerAngleref = getMarkerAngleref;

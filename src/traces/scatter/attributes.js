@@ -438,6 +438,7 @@ module.exports = {
         },
         angleref: {
             valType: 'enumerated',
+            arrayOk: true,
             values: ['previous', 'up'],
             dflt: 'up',
             editType: 'plot',

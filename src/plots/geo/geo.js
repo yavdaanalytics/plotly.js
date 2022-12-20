@@ -97,7 +97,7 @@ proto.plot = function(geoCalcData, fullLayout, promises, replot) {
         var marker = trace.marker;
         if(marker) {
             var angle = marker.angle;
-            var angleref = marker.angleref;
+            var angleref = Drawing.getMarkerAngleref(geoCalcData, trace);
             if(angle || angleref === 'north' || angleref === 'previous') hasMarkerAngles = true;
         }
     }
