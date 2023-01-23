@@ -466,11 +466,11 @@ describe('Test animate API', function() {
                 interrupted = true;
             });
 
-            Plotly.animate(gd, ['frame0', 'frame1'], animOpts);
-
-            Plotly.animate(gd, ['frame2'], Lib.extendFlat(animOpts, {mode: 'immediate'})).then(function() {
-                expect(interrupted).toBe(true);
-                verifyQueueEmpty(gd);
+            Plotly.animate(gd, ['frame0', 'frame1'], animOpts).then(function() {
+                Plotly.animate(gd, ['frame2'], Lib.extendFlat(animOpts, {mode: 'immediate'})).then(function() {
+                    expect(interrupted).toBe(true);
+                    verifyQueueEmpty(gd);
+                });
             }).then(done, done.fail);
         });
 
@@ -510,10 +510,11 @@ describe('Test animate API', function() {
         });
 
         it('drops queued frames when immediate = true', function(done) {
-            Plotly.animate(gd, 'even-frames', animOpts);
-            Plotly.animate(gd, 'odd-frames', Lib.extendFlat(animOpts, {mode: 'immediate'})).then(function() {
-                verifyFrameTransitionOrder(gd, ['frame0', 'frame1', 'frame3']);
-                verifyQueueEmpty(gd);
+            Plotly.animate(gd, 'even-frames', animOpts).then(function() {
+                Plotly.animate(gd, 'odd-frames', Lib.extendFlat(animOpts, {mode: 'immediate'})).then(function() {
+                    verifyFrameTransitionOrder(gd, ['frame0', 'frame1', 'frame3']);
+                    verifyQueueEmpty(gd);
+                });
             }).then(done, done.fail);
         });
 
