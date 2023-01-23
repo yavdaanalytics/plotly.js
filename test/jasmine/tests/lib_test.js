@@ -2579,14 +2579,14 @@ describe('Test lib.js:', function() {
 
     describe('concat', function() {
         var concat = Lib.concat;
-
-        beforeEach(function() {
-            spyOn(Array.prototype, 'concat').and.callThrough();
-        });
+        var ONE = 1;
 
         it('works with multiple Arrays', function() {
-            var res = concat([1], [[2], 3], [{a: 4}, 5, 6]);
-            expect(Array.prototype.concat.calls.count()).toBe(1);
+            var a1 = [ONE];
+            spyOn(a1, 'concat').and.callThrough();
+
+            var res = concat(a1, [[2], 3], [{a: 4}, 5, 6]);
+            expect(a1.concat.calls.count()).toBe(1);
 
             // note: can't `concat` in the `expect` if we want to count native
             // `Array.concat calls`, because `toEqual` calls `Array.concat`
@@ -2595,19 +2595,21 @@ describe('Test lib.js:', function() {
         });
 
         it('works with some empty arrays', function() {
-            var a1 = [1];
-            var res = concat(a1, [], [2, 3]);
-            expect(Array.prototype.concat.calls.count()).toBe(1);
-            expect(res).toEqual([1, 2, 3]);
-            expect(a1).toEqual([1]); // did not mutate a1
+            var a1 = [ONE];
+            spyOn(a1, 'concat').and.callThrough();
 
-            Array.prototype.concat.calls.reset();
+            var res = concat(a1, [], [2, 3]);
+            expect(a1.concat.calls.count()).toBe(1);
+            expect(res).toEqual([1, 2, 3]);
+            expect(a1[0]).toEqual(ONE); // did not mutate a1
+
+            a1.concat.calls.reset();
             var a1b = concat(a1, []);
             var a1c = concat([], a1b);
             var a1d = concat([], a1c, []);
-            expect(Array.prototype.concat.calls.count()).toBe(0);
+            expect(a1.concat.calls.count()).toBe(0);
 
-            expect(a1d).toEqual([1]);
+            expect(a1d[0]).toEqual(ONE);
             // does not mutate a1, but *will* return it unchanged if it's the
             // only one with data
             expect(a1d).toBe(a1);
@@ -2617,43 +2619,73 @@ describe('Test lib.js:', function() {
             // a single typedArray will keep its identity (and type)
             // even if other empty arrays don't match type.
             var f1 = new Float32Array([1, 2]);
-            Array.prototype.concat.calls.reset();
-            res = concat([], f1, new Float64Array([]));
-            expect(Array.prototype.concat.calls.count()).toBe(0);
+            var a0 = [];
+            spyOn(a0, 'concat').and.callThrough();
+            res = concat(a0, f1, new Float64Array([]));
+            expect(a0.concat.calls.count()).toBe(0);
             expect(res).toBe(f1);
             expect(f1).toEqual(new Float32Array([1, 2]));
         });
 
         it('works with all empty arrays', function() {
             [[], [[]], [[], []], [[], [], [], []]].forEach(function(empties) {
-                Array.prototype.concat.calls.reset();
+                var a0 = [];
+                spyOn(a0, 'concat').and.callThrough();
                 var res = concat.apply(null, empties);
-                expect(Array.prototype.concat.calls.count()).toBe(0);
-                expect(res).toEqual([]);
+                expect(a0.concat.calls.count()).toBe(0);
+                expect(res.length).toEqual(0);
             });
         });
 
-        it('converts mismatched types to Array', function() {
-            [
-                [[1, 2], new Float64Array([3, 4])],
-                [new Float64Array([1, 2]), [3, 4]],
-                [new Float64Array([1, 2]), new Float32Array([3, 4])]
-            ].forEach(function(mismatch) {
-                Array.prototype.concat.calls.reset();
-                var res = concat.apply(null, mismatch);
-                // no concat - all entries moved over individually
-                expect(Array.prototype.concat.calls.count()).toBe(0);
-                expect(res).toEqual([1, 2, 3, 4]);
-            });
+        it('converts mismatched types to Array - case 1', function() {
+            var a0 = [1, 2];
+            spyOn(a0, 'concat').and.callThrough();
+            var res = concat.apply(null, [a0, new Float64Array([3, 4])]);
+            // no concat - all entries moved over individually
+            expect(a0.concat.calls.count()).toBe(0);
+            expect(res.length).toEqual(4);
+            expect(res[0]).toEqual(1);
+            expect(res[1]).toEqual(2);
+            expect(res[2]).toEqual(3);
+            expect(res[3]).toEqual(4);
         });
+
+        it('converts mismatched types to Array - case 2', function() {
+            var a0 = new Float64Array([1, 2]);
+            spyOn(Array.prototype, 'concat').and.callThrough();
+            var res = concat.apply(null, [a0, [3, 4]]);
+            // no concat - all entries moved over individually
+            expect(Array.prototype.concat.calls.count()).toBe(0);
+            expect(res.length).toEqual(4);
+            expect(res[0]).toEqual(1);
+            expect(res[1]).toEqual(2);
+            expect(res[2]).toEqual(3);
+            expect(res[3]).toEqual(4);
+        });
+
+        it('converts mismatched types to Array - case 3', function() {
+            var a0 = new Float64Array([1, 2]);
+            spyOn(Array.prototype, 'concat').and.callThrough();
+            var res = concat.apply(null, [a0, new Float64Array([3, 4])]);
+            // no concat - all entries moved over individually
+            expect(Array.prototype.concat.calls.count()).toBe(0);
+            expect(res.length).toEqual(4);
+            expect(res[0]).toEqual(1);
+            expect(res[1]).toEqual(2);
+            expect(res[2]).toEqual(3);
+            expect(res[3]).toEqual(4);
+        });
+
 
         it('concatenates matching TypedArrays preserving type', function() {
             [Float32Array, Float64Array, Int16Array, Int32Array].forEach(function(Type, i) {
                 var v = i * 10;
-                Array.prototype.concat.calls.reset();
-                var res = concat([], new Type([v]), new Type([v + 1, v]), new Type([v + 2, v, v]));
+
+                var a0 = [];
+                spyOn(a0, 'concat').and.callThrough();
+                var res = concat(a0, new Type([v]), new Type([v + 1, v]), new Type([v + 2, v, v]));
                 // no concat - uses `TypedArray.set`
-                expect(Array.prototype.concat.calls.count()).toBe(0);
+                expect(a0.concat.calls.count()).toBe(0);
                 expect(res).toEqual(new Type([v, v + 1, v, v + 2, v, v]));
             });
         });
