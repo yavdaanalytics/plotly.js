@@ -216,21 +216,6 @@ describe('end-to-end scattergl tests', function() {
         .then(done, done.fail);
     });
 
-    it('@gl should change plot type with incomplete data', function(done) {
-        Plotly.newPlot(gd, [{}])
-        .then(function() {
-            expect(function() {
-                return Plotly.restyle(gd, {type: 'scattergl', x: [[1]]}, 0);
-            }).not.toThrow();
-        })
-        .then(function() {
-            expect(function() {
-                return Plotly.restyle(gd, {y: [[1]]}, 0);
-            }).not.toThrow();
-        })
-        .then(done, done.fail);
-    });
-
     it('@gl should restyle opacity', function(done) {
         // #2299
         spyOn(ScatterGl, 'calc').and.callThrough();
@@ -608,6 +593,33 @@ describe('end-to-end scattergl tests', function() {
         .then(function() {
             expect(getSnap()).toEqual(TOO_MANY_POINTS + 1);
         }).then(done, done.fail);
+    });
+});
+
+describe('extra end-to-end scattergl tests', function() {
+    var gd;
+
+    beforeEach(function() {
+        gd = createGraphDiv();
+    });
+
+    afterEach(function() {
+        destroyGraphDiv();
+    });
+
+    it('@gl should change plot type with incomplete data', function(done) {
+        Plotly.newPlot(gd, [{}])
+        .then(function() {
+            expect(function() {
+                return Plotly.restyle(gd, {type: 'scattergl', x: [[1]]}, 0);
+            }).not.toThrow();
+        })
+        .then(function() {
+            expect(function() {
+                return Plotly.restyle(gd, {y: [[1]]}, 0);
+            }).not.toThrow();
+        })
+        .then(done, done.fail);
     });
 });
 
