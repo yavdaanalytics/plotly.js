@@ -470,7 +470,6 @@ describe('Test gl3d modebar handlers - perspective case', function() {
     });
 
     afterEach(function() {
-        Plotly.purge(gd);
         destroyGraphDiv();
     });
 
