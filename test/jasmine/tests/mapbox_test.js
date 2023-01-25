@@ -1073,11 +1073,7 @@ describe('mapbox plots', function() {
         })
         .then(function() {
             fail('The above Plotly.react promise should be rejected');
-        })
-        .catch(function() {
-            expect(gd._promises.length).toBe(1, 'has 1 rejected promise in queue');
-        })
-        .then(function() {
+
             return Plotly.react(gd, [{type: 'scattermapbox'}], {
                 mapbox: {
                     layers: [{
@@ -1086,14 +1082,17 @@ describe('mapbox plots', function() {
                         source: 'mapbox://mapbox.mapbox-terrain-v2'
                     }]
                 }
+            })
+            .then(function() {
+                expect(gd._promises.length).toBe(0, 'rejected promise has been cleared');
+
+                var mapInfo = getMapInfo(gd);
+                expect(mapInfo.layoutLayers.length).toBe(1, 'one layer');
+                expect(mapInfo.layoutSources.length).toBe(1, 'one layer source');
             });
         })
-        .then(function() {
-            expect(gd._promises.length).toBe(0, 'rejected promise has been cleared');
-
-            var mapInfo = getMapInfo(gd);
-            expect(mapInfo.layoutLayers.length).toBe(1, 'one layer');
-            expect(mapInfo.layoutSources.length).toBe(1, 'one layer source');
+        .catch(function() {
+            expect(gd._promises.length).toBe(1, 'has 1 rejected promise in queue');
         })
         .then(done, done.fail);
     }, LONG_TIMEOUT_INTERVAL);
@@ -1143,11 +1142,10 @@ describe('mapbox plots', function() {
             expect(err).toEqual(new Error(constants.mapOnErrorMsg));
             expect(gd._promises.length).toEqual(1);
 
-            return Plotly.relayout(gd, 'mapbox.accesstoken', MAPBOX_ACCESS_TOKEN);
-        })
-        .then(function() {
-            expect(gd._fullLayout.mapbox.accesstoken).toEqual(MAPBOX_ACCESS_TOKEN);
-            expect(gd._promises.length).toEqual(0);
+            Plotly.relayout(gd, 'mapbox.accesstoken', MAPBOX_ACCESS_TOKEN).then(function() {
+                expect(gd._fullLayout.mapbox.accesstoken).toEqual(MAPBOX_ACCESS_TOKEN);
+                expect(gd._promises.length).toEqual(0);
+            });
         })
         .then(done, done.fail);
     }, LONG_TIMEOUT_INTERVAL);
@@ -2100,6 +2098,20 @@ describe('Test mapbox GeoJSON fetching:', function() {
         })
         .then(done, done.fail);
     });
+});
+
+describe('Test mapbox GeoJSON fetching (extra):', function() {
+    var gd;
+
+    beforeEach(function() {
+        gd = createGraphDiv();
+    });
+
+    afterEach(function() {
+        Plotly.purge(gd);
+        Plotly.setPlotConfig({ mapboxAccessToken: null });
+        destroyGraphDiv();
+    });
 
     it('@gl should fetch GeoJSON using URLs found in the traces', function(done) {
         var actual = '';
@@ -2118,8 +2130,7 @@ describe('Test mapbox GeoJSON fetching:', function() {
         .catch(function(reason) {
             // bails up after first failure
             actual = reason;
-        })
-        .then(function() {
+
             expect(actual).toEqual(new Error('GeoJSON at URL "invalidUrl" does not exist.'));
             expect(window.PlotlyGeoAssets.invalidUrl).toBe(undefined);
         })
