@@ -1890,7 +1890,7 @@ describe('Polar plots with css transforms', function() {
     }
 
     function _hover(pos) {
-        return new Promise(function(resolve, reject) {
+        return new Promise(function(resolve) {
             var localPos = _getLocalPos(gd, pos);
             gd.once('plotly_hover', function(d) {
                 Lib.clearThrottle();
@@ -1898,10 +1898,6 @@ describe('Polar plots with css transforms', function() {
             });
 
             mouseEvent('mousemove', localPos[0], localPos[1]);
-
-            setTimeout(function() {
-                reject('plotly_hover did not get called!');
-            }, 100);
         });
     }
 

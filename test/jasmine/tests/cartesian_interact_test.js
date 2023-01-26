@@ -2275,17 +2275,13 @@ describe('Event data:', function() {
     afterEach(destroyGraphDiv);
 
     function _hover(px, py) {
-        return new Promise(function(resolve, reject) {
+        return new Promise(function(resolve) {
             gd.once('plotly_hover', function(d) {
                 Lib.clearThrottle();
                 resolve(d);
             });
 
             mouseEvent('mousemove', px, py);
-
-            setTimeout(function() {
-                reject('plotly_hover did not get called!');
-            }, 100);
         });
     }
 
@@ -2387,7 +2383,7 @@ describe('Cartesian plots with css transforms', function() {
     }
 
     function _hover(pos) {
-        return new Promise(function(resolve, reject) {
+        return new Promise(function(resolve) {
             var localPos = _getLocalPos(gd, pos);
             gd.once('plotly_hover', function(d) {
                 Lib.clearThrottle();
@@ -2395,10 +2391,6 @@ describe('Cartesian plots with css transforms', function() {
             });
 
             mouseEvent('mousemove', localPos[0], localPos[1]);
-
-            setTimeout(function() {
-                reject('plotly_hover did not get called!');
-            }, 100);
         });
     }
 

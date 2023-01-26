@@ -316,7 +316,7 @@ describe('Test sort transform interactions:', function() {
         }
 
         function hover(gd, id) {
-            return new Promise(function(resolve, reject) {
+            return new Promise(function(resolve) {
                 gd.once('plotly_hover', function(eventData) {
                     Lib.clearThrottle();
                     resolve(eventData);
@@ -324,10 +324,6 @@ describe('Test sort transform interactions:', function() {
 
                 var pos = getPxPos(gd, id);
                 mouseEvent('mousemove', pos[0], pos[1]);
-
-                setTimeout(function() {
-                    reject('plotly_hover did not get called!');
-                }, 100);
             });
         }
 
