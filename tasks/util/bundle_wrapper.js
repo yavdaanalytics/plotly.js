@@ -1,5 +1,5 @@
+var fs = require('fs');
 var path = require('path');
-
 var webpack = require('webpack');
 
 var config = require('../../webpack.config.js');
@@ -58,7 +58,7 @@ module.exports = function _bundle(pathToIndex, pathToBundle, opts, cb) {
         } if(stats.errors && stats.errors.length) {
             console.log('stats.errors:', stats.errors);
         } else {
-            console.log('success:', config.output.path + '/' + config.output.filename);
+            ensureEncoding(config.output.path + '/' + config.output.filename);
 
             if(pending === 2) {
                 parsedPath = path.parse(pathToMinBundle);
@@ -77,7 +77,7 @@ module.exports = function _bundle(pathToIndex, pathToBundle, opts, cb) {
                     } else if(stats.errors && stats.errors.length) {
                         console.log('stats.errors:', stats.errors);
                     } else {
-                        console.log('success:', config.output.path + '/' + config.output.filename);
+                        ensureEncoding(config.output.path + '/' + config.output.filename);
 
                         if(cb) cb();
                     }
@@ -88,3 +88,17 @@ module.exports = function _bundle(pathToIndex, pathToBundle, opts, cb) {
         }
     });
 };
+
+function ensureEncoding(file) {
+    var encodingOut = 'ASCII';
+
+    var content = fs.readFileSync(file);
+
+    console.log('Encoding to', encodingOut);
+
+    fs.writeFileSync(file, content.toString(encodingOut), {
+        encoding: encodingOut
+    });
+
+    console.log('success:', file);
+}
