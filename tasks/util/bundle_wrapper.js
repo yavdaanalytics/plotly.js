@@ -77,7 +77,7 @@ module.exports = function _bundle(pathToIndex, pathToBundle, opts, cb) {
                     } else if(stats.errors && stats.errors.length) {
                         console.log('stats.errors:', stats.errors);
                     } else {
-                        ensureEncoding(config.output.path + '/' + config.output.filename);
+                        ensureEncoding(config.output.path + '/' + config.output.filename, 'ASCII');
 
                         if(cb) cb();
                     }
@@ -89,16 +89,16 @@ module.exports = function _bundle(pathToIndex, pathToBundle, opts, cb) {
     });
 };
 
-function ensureEncoding(file) {
-    var encodingOut = 'ASCII';
+function ensureEncoding(file, encodingOut) {
+    if(encodingOut) {
+        var content = fs.readFileSync(file);
 
-    var content = fs.readFileSync(file);
+        console.log('Encoding to', encodingOut);
 
-    console.log('Encoding to', encodingOut);
-
-    fs.writeFileSync(file, content.toString(encodingOut), {
-        encoding: encodingOut
-    });
+        fs.writeFileSync(file, content.toString(encodingOut), {
+            encoding: encodingOut
+        });
+    }
 
     console.log('success:', file);
 }
