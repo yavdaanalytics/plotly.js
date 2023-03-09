@@ -410,13 +410,16 @@ exports.drawMainTitle = function(gd) {
         applyTitleAutoMargin(gd, y);
     }
 
+    var xShift = parseInt(title.xshift) || 0;
+    var yShift = parseInt(title.yshift) || 0;
+
     Titles.draw(gd, 'gtitle', {
         propContainer: fullLayout,
         propName: 'title.text',
         placeholder: fullLayout._dfltTitle.plot,
         attributes: {
-            x: getMainTitleX(fullLayout, textAnchor),
-            y: y,
+            x: getMainTitleX(fullLayout, textAnchor) + xShift,
+            y: y - yShift,
             'text-anchor': textAnchor,
             dy: dy
         }

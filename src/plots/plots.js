@@ -1490,6 +1490,8 @@ plots.supplyLayoutGlobalDefaults = function(layoutIn, layoutOut, formatObj) {
     coerce('title.pad.b');
     coerce('title.pad.l');
     coerce('title.automargin');
+    coerce('title.xshift');
+    coerce('title.yshift');
 
     var uniformtextMode = coerce('uniformtext.mode');
     if(uniformtextMode) {

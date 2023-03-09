@@ -133,6 +133,24 @@ module.exports = {
                 'Determines whether the title can automatically push the figure margins.'
             ].join(' ')
         },
+        xshift: {
+            valType: 'number',
+            dflt: 0,
+            editType: 'calc+arraydraw',
+            description: [
+                'Shifts the position of the title to the',
+                'right (positive) or left (negative) by this many pixels.'
+            ].join(' ')
+        },
+        yshift: {
+            valType: 'number',
+            dflt: 0,
+            editType: 'calc+arraydraw',
+            description: [
+                'Shifts the position of the title up (positive)',
+                'or down (negative) by this many pixels.'
+            ].join(' ')
+        },
         editType: 'layoutstyle'
     },
     uniformtext: {

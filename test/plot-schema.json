@@ -9547,6 +9547,18 @@
       "container",
       "paper"
      ]
+    },
+    "xshift": {
+       "description": "Shifts the position of the title to the right (positive) or left (negative) by this many pixels.",
+       "dflt": 0,
+       "editType": "calc+arraydraw",
+       "valType": "number"
+    },
+    "yshift": {
+       "description": "Shifts the position of the title up (positive) or down (negative) by this many pixels.",
+       "dflt": 0,
+       "editType": "calc+arraydraw",
+       "valType": "number"
     }
    },
    "transition": {
