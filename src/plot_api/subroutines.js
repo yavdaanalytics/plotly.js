@@ -447,28 +447,15 @@ function isOutsideContainer(gd, title, position, y, titleHeight) {
     }
 }
 
-function containerPushVal(position, titleY, titleYanchor, height, titleDepth) {
-    var push = 0;
-    if(titleYanchor === 'middle') {
-        push += titleDepth / 2;
+function containerPushVal(position, titleY, height, titleDepth) {
+    if(position === 'b') {
+        return titleDepth + height * titleY;
     }
-    if(position === 't') {
-        if(titleYanchor === 'top') {
-            push += titleDepth;
-        }
-        push += (height - titleY * height);
-    } else {
-        if(titleYanchor === 'bottom') {
-            push += titleDepth;
-        }
-        push += (height - (1 - titleY) * height);
-    }
-    return push;
+    return titleDepth - height * (1 - titleY);
 }
 
 function needsMarginPush(gd, title, titleHeight) {
     var titleY = title.y;
-    var titleYanchor = title.yanchor;
     var position = titleY > 0.5 ? 't' : 'b';
     var curMargin = gd._fullLayout.margin[position];
     var pushMargin = 0;
@@ -480,7 +467,7 @@ function needsMarginPush(gd, title, titleHeight) {
         );
     } else if(title.yref === 'container') {
         pushMargin = (
-            containerPushVal(position, titleY, titleYanchor, gd._fullLayout.height, titleHeight) +
+            containerPushVal(position, titleY, gd._fullLayout.height, titleHeight) +
             title.pad.t +
             title.pad.b
         );

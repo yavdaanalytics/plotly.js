@@ -1488,33 +1488,25 @@ plots.supplyLayoutGlobalDefaults = function(layoutIn, layoutOut, formatObj) {
     var titleAutomargin = coerce('title.automargin');
 
     coerce('title.x');
-    coerce('title.xanchor');
     coerce('title.y');
-    coerce('title.yanchor');
-
     if(titleAutomargin) {
         // when automargin=true
         // title.y is 1 or 0 if paper ref
-        // 'auto' is not supported for either title.y or title.yanchor
+        // 'auto' is not supported for either title.y
 
-        // TODO: mention this smart default in the title.y and title.yanchor descriptions
+        // TODO: mention this smart default in the title.y description
 
         if(titleYref === 'paper') {
             if(layoutOut.title.y !== 0) layoutOut.title.y = 1;
-
-            if(layoutOut.title.yanchor === 'auto') {
-                layoutOut.title.yanchor = layoutOut.title.y === 0 ? 'top' : 'bottom';
-            }
         }
 
         if(titleYref === 'container') {
             if(layoutOut.title.y === 'auto') layoutOut.title.y = 1;
-
-            if(layoutOut.title.yanchor === 'auto') {
-                layoutOut.title.yanchor = layoutOut.title.y < 0.5 ? 'bottom' : 'top';
-            }
         }
+    } else {
+        coerce('title.yanchor');
     }
+    coerce('title.xanchor');
 
     var uniformtextMode = coerce('uniformtext.mode');
     if(uniformtextMode) {
