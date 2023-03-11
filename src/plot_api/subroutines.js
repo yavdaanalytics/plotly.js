@@ -421,17 +421,20 @@ exports.drawMainTitle = function(gd) {
         var titleObj = d3.selectAll('.gtitle');
         var titleHeight = Drawing.bBox(titleObj.node()).height;
         var pushMargin = needsMarginPush(gd, title, titleHeight);
-        y -= titleHeight / 2;
         if(pushMargin > 0) {
             applyTitleAutoMargin(gd, y, pushMargin, titleHeight);
 
+            if(title.y === 1) {
+                y += pushMargin / 2;
+            }
+
+            if(title.y === 0) {
+                y -= pushMargin / 2;
+                y += gd._fullLayout.height;
+            }
+
             // Re-position the title once we know where it needs to be
-            titleObj.attr({
-                x: x,
-                y: y,
-                'text-anchor': textAnchor,
-                dy: dy
-            }).call(svgTextUtils.positionText, x, y);
+            titleObj.call(svgTextUtils.positionText, x, y - alignmentConstants.MID_SHIFT * title.font.size);
         }
     }
 };
@@ -523,6 +526,8 @@ function getMainTitleX(fullLayout, textAnchor) {
 
 function getMainTitleY(fullLayout, dy) {
     var title = fullLayout.title;
+    if(title.automargin) return 0;
+
     var gs = fullLayout._size;
     var vPadShift = 0;
     if(dy === '0em' || !dy) {
