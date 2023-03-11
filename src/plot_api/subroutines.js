@@ -433,8 +433,13 @@ exports.drawMainTitle = function(gd) {
                 y += gd._fullLayout.height;
             }
 
+            var extraLines = (title.text.match(svgTextUtils.BR_TAG_ALL) || []).length;
+            if(extraLines) {
+                y -= title.font.size * (extraLines + 1) * alignmentConstants.MID_SHIFT;
+            }
+
             // Re-position the title once we know where it needs to be
-            titleObj.call(svgTextUtils.positionText, x, y - alignmentConstants.MID_SHIFT * title.font.size);
+            titleObj.call(svgTextUtils.positionText, x, y);
         }
     }
 };

@@ -20,7 +20,7 @@
         "margin": {"t":0, "b": 0, "l": 0, "r": 0},
         "title": {
             "automargin": true, 
-            "text": "Basic<br>title",
+            "text": "Basic<br>2<br>title",
             "font": {"size": 24},
             "pad": {"t": 15, "b": 10},
             "yref": "paper"
