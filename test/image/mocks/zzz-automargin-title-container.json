@@ -21,7 +21,7 @@
         "xaxis": {"automargin": true, "title": {"text": "x-axis title"}},
         "title": {
             "automargin": true, 
-            "text": "Basic title",
+            "text": "Basic<br>title",
             "font": {"size": 24},
             "pad": {"t": 0, "b": 0},
             "y": 0,
