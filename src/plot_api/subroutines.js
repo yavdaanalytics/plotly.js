@@ -432,22 +432,14 @@ exports.drawMainTitle = function(gd) {
             }).call(svgTextUtils.positionText, x, y);
 
             // If it is a multi-line title
-            var childTitleObjs = titleObj.selectAll('tspan.line');
-            // TODO: How to reset the dy attribute at the childTitleObjs[0][0] level?
-            console.log(childTitleObjs[0][0].getAttribute('dy')) // 0em
-            console.log(childTitleObjs[0][1].getAttribute('dy')) // 1.3em
-            console.log(childTitleObjs.attr('dy')) // 0em
-
-            // TODO: Get the existing dy values in these tspan elements and subtract 1.3
-            // Block below is incorrect as it resets the value entirely
-            // childTitleObjs.attr({
-            //     x: x,
-            //     y: y,
-            //     'text-anchor': textAnchor,
-            //     dy: getMainTitleDyAdj(title.yanchor, true)
-            // }).call(svgTextUtils.positionText, x, y);
-
-            
+            var extraLines = (title.text.match(svgTextUtils.BR_TAG_ALL) || []).length;
+            var multiLineScale = (alignmentConstants.LINE_SPACING + 0.3) * extraLines;
+            // TODO: Not quite there 
+            // multiLineScale = title.yanchor === 'top' ? -multiLineScale : multiLineScale;
+            titleObj.selectAll('tspan.line').each(function() {
+                var newDy = +(this.getAttribute('dy') || '').slice(0, -2) - multiLineScale + 'em';
+                this.setAttribute('dy', newDy);
+            });
 
         }
     }
