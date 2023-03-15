@@ -428,8 +428,23 @@ exports.drawMainTitle = function(gd) {
                 x: x,
                 y: y,
                 'text-anchor': textAnchor,
-                dy: getMainTitleDyAdj(title.yanchor)
+                dy: getMainTitleDyAdj(title.yanchor, false)
             }).call(svgTextUtils.positionText, x, y);
+
+            // If it is a multi-line title - TODO: Would this impact any other elements?
+            var childTitleObjs = d3.selectAll('tspan.line');
+
+            // TODO: Get the existing dy values in these tspan elements and subtract 1.3
+            // Block below is incorrect as it resets the value entirely
+            // childTitleObjs.attr({
+            //     x: x,
+            //     y: y,
+            //     'text-anchor': textAnchor,
+            //     dy: getMainTitleDyAdj(title.yanchor, true)
+            // }).call(svgTextUtils.positionText, x, y);
+
+            
+
         }
     }
 };
@@ -555,14 +570,19 @@ function getMainTitleY(fullLayout, dy) {
     }
 }
 
-function getMainTitleDyAdj(yanchor) {
+function getMainTitleDyAdj(yanchor, multi) {
+    var dy = 0;
     if(yanchor === 'top') {
-        return alignmentConstants.CAP_SHIFT + 0.3 + 'em';
+        dy = alignmentConstants.CAP_SHIFT + 0.3;
     } else if(yanchor === 'bottom') {
-        return '-0.3em';
+        dy = -0.3;
     } else {
-        return alignmentConstants.MID_SHIFT + 'em';
+        dy = alignmentConstants.MID_SHIFT;
     }
+    if(multi) {
+        dy += -1.3
+    }
+    return dy + 'em';
 }
 
 function getMainTitleTextAnchor(fullLayout) {
