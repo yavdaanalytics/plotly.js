@@ -431,8 +431,12 @@ exports.drawMainTitle = function(gd) {
                 dy: getMainTitleDyAdj(title.yanchor, false)
             }).call(svgTextUtils.positionText, x, y);
 
-            // If it is a multi-line title - TODO: Would this impact any other elements?
-            var childTitleObjs = d3.selectAll('tspan.line');
+            // If it is a multi-line title
+            var childTitleObjs = titleObj.selectAll('tspan.line');
+            // TODO: How to reset the dy attribute at the childTitleObjs[0][0] level?
+            console.log(childTitleObjs[0][0].getAttribute('dy')) // 0em
+            console.log(childTitleObjs[0][1].getAttribute('dy')) // 1.3em
+            console.log(childTitleObjs.attr('dy')) // 0em
 
             // TODO: Get the existing dy values in these tspan elements and subtract 1.3
             // Block below is incorrect as it resets the value entirely
