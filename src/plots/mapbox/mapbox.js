@@ -68,13 +68,13 @@ proto.plot = function(calcData, fullLayout, promises) {
 
     var promise;
 
-    if(!self.map) {
+    if(self.map) {
         promise = new Promise(function(resolve, reject) {
-            self.createMap(calcData, fullLayout, resolve, reject);
+            self.updateMap(calcData, fullLayout, resolve, reject);
         });
     } else {
         promise = new Promise(function(resolve, reject) {
-            self.updateMap(calcData, fullLayout, resolve, reject);
+            self.createMap(calcData, fullLayout, resolve, reject);
         });
     }
 
