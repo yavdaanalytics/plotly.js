@@ -155,8 +155,17 @@ proto.updateMap = function(calcData, fullLayout, resolve, reject) {
     var styleObj = getStyleObj(opts.style);
 
     if(JSON.stringify(self.styleObj) !== JSON.stringify(styleObj)) {
+        var reCreate = false;
+        if(self.styleObj.id !== styleObj.id) {
+            reCreate = true;
+        }
+
         self.styleObj = styleObj;
         map.setStyle(styleObj.style);
+
+        if(reCreate) {
+            self.updateLayers(fullLayout, true);
+        }
 
         // need to rebuild trace layers on reload
         // to avoid 'lost event' errors
@@ -633,7 +642,7 @@ proto.updateFramework = function(fullLayout) {
     this.yaxis._length = size.h * (domain.y[1] - domain.y[0]);
 };
 
-proto.updateLayers = function(fullLayout) {
+proto.updateLayers = function(fullLayout, reCreate) {
     var opts = fullLayout[this.id];
     var layers = opts.layers;
     var layerList = this.layerList;
@@ -643,7 +652,7 @@ proto.updateLayers = function(fullLayout) {
     // don't try to be smart,
     // delete them all, and start all over.
 
-    if(layers.length !== layerList.length) {
+    if(layers.length !== layerList.length || reCreate) {
         for(i = 0; i < layerList.length; i++) {
             layerList[i].dispose();
         }
