@@ -157,8 +157,10 @@ proto.updateLayer = function(opts) {
 proto.updateStyle = function(opts) {
     if(isVisible(opts)) {
         var convertedOpts = convertOpts(opts);
-        this.subplot.setOptions(this.idLayer, 'setLayoutProperty', convertedOpts.layout);
-        this.subplot.setOptions(this.idLayer, 'setPaintProperty', convertedOpts.paint);
+        if(this.subplot.map.getLayer(this.idLayer)) {
+            this.subplot.setOptions(this.idLayer, 'setLayoutProperty', convertedOpts.layout);
+            this.subplot.setOptions(this.idLayer, 'setPaintProperty', convertedOpts.paint);
+        }
     }
 };
 
