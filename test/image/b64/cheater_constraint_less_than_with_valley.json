@@ -1,0 +1,537 @@
+{
+  "data": [
+    {
+      "type": "contourcarpet",
+      "carpet": "c9",
+      "z": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAACamZmZmZnpPwAAAAAAAABAMzMzMzMz8z8AAAAAAAAAwJqZmZmZmQlAAAAAAAAAAEBmZmZmZmYGQAAAAAAAABBA",
+        "shape": "3, 3"
+      },
+      "showlegend": false,
+      "contours": {
+        "type": "constraint",
+        "operation": "<",
+        "value": 5
+      },
+      "line": {
+        "smoothing": 0
+      }
+    },
+    {
+      "type": "contourcarpet",
+      "carpet": "c10",
+      "z": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAACamZmZmZnpPwAAAAAAAABAMzMzMzMz8z8AAAAAAAAAwJqZmZmZmQlAAAAAAAAAAEBmZmZmZmYGQAAAAAAAABBA",
+        "shape": "3, 3"
+      },
+      "showlegend": false,
+      "contours": {
+        "type": "constraint",
+        "operation": "<",
+        "value": 5
+      }
+    },
+    {
+      "type": "contourcarpet",
+      "carpet": "c7",
+      "z": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAACamZmZmZnpPwAAAAAAAABAMzMzMzMz8z8AAAAAAAAAwJqZmZmZmQlAAAAAAAAAAEBmZmZmZmYGQAAAAAAAABBA",
+        "shape": "3, 3"
+      },
+      "showlegend": false,
+      "contours": {
+        "type": "constraint",
+        "operation": "<",
+        "value": 3
+      },
+      "line": {
+        "smoothing": 0
+      }
+    },
+    {
+      "type": "contourcarpet",
+      "carpet": "c8",
+      "z": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAACamZmZmZnpPwAAAAAAAABAMzMzMzMz8z8AAAAAAAAAwJqZmZmZmQlAAAAAAAAAAEBmZmZmZmYGQAAAAAAAABBA",
+        "shape": "3, 3"
+      },
+      "showlegend": false,
+      "contours": {
+        "type": "constraint",
+        "operation": "<",
+        "value": 3
+      }
+    },
+    {
+      "type": "contourcarpet",
+      "carpet": "c5",
+      "z": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAACamZmZmZnpPwAAAAAAAABAMzMzMzMz8z8AAAAAAAAAwJqZmZmZmQlAAAAAAAAAAEBmZmZmZmYGQAAAAAAAABBA",
+        "shape": "3, 3"
+      },
+      "showlegend": false,
+      "contours": {
+        "type": "constraint",
+        "operation": "<",
+        "value": 1
+      },
+      "line": {
+        "smoothing": 0
+      }
+    },
+    {
+      "type": "contourcarpet",
+      "carpet": "c6",
+      "z": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAACamZmZmZnpPwAAAAAAAABAMzMzMzMz8z8AAAAAAAAAwJqZmZmZmQlAAAAAAAAAAEBmZmZmZmYGQAAAAAAAABBA",
+        "shape": "3, 3"
+      },
+      "showlegend": false,
+      "contours": {
+        "type": "constraint",
+        "operation": "<",
+        "value": 1
+      }
+    },
+    {
+      "type": "contourcarpet",
+      "carpet": "c3",
+      "z": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAACamZmZmZnpPwAAAAAAAABAMzMzMzMz8z8AAAAAAAAAwJqZmZmZmQlAAAAAAAAAAEBmZmZmZmYGQAAAAAAAABBA",
+        "shape": "3, 3"
+      },
+      "showlegend": false,
+      "contours": {
+        "type": "constraint",
+        "operation": "<",
+        "value": -1
+      },
+      "line": {
+        "smoothing": 0
+      }
+    },
+    {
+      "type": "contourcarpet",
+      "carpet": "c4",
+      "showlegend": false,
+      "z": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAACamZmZmZnpPwAAAAAAAABAMzMzMzMz8z8AAAAAAAAAwJqZmZmZmQlAAAAAAAAAAEBmZmZmZmYGQAAAAAAAABBA",
+        "shape": "3, 3"
+      },
+      "contours": {
+        "type": "constraint",
+        "operation": "<",
+        "value": -1
+      }
+    },
+    {
+      "type": "contourcarpet",
+      "carpet": "c1",
+      "z": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAACamZmZmZnpPwAAAAAAAABAMzMzMzMz8z8AAAAAAAAAwJqZmZmZmQlAAAAAAAAAAEBmZmZmZmYGQAAAAAAAABBA",
+        "shape": "3, 3"
+      },
+      "showlegend": false,
+      "contours": {
+        "type": "constraint",
+        "operation": "<",
+        "value": -3
+      },
+      "line": {
+        "smoothing": 0
+      }
+    },
+    {
+      "type": "contourcarpet",
+      "carpet": "c2",
+      "showlegend": false,
+      "z": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAACamZmZmZnpPwAAAAAAAABAMzMzMzMz8z8AAAAAAAAAwJqZmZmZmQlAAAAAAAAAAEBmZmZmZmYGQAAAAAAAABBA",
+        "shape": "3, 3"
+      },
+      "contours": {
+        "type": "constraint",
+        "operation": "<",
+        "value": -3
+      }
+    },
+    {
+      "type": "carpet",
+      "carpet": "c1",
+      "a": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "b": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAACamZmZmZnpPwAAAAAAAABAMzMzMzMz8z8AAAAAAAAAQJqZmZmZmQlAAAAAAAAAAEBmZmZmZmYGQAAAAAAAABBA",
+        "shape": "3, 3"
+      },
+      "aaxis": {
+        "smoothing": 0
+      },
+      "baxis": {
+        "smoothing": 0
+      },
+      "xaxis": "x",
+      "yaxis": "y"
+    },
+    {
+      "type": "carpet",
+      "carpet": "c2",
+      "a": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "b": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAACamZmZmZnpPwAAAAAAAABAMzMzMzMz8z8AAAAAAAAAQJqZmZmZmQlAAAAAAAAAAEBmZmZmZmYGQAAAAAAAABBA",
+        "shape": "3, 3"
+      },
+      "aaxis": {
+        "smoothing": 1
+      },
+      "baxis": {
+        "smoothing": 1
+      },
+      "xaxis": "x2",
+      "yaxis": "y"
+    },
+    {
+      "type": "carpet",
+      "carpet": "c3",
+      "a": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "b": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAACamZmZmZnpPwAAAAAAAABAMzMzMzMz8z8AAAAAAAAAQJqZmZmZmQlAAAAAAAAAAEBmZmZmZmYGQAAAAAAAABBA",
+        "shape": "3, 3"
+      },
+      "aaxis": {
+        "smoothing": 0
+      },
+      "baxis": {
+        "smoothing": 0
+      },
+      "xaxis": "x",
+      "yaxis": "y2"
+    },
+    {
+      "type": "carpet",
+      "carpet": "c4",
+      "a": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "b": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAACamZmZmZnpPwAAAAAAAABAMzMzMzMz8z8AAAAAAAAAQJqZmZmZmQlAAAAAAAAAAEBmZmZmZmYGQAAAAAAAABBA",
+        "shape": "3, 3"
+      },
+      "aaxis": {
+        "smoothing": 1
+      },
+      "baxis": {
+        "smoothing": 1
+      },
+      "xaxis": "x2",
+      "yaxis": "y2"
+    },
+    {
+      "type": "carpet",
+      "carpet": "c5",
+      "a": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "b": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAACamZmZmZnpPwAAAAAAAABAMzMzMzMz8z8AAAAAAAAAQJqZmZmZmQlAAAAAAAAAAEBmZmZmZmYGQAAAAAAAABBA",
+        "shape": "3, 3"
+      },
+      "aaxis": {
+        "smoothing": 0
+      },
+      "baxis": {
+        "smoothing": 0
+      },
+      "xaxis": "x",
+      "yaxis": "y3"
+    },
+    {
+      "type": "carpet",
+      "carpet": "c6",
+      "a": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "b": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAACamZmZmZnpPwAAAAAAAABAMzMzMzMz8z8AAAAAAAAAQJqZmZmZmQlAAAAAAAAAAEBmZmZmZmYGQAAAAAAAABBA",
+        "shape": "3, 3"
+      },
+      "aaxis": {
+        "smoothing": 1
+      },
+      "baxis": {
+        "smoothing": 1
+      },
+      "xaxis": "x2",
+      "yaxis": "y3"
+    },
+    {
+      "type": "carpet",
+      "carpet": "c7",
+      "a": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "b": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAACamZmZmZnpPwAAAAAAAABAMzMzMzMz8z8AAAAAAAAAQJqZmZmZmQlAAAAAAAAAAEBmZmZmZmYGQAAAAAAAABBA",
+        "shape": "3, 3"
+      },
+      "aaxis": {
+        "smoothing": 0
+      },
+      "baxis": {
+        "smoothing": 0
+      },
+      "xaxis": "x",
+      "yaxis": "y4"
+    },
+    {
+      "type": "carpet",
+      "carpet": "c8",
+      "a": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "b": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAACamZmZmZnpPwAAAAAAAABAMzMzMzMz8z8AAAAAAAAAQJqZmZmZmQlAAAAAAAAAAEBmZmZmZmYGQAAAAAAAABBA",
+        "shape": "3, 3"
+      },
+      "aaxis": {
+        "smoothing": 1
+      },
+      "baxis": {
+        "smoothing": 1
+      },
+      "xaxis": "x2",
+      "yaxis": "y4"
+    },
+    {
+      "type": "carpet",
+      "carpet": "c9",
+      "a": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "b": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAACamZmZmZnpPwAAAAAAAABAMzMzMzMz8z8AAAAAAAAAQJqZmZmZmQlAAAAAAAAAAEBmZmZmZmYGQAAAAAAAABBA",
+        "shape": "3, 3"
+      },
+      "aaxis": {
+        "smoothing": 0
+      },
+      "baxis": {
+        "smoothing": 0
+      },
+      "xaxis": "x",
+      "yaxis": "y5"
+    },
+    {
+      "type": "carpet",
+      "carpet": "c10",
+      "a": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "b": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAACamZmZmZnpPwAAAAAAAABAMzMzMzMz8z8AAAAAAAAAQJqZmZmZmQlAAAAAAAAAAEBmZmZmZmYGQAAAAAAAABBA",
+        "shape": "3, 3"
+      },
+      "aaxis": {
+        "smoothing": 1
+      },
+      "baxis": {
+        "smoothing": 1
+      },
+      "xaxis": "x2",
+      "yaxis": "y5"
+    }
+  ],
+  "layout": {
+    "title": {
+      "text": "Less than constraint with z = -2 in the middle"
+    },
+    "width": 600,
+    "height": 800,
+    "dragmode": "pan",
+    "margin": {
+      "t": 60,
+      "r": 30,
+      "b": 30,
+      "l": 30
+    },
+    "yaxis": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAABSuB6F61HIPw=="
+      }
+    },
+    "yaxis2": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "4XoUrkfhyj/2KFyPwvXYPw=="
+      }
+    },
+    "yaxis3": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "PQrXo3A92j/hehSuR+HiPw=="
+      }
+    },
+    "yaxis4": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "hetRuB6F4z9I4XoUrkfpPw=="
+      }
+    },
+    "yaxis5": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "7FG4HoXr6T8AAAAAAADwPw=="
+      }
+    },
+    "xaxis": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAABcj8L1KFzfPw=="
+      }
+    },
+    "xaxis2": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "UrgehetR4D8AAAAAAADwPw=="
+      }
+    },
+    "annotations": [
+      {
+        "x": 0,
+        "y": 4,
+        "align": "left",
+        "xref": "x",
+        "yref": "y",
+        "text": "z < -3:",
+        "showarrow": false,
+        "font": {
+          "size": 20
+        }
+      },
+      {
+        "x": 0,
+        "align": "left",
+        "y": 4,
+        "xref": "x",
+        "yref": "y2",
+        "text": "z < -1:",
+        "showarrow": false,
+        "font": {
+          "size": 20
+        }
+      },
+      {
+        "x": 0,
+        "y": 4,
+        "align": "left",
+        "xref": "x",
+        "yref": "y3",
+        "text": "z < 1:",
+        "showarrow": false,
+        "font": {
+          "size": 20
+        }
+      },
+      {
+        "x": 0,
+        "y": 4,
+        "align": "left",
+        "xref": "x",
+        "yref": "y4",
+        "text": "z < 3:",
+        "showarrow": false,
+        "font": {
+          "size": 20
+        }
+      },
+      {
+        "x": 0,
+        "y": 4,
+        "align": "left",
+        "xref": "x",
+        "yref": "y5",
+        "text": "z < 5:",
+        "showarrow": false,
+        "font": {
+          "size": 20
+        }
+      }
+    ]
+  }
+}

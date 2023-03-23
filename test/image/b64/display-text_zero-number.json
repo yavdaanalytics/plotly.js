@@ -1,0 +1,188 @@
+{
+  "data": [
+    {
+      "name": "pie",
+      "type": "pie",
+      "labels": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "values": {
+        "dtype": "i1",
+        "bdata": "BwYFBAMCAQ=="
+      },
+      "text": [
+        null,
+        "",
+        "0",
+        0,
+        1,
+        true,
+        false
+      ],
+      "textinfo": "label+text+value",
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAAAAC4HoXrUbjePw=="
+        },
+        "y": {
+          "dtype": "f8",
+          "bdata": "pHA9Ctej4D8AAAAAAADwPw=="
+        }
+      }
+    },
+    {
+      "name": "sunburst",
+      "type": "sunburst",
+      "parents": [
+        "",
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "labels": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "values": {
+        "dtype": "i1",
+        "bdata": "BwYFBAMCAQ=="
+      },
+      "text": [
+        null,
+        "",
+        "0",
+        0,
+        1,
+        true,
+        false
+      ],
+      "textinfo": "label+text+value",
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "pHA9Ctej4D8AAAAAAADwPw=="
+        },
+        "y": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAAAAC4HoXrUbjePw=="
+        }
+      }
+    },
+    {
+      "name": "funnel",
+      "type": "funnel",
+      "y": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "x": {
+        "dtype": "i1",
+        "bdata": "BwYFBAMCAQ=="
+      },
+      "text": [
+        null,
+        "",
+        "0",
+        0,
+        1,
+        true,
+        false
+      ],
+      "textinfo": "label+text+value"
+    },
+    {
+      "name": "waterfall",
+      "type": "waterfall",
+      "x": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "y": [
+        5,
+        -4,
+        3,
+        -2,
+        1,
+        null,
+        3.14
+      ],
+      "measure": [
+        "r",
+        "r",
+        "r",
+        "r",
+        "r",
+        "t",
+        "a"
+      ],
+      "text": [
+        null,
+        "",
+        "0",
+        0,
+        1,
+        true,
+        false
+      ],
+      "textinfo": "label+text+final",
+      "xaxis": "x2",
+      "yaxis": "y2"
+    }
+  ],
+  "layout": {
+    "width": 800,
+    "height": 800,
+    "dragmode": "pan",
+    "xaxis": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAAC4HoXrUbjePw=="
+      }
+    },
+    "xaxis2": {
+      "anchor": "y2",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "pHA9Ctej4D8AAAAAAADwPw=="
+      }
+    },
+    "yaxis": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAAC4HoXrUbjePw=="
+      }
+    },
+    "yaxis2": {
+      "anchor": "x2",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "pHA9Ctej4D8AAAAAAADwPw=="
+      }
+    }
+  }
+}

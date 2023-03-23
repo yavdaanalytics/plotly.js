@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "type": "carpet",
+      "a": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAACN7bWg98agPo3ttaD3xrA+"
+      },
+      "b": {
+        "dtype": "i4",
+        "bdata": "AAAAACChBwBAQg8A"
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAA8D+YwK27eSr1P7yWkA96tvs/mMCtu3kq9T94l4v4Tkz5PyR/MPDc+/4/vJaQD3q2+z8kfzDw3Pv+P2wm32xz4wFA",
+        "shape": "3, 3"
+      },
+      "aaxis": {
+        "minorgridcount": 3,
+        "gridcolor": "black",
+        "minorgridcolor": "red",
+        "griddash": "dot",
+        "minorgriddash": "dash"
+      },
+      "baxis": {
+        "labelalias": {
+          "0": "ZERO<sup>2</sup>"
+        },
+        "minorgridcount": 3,
+        "gridcolor": "black",
+        "minorgridcolor": "red",
+        "griddash": "dash",
+        "minorgriddash": "dot"
+      }
+    }
+  ],
+  "layout": {
+    "width": 500,
+    "height": 500,
+    "margin": {
+      "t": 40,
+      "r": 20,
+      "b": 40,
+      "l": 40
+    },
+    "dragmode": "pan"
+  }
+}

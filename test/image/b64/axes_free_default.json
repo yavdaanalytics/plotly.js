@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQI="
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AQI="
+      }
+    }
+  ],
+  "layout": {
+    "xaxis": {
+      "anchor": "free",
+      "side": "top"
+    },
+    "yaxis": {
+      "anchor": "free",
+      "side": "right"
+    },
+    "width": 400,
+    "height": 400
+  }
+}

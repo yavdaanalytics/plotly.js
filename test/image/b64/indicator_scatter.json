@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "domain": {
+        "y": {
+          "dtype": "i1",
+          "bdata": "AAE="
+        },
+        "x": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAA0D8AAAAAAADoPw=="
+        }
+      },
+      "title": {
+        "text": "Users online"
+      },
+      "type": "indicator",
+      "mode": "number+delta",
+      "delta": {
+        "reference": 512,
+        "valueformat": ".0f"
+      },
+      "value": 492
+    },
+    {
+      "name": "Users online",
+      "y": {
+        "dtype": "i2",
+        "bdata": "RQFEAZUBkAGoAZQBoQGwAaMBigGaAaoBnQGjAZQBmAGRAXkBcAFpAWQBZwF3AY0BigGiAbUBwgGuAboBqAG7AaQBogGnAacBqgG4AbUBtAG/AcwB3gHYAcIByAG0AaIBrQGcAa0BugHQAb8BsgHJAdoB4AHzAfEB4AH2AQAC7AE="
+      },
+      "marker": {
+        "color": "rgba(255, 255, 255, 0.5)"
+      }
+    }
+  ],
+  "layout": {
+    "width": 400,
+    "height": 300,
+    "xaxis": {
+      "autorange": false,
+      "range": [
+        0,
+        62
+      ],
+      "visible": false
+    },
+    "yaxis": {
+      "visible": false
+    },
+    "font": {
+      "color": "white",
+      "family": "Raleway"
+    },
+    "paper_bgcolor": "black",
+    "plot_bgcolor": "black",
+    "margin": {
+      "t": 25,
+      "r": 25,
+      "l": 25,
+      "b": 25
+    },
+    "autosize": true
+  },
+  "config": {
+    "responsive": true
+  }
+}

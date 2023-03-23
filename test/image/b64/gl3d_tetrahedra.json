@@ -1,0 +1,180 @@
+{
+  "data": [
+    {
+      "type": "mesh3d",
+      "name": "colorscale + intensity",
+      "x": {
+        "dtype": "i1",
+        "bdata": "AAECAA=="
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AAABAg=="
+      },
+      "z": {
+        "dtype": "i1",
+        "bdata": "AAIAAQ=="
+      },
+      "i": {
+        "dtype": "i1",
+        "bdata": "AAAAAQ=="
+      },
+      "j": {
+        "dtype": "i1",
+        "bdata": "AQIDAg=="
+      },
+      "k": {
+        "dtype": "i1",
+        "bdata": "AgMBAw=="
+      },
+      "colorscale": [
+        [
+          0,
+          "rgb(0, 0, 0)"
+        ],
+        [
+          0.33,
+          "rgb(255, 0, 0)"
+        ],
+        [
+          0.66,
+          "rgb(0, 255, 0)"
+        ],
+        [
+          1,
+          "rgb(0, 0, 255)"
+        ]
+      ],
+      "intensity": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAAAfhetRuB7VPx+F61G4HuU/AAAAAAAA8D8="
+      },
+      "cmin": -0.5,
+      "cmax": 0.5,
+      "colorbar": {
+        "x": 0,
+        "title": {
+          "text": "for colorscale + intensity tetrahedra",
+          "side": "right"
+        }
+      }
+    },
+    {
+      "type": "mesh3d",
+      "name": "facecolor",
+      "x": {
+        "dtype": "i1",
+        "bdata": "AwQFAw=="
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AAABAg=="
+      },
+      "z": {
+        "dtype": "i1",
+        "bdata": "AAIAAQ=="
+      },
+      "i": {
+        "dtype": "i1",
+        "bdata": "AAAAAQ=="
+      },
+      "j": {
+        "dtype": "i1",
+        "bdata": "AQIDAg=="
+      },
+      "k": {
+        "dtype": "i1",
+        "bdata": "AgMBAw=="
+      },
+      "facecolor": [
+        "rgb(0, 0, 0)",
+        "rgb(255, 0, 0)",
+        "rgb(0, 255, 0)",
+        "rgb(0, 0, 255)"
+      ]
+    },
+    {
+      "type": "mesh3d",
+      "name": "vertexcolor",
+      "x": {
+        "dtype": "i1",
+        "bdata": "BgcIBg=="
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AAABAg=="
+      },
+      "z": {
+        "dtype": "i1",
+        "bdata": "AAIAAQ=="
+      },
+      "i": {
+        "dtype": "i1",
+        "bdata": "AAAAAQ=="
+      },
+      "j": {
+        "dtype": "i1",
+        "bdata": "AQIDAg=="
+      },
+      "k": {
+        "dtype": "i1",
+        "bdata": "AgMBAw=="
+      },
+      "vertexcolor": [
+        "rgb(0, 0, 0)",
+        "rgb(255, 0, 0)",
+        "rgb(0, 255, 0)",
+        "rgb(0, 0, 255)"
+      ]
+    },
+    {
+      "type": "mesh3d",
+      "name": "color",
+      "x": {
+        "dtype": "i1",
+        "bdata": "CQoLCQ=="
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AAABAg=="
+      },
+      "z": {
+        "dtype": "i1",
+        "bdata": "AAIAAQ=="
+      },
+      "i": {
+        "dtype": "i1",
+        "bdata": "AAAAAQ=="
+      },
+      "j": {
+        "dtype": "i1",
+        "bdata": "AQIDAg=="
+      },
+      "k": {
+        "dtype": "i1",
+        "bdata": "AgMBAw=="
+      },
+      "color": "rgb(0, 255, 0)"
+    }
+  ],
+  "layout": {
+    "title": {
+      "text": "Tetrahedra"
+    },
+    "scene": {
+      "aspectratio": {
+        "x": 5,
+        "y": 1,
+        "z": 1
+      },
+      "camera": {
+        "eye": {
+          "x": 0,
+          "y": -3,
+          "z": 1.8
+        }
+      }
+    },
+    "width": 1000
+  }
+}

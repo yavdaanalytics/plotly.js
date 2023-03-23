@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "values": {
+        "dtype": "i1",
+        "bdata": "AQIDBAU="
+      },
+      "type": "pie"
+    }
+  ],
+  "layout": {
+    "height": 300,
+    "width": 400
+  }
+}

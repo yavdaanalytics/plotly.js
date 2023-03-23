@@ -1,0 +1,70 @@
+{
+  "data": [
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AAEC"
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "CgsM"
+      },
+      "type": "scatter"
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AgME"
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "ZG54"
+      },
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "type": "scatter"
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AwQF"
+      },
+      "y": {
+        "dtype": "i2",
+        "bdata": "6ANMBLAE"
+      },
+      "xaxis": "x3",
+      "yaxis": "y3",
+      "type": "scatter"
+    }
+  ],
+  "layout": {
+    "yaxis": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAACgGi/dJAbRPw=="
+      }
+    },
+    "legend": {
+      "traceorder": "reversed"
+    },
+    "xaxis3": {
+      "anchor": "y3"
+    },
+    "xaxis2": {
+      "anchor": "y2"
+    },
+    "yaxis2": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "BoGVQ4ts1z+oxks3iUHkPw=="
+      }
+    },
+    "yaxis3": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "2/l+arx05z8AAAAAAADwPw=="
+      }
+    }
+  }
+}

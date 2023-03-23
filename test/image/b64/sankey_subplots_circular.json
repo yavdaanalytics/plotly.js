@@ -1,0 +1,113 @@
+{
+  "data": [
+    {
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAAAADNzMzMzMzcPw=="
+        }
+      },
+      "type": "sankey",
+      "orientation": "h",
+      "node": {
+        "line": {
+          "color": "black",
+          "width": 1
+        },
+        "label": [
+          "el1",
+          "el2",
+          "el3"
+        ]
+      },
+      "link": {
+        "source": {
+          "dtype": "i1",
+          "bdata": "AAIB"
+        },
+        "target": {
+          "dtype": "i1",
+          "bdata": "AQEC"
+        },
+        "value": {
+          "dtype": "i1",
+          "bdata": "eDIe"
+        },
+        "color": "purple",
+        "label": [
+          "stram1",
+          "stream2",
+          "stream3"
+        ],
+        "line": {
+          "color": "black",
+          "width": 1
+        }
+      }
+    },
+    {
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "mpmZmZmZ4T8AAAAAAADwPw=="
+        }
+      },
+      "type": "sankey",
+      "orientation": "v",
+      "node": {
+        "line": {
+          "color": "black",
+          "width": 1
+        },
+        "label": [
+          "el4",
+          "el5",
+          "el6",
+          "el7",
+          "el8"
+        ]
+      },
+      "link": {
+        "source": {
+          "dtype": "i1",
+          "bdata": "AAIBAwQB"
+        },
+        "target": {
+          "dtype": "i1",
+          "bdata": "AQECAgIE"
+        },
+        "value": {
+          "dtype": "i1",
+          "bdata": "eDIeRhkK"
+        },
+        "color": "rgba(0, 0, 0, 0.1)",
+        "label": [
+          "stram4",
+          "stream5",
+          "stream6",
+          "stream7",
+          "stream8",
+          "stream9"
+        ],
+        "line": {
+          "color": "black",
+          "width": 1
+        }
+      }
+    }
+  ],
+  "layout": {
+    "title": {
+      "text": "Multiple Sankey plots with circular links"
+    },
+    "width": 800,
+    "height": 300,
+    "margin": {
+      "t": 50,
+      "l": 10,
+      "r": 10,
+      "b": 10
+    },
+    "showlegend": false
+  }
+}

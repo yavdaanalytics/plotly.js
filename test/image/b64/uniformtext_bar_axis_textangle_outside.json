@@ -1,0 +1,157 @@
+{
+  "data": [
+    {
+      "type": "bar",
+      "orientation": "v",
+      "x": [
+        "A",
+        "B",
+        "C"
+      ],
+      "y": {
+        "dtype": "i1",
+        "bdata": "AwIB"
+      },
+      "text": [
+        "()",
+        "void main()",
+        "public static void main()"
+      ],
+      "textposition": "outside",
+      "cliponaxis": false,
+      "textangle": -15
+    },
+    {
+      "type": "bar",
+      "orientation": "v",
+      "x": [
+        "A",
+        "B",
+        "C"
+      ],
+      "y": {
+        "dtype": "i2",
+        "bdata": "LAHIAGQA"
+      },
+      "text": [
+        "()",
+        "void main()",
+        "public static void main()"
+      ],
+      "textposition": "outside",
+      "cliponaxis": false,
+      "textangle": 135,
+      "xaxis": "x2",
+      "yaxis": "y2"
+    },
+    {
+      "type": "bar",
+      "orientation": "h",
+      "x": {
+        "dtype": "i2",
+        "bdata": "MHUgThAn"
+      },
+      "y": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "()",
+        "void main()",
+        "public static void main()"
+      ],
+      "textposition": "outside",
+      "cliponaxis": false,
+      "textangle": 30,
+      "xaxis": "x3",
+      "yaxis": "y3"
+    },
+    {
+      "type": "bar",
+      "orientation": "h",
+      "x": {
+        "dtype": "i4",
+        "bdata": "QEIPAICEHgDAxi0A"
+      },
+      "y": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "()",
+        "void main()",
+        "public static void main()"
+      ],
+      "textposition": "outside",
+      "cliponaxis": false,
+      "textangle": -90,
+      "xaxis": "x4",
+      "yaxis": "y4"
+    }
+  ],
+  "layout": {
+    "uniformtext": {
+      "mode": "hide",
+      "minsize": 10
+    },
+    "width": 800,
+    "height": 800,
+    "dragmode": "pan",
+    "xaxis": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAAC4HoXrUbjePw=="
+      }
+    },
+    "xaxis2": {
+      "anchor": "y2",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "pHA9Ctej4D8AAAAAAADwPw=="
+      }
+    },
+    "xaxis3": {
+      "anchor": "y3",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAAC4HoXrUbjePw=="
+      }
+    },
+    "xaxis4": {
+      "anchor": "y4",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "pHA9Ctej4D8AAAAAAADwPw=="
+      }
+    },
+    "yaxis": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAAC4HoXrUbjePw=="
+      }
+    },
+    "yaxis2": {
+      "anchor": "x2",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "pHA9Ctej4D8AAAAAAADwPw=="
+      }
+    },
+    "yaxis3": {
+      "anchor": "x3",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "pHA9Ctej4D8AAAAAAADwPw=="
+      }
+    },
+    "yaxis4": {
+      "anchor": "x4",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAAC4HoXrUbjePw=="
+      }
+    }
+  }
+}

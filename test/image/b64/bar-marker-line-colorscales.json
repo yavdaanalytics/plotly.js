@@ -1,0 +1,61 @@
+{
+  "data": [
+    {
+      "texttemplate": "%{x}",
+      "marker": {
+        "color": {
+          "dtype": "i1",
+          "bdata": "AAECAwQFBgcICQoLDA0ODxAREhMUFRYXGBkaGxwdHh8gISIjJCUmJw=="
+        },
+        "colorscale": "Earth",
+        "line": {
+          "width": 4,
+          "color": {
+            "dtype": "i1",
+            "bdata": "JyYlJCMiISAfHh0cGxoZGBcWFRQTEhEQDw4NDAsKCQgHBgUEAwIBAA=="
+          },
+          "colorscale": "Greens",
+          "cmin": 0,
+          "cmax": 39
+        },
+        "colorbar": {
+          "title": {
+            "text": "WOW"
+          }
+        },
+        "cmin": 0,
+        "cmax": 39
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AAECAwQFBgcICQoLDA0ODxAREhMUFRYXGBkaGxwdHh8gISIjJCUmJw=="
+      },
+      "type": "bar"
+    }
+  ],
+  "layout": {
+    "title": {
+      "text": "bar trace with colorscales for both marker color and marker line color"
+    },
+    "xaxis": {
+      "type": "linear",
+      "range": [
+        -0.5,
+        39.5
+      ],
+      "autorange": true
+    },
+    "yaxis": {
+      "type": "linear",
+      "range": [
+        0,
+        41.05263157894737
+      ],
+      "autorange": true
+    },
+    "height": 598,
+    "width": 1080,
+    "autosize": true,
+    "showlegend": false
+  }
+}

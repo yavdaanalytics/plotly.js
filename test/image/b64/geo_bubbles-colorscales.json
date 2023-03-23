@@ -1,0 +1,50 @@
+{
+  "data": [
+    {
+      "type": "scattergeo",
+      "mode": "markers",
+      "lon": {
+        "dtype": "i2",
+        "bdata": "TP9V/17/Z/9w/3n/gv+L/5T/nf+m/6//uP/B/8r/0//c/+X/7v/3/wAACQASABsAJAAtADYAPwBIAFEAWgBjAGwAdQB+AIcAkACZAKIAqwA="
+      },
+      "lat": {
+        "dtype": "i1",
+        "bdata": "BQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQ=="
+      },
+      "marker": {
+        "color": {
+          "dtype": "i1",
+          "bdata": "AAECAwQFBgcICQoLDA0ODxAREhMUFRYXGBkaGxwdHh8gISIjJCUmJw=="
+        },
+        "colorscale": "Greens",
+        "size": {
+          "dtype": "i1",
+          "bdata": "AAECAwQFBgcICQoLDA0ODxAREhMUFRYXGBkaGxwdHh8gISIjJCUmJw=="
+        },
+        "sizemin": 5,
+        "sizemode": "area",
+        "line": {
+          "color": {
+            "dtype": "i1",
+            "bdata": "JyYlJCMiISAfHh0cGxoZGBcWFRQTEhEQDw4NDAsKCQgHBgUEAwIBAA=="
+          },
+          "colorscale": "Blues",
+          "width": {
+            "dtype": "f8",
+            "bdata": "AAAAAAAAAAAAAAAAAADgPwAAAAAAAPA/AAAAAAAA+D8AAAAAAAAAQAAAAAAAAARAAAAAAAAACEAAAAAAAAAMQAAAAAAAABBAAAAAAAAAEkAAAAAAAAAUQAAAAAAAABZAAAAAAAAAGEAAAAAAAAAaQAAAAAAAABxAAAAAAAAAHkAAAAAAAAAgQAAAAAAAACFAAAAAAAAAIkAAAAAAAAAjQAAAAAAAACRAAAAAAAAAJUAAAAAAAAAmQAAAAAAAACdAAAAAAAAAKEAAAAAAAAApQAAAAAAAACpAAAAAAAAAK0AAAAAAAAAsQAAAAAAAAC1AAAAAAAAALkAAAAAAAAAvQAAAAAAAADBAAAAAAACAMEAAAAAAAAAxQAAAAAAAgDFAAAAAAAAAMkAAAAAAAIAyQAAAAAAAADNAAAAAAACAM0A="
+          },
+          "cmin": 0,
+          "cmax": 39
+        },
+        "cmin": 0,
+        "cmax": 39
+      }
+    }
+  ],
+  "layout": {
+    "title": {
+      "text": "scattergeo trace with colorscales for both marker color and marker line color"
+    },
+    "showlegend": true
+  }
+}

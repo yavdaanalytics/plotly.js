@@ -1,0 +1,105 @@
+{
+  "data": [
+    {
+      "name": "ohlc",
+      "type": "ohlc",
+      "open": {
+        "dtype": "i1",
+        "bdata": "CgsMDQwNDg8Q"
+      },
+      "high": {
+        "dtype": "i1",
+        "bdata": "DxAREhESExQV"
+      },
+      "low": {
+        "dtype": "i1",
+        "bdata": "BwgJCgkKCwwN"
+      },
+      "close": {
+        "dtype": "i1",
+        "bdata": "CQoMDQ0MDg4R"
+      },
+      "x": [
+        [
+          "Group 1",
+          "Group 1",
+          "Group 1",
+          "Group 2",
+          "Group 2",
+          "Group 2",
+          "Group 3",
+          "Group 3",
+          "Group 3"
+        ],
+        [
+          "a",
+          "b",
+          "c",
+          "a",
+          "b",
+          "c",
+          "a",
+          "b",
+          "c"
+        ]
+      ]
+    },
+    {
+      "name": "candlestick",
+      "type": "candlestick",
+      "open": {
+        "dtype": "i1",
+        "bdata": "FBUWFxYXGBka"
+      },
+      "high": {
+        "dtype": "i1",
+        "bdata": "GRobHBscHR4f"
+      },
+      "low": {
+        "dtype": "i1",
+        "bdata": "ERITFBMUFRYX"
+      },
+      "close": {
+        "dtype": "i1",
+        "bdata": "ExQWFxcWGBgb"
+      },
+      "x": [
+        [
+          "Group 1",
+          "Group 1",
+          "Group 1",
+          "Group 2",
+          "Group 2",
+          "Group 2",
+          "Group 3",
+          "Group 3",
+          "Group 3"
+        ],
+        [
+          "a",
+          "b",
+          "c",
+          "a",
+          "b",
+          "c",
+          "a",
+          "b",
+          "c"
+        ]
+      ]
+    }
+  ],
+  "layout": {
+    "title": {
+      "text": "Finance traces on multicategory x-axis",
+      "xref": "paper",
+      "x": 0
+    },
+    "legend": {
+      "x": 1,
+      "xanchor": "right",
+      "y": 1,
+      "yanchor": "bottom"
+    }
+  }
+}

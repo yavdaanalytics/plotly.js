@@ -1,0 +1,154 @@
+{
+  "data": [
+    {
+      "name": "bar A",
+      "type": "bar",
+      "y": [
+        "2",
+        "3",
+        "5",
+        "4",
+        "1"
+      ]
+    },
+    {
+      "name": "bar B",
+      "type": "bar",
+      "visible": "legendonly",
+      "y": [
+        "3",
+        "5",
+        "7",
+        "6",
+        "8"
+      ]
+    },
+    {
+      "name": "bar C",
+      "type": "bar",
+      "y": [
+        "2",
+        "4",
+        "6",
+        "3",
+        "8"
+      ]
+    },
+    {
+      "name": "line A",
+      "yaxis": "y2",
+      "y": [
+        "2",
+        "3",
+        "5",
+        "4",
+        "1"
+      ]
+    },
+    {
+      "name": "line B",
+      "yaxis": "y2",
+      "visible": "legendonly",
+      "y": [
+        "3",
+        "5",
+        "7",
+        "6",
+        "8"
+      ]
+    },
+    {
+      "name": "line C",
+      "yaxis": "y2",
+      "y": [
+        "2",
+        "4",
+        "6",
+        "3",
+        "8"
+      ]
+    },
+    {
+      "name": "box A",
+      "type": "box",
+      "xaxis": "x2",
+      "yaxis": "y3",
+      "y": {
+        "dtype": "i1",
+        "bdata": "AQIDBAUGBwgJ"
+      }
+    },
+    {
+      "name": "box B",
+      "type": "box",
+      "xaxis": "x2",
+      "yaxis": "y3",
+      "visible": "legendonly",
+      "y": {
+        "dtype": "i1",
+        "bdata": "AgMDBAQEBQUG"
+      }
+    },
+    {
+      "name": "box C",
+      "type": "box",
+      "xaxis": "x2",
+      "yaxis": "y3",
+      "y": {
+        "dtype": "i1",
+        "bdata": "AQQGBwcICAgJ"
+      }
+    },
+    {
+      "name": "marker A",
+      "mode": "markers",
+      "visible": "legendonly",
+      "y": {
+        "dtype": "i1",
+        "bdata": "AQQGAwIICAgE"
+      },
+      "yaxis": "y2",
+      "marker": {
+        "size": 15,
+        "symbol": [
+          "square",
+          "square",
+          "square",
+          "square",
+          "square",
+          "square",
+          "square",
+          "square",
+          "square"
+        ]
+      }
+    }
+  ],
+  "layout": {
+    "showlegend": true,
+    "height": 400,
+    "width": 600,
+    "barnorm": "fraction",
+    "barmode": "stack",
+    "xaxis": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAADNzMzMzMzcPw=="
+      }
+    },
+    "xaxis2": {
+      "anchor": "y3",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "mpmZmZmZ4T8AAAAAAADwPw=="
+      }
+    },
+    "yaxis2": {
+      "overlaying": "y",
+      "side": "right"
+    },
+    "yaxis3": {
+      "anchor": "x2"
+    }
+  }
+}

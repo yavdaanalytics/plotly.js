@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "BAUG"
+      },
+      "name": "yaxis1 data",
+      "type": "scatter"
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AgME"
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "KDI8"
+      },
+      "name": "yaxis2 data",
+      "yaxis": "y2",
+      "type": "scatter"
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AwQF"
+      },
+      "y": {
+        "dtype": "i2",
+        "bdata": "kAH0AVgC"
+      },
+      "name": "yaxis3 data",
+      "yaxis": "y3",
+      "type": "scatter"
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "BAUG"
+      },
+      "y": {
+        "dtype": "i2",
+        "bdata": "6APQB7gL"
+      },
+      "name": "yaxis4 data",
+      "yaxis": "y4",
+      "type": "scatter"
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AwQF"
+      },
+      "y": {
+        "dtype": "i2",
+        "bdata": "kAH0AVgC"
+      },
+      "name": "yaxis5 data",
+      "yaxis": "y5",
+      "type": "scatter"
+    }
+  ],
+  "layout": {
+    "title": {
+      "text": "multiple y-axes example - manual shift"
+    },
+    "width": 800,
+    "xaxis": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAA0D8AAAAAAADoPw=="
+      }
+    },
+    "yaxis": {
+      "showline": true,
+      "title": {
+        "text": "yaxis title"
+      }
+    },
+    "yaxis2": {
+      "title": {
+        "text": "yaxis2 title"
+      },
+      "overlaying": "y",
+      "showline": true,
+      "side": "right"
+    },
+    "yaxis3": {
+      "title": {
+        "text": "yaxis3 title"
+      },
+      "anchor": "free",
+      "overlaying": "y",
+      "showline": true,
+      "autoshift": true,
+      "shift": -25
+    },
+    "yaxis4": {
+      "title": {
+        "text": "yaxis4 title"
+      },
+      "anchor": "free",
+      "overlaying": "y",
+      "showline": true,
+      "autoshift": true
+    },
+    "yaxis5": {
+      "title": {
+        "text": "yaxis5 title"
+      },
+      "anchor": "free",
+      "overlaying": "y",
+      "position": 0.8,
+      "shift": 100,
+      "showline": true,
+      "side": "left"
+    }
+  }
+}

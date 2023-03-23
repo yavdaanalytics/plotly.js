@@ -1,0 +1,73 @@
+{
+  "data": [
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAEEAAAAAAgIQeQQAAAACj4cFB"
+      },
+      "type": "bar"
+    },
+    {
+      "z": {
+        "dtype": "i1",
+        "bdata": "FB4oMjxG",
+        "shape": "2, 3"
+      },
+      "showscale": false,
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "type": "heatmap"
+    }
+  ],
+  "layout": {
+    "xaxis": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAADNzMzMzMzcPw=="
+      },
+      "range": [
+        1,
+        2
+      ],
+      "rangeslider": {},
+      "title": {
+        "text": "X"
+      },
+      "side": "top"
+    },
+    "xaxis2": {
+      "anchor": "y2",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "mpmZmZmZ4T8AAAAAAADwPw=="
+      },
+      "rangeslider": {
+        "range": [
+          -2,
+          4
+        ]
+      },
+      "title": {
+        "text": "X2"
+      }
+    },
+    "yaxis": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "MzMzMzMz0z+amZmZmZnpPw=="
+      },
+      "type": "log"
+    },
+    "yaxis2": {
+      "anchor": "x2",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAA4D8AAAAAAADwPw=="
+      }
+    }
+  }
+}

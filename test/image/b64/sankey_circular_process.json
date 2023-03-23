@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "type": "sankey",
+      "node": {
+        "line": {
+          "width": 1,
+          "color": "black"
+        },
+        "pad": 5,
+        "label": [
+          "startA",
+          "startB",
+          "process1",
+          "process2",
+          "process3",
+          "process4",
+          "process5",
+          "process6",
+          "process7",
+          "process8",
+          "process9",
+          "process10",
+          "process11",
+          "process12",
+          "process13",
+          "process14",
+          "process15",
+          "process16",
+          "finishA",
+          "finishB"
+        ]
+      },
+      "link": {
+        "line": {
+          "width": 1,
+          "color": "black"
+        },
+        "source": {
+          "dtype": "i1",
+          "bdata": "AAAAAQECBQMCBgcFBwUEBBAOCAkJEQkMBQ0IEAsLDwoRChAQDA=="
+        },
+        "target": {
+          "dtype": "i1",
+          "bdata": "CQYHAgYFAggEAgADCQEDAQ4KAQIRCgwLDQwQDw4RExIJExMSEA=="
+        },
+        "value": {
+          "dtype": "i1",
+          "bdata": "FBQUDw8eCiMUFAUFDwUPBQoKFAoKChkUCgoPCgoKCgoKCgoKGQ=="
+        }
+      }
+    }
+  ],
+  "layout": {
+    "title": {
+      "text": "Example process"
+    },
+    "margin": {
+      "t": 100,
+      "b": 0,
+      "l": 25,
+      "r": 25
+    },
+    "width": 1000,
+    "height": 800
+  }
+}

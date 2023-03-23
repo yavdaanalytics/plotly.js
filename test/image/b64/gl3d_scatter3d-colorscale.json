@@ -1,0 +1,41 @@
+{
+  "data": [
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQIDBAU="
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AQIDBAU="
+      },
+      "z": {
+        "dtype": "i1",
+        "bdata": "BQEEAgM="
+      },
+      "marker": {
+        "color": {
+          "dtype": "i1",
+          "bdata": "AgIDBAo="
+        },
+        "size": {
+          "dtype": "i1",
+          "bdata": "ChQeKDI="
+        },
+        "colorscale": "Greens",
+        "colorbar": {
+          "title": {
+            "text": "WOW"
+          }
+        }
+      },
+      "type": "scatter3d",
+      "mode": "markers"
+    }
+  ],
+  "layout": {
+    "title": {
+      "text": "scatter3d + colorbar = <3"
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "data": [
+    {
+      "type": "scattermapbox",
+      "name": "white-bg",
+      "lon": {
+        "dtype": "i1",
+        "bdata": "ChQ="
+      },
+      "lat": {
+        "dtype": "i1",
+        "bdata": "FAo="
+      }
+    }
+  ],
+  "layout": {
+    "width": 200,
+    "height": 200,
+    "margin": {
+      "t": 0,
+      "b": 0,
+      "l": 0,
+      "r": 0
+    },
+    "mapbox": {
+      "style": "white-bg"
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "data": [
+    {
+      "z": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAJEAAAAAAAEAlQAAAAAAAAClAAAAAAABAL0AAAAAAAAA0QAAAAAAAgBZAAAAAAAAAGUAAAAAAAEAgQAAAAAAAgCZAAAAAAABAL0AAAAAAAAAEQAAAAAAAAAlAAAAAAAAAFEAAAAAAAEAgQAAAAAAAAClAAAAAAAAA5D8AAAAAAAD0PwAAAAAAAAlAAAAAAAAAGUAAAAAAAEAlQAAAAAAAAAAAAAAAAAAA5D8AAAAAAAAEQAAAAAAAgBZAAAAAAAAAJEA=",
+        "shape": "5, 5"
+      },
+      "type": "contour",
+      "colorscale": "Jet",
+      "contours": {
+        "start": 2,
+        "end": 10,
+        "size": 1
+      },
+      "zmin": 0,
+      "zmax": 20
+    }
+  ],
+  "layout": {
+    "xaxis": {
+      "range": [
+        0,
+        4
+      ],
+      "autorange": true
+    },
+    "yaxis": {
+      "range": [
+        0,
+        4
+      ],
+      "autorange": true
+    },
+    "height": 450,
+    "width": 1000,
+    "autosize": true
+  }
+}

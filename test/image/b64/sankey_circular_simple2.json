@@ -1,0 +1,34 @@
+{
+  "data": [
+    {
+      "link": {
+        "source": {
+          "dtype": "i1",
+          "bdata": "AgIEAgMAAQA="
+        },
+        "target": {
+          "dtype": "i1",
+          "bdata": "AAQCAwIEAgE="
+        },
+        "value": {
+          "dtype": "i1",
+          "bdata": "AQEBAQEBAQE="
+        }
+      },
+      "node": {
+        "label": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ]
+      },
+      "type": "sankey"
+    }
+  ],
+  "layout": {
+    "width": 800,
+    "height": 800
+  }
+}

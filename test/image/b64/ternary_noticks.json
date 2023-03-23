@@ -1,0 +1,46 @@
+{
+  "data": [
+    {
+      "a": {
+        "dtype": "i1",
+        "bdata": "AgEB"
+      },
+      "b": {
+        "dtype": "i1",
+        "bdata": "AQIB"
+      },
+      "c": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAA8D8AAAAAAADwP5SHhVrT/ABA"
+      },
+      "type": "scatterternary"
+    }
+  ],
+  "layout": {
+    "ternary": {
+      "aaxis": {
+        "showticklabels": false,
+        "showline": false,
+        "title": {
+          "text": "no labels / no line"
+        }
+      },
+      "baxis": {
+        "ticks": "",
+        "showticklabels": false,
+        "title": {
+          "text": "no ticks / no labels"
+        }
+      },
+      "caxis": {
+        "showticklabels": false,
+        "showgrid": false,
+        "title": {
+          "text": "no grid / no labels"
+        }
+      }
+    },
+    "height": 450,
+    "width": 700
+  }
+}

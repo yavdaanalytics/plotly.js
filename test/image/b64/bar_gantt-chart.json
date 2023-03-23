@@ -1,0 +1,78 @@
+{
+  "data": [
+    {
+      "base": [
+        "2020-03-01",
+        "2020-03-05",
+        "2020-03-05",
+        "2020-03-01",
+        "2020-03-06",
+        "2020-03-01",
+        "2020-03-07",
+        "2020-03-08",
+        "2020-03-09"
+      ],
+      "orientation": "h",
+      "type": "bar",
+      "x": {
+        "dtype": "i4",
+        "bdata": "AHCZFAC4TAoAFHMPAMy/GQBcJgUAKOYeAEIGEgBcJgUAuEwK"
+      },
+      "marker": {
+        "colorscale": "Portland",
+        "color": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAA8D8AAAAAAAAAAAAAAAAAAPA/AAAAAAAAAAAAAAAAAAAAAM3MzMzMzOw/MzMzMzMz0z8AAAAAAADwPwAAAAAAAPA/"
+        }
+      },
+      "y": [
+        "Activity A",
+        "Activity B",
+        "Activity C",
+        "Activity D",
+        "Activity E",
+        "Activity F",
+        "Activity X",
+        "Activity Y",
+        "Activity Z"
+      ],
+      "text": [
+        "4 days",
+        "2 days",
+        "3 days",
+        "5 days",
+        "1 day",
+        "6 days",
+        "3\u00bd days",
+        "1 day",
+        "2 days"
+      ],
+      "textfont": {
+        "size": 16
+      },
+      "textposition": "inside",
+      "insidetextanchor": "middle",
+      "hovertemplate": "%{y}<br>start: %{base}<br>duration: %{text}<br>end: %{x}"
+    }
+  ],
+  "layout": {
+    "width": 1000,
+    "height": 500,
+    "title": {
+      "text": "Gantt chart using Plotly.js bar"
+    },
+    "xaxis": {
+      "gridwidth": 5,
+      "tickwidth": 5,
+      "ticklen": 10,
+      "type": "date"
+    },
+    "yaxis": {
+      "tickfont": {
+        "family": "Times New Roman",
+        "size": 16
+      },
+      "autorange": "reversed"
+    }
+  }
+}

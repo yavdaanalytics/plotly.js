@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "labels": [
+        "Apples",
+        "Apples",
+        "Bananas",
+        "Oranges",
+        "Pears",
+        "Pears",
+        "Apples",
+        "Pears"
+      ],
+      "type": "pie",
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAAAACamZmZmZnZPw=="
+        }
+      }
+    },
+    {
+      "labels": [
+        "Apples",
+        "Apples",
+        "Bananas",
+        "Oranges",
+        "Pears",
+        "Pears",
+        "Apples",
+        "Pears"
+      ],
+      "values": {
+        "dtype": "i1",
+        "bdata": "CuwUKArsRgU="
+      },
+      "marker": {
+        "colors": [
+          "",
+          "",
+          "#ccc"
+        ]
+      },
+      "type": "pie",
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAA4D8AAAAAAADwPw=="
+        }
+      },
+      "textinfo": "label+value+percent"
+    }
+  ],
+  "layout": {
+    "height": 300,
+    "width": 500
+  }
+}

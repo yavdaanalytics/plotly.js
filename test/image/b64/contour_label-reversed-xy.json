@@ -1,0 +1,218 @@
+{
+  "data": [
+    {
+      "type": "contour",
+      "name": "\u25b2 x \u25b2 y",
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQIDBA=="
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AQIDBA=="
+      },
+      "z": {
+        "dtype": "i1",
+        "bdata": "AQIDBAECAwQCAwQFBAUGBw==",
+        "shape": "4, 4"
+      },
+      "contours": {
+        "showlabels": true
+      },
+      "showscale": false
+    },
+    {
+      "type": "contour",
+      "name": "\u25bc x \u25b2 y",
+      "x": {
+        "dtype": "i1",
+        "bdata": "BAMCAQ=="
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AQIDBA=="
+      },
+      "z": {
+        "dtype": "i1",
+        "bdata": "AQIDBAECAwQCAwQFBAUGBw==",
+        "shape": "4, 4"
+      },
+      "contours": {
+        "showlabels": true
+      },
+      "showscale": false,
+      "xaxis": "x2",
+      "yaxis": "y2"
+    },
+    {
+      "type": "contour",
+      "name": "\u25b2 x \u25bc y",
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQIDBA=="
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "BAMCAQ=="
+      },
+      "z": {
+        "dtype": "i1",
+        "bdata": "AQIDBAECAwQCAwQFBAUGBw==",
+        "shape": "4, 4"
+      },
+      "contours": {
+        "showlabels": true
+      },
+      "showscale": false,
+      "xaxis": "x3",
+      "yaxis": "y3"
+    },
+    {
+      "type": "contour",
+      "name": "\u25bc x \u25bc y",
+      "x": {
+        "dtype": "i1",
+        "bdata": "BAMCAQ=="
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "BAMCAQ=="
+      },
+      "z": {
+        "dtype": "i1",
+        "bdata": "AQIDBAECAwQCAwQFBAUGBw==",
+        "shape": "4, 4"
+      },
+      "contours": {
+        "showlabels": true
+      },
+      "showscale": false,
+      "xaxis": "x4",
+      "yaxis": "y4"
+    },
+    {
+      "type": "contour",
+      "name": "\u25b2 x \u25b2 y (dup)",
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQIDBA=="
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AQIDBA=="
+      },
+      "z": {
+        "dtype": "i1",
+        "bdata": "AQIDBAECAwQCAwQFBAUGBw==",
+        "shape": "4, 4"
+      },
+      "contours": {
+        "showlabels": true
+      },
+      "showscale": false,
+      "xaxis": "x5",
+      "yaxis": "y5"
+    },
+    {
+      "type": "contour",
+      "name": "\u25bc x (reversed rng) \u25b2 y",
+      "x": {
+        "dtype": "i1",
+        "bdata": "BAMCAQ=="
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AQIDBA=="
+      },
+      "z": {
+        "dtype": "i1",
+        "bdata": "AQIDBAECAwQCAwQFBAUGBw==",
+        "shape": "4, 4"
+      },
+      "contours": {
+        "showlabels": true
+      },
+      "showscale": false,
+      "xaxis": "x6",
+      "yaxis": "y6"
+    },
+    {
+      "type": "contour",
+      "name": "\u25b2 x \u25bc y (reversed rng)",
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQIDBA=="
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "BAMCAQ=="
+      },
+      "z": {
+        "dtype": "i1",
+        "bdata": "AQIDBAECAwQCAwQFBAUGBw==",
+        "shape": "4, 4"
+      },
+      "contours": {
+        "showlabels": true
+      },
+      "showscale": false,
+      "xaxis": "x7",
+      "yaxis": "y7"
+    },
+    {
+      "type": "contour",
+      "name": "\u25bc x (reversed rng) \u25bc y (reversed rng)",
+      "x": {
+        "dtype": "i1",
+        "bdata": "BAMCAQ=="
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "BAMCAQ=="
+      },
+      "z": {
+        "dtype": "i1",
+        "bdata": "AQIDBAECAwQCAwQFBAUGBw==",
+        "shape": "4, 4"
+      },
+      "contours": {
+        "showlabels": true
+      },
+      "showscale": false,
+      "xaxis": "x8",
+      "yaxis": "y8"
+    }
+  ],
+  "layout": {
+    "grid": {
+      "rows": 4,
+      "columns": 2,
+      "pattern": "independent"
+    },
+    "template": {
+      "data": {
+        "contour": [
+          {
+            "hoverlabel": {
+              "namelength": -1
+            }
+          }
+        ]
+      }
+    },
+    "xaxis6": {
+      "autorange": "reversed"
+    },
+    "yaxis7": {
+      "autorange": "reversed"
+    },
+    "xaxis8": {
+      "autorange": "reversed"
+    },
+    "yaxis8": {
+      "autorange": "reversed"
+    },
+    "width": 500,
+    "height": 800
+  }
+}

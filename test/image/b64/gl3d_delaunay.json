@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "type": "mesh3d",
+      "y": {
+        "dtype": "i1",
+        "bdata": "AAEC"
+      },
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQIA"
+      },
+      "z": {
+        "dtype": "i1",
+        "bdata": "AgAB"
+      },
+      "delaunayaxis": "x"
+    }
+  ],
+  "layout": {
+    "title": {
+      "text": "Delaunay axis"
+    }
+  }
+}

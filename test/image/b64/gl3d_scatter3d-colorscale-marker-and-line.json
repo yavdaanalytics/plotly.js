@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQIECBA="
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "//78+PA="
+      },
+      "z": {
+        "dtype": "i1",
+        "bdata": "AAEAAQA="
+      },
+      "type": "scatter3d",
+      "mode": "lines+markers",
+      "line": {
+        "color": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAAAAAAAAAAAADQPwAAAAAAAOA/AAAAAAAA6D8AAAAAAADwPw=="
+        },
+        "width": 10,
+        "colorscale": "Blues",
+        "colorbar": {
+          "len": 0.5,
+          "y": 1,
+          "yanchor": "top",
+          "ticklabelposition": "inside",
+          "title": {
+            "text": "line colorscale",
+            "side": "right"
+          }
+        }
+      },
+      "marker": {
+        "color": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAA8D8AAAAAAADoPwAAAAAAAOA/AAAAAAAA0D8AAAAAAAAAAA=="
+        },
+        "size": 10,
+        "colorscale": "Reds",
+        "colorbar": {
+          "len": 0.5,
+          "y": 0,
+          "yanchor": "bottom",
+          "ticklabelposition": "inside",
+          "title": {
+            "text": "marker colorscale",
+            "side": "right"
+          }
+        }
+      }
+    }
+  ],
+  "layout": {
+    "title": {
+      "text": "Scatter3d show line AND marker color scales"
+    },
+    "width": 600,
+    "height": 600
+  }
+}

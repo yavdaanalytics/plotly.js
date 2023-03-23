@@ -1,0 +1,170 @@
+{
+  "data": [
+    {
+      "width": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAA8D+amZmZmZnpPzMzMzMzM+M/mpmZmZmZ2T8="
+      },
+      "text": [
+        1,
+        -2,
+        3333333333,
+        4
+      ],
+      "textposition": "outside",
+      "y": {
+        "dtype": "i1",
+        "bdata": "Af4DBA=="
+      },
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQIDBA=="
+      },
+      "decreasing": {
+        "marker": {
+          "color": "Blue"
+        }
+      },
+      "increasing": {
+        "marker": {
+          "color": "Blue"
+        }
+      },
+      "totals": {
+        "marker": {
+          "color": "Blue"
+        }
+      },
+      "opacity": 0.5,
+      "connector": {
+        "visible": false
+      },
+      "type": "waterfall"
+    },
+    {
+      "width": {
+        "dtype": "f8",
+        "bdata": "mpmZmZmZ2T8zMzMzMzPjP5qZmZmZmek/AAAAAAAA8D8="
+      },
+      "text": [
+        "Three",
+        2,
+        "inside text",
+        0
+      ],
+      "textfont": {
+        "size": {
+          "dtype": "i1",
+          "bdata": "Cg=="
+        }
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "A/4B/w=="
+      },
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQIDBA=="
+      },
+      "decreasing": {
+        "marker": {
+          "color": "Orange"
+        }
+      },
+      "increasing": {
+        "marker": {
+          "color": "Orange"
+        }
+      },
+      "totals": {
+        "marker": {
+          "color": "Orange"
+        }
+      },
+      "opacity": 0.5,
+      "connector": {
+        "visible": false
+      },
+      "type": "waterfall"
+    },
+    {
+      "width": 1,
+      "text": {
+        "dtype": "i1",
+        "bdata": "/wP+/A=="
+      },
+      "textposition": "inside",
+      "y": {
+        "dtype": "i1",
+        "bdata": "/wP+/A=="
+      },
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQIDBA=="
+      },
+      "decreasing": {
+        "marker": {
+          "color": "Green"
+        }
+      },
+      "increasing": {
+        "marker": {
+          "color": "Green"
+        }
+      },
+      "totals": {
+        "marker": {
+          "color": "Green"
+        }
+      },
+      "opacity": 0.5,
+      "connector": {
+        "visible": false
+      },
+      "type": "waterfall"
+    },
+    {
+      "text": [
+        2,
+        "outside text",
+        -3,
+        -2
+      ],
+      "y": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAEAAAAAAAADQPwAAAAAAAAjAAAAAAAAAAMA="
+      },
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQIDBA=="
+      },
+      "decreasing": {
+        "marker": {
+          "color": "Red"
+        }
+      },
+      "increasing": {
+        "marker": {
+          "color": "Red"
+        }
+      },
+      "totals": {
+        "marker": {
+          "color": "Red"
+        }
+      },
+      "opacity": 0.5,
+      "connector": {
+        "visible": false
+      },
+      "type": "waterfall"
+    }
+  ],
+  "layout": {
+    "xaxis": {
+      "showgrid": true
+    },
+    "height": 800,
+    "width": 800
+  }
+}

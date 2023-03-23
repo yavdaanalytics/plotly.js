@@ -1,0 +1,27 @@
+{
+  "data": [
+    {
+      "colorbar": {
+        "ticktext": [
+          "cool",
+          "chillax",
+          "feisty"
+        ],
+        "tickvals": {
+          "dtype": "i1",
+          "bdata": "AwgN"
+        }
+      },
+      "z": {
+        "dtype": "i1",
+        "bdata": "AQMFBAcKBwsO",
+        "shape": "3, 3"
+      },
+      "type": "heatmap"
+    }
+  ],
+  "layout": {
+    "height": 300,
+    "width": 400
+  }
+}

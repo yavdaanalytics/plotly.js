@@ -1,0 +1,192 @@
+{
+  "data": [
+    {
+      "rotation": -360,
+      "values": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAEEAAAAAAAADwPwAAAAAAANA/"
+      },
+      "type": "pie",
+      "insidetextorientation": "horizontal",
+      "textposition": "auto",
+      "hole": 0.5,
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "mpmZmZmZqT8AAAAAAADQPw=="
+        },
+        "y": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAAAADNzMzMzMzcPw=="
+        }
+      }
+    },
+    {
+      "rotation": -360,
+      "values": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAEEAAAAAAAADwPwAAAAAAANA/"
+      },
+      "type": "pie",
+      "insidetextorientation": "horizontal",
+      "textposition": "auto",
+      "hole": 0.5,
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "MzMzMzMz0z8AAAAAAADgPw=="
+        },
+        "y": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAAAADNzMzMzMzcPw=="
+        }
+      }
+    },
+    {
+      "rotation": 180,
+      "values": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAEEAAAAAAAADwPwAAAAAAANA/"
+      },
+      "type": "pie",
+      "insidetextorientation": "horizontal",
+      "textposition": "auto",
+      "hole": 0.5,
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "mpmZmZmZqT8AAAAAAADQPw=="
+        },
+        "y": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAA4D9mZmZmZmbuPw=="
+        }
+      }
+    },
+    {
+      "rotation": 180,
+      "values": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAEEAAAAAAAADwPwAAAAAAANA/"
+      },
+      "type": "pie",
+      "insidetextorientation": "horizontal",
+      "textposition": "auto",
+      "hole": 0.5,
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "MzMzMzMz0z8AAAAAAADgPw=="
+        },
+        "y": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAA4D9mZmZmZmbuPw=="
+        }
+      }
+    },
+    {
+      "rotation": -270,
+      "values": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAEEAAAAAAAADwPwAAAAAAANA/"
+      },
+      "type": "pie",
+      "insidetextorientation": "horizontal",
+      "textposition": "auto",
+      "hole": 0.5,
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "mpmZmZmZ4T8AAAAAAADoPw=="
+        },
+        "y": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAAAADNzMzMzMzcPw=="
+        }
+      }
+    },
+    {
+      "rotation": -270,
+      "values": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAEEAAAAAAAADwPwAAAAAAANA/"
+      },
+      "type": "pie",
+      "insidetextorientation": "horizontal",
+      "textposition": "auto",
+      "hole": 0.5,
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "mpmZmZmZ6T8AAAAAAADwPw=="
+        },
+        "y": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAAAADNzMzMzMzcPw=="
+        }
+      }
+    },
+    {
+      "rotation": 270,
+      "values": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAEEAAAAAAAADwPwAAAAAAANA/"
+      },
+      "type": "pie",
+      "insidetextorientation": "horizontal",
+      "textposition": "auto",
+      "hole": 0.5,
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "mpmZmZmZ4T8AAAAAAADoPw=="
+        },
+        "y": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAA4D9mZmZmZmbuPw=="
+        }
+      }
+    },
+    {
+      "rotation": 270,
+      "values": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAEEAAAAAAAADwPwAAAAAAANA/"
+      },
+      "type": "pie",
+      "insidetextorientation": "horizontal",
+      "textposition": "auto",
+      "hole": 0.5,
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "mpmZmZmZ6T8AAAAAAADwPw=="
+        },
+        "y": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAA4D9mZmZmZmbuPw=="
+        }
+      }
+    }
+  ],
+  "layout": {
+    "width": 800,
+    "height": 500,
+    "margin": {
+      "t": 10,
+      "b": 10,
+      "l": 10,
+      "r": 10
+    },
+    "legend": {
+      "orientation": "h",
+      "title": {
+        "text": "pie uniform text<br>with <i>horizontal</i> orientation<br>minsize=8"
+      }
+    },
+    "uniformtext": {
+      "mode": "hide",
+      "minsize": 8
+    }
+  }
+}

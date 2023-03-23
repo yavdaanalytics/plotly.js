@@ -1,0 +1,123 @@
+{
+  "data": [
+    {
+      "type": "histogram",
+      "name": "sample A - <b>matched</b>",
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQIDAQECAwM="
+      },
+      "hoverlabel": {
+        "namelength": -1
+      }
+    },
+    {
+      "type": "histogram",
+      "name": "sample B - <b>matched</b>",
+      "x": {
+        "dtype": "f8",
+        "bdata": "zczMzMzMAEDNzMzMzMwAQDMzMzMzMwtAzczMzMzM9D+amZmZmZkBQM3MzMzMzABAmpmZmZmZCUBmZmZmZmYQQM3MzMzMzAhA"
+      },
+      "hoverlabel": {
+        "namelength": -1
+      },
+      "xaxis": "x2",
+      "yaxis": "y2"
+    },
+    {
+      "type": "histogram",
+      "name": "sample A - <b>not</b> on matching axes",
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQIDAQECAwM="
+      },
+      "hoverlabel": {
+        "namelength": -1
+      },
+      "xaxis": "x3",
+      "yaxis": "y3"
+    },
+    {
+      "type": "histogram",
+      "name": "sample B - <b>not</b> on matching axes",
+      "x": {
+        "dtype": "f8",
+        "bdata": "zczMzMzMAEDNzMzMzMwAQDMzMzMzMwtAzczMzMzM9D+amZmZmZkBQM3MzMzMzABAmpmZmZmZCUBmZmZmZmYQQM3MzMzMzAhA"
+      },
+      "hoverlabel": {
+        "namelength": -1
+      },
+      "xaxis": "x4",
+      "yaxis": "y4"
+    }
+  ],
+  "layout": {
+    "margin": {
+      "t": 20,
+      "b": 20
+    },
+    "showlegend": false,
+    "xaxis": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAACamZmZmZnZPw=="
+      }
+    },
+    "yaxis": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "zczMzMzM3D8AAAAAAADwPw=="
+      },
+      "title": {
+        "text": "Matched Axes"
+      }
+    },
+    "xaxis2": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "zczMzMzM3D8AAAAAAADwPw=="
+      },
+      "anchor": "y2",
+      "matches": "x"
+    },
+    "yaxis2": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "zczMzMzM3D8AAAAAAADwPw=="
+      },
+      "anchor": "x2",
+      "matches": "y"
+    },
+    "xaxis3": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAACamZmZmZnZPw=="
+      },
+      "anchor": "y3"
+    },
+    "yaxis3": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAACamZmZmZnZPw=="
+      },
+      "anchor": "x3",
+      "title": {
+        "text": "<b>NOT</b> Matched Axes"
+      }
+    },
+    "xaxis4": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "zczMzMzM3D8AAAAAAADwPw=="
+      },
+      "anchor": "y4"
+    },
+    "yaxis4": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAACamZmZmZnZPw=="
+      },
+      "anchor": "x4"
+    }
+  }
+}

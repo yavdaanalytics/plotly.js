@@ -1,0 +1,75 @@
+{
+  "data": [
+    {
+      "type": "scattergl",
+      "name": "scattergl",
+      "mode": "markers",
+      "text": "should be above splom",
+      "x": {
+        "dtype": "i1",
+        "bdata": "Ag=="
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "Ag=="
+      }
+    },
+    {
+      "type": "splom",
+      "name": "splom",
+      "dimensions": [
+        {
+          "values": {
+            "dtype": "i1",
+            "bdata": "AQID"
+          },
+          "label": "A"
+        },
+        {
+          "values": {
+            "dtype": "i1",
+            "bdata": "AgUG"
+          },
+          "label": "B"
+        }
+      ]
+    },
+    {
+      "name": "scatter",
+      "y": {
+        "dtype": "i1",
+        "bdata": "AQIB"
+      }
+    },
+    {
+      "type": "box",
+      "name": "box",
+      "x0": 0,
+      "y": {
+        "dtype": "i1",
+        "bdata": "AQICAgIDAwMDAwQEBg=="
+      },
+      "yaxis": "y2"
+    },
+    {
+      "type": "scattergl",
+      "name": "scattergl",
+      "y": {
+        "dtype": "i1",
+        "bdata": "AQIB"
+      },
+      "xaxis": "x2"
+    }
+  ],
+  "layout": {
+    "grid": {
+      "roworder": "bottom to top"
+    },
+    "legend": {
+      "x": 0,
+      "y": 1.1,
+      "yanchor": "bottom",
+      "orientation": "h"
+    }
+  }
+}

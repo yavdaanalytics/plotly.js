@@ -1,0 +1,42 @@
+{
+  "data": [
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQIDBAU="
+      },
+      "y": [
+        1,
+        1,
+        null,
+        -1,
+        -1
+      ],
+      "connectgaps": false,
+      "mode": "lines",
+      "type": "scattergl"
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQIDBAU="
+      },
+      "y": [
+        -2,
+        -2,
+        null,
+        2,
+        2
+      ],
+      "connectgaps": true,
+      "mode": "lines",
+      "type": "scattergl",
+      "opacity": 0.4
+    }
+  ],
+  "layout": {
+    "title": {
+      "text": "Connect gaps + line opacity test"
+    }
+  }
+}

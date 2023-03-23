@@ -1,0 +1,205 @@
+{
+  "data": [
+    {
+      "type": "surface",
+      "name": "opacity: 1<br>opacityscale: max",
+      "coloraxis": "coloraxis",
+      "opacityscale": "max",
+      "opacity": 1,
+      "contours": {
+        "z": {
+          "show": true
+        }
+      },
+      "x": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAAAAAAAAAADQPwAAAAAAAOA/AAAAAAAA6D8AAAAAAADwPw=="
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAAAAAAAAAADQPwAAAAAAAOA/AAAAAAAA6D8AAAAAAADwPw=="
+      },
+      "z": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAmpmZmZmZuT+amZmZmZnpP2ZmZmZmZuY/AAAAAAAAAAAAAAAAAAAAAJqZmZmZmck/AAAAAAAAAAAzMzMzMzPjPwAAAAAAAAAAAAAAAAAAAAAzMzMzMzPTP5qZmZmZmdk/AAAAAAAA4D8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+        "shape": "5, 5"
+      }
+    },
+    {
+      "scene": "scene2",
+      "name": "opacity: 0.5<br>opacityscale: max",
+      "type": "surface",
+      "coloraxis": "coloraxis",
+      "opacityscale": "max",
+      "opacity": 0.5,
+      "contours": {
+        "z": {
+          "show": true
+        }
+      },
+      "x": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAAAAAAAAAADQPwAAAAAAAOA/AAAAAAAA6D8AAAAAAADwPw=="
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAAAAAAAAAADQPwAAAAAAAOA/AAAAAAAA6D8AAAAAAADwPw=="
+      },
+      "z": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAmpmZmZmZuT+amZmZmZnpP2ZmZmZmZuY/AAAAAAAAAAAAAAAAAAAAAJqZmZmZmck/AAAAAAAAAAAzMzMzMzPjPwAAAAAAAAAAAAAAAAAAAAAzMzMzMzPTP5qZmZmZmdk/AAAAAAAA4D8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+        "shape": "5, 5"
+      }
+    },
+    {
+      "scene": "scene3",
+      "type": "surface",
+      "name": "opacity: 1<br>opacityscale: min",
+      "coloraxis": "coloraxis",
+      "opacityscale": "min",
+      "opacity": 1,
+      "contours": {
+        "z": {
+          "show": true
+        }
+      },
+      "x": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAAAAAAAAAADQPwAAAAAAAOA/AAAAAAAA6D8AAAAAAADwPw=="
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAAAAAAAAAADQPwAAAAAAAOA/AAAAAAAA6D8AAAAAAADwPw=="
+      },
+      "z": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAmpmZmZmZuT+amZmZmZnpP2ZmZmZmZuY/AAAAAAAAAAAAAAAAAAAAAJqZmZmZmck/AAAAAAAAAAAzMzMzMzPjPwAAAAAAAAAAAAAAAAAAAAAzMzMzMzPTP5qZmZmZmdk/AAAAAAAA4D8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+        "shape": "5, 5"
+      }
+    },
+    {
+      "scene": "scene4",
+      "type": "surface",
+      "name": "opacity: 0.5<br>opacityscale: min",
+      "coloraxis": "coloraxis",
+      "opacityscale": "min",
+      "opacity": 0.5,
+      "contours": {
+        "z": {
+          "show": true
+        }
+      },
+      "x": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAAAAAAAAAADQPwAAAAAAAOA/AAAAAAAA6D8AAAAAAADwPw=="
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAAAAAAAAAADQPwAAAAAAAOA/AAAAAAAA6D8AAAAAAADwPw=="
+      },
+      "z": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAmpmZmZmZuT+amZmZmZnpP2ZmZmZmZuY/AAAAAAAAAAAAAAAAAAAAAJqZmZmZmck/AAAAAAAAAAAzMzMzMzPjPwAAAAAAAAAAAAAAAAAAAAAzMzMzMzPTP5qZmZmZmdk/AAAAAAAA4D8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+        "shape": "5, 5"
+      }
+    }
+  ],
+  "layout": {
+    "coloraxis": {
+      "colorscale": "Portland"
+    },
+    "title": {
+      "text": "surface with opacityscale and opacity"
+    },
+    "width": 600,
+    "height": 800,
+    "scene": {
+      "aspectratio": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAAAAAAAAAAAADgPw=="
+        },
+        "y": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAA4D8AAAAAAADwPw=="
+        }
+      },
+      "camera": {
+        "projection": {
+          "type": "orthographic"
+        }
+      }
+    },
+    "scene2": {
+      "aspectratio": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAA4D8AAAAAAADwPw=="
+        },
+        "y": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAA4D8AAAAAAADwPw=="
+        }
+      },
+      "camera": {
+        "projection": {
+          "type": "orthographic"
+        }
+      }
+    },
+    "scene3": {
+      "aspectratio": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAAAAAAAAAAAADgPw=="
+        },
+        "y": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAAAAAAAAAAAADgPw=="
+        }
+      },
+      "camera": {
+        "projection": {
+          "type": "orthographic"
+        }
+      }
+    },
+    "scene4": {
+      "aspectratio": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAA4D8AAAAAAADwPw=="
+        },
+        "y": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAAAAAAAAAAAADgPw=="
+        }
+      },
+      "camera": {
+        "projection": {
+          "type": "orthographic"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "data": [
+    {
+      "type": "box",
+      "x0": 1,
+      "y": {
+        "dtype": "i1",
+        "bdata": "AQIBAgECAwQE"
+      }
+    },
+    {
+      "type": "box",
+      "x0": 2,
+      "y": {
+        "dtype": "i1",
+        "bdata": "AgECAwMBAAAB"
+      }
+    }
+  ],
+  "layout": {
+    "title": {
+      "text": "single-box groups!"
+    },
+    "boxmode": "group",
+    "showlegend": false
+  }
+}

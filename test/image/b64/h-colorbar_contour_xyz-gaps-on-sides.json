@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "x": {
+        "dtype": "i4",
+        "bdata": "nMMAAHxa///EtP//DA8AAFRpAAA0AP//fFr//8S0//8MDwAAVGkAAOyl/v80AP//fFr//8S0//8MDwAAVGkAAJzDAADkHQEANAD//3xa///EtP//DA8AAFRpAACcwwAAfFr//8S0//8MDwAAVGkAAOyl/v80AP//fFr//8S0//8MDwAAVGkAAJzDAADkHQEA7KX+/zQA//98Wv//xLT//wwPAABUaQAAnMMAAOQdAQA="
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "mpmZmXlR6UBmZmZmFgHzQGZmZmYWAfNAZmZmZhYB80BmZmZmFgHzQJqZmZl5UelAmpmZmXlR6UCamZmZeVHpQJqZmZl5UelAmpmZmXlR6UAAAAAAQIHZwAAAAABAgdnAAAAAAECB2cAAAAAAQIHZwAAAAABAgdnAAAAAAECB2cAAAAAAQIHZwAAAAABAgdnAMzMzM1Nx6cAzMzMzU3HpwDMzMzNTcenAMzMzM1Nx6cAzMzMzU3HpwDMzMzNTcenAMzMzMwMR88AzMzMzAxHzwDMzMzMDEfPAMzMzMwMR88CamZmZmdlfwJqZmZmZ2V/AmpmZmZnZX8CamZmZmdlfwJqZmZmZ2V/AmpmZmZnZX8CamZmZmdlfwJqZmZmZ2V/AzczMzIxB2UDNzMzMjEHZQM3MzMyMQdlAzczMzIxB2UDNzMzMjEHZQM3MzMyMQdlAzczMzIxB2UDNzMzMjEHZQA=="
+      },
+      "z": {
+        "dtype": "f8",
+        "bdata": "DXIXYYpyEUBbCkj7H/AQQKtcqPxrSRFAzJcXYB/NEUDGwDqOH6oRQHvYCwVs1xBASBtHrMVHEUCrB8xDpvwQQH0kJT0MLRFA6Iam7PRDEUCBmIQLeUQPQGMNF7mnuxFAdF34wfl0EUD2RNeFHzwRQFQZxt0gGhFAeh1xyAaCEECmR1M9mS8RQANEwYwpSBFArHE2HQFcEUBGQlvOpZgRQPKxu0BJYRFAHsakv5dCEUCLbyh8ti4RQNNnB1xXDBFAv0S8df6dEEDzzMth950RQF+1MuGXWhFA6+Oh724VEUDWUkDa/yAQQBa+vtalhhFAWr3D7dBQEUAR/G8lO/YQQHl2+daHZRFAEolCy7rPEEAWhPI+jgYRQA39E1ysKBFA2PD0SlmmD0CkGCDRBFoRQFZl3xXBPxFARMAhVKkJEUCrJR3lYJYQQNC3BUt18RBAGmt/Z3v0EEDTa7OxEjMRQA=="
+      },
+      "colorscale": "Viridis",
+      "colorbar": {
+        "orientation": "h"
+      },
+      "type": "contour"
+    }
+  ],
+  "layout": {
+    "title": {
+      "text": "contour with x/y/z columns with gaps on the sides"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "data": [
+    {
+      "y": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAA8D+amZmZmZnxPwAAAAAAAPA/zczMzMzM7D8zMzMzMzPzPwAAAAAAAABAAAAAAAAA+D9mZmZmZmYCQDMzMzMzM/s/mpmZmZmZAUAAAAAAAADwP5qZmZmZmfE/MzMzMzMz8z/NzMzMzMzsP5qZmZmZmfE/"
+      },
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQEBAQEKCgoKCmRkZGRk"
+      },
+      "type": "violin",
+      "box": {
+        "visible": true
+      },
+      "meanline": {
+        "visible": true
+      },
+      "side": "negative"
+    },
+    {
+      "y": {
+        "dtype": "f8",
+        "bdata": "mpmZmZmZAUBmZmZmZmYCQAAAAAAAAABAAAAAAAAABEDNzMzMzMwAQJqZmZmZmbk/AAAAAAAA4D+amZmZmZnpPzMzMzMzM9M/MzMzMzMz0z8zMzMzMzMDQAAAAAAAAABAAAAAAAAA+D+amZmZmZn5P2ZmZmZmZv4/"
+      },
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQEBAQEKCgoKCmRkZGRk"
+      },
+      "type": "violin",
+      "meanline": {
+        "visible": true
+      },
+      "side": "positive"
+    }
+  ],
+  "layout": {
+    "xaxis": {
+      "type": "log"
+    }
+  }
+}

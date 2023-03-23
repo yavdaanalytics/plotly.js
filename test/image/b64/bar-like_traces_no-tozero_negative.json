@@ -1,0 +1,166 @@
+{
+  "data": [
+    {
+      "xaxis": "x",
+      "yaxis": "y",
+      "type": "bar",
+      "orientation": "h",
+      "y": [
+        "A",
+        "B",
+        "C"
+      ],
+      "x": {
+        "dtype": "i1",
+        "bdata": "Af8B"
+      },
+      "text": [
+        "+1",
+        "-1",
+        "+1"
+      ],
+      "textposition": "inside",
+      "insidetextanchor": "middle",
+      "base": {
+        "dtype": "i1",
+        "bdata": "9vb2"
+      }
+    },
+    {
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "type": "bar",
+      "x": [
+        "E",
+        "F",
+        "G"
+      ],
+      "y": {
+        "dtype": "i1",
+        "bdata": "Af8B"
+      },
+      "text": [
+        "+1",
+        "-1",
+        "+1"
+      ],
+      "textposition": "inside",
+      "insidetextanchor": "middle",
+      "base": {
+        "dtype": "i1",
+        "bdata": "9vb2"
+      }
+    },
+    {
+      "xaxis": "x3",
+      "yaxis": "y3",
+      "type": "waterfall",
+      "x": [
+        "E",
+        "F",
+        "G"
+      ],
+      "y": {
+        "dtype": "i1",
+        "bdata": "Af4B"
+      },
+      "text": [
+        "+1",
+        "-2",
+        "+1"
+      ],
+      "textposition": "inside",
+      "insidetextanchor": "middle",
+      "base": -10
+    },
+    {
+      "xaxis": "x4",
+      "yaxis": "y4",
+      "type": "waterfall",
+      "orientation": "h",
+      "y": [
+        "A",
+        "B",
+        "C"
+      ],
+      "x": {
+        "dtype": "i1",
+        "bdata": "Af4B"
+      },
+      "text": [
+        "+1",
+        "-2",
+        "+1"
+      ],
+      "textposition": "inside",
+      "insidetextanchor": "middle",
+      "base": -10
+    }
+  ],
+  "layout": {
+    "width": 400,
+    "height": 400,
+    "template": {
+      "layout": {
+        "showlegend": false,
+        "title": {
+          "text": "non-zero autorange with<br>base and negative size"
+        },
+        "xaxis": {
+          "domain": {
+            "dtype": "f8",
+            "bdata": "AAAAAAAAAADNzMzMzMzcPw=="
+          }
+        },
+        "yaxis": {
+          "domain": {
+            "dtype": "f8",
+            "bdata": "AAAAAAAAAADNzMzMzMzcPw=="
+          }
+        },
+        "xaxis2": {
+          "anchor": "y2",
+          "domain": {
+            "dtype": "f8",
+            "bdata": "mpmZmZmZ4T8AAAAAAADwPw=="
+          }
+        },
+        "yaxis2": {
+          "anchor": "x2",
+          "domain": {
+            "dtype": "f8",
+            "bdata": "mpmZmZmZ4T8AAAAAAADwPw=="
+          }
+        },
+        "xaxis3": {
+          "anchor": "y3",
+          "domain": {
+            "dtype": "f8",
+            "bdata": "AAAAAAAAAADNzMzMzMzcPw=="
+          }
+        },
+        "yaxis3": {
+          "anchor": "x3",
+          "domain": {
+            "dtype": "f8",
+            "bdata": "mpmZmZmZ4T8AAAAAAADwPw=="
+          }
+        },
+        "xaxis4": {
+          "anchor": "y4",
+          "domain": {
+            "dtype": "f8",
+            "bdata": "mpmZmZmZ4T8AAAAAAADwPw=="
+          }
+        },
+        "yaxis4": {
+          "anchor": "x4",
+          "domain": {
+            "dtype": "f8",
+            "bdata": "AAAAAAAAAADNzMzMzMzcPw=="
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,260 @@
+{
+  "data": [
+    {
+      "x": {
+        "dtype": "i2",
+        "bdata": "4AbqBvQG/gYIBxIHHAcmBzAHOgdEB04HWAdiB2wHdgeAB4oHlAeeB6gHsge8B8YH0AfVBw=="
+      },
+      "y": {
+        "dtype": "i2",
+        "bdata": "/gADAR0BJwEmAToBQQFWAWYBdQF9AYkBowHHAeoBDgI2AlkCbQJ4AskCQAPoA6YEWgWqBQ=="
+      },
+      "mode": "lines",
+      "name": "Biomass",
+      "line": {
+        "color": "rgb(51, 152, 0)",
+        "width": 0.5
+      },
+      "fill": "tonexty",
+      "fillcolor": "rgb(51, 152, 0)",
+      "type": "scatter"
+    },
+    {
+      "x": {
+        "dtype": "i2",
+        "bdata": "4AbqBvQG/gYIBxIHHAcmBzAHOgdEB04HWAdiB2wHdgeAB4oHlAeeB6gHsge8B8YH0AfVBw=="
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "nIBebBXob0DY3LpjDUlwQGq2qbxQ73FA1hLU6ySXckAv9cgm7pByQAVme7Ap3XNAhz+aHHRcdEAMrcAjkb91QH7psGx113ZArxLdx1Lld0BbV9R5p4p4QP4YSlhReXlA2JtarqVTe0AA8vMZj9x9QHPLN3DZM4BANhRGzM+MgUBEmVe/AxSDQJV/La8EhYRAlIn42kWUhUAtALZRV3eGQDiAIyYtrYlAQhazb3g+jkCHfreKJ62SQAUFlDytfpZAAFMGDvA2mkAA4Niz5++bQA=="
+      },
+      "mode": "lines",
+      "name": "Hydro",
+      "line": {
+        "color": "rgb(0, 0, 238)",
+        "width": 0.5
+      },
+      "fill": "tonexty",
+      "fillcolor": "rgb(0, 0, 238)",
+      "type": "scatter"
+    },
+    {
+      "x": {
+        "dtype": "i2",
+        "bdata": "4AbqBvQG/gYIBxIHHAcmBzAHOgdEB04HWAdiB2wHdgeAB4oHlAeeB6gHsge8B8YH0AfVBw=="
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "Gw38gtcocEClqYcw2n1wQNAcECO3NXJA1hLU6yTvckD8wZXzuh1zQAVme7ApjXRA7aUAg9pSdUByEyeK92V3QEu2fTlCHHlAFXlDLrmbe0D08G0TQcx+QEzZ8Xh1wYFAUrSTPTmshUAA+fmMR8qKQLrlG7js85BATj1WGZsllkDV/94SNQeYQJiMYyRPE5lAlxFJuu9EnEAWANuoq5+dQA7giElLiaJA9ytTggTxpEDeWPVeLSqqQFDPFmsj3a9AjWFO0IiksEAzaykgLQO0QA=="
+      },
+      "mode": "lines",
+      "name": "Coal",
+      "line": {
+        "color": "rgb(91, 15, 0)",
+        "width": 0.5
+      },
+      "fill": "tonexty",
+      "fillcolor": "rgb(91, 15, 0)",
+      "type": "scatter"
+    },
+    {
+      "x": {
+        "dtype": "i2",
+        "bdata": "4AbqBvQG/gYIBxIHHAcmBzAHOgdEB04HWAdiB2wHdgeAB4oHlAeeB6gHsge8B8YH0AfVBw=="
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "Gw38gtcocEClqYcw2n1wQNAcECO3NXJA1hLU6yTvckD8wZXzuh1zQAVme7ApjXRA7aUAg9pSdUByEyeK92V3QEu2fTlCHHlAFXlDLrmbe0D08G0TQcx+QJS6bI0jz4FAKVgEe0PVhUA9A9EwuDeLQPfv8ltdYZFAETN/dSoOl0DAUZcxuhyaQOBt3jj9Ip1AE2qf8aUxoUBnDzDKfnakQLwnasTf4K1AOaAA5TLBtkDBZJk0Qku9QDBDiNCxdMBA0AfL2MHMwUBI/fUKq1jEQA=="
+      },
+      "mode": "lines",
+      "name": "Oil",
+      "line": {
+        "color": "rgb(0, 0, 0)",
+        "width": 0.5
+      },
+      "fill": "tonexty",
+      "fillcolor": "rgb(0, 0, 0)",
+      "type": "scatter"
+    },
+    {
+      "x": {
+        "dtype": "i2",
+        "bdata": "4AbqBvQG/gYIBxIHHAcmBzAHOgdEB04HWAdiB2wHdgeAB4oHlAeeB6gHsge8B8YH0AfVBw=="
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "Gw38gtcocEClqYcw2n1wQNAcECO3NXJA1hLU6yTvckD8wZXzuh1zQAVme7ApjXRA7aUAg9pSdUByEyeK92V3QEu2fTlCHHlAFXlDLrmbe0D08G0TQcx+QJS6bI0jz4FAKVgEe0PVhUCZkpMm4W+LQKU31NZxfZFA/YQ3lK9Pl0DprSb0r4OaQI61v7MRKZ5A1l/ITTX2oUCQa7+MdDymQER6m0hWFrFAdqrXiKN4u0AtfxnnbQfCQIL7plUdJcVA74y2Kjqzx0ApeAq58iDLQA=="
+      },
+      "mode": "lines",
+      "name": "Gas",
+      "line": {
+        "color": "rgb(204, 0, 0)",
+        "width": 0.5
+      },
+      "fill": "tonexty",
+      "fillcolor": "rgb(204, 0, 0)",
+      "type": "scatter"
+    },
+    {
+      "x": {
+        "dtype": "i2",
+        "bdata": "4AbqBvQG/gYIBxIHHAcmBzAHOgdEB04HWAdiB2wHdgeAB4oHlAeeB6gHsge8B8YH0AfVBw=="
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "Gw38gtcocEClqYcw2n1wQNAcECO3NXJA1hLU6yTvckD8wZXzuh1zQAVme7ApjXRA7aUAg9pSdUByEyeK92V3QEu2fTlCHHlAFXlDLrmbe0D08G0TQcx+QJS6bI0jz4FAKVgEe0PVhUCZkpMm4W+LQKU31NZxfZFA/YQ3lK9Pl0DprSb0r4OaQI61v7MRKZ5A1l/ITTX2oUCQa7+MdDymQKrgAa+8GLFAvv7a4ReTu0AnHy03KYHCQKbfKTfTe8ZAtYsBrzNtyUAx325QE/vMQA=="
+      },
+      "mode": "lines",
+      "name": "Nuclear",
+      "line": {
+        "color": "rgb(153, 0, 255)",
+        "width": 0.5
+      },
+      "fill": "tonexty",
+      "fillcolor": "rgb(153, 0, 255)",
+      "type": "scatter"
+    }
+  ],
+  "layout": {
+    "title": {
+      "text": "World Primary Power Consumption"
+    },
+    "font": {
+      "family": "Arial, sans-serif",
+      "size": 14,
+      "color": "#000"
+    },
+    "showlegend": true,
+    "autosize": false,
+    "width": 800,
+    "height": 420,
+    "xaxis": {
+      "minor": {
+        "ticks": "outside"
+      },
+      "title": {
+        "text": "Year"
+      },
+      "range": [
+        1760,
+        2005
+      ],
+      "domain": {
+        "dtype": "i1",
+        "bdata": "AAE="
+      },
+      "type": "linear",
+      "rangemode": "normal",
+      "showgrid": false,
+      "zeroline": true,
+      "showline": false,
+      "autotick": true,
+      "nticks": 0,
+      "ticks": "outside",
+      "showticklabels": true,
+      "tick0": 0,
+      "dtick": 50,
+      "ticklen": 5,
+      "tickwidth": 1,
+      "tickcolor": "rgb(0, 0, 0)",
+      "tickangle": 0,
+      "tickfont": {
+        "family": "",
+        "size": 0,
+        "color": ""
+      },
+      "exponentformat": "e",
+      "showexponent": "all",
+      "gridcolor": "rgb(255, 255, 255)",
+      "gridwidth": 1,
+      "zerolinecolor": "#000",
+      "zerolinewidth": 1,
+      "linecolor": "rgba(0, 0, 0, 0)",
+      "linewidth": 1,
+      "anchor": "y",
+      "position": 0,
+      "mirror": true,
+      "overlaying": false,
+      "autorange": false
+    },
+    "yaxis": {
+      "title": {
+        "text": "Power (GW)"
+      },
+      "range": [
+        -554.9084002363447,
+        15648.311907510548
+      ],
+      "domain": {
+        "dtype": "i1",
+        "bdata": "AAE="
+      },
+      "type": "linear",
+      "rangemode": "normal",
+      "showgrid": true,
+      "zeroline": true,
+      "showline": false,
+      "autotick": false,
+      "nticks": 0,
+      "ticks": "",
+      "showticklabels": true,
+      "tick0": 0,
+      "dtick": 3000,
+      "ticklen": 5,
+      "tickwidth": 1,
+      "tickcolor": "rgb(255, 255, 255)",
+      "tickangle": 0,
+      "tickfont": {
+        "family": "",
+        "size": 0,
+        "color": ""
+      },
+      "exponentformat": "e",
+      "showexponent": "all",
+      "gridcolor": "rgb(255, 255, 255)",
+      "gridwidth": 3,
+      "zerolinecolor": "#000",
+      "zerolinewidth": 1,
+      "linecolor": "rgba(0, 0, 0, 0)",
+      "linewidth": 1,
+      "anchor": "x",
+      "position": 0,
+      "mirror": true,
+      "overlaying": false,
+      "autorange": true
+    },
+    "legend": {
+      "x": 1.02,
+      "y": 0.5037179079816982,
+      "traceorder": "reversed",
+      "font": {
+        "family": "",
+        "size": 0,
+        "color": ""
+      },
+      "bgcolor": "rgba(217, 217, 217, 0)",
+      "bordercolor": "rgba(204, 204, 204, 0)",
+      "borderwidth": 0.5,
+      "xanchor": "left",
+      "yanchor": "auto"
+    },
+    "margin": {
+      "l": 90,
+      "r": 10,
+      "b": 60,
+      "t": 80,
+      "pad": 0,
+      "autoexpand": true
+    },
+    "paper_bgcolor": "rgb(245, 245, 247)",
+    "plot_bgcolor": "rgb(245, 245, 245)",
+    "hovermode": "x",
+    "dragmode": "zoom",
+    "barmode": "stack",
+    "bargap": 0.2,
+    "bargroupgap": 0,
+    "boxmode": "overlay",
+    "separators": ".,",
+    "hidesources": false
+  }
+}

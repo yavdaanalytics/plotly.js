@@ -1,0 +1,71 @@
+{
+  "data": [
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AAEBAAABAQA="
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AAABAQAAAQE="
+      },
+      "z": {
+        "dtype": "i1",
+        "bdata": "AAAAAAAAAAA="
+      },
+      "text": [
+        "first below",
+        "second below",
+        "third below",
+        "fourth below",
+        "first above",
+        "second above",
+        "third above",
+        "fourth above"
+      ],
+      "type": "scatter3d",
+      "opacity": 0.5,
+      "marker": {
+        "opacity": 0.5,
+        "size": 50
+      }
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AAEBAAABAQA="
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AAABAQAAAQE="
+      },
+      "z": {
+        "dtype": "i1",
+        "bdata": "AQEBAQEBAQE="
+      },
+      "text": [
+        "first below",
+        "second below",
+        "third below",
+        "fourth below",
+        "first above",
+        "second above",
+        "third above",
+        "fourth above"
+      ],
+      "type": "scatter3d",
+      "opacity": 0.5,
+      "marker": {
+        "opacity": 0.5,
+        "size": 50
+      }
+    }
+  ],
+  "layout": {
+    "width": 400,
+    "height": 400,
+    "title": {
+      "text": "hover should generally pick latest<br>points on the same position<br>and display above not below"
+    }
+  }
+}

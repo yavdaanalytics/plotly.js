@@ -1,0 +1,44 @@
+{
+  "data": [
+    {
+      "type": "mesh3d",
+      "x": {
+        "dtype": "i1",
+        "bdata": "AAECAA=="
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AAABAg=="
+      },
+      "z": {
+        "dtype": "i1",
+        "bdata": "AAIAAQ=="
+      },
+      "i": {
+        "dtype": "i1",
+        "bdata": "AAAAAQ=="
+      },
+      "j": {
+        "dtype": "i1",
+        "bdata": "AQIDAg=="
+      },
+      "k": {
+        "dtype": "i1",
+        "bdata": "AgMBAw=="
+      },
+      "vertexcolor": [
+        "rgba(0, 0, 0, 1.0)",
+        "rgba(255, 0, 0, 0.1)",
+        "rgba(0, 255, 0, 0.1)",
+        "rgba(0, 0, 255, 0.1)"
+      ]
+    }
+  ],
+  "layout": {
+    "title": {
+      "text": "Should draw transparent mesh<br>when having transparent rgba color"
+    },
+    "width": 400,
+    "height": 400
+  }
+}

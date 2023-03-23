@@ -1,0 +1,101 @@
+{
+  "data": [
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "BAUG"
+      },
+      "name": "yaxis1 data",
+      "type": "scatter"
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AgME"
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "BAUG"
+      },
+      "name": "yaxis2 data",
+      "yaxis": "y2",
+      "type": "scatter"
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AwQF"
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "BAUG"
+      },
+      "name": "yaxis3 data",
+      "yaxis": "y3",
+      "type": "scatter"
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "BAUG"
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "name": "yaxis4 data",
+      "yaxis": "y4",
+      "type": "scatter"
+    }
+  ],
+  "layout": {
+    "title": {
+      "text": "multiple y-axes example"
+    },
+    "xaxis": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAA0D8AAAAAAADoPw=="
+      }
+    },
+    "width": 800,
+    "yaxis": {
+      "showline": true,
+      "title": {
+        "text": "axis 1"
+      }
+    },
+    "yaxis2": {
+      "overlaying": "y",
+      "showline": true,
+      "side": "right",
+      "title": {
+        "text": "axis 2"
+      }
+    },
+    "yaxis3": {
+      "anchor": "free",
+      "overlaying": "y",
+      "showline": true,
+      "autoshift": true,
+      "side": "right",
+      "title": {
+        "text": "axis 3"
+      }
+    },
+    "yaxis4": {
+      "anchor": "free",
+      "overlaying": "y",
+      "showline": true,
+      "autoshift": true,
+      "side": "left",
+      "title": {
+        "text": "axis 4"
+      }
+    }
+  }
+}

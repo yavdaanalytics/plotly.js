@@ -1,0 +1,77 @@
+{
+  "data": [
+    {
+      "type": "carpet",
+      "a": {
+        "dtype": "i1",
+        "bdata": "AAEC"
+      },
+      "b": {
+        "dtype": "i1",
+        "bdata": "AAECAw=="
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AAECAAECAAECAAEC",
+        "shape": "4, 3"
+      },
+      "cheaterslope": -2,
+      "aaxis": {
+        "minorgridcount": 1
+      },
+      "baxis": {
+        "minorgridcount": 1
+      }
+    },
+    {
+      "type": "contourcarpet",
+      "z": {
+        "dtype": "i1",
+        "bdata": "AAAAAQEBAv8CAwMD",
+        "shape": "4, 3"
+      },
+      "name": "almost filled",
+      "contours": {
+        "type": "constraint",
+        "value": 0.05,
+        "operation": "<"
+      }
+    },
+    {
+      "type": "contourcarpet",
+      "name": "fully filled",
+      "z": {
+        "dtype": "i1",
+        "bdata": "AAAAAQEBAv8CAwMD",
+        "shape": "4, 3"
+      },
+      "contours": {
+        "type": "constraint",
+        "value": -0.05,
+        "operation": "<"
+      }
+    }
+  ],
+  "layout": {
+    "title": {
+      "text": "Fully filled carpet with a hole"
+    },
+    "annotations": [
+      {
+        "text": "These two fills differ only in a tiny threshold that affects whether the<br>contour fills the whole region or cuts off a sliver on the left side.<br> They should be effectively identical, not complementary.",
+        "align": "left",
+        "showarrow": false,
+        "x": 0.5,
+        "y": 2.5,
+        "xref": "x",
+        "yref": "y"
+      }
+    ],
+    "margin": {
+      "t": 60,
+      "r": 30,
+      "b": 30,
+      "l": 30
+    }
+  }
+}

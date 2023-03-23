@@ -1,0 +1,51 @@
+{
+  "data": [
+    {
+      "type": "cone",
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQEBAQMDAwM="
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AQEDAwEBAwM="
+      },
+      "z": {
+        "dtype": "i1",
+        "bdata": "AQMBAwEDAQM="
+      },
+      "u": {
+        "dtype": "i1",
+        "bdata": "AQIDBAECAwQ="
+      },
+      "v": {
+        "dtype": "i1",
+        "bdata": "AQECAgMDBAQ="
+      },
+      "w": {
+        "dtype": "i1",
+        "bdata": "BAQBAQICAwM="
+      },
+      "showscale": false
+    }
+  ],
+  "layout": {
+    "scene": {
+      "camera": {
+        "eye": {
+          "x": -0.009629409001286008,
+          "y": 2.5216768185264913,
+          "z": 0.42700218501677245
+        }
+      }
+    },
+    "width": 500,
+    "height": 500,
+    "margin": {
+      "t": 0,
+      "b": 0,
+      "l": 0,
+      "r": 0
+    }
+  }
+}

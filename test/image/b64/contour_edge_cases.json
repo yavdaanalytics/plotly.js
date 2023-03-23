@@ -1,0 +1,223 @@
+{
+  "data": [
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AAU="
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AAQ="
+      },
+      "z": {
+        "dtype": "i1",
+        "bdata": "BAMCAQ==",
+        "shape": "2, 2"
+      },
+      "type": "contour",
+      "contours": {
+        "start": 1.1,
+        "end": 4.09,
+        "size": 1,
+        "showlabels": true,
+        "labelformat": ".3f",
+        "labelfont": {
+          "size": "8",
+          "color": "#0f0"
+        }
+      },
+      "colorbar": {
+        "x": 0.4,
+        "y": 0.9,
+        "len": 0.2
+      }
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AAU="
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AAQ="
+      },
+      "z": {
+        "dtype": "i1",
+        "bdata": "BAMCAQ==",
+        "shape": "2, 2"
+      },
+      "type": "contour",
+      "contours": {
+        "start": 1,
+        "end": 4,
+        "size": 0.9999999
+      },
+      "colorbar": {
+        "x": 1,
+        "y": 0.9,
+        "len": 0.2
+      },
+      "xaxis": "x2"
+    },
+    {
+      "z": {
+        "dtype": "i1",
+        "bdata": "AAAAAAAAAAAJAAAAAAAAAAAAAAAA9wAAAAAAAAAA",
+        "shape": "5, 6"
+      },
+      "type": "contour",
+      "contours": {
+        "start": -1e-06,
+        "end": 1e-06,
+        "size": 1e-06,
+        "showlabels": true,
+        "labelformat": ".1e"
+      },
+      "colorbar": {
+        "x": 0.4,
+        "y": 0.65,
+        "len": 0.2
+      },
+      "yaxis": "y2"
+    },
+    {
+      "z": {
+        "dtype": "i1",
+        "bdata": "AAAAAAAAAAAJ9wAAAAAJ9wAAAAAJ9wAAAAAAAAAA",
+        "shape": "5, 6"
+      },
+      "type": "contour",
+      "contours": {
+        "start": -1e-06,
+        "end": 1e-06,
+        "size": 1e-06,
+        "showlabels": true
+      },
+      "line": {
+        "color": "#fff"
+      },
+      "colorbar": {
+        "x": 1,
+        "y": 0.65,
+        "len": 0.2
+      },
+      "xaxis": "x2",
+      "yaxis": "y2"
+    },
+    {
+      "z": {
+        "dtype": "i1",
+        "bdata": "AAAAAAAAAAkAAAAAAAAAAAAAAAAAAPcAAAAAAAAA",
+        "shape": "5, 6"
+      },
+      "type": "contour",
+      "contours": {
+        "start": -1e-06,
+        "end": 1e-06,
+        "size": 1e-06,
+        "showlabels": true
+      },
+      "showscale": false,
+      "yaxis": "y3"
+    },
+    {
+      "z": {
+        "dtype": "i1",
+        "bdata": "AAAAAAAAAAD3AAAAAAAAAAAAAAAACQAAAAAAAAAA",
+        "shape": "5, 6"
+      },
+      "type": "contour",
+      "contours": {
+        "start": -5e-07,
+        "end": 1e-06,
+        "size": 1e-06
+      },
+      "colorbar": {
+        "x": 1,
+        "y": 0.4,
+        "len": 0.2
+      },
+      "xaxis": "x2",
+      "yaxis": "y3"
+    },
+    {
+      "z": {
+        "dtype": "i1",
+        "bdata": "AAAAAAAAAAkAAAAAAAAAAAAAAAAAAPcAAAAAAAAA",
+        "shape": "5, 6"
+      },
+      "type": "contour",
+      "contours": {
+        "start": -5e-07,
+        "end": 1e-06,
+        "size": 1e-06
+      },
+      "colorbar": {
+        "x": 0.4,
+        "y": 0.15,
+        "len": 0.2
+      },
+      "yaxis": "y4"
+    },
+    {
+      "z": {
+        "dtype": "i1",
+        "bdata": "AAAAAAAAAAAJAAAAAPf39/cAAAAACQAAAAAAAAAA",
+        "shape": "5, 6"
+      },
+      "type": "contour",
+      "contours": {
+        "start": -5e-07,
+        "end": 1e-06,
+        "size": 1e-06
+      },
+      "colorbar": {
+        "x": 1,
+        "y": 0.15,
+        "len": 0.2
+      },
+      "xaxis": "x2",
+      "yaxis": "y4"
+    }
+  ],
+  "layout": {
+    "xaxis": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAACamZmZmZnZPw=="
+      }
+    },
+    "xaxis2": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "MzMzMzMz4z8AAAAAAADwPw=="
+      }
+    },
+    "yaxis": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "mpmZmZmZ6T8AAAAAAADwPw=="
+      }
+    },
+    "yaxis2": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "mpmZmZmZ4T8AAAAAAADoPw=="
+      }
+    },
+    "yaxis3": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "MzMzMzMz0z8AAAAAAADgPw=="
+      }
+    },
+    "yaxis4": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "mpmZmZmZqT8AAAAAAADQPw=="
+      }
+    },
+    "width": 600,
+    "height": 800
+  }
+}

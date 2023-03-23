@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQEBAgI="
+      },
+      "type": "histogram"
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQIDBA=="
+      },
+      "type": "histogram"
+    }
+  ],
+  "layout": {
+    "height": 300,
+    "width": 400
+  }
+}

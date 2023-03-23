@@ -1,0 +1,30 @@
+{
+  "data": [
+    {
+      "y": {
+        "dtype": "i1",
+        "bdata": "AAAA"
+      },
+      "type": "scattergl",
+      "marker": {
+        "size": 24,
+        "symbol": "diamond-open-dot"
+      }
+    },
+    {
+      "y": {
+        "dtype": "i1",
+        "bdata": "AQEB"
+      },
+      "type": "scattergl",
+      "marker": {
+        "size": 24,
+        "symbol": 302
+      }
+    }
+  ],
+  "layout": {
+    "width": 600,
+    "height": 400
+  }
+}

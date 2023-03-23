@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "type": "scattersmith",
+      "real": {
+        "dtype": "i1",
+        "bdata": "AAABAQIFCg=="
+      },
+      "imag": {
+        "dtype": "i1",
+        "bdata": "AAEA/v779g=="
+      },
+      "mode": "lines+markers",
+      "marker": {
+        "size": 20,
+        "opacity": 0.5
+      }
+    }
+  ],
+  "layout": {
+    "showlegend": false,
+    "paper_bgcolor": "lightgray",
+    "margin": {
+      "t": 40,
+      "b": 40,
+      "r": 40,
+      "l": 40
+    },
+    "width": 800,
+    "height": 800,
+    "smith": {
+      "realaxis": {
+        "tickvals": {
+          "dtype": "f8",
+          "bdata": "mpmZmZmZyT+amZmZmZnZPzMzMzMzM+M/mpmZmZmZ6T8AAAAAAADwPwAAAAAAAPg/AAAAAAAAAEAAAAAAAAAIQAAAAAAAABBAAAAAAAAAFEAAAAAAAAAkQAAAAAAAADRA"
+        }
+      }
+    }
+  }
+}

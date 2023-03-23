@@ -1,0 +1,62 @@
+{
+  "data": [
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AAEBAAABAQICAwMCAgM="
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AAABAQMDAgIDAwEBAAA="
+      }
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AAECAw=="
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AQIECA=="
+      },
+      "xaxis": "x2",
+      "yaxis": "y2"
+    }
+  ],
+  "layout": {
+    "width": 500,
+    "height": 500,
+    "title": {
+      "text": "Bottom subplot has scaleanchor constrained axes<br>Top subplot has matching axes"
+    },
+    "xaxis": {
+      "constrain": "range"
+    },
+    "yaxis": {
+      "scaleanchor": "x",
+      "constrain": "range",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAADNzMzMzMzcPw=="
+      },
+      "title": {
+        "text": "1:1<br>x|y scale constrain range"
+      }
+    },
+    "xaxis2": {
+      "anchor": "y2"
+    },
+    "yaxis2": {
+      "anchor": "x2",
+      "matches": "x2",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "mpmZmZmZ4T8AAAAAAADwPw=="
+      },
+      "title": {
+        "text": "matching x|y"
+      }
+    },
+    "showlegend": false
+  }
+}

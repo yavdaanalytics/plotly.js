@@ -1,0 +1,27 @@
+{
+  "data": [
+    {
+      "type": "choroplethmapbox",
+      "locations": [
+        "NY",
+        "MA",
+        "VT"
+      ],
+      "z": {
+        "dtype": "i1",
+        "bdata": "ChQe"
+      },
+      "geojson": "https://raw.githubusercontent.com/python-visualization/folium/master/examples/data/us-states.json"
+    }
+  ],
+  "layout": {
+    "mapbox": {
+      "center": {
+        "lon": -74.22,
+        "lat": 42.35
+      },
+      "zoom": 3.5
+    },
+    "width": 600
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AA=="
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AA=="
+      },
+      "z": {
+        "dtype": "f8",
+        "bdata": "Ooww4o55RT4="
+      },
+      "type": "scatter3d",
+      "error_z": {
+        "array": {
+          "dtype": "f8",
+          "bdata": "Z7ErZc1TQz4="
+        },
+        "type": "data",
+        "visible": true
+      }
+    }
+  ],
+  "layout": {
+    "scene": {
+      "zaxis": {
+        "type": "log"
+      }
+    },
+    "width": 800,
+    "height": 800
+  }
+}

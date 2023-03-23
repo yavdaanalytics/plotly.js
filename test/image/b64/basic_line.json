@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQIDBA=="
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "Cg8NEQ=="
+      },
+      "type": "scatter"
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQIDBA=="
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "EAULCQ=="
+      },
+      "type": "scatter"
+    }
+  ]
+}

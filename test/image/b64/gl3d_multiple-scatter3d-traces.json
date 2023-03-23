@@ -1,0 +1,87 @@
+{
+  "data": [
+    {
+      "type": "scatter3d",
+      "mode": "markers",
+      "marker": {
+        "opacity": 1.0
+      },
+      "x": {
+        "dtype": "i1",
+        "bdata": "/wAB"
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AAAA"
+      },
+      "z": {
+        "dtype": "i1",
+        "bdata": "AAAA"
+      }
+    },
+    {
+      "type": "scatter3d",
+      "mode": "markers",
+      "marker": {
+        "opacity": 1.0
+      },
+      "x": {
+        "dtype": "i1",
+        "bdata": "/wAB"
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AAAA"
+      },
+      "z": {
+        "dtype": "i1",
+        "bdata": "CgoK"
+      }
+    },
+    {
+      "type": "scatter3d",
+      "mode": "markers",
+      "marker": {
+        "opacity": 1.0
+      },
+      "x": {
+        "dtype": "i1",
+        "bdata": "/wAB"
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AAAA"
+      },
+      "z": {
+        "dtype": "i1",
+        "bdata": "9vb2"
+      }
+    }
+  ],
+  "layout": {
+    "title": {
+      "text": "Hovering over data points of multiple scatter3d traces"
+    },
+    "width": 600,
+    "height": 400,
+    "scene": {
+      "camera": {
+        "eye": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        },
+        "center": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "up": {
+          "x": 0,
+          "y": 0,
+          "z": 1
+        }
+      }
+    }
+  }
+}

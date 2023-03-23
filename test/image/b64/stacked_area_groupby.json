@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQECAgMD"
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AQECAgMD"
+      },
+      "stackgroup": 1,
+      "transforms": [
+        {
+          "type": "groupby",
+          "groups": [
+            "a",
+            "b",
+            "a",
+            "b",
+            "a",
+            "b"
+          ]
+        }
+      ]
+    }
+  ],
+  "layout": {
+    "width": 400
+  }
+}

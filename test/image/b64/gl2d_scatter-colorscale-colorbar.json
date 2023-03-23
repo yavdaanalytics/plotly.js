@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "marker": {
+        "color": {
+          "dtype": "i1",
+          "bdata": "AP/+/fz7+vn49/b19PPy8fDv7u3s6+rp6Ofm5eTj4uHg397d3Nva2Q=="
+        },
+        "size": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAAAAAAAAAAAAAkQMAKHwDGSCxA6y830QxSMUAAAAAAAAA0QNLxfYJVXDZAemkLmbF+OEAkt0eUH3U6QMAKHwDGSDxAAAAAAAAAPkAn8pBJbp8/QIFlfpxHlUBA6y830QxSQUA42LwKGwdCQI4n4UpStUJASJHRLmtdQ0AAAAAAAABEQEnoW0CTnURAEEgXgJQ2RUB3YX0BZMtFQNLxfYJVXEZAJmZaZ7LpRkBRbKlvu3NHQBzF1BKq+kdAemkLmbF+SEAAAAAAAABJQPS71ra+fklA4MfSORP7SUAkt0eUH3VKQHAQ080C7UpA807ERtliS0A08sIGvdZLQMAKHwDGSExALIW7SQq5TECKjCBRnidNQLiy+AWVlE1AAAAAAAAATkBI0zyg72lOQPDHNC5z0k5AbIix8Zg5T0A="
+        },
+        "colorbar": {
+          "title": {
+            "text": "WOW"
+          }
+        }
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "BQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQ=="
+      },
+      "type": "scattergl",
+      "mode": "markers"
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "FA=="
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAFkA="
+      },
+      "marker": {
+        "size": 20
+      },
+      "type": "scattergl",
+      "mode": "markers"
+    }
+  ],
+  "layout": {
+    "title": {
+      "text": "scatter + colorbar = <3"
+    },
+    "xaxis": {
+      "type": "linear",
+      "range": [
+        -2.501411175139456,
+        43.340777299865266
+      ],
+      "autorange": true
+    },
+    "yaxis": {
+      "type": "linear",
+      "range": [
+        4,
+        6
+      ],
+      "autorange": false
+    },
+    "height": 598,
+    "width": 1080,
+    "autosize": true,
+    "showlegend": false
+  }
+}

@@ -1,0 +1,213 @@
+{
+  "data": [
+    {
+      "xaxis": "x",
+      "yaxis": "y",
+      "name": "ohlc",
+      "type": "ohlc",
+      "low": {
+        "dtype": "i1",
+        "bdata": "AAAAAA=="
+      },
+      "close": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAA4D8AAAAAAADwPwAAAAAAAPg/AAAAAAAAAEA="
+      },
+      "open": {
+        "dtype": "i1",
+        "bdata": "AQIDBA=="
+      },
+      "high": {
+        "dtype": "i1",
+        "bdata": "AgQGCA=="
+      },
+      "x": [
+        "2001-01-01",
+        "2002-01-01",
+        "2003-01-01",
+        "2004-01-01"
+      ],
+      "xperiod": "M12",
+      "xperiodalignment": "middle"
+    },
+    {
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "name": "candlestick",
+      "type": "candlestick",
+      "low": {
+        "dtype": "i1",
+        "bdata": "AAAAAA=="
+      },
+      "close": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAA4D8AAAAAAADwPwAAAAAAAPg/AAAAAAAAAEA="
+      },
+      "open": {
+        "dtype": "i1",
+        "bdata": "AQIDBA=="
+      },
+      "high": {
+        "dtype": "i1",
+        "bdata": "AgQGCA=="
+      },
+      "x": [
+        "2001-01-01",
+        "2002-01-01",
+        "2003-01-01",
+        "2004-01-01"
+      ],
+      "xperiod": "M12",
+      "xperiodalignment": "middle"
+    },
+    {
+      "xaxis": "x3",
+      "yaxis": "y3",
+      "name": "box (v)",
+      "type": "box",
+      "x": [
+        "2001-01-01",
+        "2002-01-01",
+        "2003-01-01",
+        "2004-01-01"
+      ],
+      "lowerfence": {
+        "dtype": "i1",
+        "bdata": "AgQGCA=="
+      },
+      "q1": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAEEAAAAAAAAAWQAAAAAAAABxAAAAAAAAAIUA="
+      },
+      "median": {
+        "dtype": "i1",
+        "bdata": "BgcICQ=="
+      },
+      "q3": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAIEAAAAAAAAAhQAAAAAAAACJAAAAAAAAAI0A="
+      },
+      "upperfence": {
+        "dtype": "i1",
+        "bdata": "CgoKCg=="
+      },
+      "xperiod": "M12",
+      "xperiodalignment": "middle"
+    },
+    {
+      "xaxis": "x4",
+      "yaxis": "y4",
+      "name": "box (h)",
+      "type": "box",
+      "y": [
+        "2001-01-01",
+        "2002-01-01",
+        "2003-01-01",
+        "2004-01-01"
+      ],
+      "lowerfence": {
+        "dtype": "i1",
+        "bdata": "AAAAAA=="
+      },
+      "q1": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAA4D8AAAAAAADwPwAAAAAAAPg/AAAAAAAAAEA="
+      },
+      "median": {
+        "dtype": "i1",
+        "bdata": "AQIDBA=="
+      },
+      "q3": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAA+D8AAAAAAAAIQAAAAAAAABJAAAAAAAAAGEA="
+      },
+      "upperfence": {
+        "dtype": "i1",
+        "bdata": "AgQGCA=="
+      },
+      "yperiod": "M12",
+      "yperiodalignment": "middle"
+    }
+  ],
+  "layout": {
+    "width": 700,
+    "height": 500,
+    "showlegend": true,
+    "hovermode": "closest",
+    "xaxis": {
+      "rangeslider": {
+        "visible": false
+      },
+      "ticklabelmode": "period",
+      "tickcolor": "black",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAADNzMzMzMzcPw=="
+      }
+    },
+    "xaxis2": {
+      "rangeslider": {
+        "visible": false
+      },
+      "ticklabelmode": "period",
+      "tickcolor": "black",
+      "anchor": "y2",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAADNzMzMzMzcPw=="
+      }
+    },
+    "xaxis3": {
+      "rangeslider": {
+        "visible": false
+      },
+      "ticklabelmode": "period",
+      "tickcolor": "black",
+      "anchor": "y3",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "mpmZmZmZ4T8AAAAAAADwPw=="
+      }
+    },
+    "xaxis4": {
+      "tickcolor": "black",
+      "anchor": "y4",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "mpmZmZmZ4T8AAAAAAADwPw=="
+      }
+    },
+    "yaxis": {
+      "tickcolor": "black",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAADNzMzMzMzcPw=="
+      }
+    },
+    "yaxis2": {
+      "tickcolor": "black",
+      "anchor": "x2",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "mpmZmZmZ4T8AAAAAAADwPw=="
+      }
+    },
+    "yaxis3": {
+      "tickcolor": "black",
+      "anchor": "x3",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAADNzMzMzMzcPw=="
+      }
+    },
+    "yaxis4": {
+      "ticklabelmode": "period",
+      "tickcolor": "black",
+      "anchor": "x4",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "mpmZmZmZ4T8AAAAAAADwPw=="
+      }
+    }
+  }
+}

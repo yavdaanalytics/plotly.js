@@ -1,0 +1,693 @@
+{
+  "data": [
+    {
+      "type": "bar",
+      "name": "smoker=No",
+      "alignmentgroup": "True",
+      "offsetgroup": "smoker=No",
+      "legendgroup": "smoker=No",
+      "showlegend": true,
+      "marker": {
+        "color": "#636efa"
+      },
+      "x": [
+        "Female",
+        "Male",
+        "Male",
+        "Male",
+        "Female",
+        "Male",
+        "Male",
+        "Male",
+        "Male",
+        "Male",
+        "Male",
+        "Female",
+        "Male",
+        "Male",
+        "Female",
+        "Male",
+        "Female",
+        "Male",
+        "Female",
+        "Male",
+        "Male",
+        "Male",
+        "Male",
+        "Male",
+        "Male",
+        "Male",
+        "Male",
+        "Male",
+        "Male",
+        "Female",
+        "Female",
+        "Male",
+        "Male",
+        "Male",
+        "Male",
+        "Male",
+        "Female",
+        "Female",
+        "Male",
+        "Male",
+        "Male",
+        "Male",
+        "Male",
+        "Male",
+        "Female",
+        "Male",
+        "Female",
+        "Female",
+        "Male",
+        "Male",
+        "Male",
+        "Female",
+        "Male",
+        "Male",
+        "Male",
+        "Male",
+        "Male"
+      ],
+      "y": {
+        "dtype": "f8",
+        "bdata": "PQrXo3D9MECuR+F6FK4kQMP1KFyPAjVArkfhehSuN0DXo3A9Cpc4QArXo3A9SjlACtejcD2KIUDhehSuR+E6QBSuR+F6FC5Aj8L1KFyPLUAK16NwPYokQOF6FK5HoUFA16NwPQrXLkCuR+F6FG4yQClcj8L1qC1AFK5H4XqUNUApXI/C9agkQArXo3A9SjBAuB6F61H4MED2KFyPwnUxQOF6FK5H4StAXI/C9ShcI0BmZmZmZmY+QArXo3A9SjJAexSuR+E6NkAzMzMzMzNAQM3MzMzMjDxACtejcD0KMkAUrkfhehQpQBSuR+F6lCRASOF6FK5nQUDhehSuR+EjQI/C9ShcjzlAPQrXo3B9M0ApXI/C9QhDQDMzMzMz8zdA9ihcj8K1OUCPwvUoXE8xQK5H4XoU7j1ApHA9CtcjLEDD9Shcj0IqQMP1KFyPQjFAzczMzMyMOECF61G4HsUzQJqZmZmZ2T1A9ihcj8IVSEAAAAAAAAA5QEjhehSuxypAPQrXo3B9MEAAAAAAAIA1QFK4HoXrUSlA9ihcj8I1MEAfhetRuJ4rQIXrUbgehThAw/UoXI/CNED2KFyPwrU/QHE9CtejsDRA"
+      },
+      "xaxis": "x5",
+      "yaxis": "y5"
+    },
+    {
+      "type": "bar",
+      "name": "smoker=No",
+      "alignmentgroup": "True",
+      "offsetgroup": "smoker=No",
+      "legendgroup": "smoker=No",
+      "showlegend": false,
+      "marker": {
+        "color": "#636efa"
+      },
+      "x": [
+        "Male",
+        "Male",
+        "Female",
+        "Female",
+        "Male",
+        "Male",
+        "Male",
+        "Male",
+        "Male",
+        "Male",
+        "Female",
+        "Male",
+        "Male",
+        "Female",
+        "Female",
+        "Male",
+        "Male",
+        "Male",
+        "Female",
+        "Male",
+        "Male",
+        "Male",
+        "Female",
+        "Male",
+        "Male",
+        "Male",
+        "Female",
+        "Male",
+        "Male",
+        "Female",
+        "Female",
+        "Male",
+        "Female",
+        "Male",
+        "Male",
+        "Female",
+        "Male",
+        "Male",
+        "Male",
+        "Male",
+        "Male",
+        "Male",
+        "Female",
+        "Male",
+        "Male"
+      ],
+      "y": {
+        "dtype": "f8",
+        "bdata": "ZmZmZmamNEDsUbgehesxQArXo3A9SjRACtejcD2KL0D2KFyPwrVDQFK4HoXr0TNAj8L1KFzPMUA9CtejcL0qQOF6FK5HYSlAMzMzMzOzNUBmZmZmZqYzQJqZmZmZGSNAmpmZmZlZMkAfhetRuB4uQHE9CtejsDRASOF6FK7HMUCPwvUoXA84QI/C9ShcTzBArkfhehTuMEBxPQrXo7AyQIXrUbgeRT9ACtejcD0KMEApXI/C9Wg6QMP1KFyPIkhA16NwPQqXMUAUrkfhehQ0QDMzMzMzczBAexSuR+E6NEAK16NwPQooQFK4HoXrETFA9ihcj8J1LUCF61G4HgUlQOxRuB6F6zRAPQrXo3A9MkAAAAAAAAAsQAAAAAAAAB1ACtejcD0qSEAzMzMzM3M0QI/C9ShcjypAuB6F61E4J0AK16NwPYolQKRwPQrXIyRACtejcD3qQUBI4XoUrgc9QFK4HoXr0TFA"
+      },
+      "xaxis": "x6",
+      "yaxis": "y6"
+    },
+    {
+      "type": "bar",
+      "name": "smoker=No",
+      "alignmentgroup": "True",
+      "offsetgroup": "smoker=No",
+      "legendgroup": "smoker=No",
+      "showlegend": false,
+      "marker": {
+        "color": "#636efa"
+      },
+      "x": [
+        "Female"
+      ],
+      "y": {
+        "dtype": "f8",
+        "bdata": "SOF6FK7HMkA="
+      },
+      "xaxis": "x7",
+      "yaxis": "y7"
+    },
+    {
+      "type": "bar",
+      "name": "smoker=No",
+      "alignmentgroup": "True",
+      "offsetgroup": "smoker=No",
+      "legendgroup": "smoker=No",
+      "marker": {
+        "color": "#636efa"
+      },
+      "x": [
+        "Male",
+        "Female",
+        "Male"
+      ],
+      "y": {
+        "dtype": "f8",
+        "bdata": "PQrXo3B9NkAAAAAAAMA2QOxRuB6F6yhA"
+      },
+      "xaxis": "x8",
+      "yaxis": "y8",
+      "showlegend": false
+    },
+    {
+      "type": "bar",
+      "name": "smoker=No",
+      "alignmentgroup": "True",
+      "offsetgroup": "smoker=No",
+      "legendgroup": "smoker=No",
+      "showlegend": false,
+      "marker": {
+        "color": "#636efa"
+      },
+      "x": [
+        "Male",
+        "Male",
+        "Male",
+        "Male",
+        "Female",
+        "Male",
+        "Female",
+        "Male",
+        "Male",
+        "Male",
+        "Male",
+        "Female",
+        "Female",
+        "Female",
+        "Male",
+        "Female",
+        "Male",
+        "Male",
+        "Female",
+        "Female",
+        "Male",
+        "Female",
+        "Female",
+        "Male",
+        "Male",
+        "Female",
+        "Female",
+        "Female",
+        "Female",
+        "Female",
+        "Female",
+        "Female",
+        "Female",
+        "Female",
+        "Male",
+        "Male",
+        "Female",
+        "Female",
+        "Female",
+        "Female",
+        "Female",
+        "Male",
+        "Male",
+        "Male"
+      ],
+      "y": {
+        "dtype": "f8",
+        "bdata": "MzMzMzMzO0DD9Shcj8I2QArXo3A9SjFAKVyPwvWoMECkcD0K1yMkQPYoXI/C9S9ACtejcD1qQUCPwvUoXA8qQEjhehSuRzJA9ihcj8K1OEApXI/C9Sg1QM3MzMzMTCVAXI/C9SjcKEAUrkfhehQ4QOF6FK5HYSdA16NwPQrXKkCF61G4HoUsQGZmZmZm5i9A9ihcj8L1KEDNzMzMzMw9QArXo3A9CiFACtejcD0KLUDD9Shcj8ImQFK4HoXr0TZAFK5H4XoUM0CF61G4HkU0QNejcD0KVyZAhetRuB6FKEDD9Shcj0IyQIXrUbgeBSFAKVyPwvWoJEDNzMzMzEwsQFK4HoXrUSpAuB6F61F4MUBmZmZmZiZBQLgehetRmERAzczMzMwMO0CuR+F6FG4wQDMzMzMzsyBApHA9CtejMkA9CtejcL0nQI/C9ShcjyNACtejcD0KHkA9CtejcD0eQA=="
+      },
+      "xaxis": "x3",
+      "yaxis": "y3"
+    },
+    {
+      "type": "bar",
+      "name": "smoker=No",
+      "alignmentgroup": "True",
+      "offsetgroup": "smoker=No",
+      "legendgroup": "smoker=No",
+      "showlegend": false,
+      "marker": {
+        "color": "#636efa"
+      },
+      "x": [
+        "Female"
+      ],
+      "y": {
+        "dtype": "f8",
+        "bdata": "9ihcj8L1L0A="
+      },
+      "xaxis": "x4",
+      "yaxis": "y4"
+    },
+    {
+      "type": "bar",
+      "name": "smoker=Yes",
+      "alignmentgroup": "True",
+      "offsetgroup": "smoker=Yes",
+      "legendgroup": "smoker=Yes",
+      "showlegend": true,
+      "marker": {
+        "color": "#EF553B"
+      },
+      "x": [
+        "Female",
+        "Male",
+        "Male",
+        "Male",
+        "Male",
+        "Male",
+        "Male",
+        "Female",
+        "Male",
+        "Male",
+        "Male",
+        "Male",
+        "Male",
+        "Male",
+        "Female",
+        "Male",
+        "Female",
+        "Male",
+        "Male"
+      ],
+      "y": {
+        "dtype": "f8",
+        "bdata": "w/UoXI+CMUAAAAAAAAAdQJqZmZmZ2T9AUrgehevRMEAzMzMzM3NAQKRwPQrX4zFA9ihcj8L1LEAzMzMzMzMjQHE9CtejUEFAMzMzMzNTQUAUrkfhelQ3QM3MzMzMrEZA7FG4HoUrN0BmZmZmZkZEQGZmZmZm5jRA9ihcj8J1PkBmZmZmZiYyQJqZmZmZGTdA4XoUrkdhL0A="
+      },
+      "xaxis": "x5",
+      "yaxis": "y5"
+    },
+    {
+      "type": "bar",
+      "name": "smoker=Yes",
+      "alignmentgroup": "True",
+      "offsetgroup": "smoker=Yes",
+      "legendgroup": "smoker=Yes",
+      "showlegend": false,
+      "marker": {
+        "color": "#EF553B"
+      },
+      "x": [
+        "Male",
+        "Male",
+        "Male",
+        "Male",
+        "Male",
+        "Male",
+        "Female",
+        "Male",
+        "Female",
+        "Female",
+        "Male",
+        "Female",
+        "Female",
+        "Male",
+        "Male",
+        "Male",
+        "Female",
+        "Female",
+        "Female",
+        "Male",
+        "Male",
+        "Male",
+        "Male",
+        "Male",
+        "Female",
+        "Male",
+        "Male",
+        "Female",
+        "Female",
+        "Female",
+        "Male",
+        "Male",
+        "Male",
+        "Female",
+        "Female",
+        "Male",
+        "Male",
+        "Male",
+        "Male",
+        "Male",
+        "Female",
+        "Male"
+      ],
+      "y": {
+        "dtype": "f8",
+        "bdata": "4XoUrkcBQ0B7FK5H4XomQArXo3A9SjRAH4XrUbieK0AK16NwPQomQArXo3A9SjJAj8L1KFyPCECF61G4HgUuQFyPwvUo3DpASOF6FK5HOUDsUbgehesxQGZmZmZmJkZA7FG4HoVrNkC4HoXrUbguQD0K16NwfTRA9ihcj8I1OUAfhetRuJ4sQK5H4XoULiVAw/UoXI9CJUBI4XoUrmdJQB+F61G4ni9A16NwPQqXOkA9CtejcF1DQIXrUbgeRThAhetRuB6FKUCPwvUoXA8+QKRwPQrX4zlACtejcD2KKkDsUbgehSs8QM3MzMzMzClAZmZmZmYmPECuR+F6FC4nQPYoXI/C9R5ApHA9CtcjPkAfhetRuB42QMP1KFyPAjhA4XoUrkdhL0CPwvUoXA8vQDMzMzMzMylACtejcD1qQECuR+F6FC47QOxRuB6FqzZA"
+      },
+      "xaxis": "x6",
+      "yaxis": "y6"
+    },
+    {
+      "type": "bar",
+      "name": "smoker=Yes",
+      "alignmentgroup": "True",
+      "offsetgroup": "smoker=Yes",
+      "legendgroup": "smoker=Yes",
+      "showlegend": false,
+      "marker": {
+        "color": "#EF553B"
+      },
+      "x": [
+        "Male",
+        "Female",
+        "Female",
+        "Male",
+        "Male",
+        "Male",
+        "Male",
+        "Female",
+        "Female"
+      ],
+      "y": {
+        "dtype": "f8",
+        "bdata": "uB6F61H4PEAAAAAAAAAXQFK4HoXrUTBA9ihcj8IVREBI4XoUrkc7QI/C9ShcDyhAw/UoXI8CNUAzMzMzM7MmQMP1KFyPwi5A"
+      },
+      "xaxis": "x8",
+      "yaxis": "y8"
+    },
+    {
+      "type": "bar",
+      "name": "smoker=Yes",
+      "alignmentgroup": "True",
+      "offsetgroup": "smoker=Yes",
+      "legendgroup": "smoker=Yes",
+      "showlegend": false,
+      "marker": {
+        "color": "#EF553B"
+      },
+      "x": [
+        "Male",
+        "Male",
+        "Male",
+        "Female",
+        "Male",
+        "Male",
+        "Male",
+        "Male",
+        "Female",
+        "Female",
+        "Male",
+        "Male",
+        "Female",
+        "Female",
+        "Female",
+        "Male",
+        "Female"
+      ],
+      "y": {
+        "dtype": "f8",
+        "bdata": "cT0K16NwM0DXo3A9CldAQAAAAAAAADBAj8L1KFzPM0BxPQrXo3A8QPYoXI/C9S5AFK5H4XqUMECuR+F6FK4kQK5H4XoUjkVAAAAAAAAAKkCF61G4HgUrQPYoXI/CtTJAexSuR+F6KUAAAAAAAAAqQGZmZmZmZjBASOF6FK6HNEC4HoXrUXgwQA=="
+      },
+      "xaxis": "x3",
+      "yaxis": "y3"
+    },
+    {
+      "type": "bar",
+      "name": "smoker=Yes",
+      "alignmentgroup": "True",
+      "offsetgroup": "smoker=Yes",
+      "legendgroup": "smoker=Yes",
+      "showlegend": false,
+      "marker": {
+        "color": "#EF553B"
+      },
+      "x": [
+        "Male",
+        "Female",
+        "Male",
+        "Male",
+        "Female",
+        "Female"
+      ],
+      "y": {
+        "dtype": "f8",
+        "bdata": "UrgehetRKEDXo3A9CtcqQClcj8L1KCFA16NwPQrXKkCF61G4HkUwQK5H4XoULiRA"
+      },
+      "xaxis": "x4",
+      "yaxis": "y4"
+    }
+  ],
+  "layout": {
+    "annotations": [
+      {
+        "showarrow": false,
+        "text": "day=Sun",
+        "x": 0.11499999999999999,
+        "xanchor": "center",
+        "xref": "paper",
+        "y": 1,
+        "yanchor": "bottom",
+        "yref": "paper"
+      },
+      {
+        "showarrow": false,
+        "text": "day=Sat",
+        "x": 0.365,
+        "xanchor": "center",
+        "xref": "paper",
+        "y": 1,
+        "yanchor": "bottom",
+        "yref": "paper"
+      },
+      {
+        "showarrow": false,
+        "text": "day=Thur",
+        "x": 0.615,
+        "xanchor": "center",
+        "xref": "paper",
+        "y": 1,
+        "yanchor": "bottom",
+        "yref": "paper"
+      },
+      {
+        "showarrow": false,
+        "text": "day=Fri",
+        "x": 0.865,
+        "xanchor": "center",
+        "xref": "paper",
+        "y": 1,
+        "yanchor": "bottom",
+        "yref": "paper"
+      },
+      {
+        "showarrow": false,
+        "text": "time=Lunch",
+        "textangle": 90,
+        "x": 0.98,
+        "xanchor": "left",
+        "xref": "paper",
+        "y": 0.2425,
+        "yanchor": "middle",
+        "yref": "paper"
+      },
+      {
+        "showarrow": false,
+        "text": "time=Dinner",
+        "textangle": 90,
+        "x": 0.98,
+        "xanchor": "left",
+        "xref": "paper",
+        "y": 0.7575000000000001,
+        "yanchor": "middle",
+        "yref": "paper"
+      }
+    ],
+    "barmode": "group",
+    "legend": {
+      "tracegroupgap": 0
+    },
+    "margin": {
+      "t": 60
+    },
+    "xaxis": {
+      "anchor": "y",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAABwPQrXo3DNPw=="
+      },
+      "title": {
+        "text": "sex"
+      },
+      "categoryarray": [
+        "Male",
+        "Female"
+      ]
+    },
+    "xaxis2": {
+      "anchor": "y2",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "////////zz+4HoXrUbjePw=="
+      },
+      "matches": "x",
+      "title": {
+        "text": "sex"
+      }
+    },
+    "xaxis3": {
+      "anchor": "y3",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "////////3z9cj8L1KFznPw=="
+      },
+      "matches": "x",
+      "title": {
+        "text": "sex"
+      }
+    },
+    "xaxis4": {
+      "anchor": "y4",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAA6D9cj8L1KFzvPw=="
+      },
+      "matches": "x",
+      "title": {
+        "text": "sex"
+      }
+    },
+    "xaxis5": {
+      "anchor": "y5",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAABwPQrXo3DNPw=="
+      },
+      "matches": "x",
+      "showticklabels": false
+    },
+    "xaxis6": {
+      "anchor": "y6",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "////////zz+4HoXrUbjePw=="
+      },
+      "matches": "x",
+      "showticklabels": false
+    },
+    "xaxis7": {
+      "anchor": "y7",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "////////3z9cj8L1KFznPw=="
+      },
+      "matches": "x",
+      "showticklabels": false
+    },
+    "xaxis8": {
+      "anchor": "y8",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAA6D9cj8L1KFzvPw=="
+      },
+      "matches": "x",
+      "showticklabels": false
+    },
+    "yaxis": {
+      "anchor": "x",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAAAK16NwPQrfPw=="
+      },
+      "title": {
+        "text": "total_bill"
+      }
+    },
+    "yaxis2": {
+      "anchor": "x2",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAAAK16NwPQrfPw=="
+      },
+      "matches": "y",
+      "showticklabels": false
+    },
+    "yaxis3": {
+      "anchor": "x3",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAAAK16NwPQrfPw=="
+      },
+      "matches": "y",
+      "showticklabels": false
+    },
+    "yaxis4": {
+      "anchor": "x4",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAAAK16NwPQrfPw=="
+      },
+      "matches": "y",
+      "showticklabels": false
+    },
+    "yaxis5": {
+      "anchor": "x5",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "exSuR+F64D8AAAAAAADwPw=="
+      },
+      "matches": "y",
+      "title": {
+        "text": "total_bill"
+      }
+    },
+    "yaxis6": {
+      "anchor": "x6",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "exSuR+F64D8AAAAAAADwPw=="
+      },
+      "matches": "y",
+      "showticklabels": false
+    },
+    "yaxis7": {
+      "anchor": "x7",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "exSuR+F64D8AAAAAAADwPw=="
+      },
+      "matches": "y",
+      "showticklabels": false
+    },
+    "yaxis8": {
+      "anchor": "x8",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "exSuR+F64D8AAAAAAADwPw=="
+      },
+      "matches": "y",
+      "showticklabels": false
+    },
+    "title": {
+      "text": "Matching missing axes 'x' and 'y'<br>with categoryarray set in xaxis",
+      "x": 0.05,
+      "y": 0.2
+    }
+  }
+}

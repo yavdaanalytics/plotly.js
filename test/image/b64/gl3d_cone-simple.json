@@ -1,0 +1,99 @@
+{
+  "data": [
+    {
+      "type": "cone",
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "z": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "u": {
+        "dtype": "i1",
+        "bdata": "AQAA"
+      },
+      "v": {
+        "dtype": "i1",
+        "bdata": "AAMA"
+      },
+      "w": {
+        "dtype": "i1",
+        "bdata": "AAAC"
+      },
+      "sizemode": "absolute",
+      "sizeref": 2,
+      "anchor": "tip",
+      "colorbar": {
+        "x": 0,
+        "xanchor": "right"
+      }
+    },
+    {
+      "type": "cone",
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "z": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "u": {
+        "dtype": "i1",
+        "bdata": "AQAA"
+      },
+      "v": {
+        "dtype": "i1",
+        "bdata": "AAMA"
+      },
+      "w": {
+        "dtype": "i1",
+        "bdata": "AAAC"
+      },
+      "scene": "scene2"
+    }
+  ],
+  "layout": {
+    "scene": {
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAAAAAAAAAAAADgPw=="
+        }
+      },
+      "camera": {
+        "eye": {
+          "x": -1.57,
+          "y": 1.36,
+          "z": 0.58
+        }
+      }
+    },
+    "scene2": {
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAA4D8AAAAAAADwPw=="
+        }
+      },
+      "camera": {
+        "eye": {
+          "x": -1.57,
+          "y": 1.36,
+          "z": 0.58
+        }
+      }
+    },
+    "width": 800
+  }
+}

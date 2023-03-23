@@ -1,0 +1,59 @@
+{
+  "data": [
+    {
+      "type": "scatter3d",
+      "x": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAwWUApXI/C9bBjQNejcD0Kl2FAKVyPwvXAYEA="
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "uB6F61GoWcBSuB6F66FbwK5H4XoUPljAexSuR+FyZMA="
+      },
+      "z": {
+        "dtype": "f8",
+        "bdata": "uB6F61GoWcBSuB6F66FbwK5H4XoUPljAexSuR+FyZMA="
+      },
+      "marker": {
+        "color": [
+          "blue",
+          "red",
+          "orange",
+          "black"
+        ],
+        "line": {
+          "color": [
+            "black",
+            "blue"
+          ],
+          "width": 1
+        },
+        "size": {
+          "dtype": "i1",
+          "bdata": "ChQeKA=="
+        },
+        "symbol": [
+          "circle",
+          "square",
+          "cross"
+        ]
+      }
+    }
+  ],
+  "layout": {
+    "title": {
+      "text": "Scatter3d arrayOk"
+    },
+    "scene": {
+      "aspectratio": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    },
+    "height": 579,
+    "width": 1071,
+    "autosize": true,
+    "showlegend": false
+  }
+}

@@ -1,0 +1,321 @@
+{
+  "data": [
+    {
+      "type": "bar",
+      "x": [
+        "A",
+        "b",
+        "c",
+        "d",
+        "E"
+      ],
+      "y": [
+        null,
+        0.25,
+        0.5,
+        0.75,
+        1
+      ],
+      "text": [
+        null,
+        0.25,
+        0.5,
+        0.75,
+        1
+      ],
+      "insidetextanchor": "middle",
+      "cliponaxis": false
+    },
+    {
+      "type": "bar",
+      "marker": {
+        "line": {
+          "width": "1e1"
+        }
+      },
+      "x": [
+        "A",
+        "b",
+        "c",
+        "d",
+        "E"
+      ],
+      "y": [
+        0,
+        0,
+        0.5,
+        null,
+        1
+      ],
+      "text": [
+        0,
+        0,
+        0.5,
+        null,
+        1
+      ],
+      "insidetextanchor": "middle",
+      "cliponaxis": false
+    },
+    {
+      "type": "bar",
+      "x": [
+        "A",
+        "b",
+        "c",
+        "d",
+        "E"
+      ],
+      "y": [
+        null,
+        0.25,
+        0.5,
+        0.75,
+        1
+      ],
+      "text": [
+        null,
+        0.25,
+        0.5,
+        0.75,
+        1
+      ],
+      "insidetextanchor": "middle",
+      "cliponaxis": false,
+      "xaxis": "x2",
+      "yaxis": "y2"
+    },
+    {
+      "type": "bar",
+      "marker": {
+        "line": {
+          "width": "1e1"
+        }
+      },
+      "x": [
+        "A",
+        "b",
+        "c",
+        "d",
+        "E"
+      ],
+      "y": [
+        0,
+        0,
+        0.5,
+        null,
+        1
+      ],
+      "text": [
+        0,
+        0,
+        0.5,
+        null,
+        1
+      ],
+      "insidetextanchor": "middle",
+      "cliponaxis": false,
+      "xaxis": "x2",
+      "yaxis": "y2"
+    },
+    {
+      "type": "bar",
+      "orientation": "h",
+      "y": [
+        "A",
+        "b",
+        "c",
+        "d",
+        "E"
+      ],
+      "x": [
+        null,
+        0.25,
+        0.5,
+        0.75,
+        1
+      ],
+      "text": [
+        null,
+        0.25,
+        0.5,
+        0.75,
+        1
+      ],
+      "insidetextanchor": "middle",
+      "cliponaxis": false,
+      "xaxis": "x3",
+      "yaxis": "y3"
+    },
+    {
+      "type": "bar",
+      "marker": {
+        "line": {
+          "width": "1e1"
+        }
+      },
+      "orientation": "h",
+      "y": [
+        "A",
+        "b",
+        "c",
+        "d",
+        "E"
+      ],
+      "x": [
+        0,
+        0,
+        0.5,
+        null,
+        1
+      ],
+      "text": [
+        0,
+        0,
+        0.5,
+        null,
+        1
+      ],
+      "insidetextanchor": "middle",
+      "cliponaxis": false,
+      "xaxis": "x3",
+      "yaxis": "y3"
+    },
+    {
+      "type": "bar",
+      "orientation": "h",
+      "y": [
+        "A",
+        "b",
+        "c",
+        "d",
+        "E"
+      ],
+      "x": [
+        null,
+        0.25,
+        0.5,
+        0.75,
+        1
+      ],
+      "text": [
+        null,
+        0.25,
+        0.5,
+        0.75,
+        1
+      ],
+      "insidetextanchor": "middle",
+      "cliponaxis": false,
+      "xaxis": "x4",
+      "yaxis": "y4"
+    },
+    {
+      "type": "bar",
+      "marker": {
+        "line": {
+          "width": "1e1"
+        }
+      },
+      "orientation": "h",
+      "y": [
+        "A",
+        "b",
+        "c",
+        "d",
+        "E"
+      ],
+      "x": [
+        0,
+        0,
+        0.5,
+        null,
+        1
+      ],
+      "text": [
+        0,
+        0,
+        0.5,
+        null,
+        1
+      ],
+      "insidetextanchor": "middle",
+      "cliponaxis": false,
+      "xaxis": "x4",
+      "yaxis": "y4"
+    }
+  ],
+  "layout": {
+    "showlegend": true,
+    "width": 800,
+    "height": 800,
+    "dragmode": "pan",
+    "barmode": "relative",
+    "xaxis": {
+      "zeroline": false,
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAAC4HoXrUbjePw=="
+      }
+    },
+    "xaxis2": {
+      "zeroline": false,
+      "autorange": "reversed",
+      "anchor": "y2",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "pHA9Ctej4D8AAAAAAADwPw=="
+      }
+    },
+    "xaxis3": {
+      "zeroline": false,
+      "anchor": "y3",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAAC4HoXrUbjePw=="
+      }
+    },
+    "xaxis4": {
+      "zeroline": false,
+      "autorange": "reversed",
+      "anchor": "y4",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "pHA9Ctej4D8AAAAAAADwPw=="
+      }
+    },
+    "yaxis": {
+      "zeroline": false,
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAAC4HoXrUbjePw=="
+      }
+    },
+    "yaxis2": {
+      "zeroline": false,
+      "autorange": "reversed",
+      "anchor": "x2",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "pHA9Ctej4D8AAAAAAADwPw=="
+      }
+    },
+    "yaxis3": {
+      "zeroline": false,
+      "anchor": "x3",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "pHA9Ctej4D8AAAAAAADwPw=="
+      }
+    },
+    "yaxis4": {
+      "zeroline": false,
+      "autorange": "reversed",
+      "anchor": "x4",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAAC4HoXrUbjePw=="
+      }
+    }
+  }
+}

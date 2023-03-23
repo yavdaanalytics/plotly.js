@@ -1,0 +1,47 @@
+{
+  "data": [
+    {
+      "type": "sankey",
+      "arrangement": "freeform",
+      "node": {
+        "label": [
+          "0",
+          "1",
+          "2",
+          "3",
+          "4",
+          "5"
+        ],
+        "x": {
+          "dtype": "f8",
+          "bdata": "/Knx0k1iwD/8qfHSTWLAPxfZzvdT4+E/H4XrUbge6T+6SQwCK4fWPxfZzvdT4+E/"
+        },
+        "y": {
+          "dtype": "f8",
+          "bdata": "BFYOLbKd5z8fhetRuB7FPz0K16NwPco/9ihcj8L12D8fhetRuB7FP/yp8dJNYtA/"
+        }
+      },
+      "link": {
+        "source": {
+          "dtype": "i1",
+          "bdata": "AAABAgUEAwU="
+        },
+        "target": {
+          "dtype": "i1",
+          "bdata": "BQMEAwACAgM="
+        },
+        "value": {
+          "dtype": "i1",
+          "bdata": "AQIBAQEBAQI="
+        }
+      }
+    }
+  ],
+  "layout": {
+    "title": {
+      "text": "Sankey with manually positioned node"
+    },
+    "width": 800,
+    "height": 800
+  }
+}

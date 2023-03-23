@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AAECAwQFBgcICQoLDA0ODxAREhMUFRYXGBkaGxwdHh8gISIjJCUmJygpKissLS4vMDEyMzQ1"
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AAE="
+      },
+      "z": {
+        "dtype": "f8",
+        "bdata": "4zYawFsgDkBuNIC3QAIEQFD8GHPXkgBAryXkg57N+j/8GHPXEvLrPzy9UpYhjvM/vVKWIY515z/V52or9pfhP6jGSzeJQfG/aJHtfD81rr9wzojS3uDhvyBj7lpCPuC/gQTFjzF34b/T3uALk6nxv+SDns2qz+m/M8SxLm6j9r9j7lpCPujvvzhnRGlv8Om/vJaQD3o26b9aZDvfT43Hv4bJVMGopMY/T6+UZYhj0b+b5h2n6Ej1P4NRSZ2AJuo/GeJYF7fR6j/eAgmKH2PsP8iYu5aQD8o/jZduEoPA0j/wp8ZLN4nhP9lfdk8eFuQ/9bnaiv1l3z8KaCJseHrhPy6QoPgx5ui/vJaQD3o25b8OvjCZKhjvv2Rd3EYDeOm/FK5H4XoU4r8Zc9cS8kHfv1K4HoXrUdS/kzoBTYQN4b9Wn6ut2F/sv+F6FK5H4eq/nYAmwoan8b/nHafoSC7wv6foSC7/IeO/FR3J5T+k07+8dJMYBFbmv5/Nqs/VVti/zojS3uAL27/IBz2bVZ/XP2Q730+Nl74/EoPAyqFFtj+4QILix5jLvyDSb18Hzpm/wFsgQfFjxD8OLbKd76feP1yPwvUoXL8/O3DOiNLe0D8nwoanV8r6P8/3U+Olm/Y/VHQkl/+Q7j8KaCJseHrdP8pUwaikTglATx4Wak3z+D88TtGRXP73Px4Wak3zjvg/yXa+nxov+T+U9gZfmEz+P7N78rBQa+4/qDXNO07R6z8sZRniWBf5vyh+jLlrCfa/eJyiI7n89b+4rwPnjCj8vy1DHOviNvG/wcqhRbbz77/HKTqSy3/Yv/tcbcX+ssu/Gy/dJAaB8L+t+lxtxf7qv7u4jQbwFuK/f9k9eVio57/tnjws1Jriv3KKjuTyH+y/nu+nxks3679vEoPAyqHrv3EbDeAtkMi/RpT2Bl+Y0L8jSnuDL0zGv/yp8dJNYqA/WvW52or96b+utmJ/2T3nvyZTBaOSOuW/vHSTGARW3r+ad5yiI7nuv+VhodY07+S/GQRWDi2y4b9YqDXNO07dvxE2PL1SluU/1sVtNIC34j/mP6Tfvg7UP6wcWmQ7388/SL99HThn1D80ETY8vVK2P2b35GGh1rS/kDF3LSEfpL+DwMqhRbajv5M6AU2EDdc/",
+        "shape": "2, 54"
+      },
+      "type": "heatmap",
+      "showscale": true,
+      "colorbar": {
+        "thicknessmode": "fraction",
+        "thickness": 0.01,
+        "lenmode": "fraction",
+        "len": 0.3,
+        "outlinecolor": "white",
+        "nticks": 2,
+        "ticklen": 0,
+        "tickvals": {
+          "dtype": "f8",
+          "bdata": "uK8D54wo/L9Q/Bhz1xLKv+M2GsBbIA5A"
+        },
+        "ticktext": [
+          "low",
+          "median",
+          "high"
+        ],
+        "tickcolor": "black",
+        "tickfont": {
+          "family": "Dorid Sans",
+          "color": "black",
+          "size": 10
+        }
+      },
+      "colorscale": "Portland",
+      "showlegend": false,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "name": "",
+      "xgap": 1,
+      "ygap": 1,
+      "zmin": -1.7599,
+      "zmax": 3.7658,
+      "zauto": true
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AAECAwQFBgcICQoLDA0ODxAREhMUFRYXGBkaGxwdHh8gISIjJCUmJygpKissLS4vMDEyMzQ1"
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AAE="
+      },
+      "z": {
+        "dtype": "f8",
+        "bdata": "4zYawFsgDkBuNIC3QAIEQFD8GHPXkgBAryXkg57N+j/8GHPXEvLrPzy9UpYhjvM/vVKWIY515z/V52or9pfhP6jGSzeJQfG/aJHtfD81rr9wzojS3uDhvyBj7lpCPuC/gQTFjzF34b/T3uALk6nxv+SDns2qz+m/M8SxLm6j9r9j7lpCPujvvzhnRGlv8Om/vJaQD3o26b9aZDvfT43Hv4bJVMGopMY/T6+UZYhj0b+b5h2n6Ej1P4NRSZ2AJuo/GeJYF7fR6j/eAgmKH2PsP8iYu5aQD8o/jZduEoPA0j/wp8ZLN4nhP9lfdk8eFuQ/9bnaiv1l3z8KaCJseHrhPy6QoPgx5ui/vJaQD3o25b8OvjCZKhjvv2Rd3EYDeOm/FK5H4XoU4r8Zc9cS8kHfv1K4HoXrUdS/kzoBTYQN4b9Wn6ut2F/sv+F6FK5H4eq/nYAmwoan8b/nHafoSC7wv6foSC7/IeO/FR3J5T+k07+8dJMYBFbmv5/Nqs/VVti/zojS3uAL27/IBz2bVZ/XP2Q730+Nl74/EoPAyqFFtj+4QILix5jLvyDSb18Hzpm/wFsgQfFjxD8OLbKd76feP1yPwvUoXL8/O3DOiNLe0D8nwoanV8r6P8/3U+Olm/Y/VHQkl/+Q7j8KaCJseHrdP8pUwaikTglATx4Wak3z+D88TtGRXP73Px4Wak3zjvg/yXa+nxov+T+U9gZfmEz+P7N78rBQa+4/qDXNO07R6z8sZRniWBf5vyh+jLlrCfa/eJyiI7n89b+4rwPnjCj8vy1DHOviNvG/wcqhRbbz77/HKTqSy3/Yv/tcbcX+ssu/Gy/dJAaB8L+t+lxtxf7qv7u4jQbwFuK/f9k9eVio57/tnjws1Jriv3KKjuTyH+y/nu+nxks3679vEoPAyqHrv3EbDeAtkMi/RpT2Bl+Y0L8jSnuDL0zGv/yp8dJNYqA/WvW52or96b+utmJ/2T3nvyZTBaOSOuW/vHSTGARW3r+ad5yiI7nuv+VhodY07+S/GQRWDi2y4b9YqDXNO07dvxE2PL1SluU/1sVtNIC34j/mP6Tfvg7UP6wcWmQ7388/SL99HThn1D80ETY8vVK2P2b35GGh1rS/kDF3LSEfpL+DwMqhRbajv5M6AU2EDdc/",
+        "shape": "2, 54"
+      },
+      "type": "heatmap",
+      "showscale": false,
+      "xaxis": "x2",
+      "yaxis": "y2"
+    }
+  ],
+  "layout": {
+    "width": 600,
+    "height": 1200,
+    "xaxis": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAADNzMzMzMzsPw=="
+      }
+    },
+    "yaxis": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAA4D/NzMzMzMzsPw=="
+      }
+    },
+    "xaxis2": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAADNzMzMzMzsPw=="
+      }
+    },
+    "yaxis2": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "exSuR+F63D/NzMzMzMzcPw=="
+      }
+    }
+  }
+}

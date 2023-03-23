@@ -1,0 +1,88 @@
+{
+  "data": [
+    {
+      "y": {
+        "dtype": "f8",
+        "bdata": "mpmZmZmZyT+amZmZmZnJPzMzMzMzM+M/AAAAAAAA8D8AAAAAAADgP5qZmZmZmdk/mpmZmZmZyT9mZmZmZmbmP83MzMzMzOw/mpmZmZmZuT8AAAAAAADgPzMzMzMzM9M/"
+      },
+      "x": [
+        "day 1",
+        "day 1",
+        "day 1",
+        "day 1",
+        "day 1",
+        "day 1",
+        "day 2",
+        "day 2",
+        "day 2",
+        "day 2",
+        "day 2",
+        "day 2"
+      ],
+      "name": "kale",
+      "marker": {
+        "color": "#3D9970"
+      },
+      "type": "box"
+    },
+    {
+      "y": {
+        "dtype": "f8",
+        "bdata": "MzMzMzMz4z9mZmZmZmbmPzMzMzMzM9M/MzMzMzMz4z8AAAAAAAAAAAAAAAAAAOA/ZmZmZmZm5j/NzMzMzMzsPwAAAAAAAOA/mpmZmZmZ6T9mZmZmZmbmP5qZmZmZmck/"
+      },
+      "x": [
+        "day 1",
+        "day 1",
+        "day 1",
+        "day 1",
+        "day 1",
+        "day 1",
+        "day 2",
+        "day 2",
+        "day 2",
+        "day 2",
+        "day 2",
+        "day 2"
+      ],
+      "name": "radishes",
+      "marker": {
+        "color": "#FF4136"
+      },
+      "type": "box"
+    },
+    {
+      "y": {
+        "dtype": "f8",
+        "bdata": "mpmZmZmZuT8zMzMzMzPTP5qZmZmZmbk/zczMzMzM7D8zMzMzMzPjPzMzMzMzM+M/zczMzMzM7D8AAAAAAADwPzMzMzMzM9M/MzMzMzMz4z+amZmZmZnpPwAAAAAAAOA/"
+      },
+      "x": [
+        "day 1",
+        "day 1",
+        "day 1",
+        "day 1",
+        "day 1",
+        "day 1",
+        "day 2",
+        "day 2",
+        "day 2",
+        "day 2",
+        "day 2",
+        "day 2"
+      ],
+      "name": "carrots",
+      "marker": {
+        "color": "#FF851B"
+      },
+      "type": "box"
+    }
+  ],
+  "layout": {
+    "yaxis": {
+      "zeroline": false,
+      "title": {
+        "text": "normalized moisture"
+      }
+    },
+    "boxmode": "group"
+  }
+}

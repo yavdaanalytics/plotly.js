@@ -1,0 +1,90 @@
+{
+  "data": [
+    {
+      "type": "heatmap",
+      "x": [
+        "Team A",
+        "Team B",
+        "Team C"
+      ],
+      "xaxis": "x",
+      "y": [
+        "Game Three",
+        "Game Two",
+        "Game One"
+      ],
+      "z": {
+        "dtype": "f8",
+        "bdata": "mpmZmZmZuT8zMzMzMzPTPwAAAAAAAOA/AAAAAAAA8D+amZmZmZnpPzMzMzMzM+M/MzMzMzMz4z+amZmZmZnZP5qZmZmZmck/",
+        "shape": "3, 3"
+      },
+      "yaxis": "y",
+      "coloraxis": "coloraxis"
+    },
+    {
+      "type": "heatmap",
+      "x": [
+        "Team B",
+        "Team C"
+      ],
+      "xaxis": "x",
+      "y": [
+        "Game Three",
+        "Game Two",
+        "Game One"
+      ],
+      "z": {
+        "dtype": "f8",
+        "bdata": "MzMzMzMz0z8AAAAAAADgP5qZmZmZmek/MzMzMzMz4z+amZmZmZnZP5qZmZmZmck/",
+        "shape": "3, 2"
+      },
+      "yaxis": "y2",
+      "coloraxis": "coloraxis"
+    }
+  ],
+  "layout": {
+    "xaxis": {
+      "anchor": "y2",
+      "domain": {
+        "dtype": "i1",
+        "bdata": "AAE="
+      },
+      "type": "category",
+      "range": [
+        -0.5,
+        2.5
+      ],
+      "autorange": true
+    },
+    "yaxis": {
+      "anchor": "free",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "ZmZmZmZm4j8AAAAAAADwPw=="
+      },
+      "position": 0,
+      "type": "category",
+      "range": [
+        -0.5,
+        2.5
+      ],
+      "autorange": true
+    },
+    "yaxis2": {
+      "anchor": "x",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAAAzMzMzMzPbPw=="
+      },
+      "type": "category",
+      "range": [
+        -0.5,
+        2.5
+      ],
+      "autorange": true
+    },
+    "coloraxis": {
+      "colorscale": "RdBu"
+    }
+  }
+}

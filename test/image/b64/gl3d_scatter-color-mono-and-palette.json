@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "/P3+/wABAgMEBQY="
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "BwUGBAIDAQP//P4="
+      },
+      "z": {
+        "dtype": "i1",
+        "bdata": "AAAAAAAAAAAAAAA="
+      },
+      "mode": "lines+markers",
+      "line": {
+        "width": 5,
+        "colorscale": "Viridis",
+        "color": {
+          "dtype": "i1",
+          "bdata": "AQIDBAUGBwgJCg=="
+        }
+      },
+      "marker": {
+        "size": 5
+      },
+      "type": "scatter3d"
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "/P3+/wABAgMEBQY="
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "CggJBwUGBAYC/wE="
+      },
+      "z": {
+        "dtype": "i1",
+        "bdata": "AAAAAAAAAAAAAAA="
+      },
+      "mode": "lines",
+      "line": {
+        "width": 8,
+        "color": "magenta"
+      },
+      "type": "scatter3d"
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "/P3+/wABAgMEBQY="
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "DAoLCQcIBggEAQM="
+      },
+      "z": {
+        "dtype": "i1",
+        "bdata": "AAAAAAAAAAAAAAA="
+      },
+      "mode": "lines+markers",
+      "line": {
+        "width": 8,
+        "color": "magenta"
+      },
+      "marker": {
+        "size": 5
+      },
+      "type": "scatter3d"
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "/P3+/wABAgMEBQY="
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "EA4PDQsMCgwIBQc="
+      },
+      "z": {
+        "dtype": "i1",
+        "bdata": "AAAAAAAAAAAAAAA="
+      },
+      "mode": "lines",
+      "line": {
+        "colorscale": "Viridis",
+        "color": {
+          "dtype": "i1",
+          "bdata": "AQIDBAUGBwgJCg=="
+        },
+        "width": 5
+      },
+      "type": "scatter3d"
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "/P3+/wABAgMEBQY="
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "FBITEQ8QDhAMCQs="
+      },
+      "z": {
+        "dtype": "i1",
+        "bdata": "AAAAAAAAAAAAAAA="
+      },
+      "mode": "lines",
+      "line": {
+        "width": 4
+      },
+      "type": "scatter3d"
+    }
+  ],
+  "layout": {
+    "title": {
+      "text": "Monochrome and palette based line plots"
+    },
+    "height": 758,
+    "width": 1310
+  }
+}

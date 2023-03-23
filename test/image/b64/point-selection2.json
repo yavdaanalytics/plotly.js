@@ -1,0 +1,170 @@
+{
+  "data": [
+    {
+      "selectedpoints": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "type": "bar",
+      "y": {
+        "dtype": "i1",
+        "bdata": "AQMCBAUH"
+      },
+      "selected": {
+        "marker": {
+          "opacity": 1,
+          "color": "green"
+        }
+      },
+      "unselected": {
+        "marker": {
+          "opacity": 0.5,
+          "color": "red"
+        }
+      }
+    },
+    {
+      "selectedpoints": {
+        "dtype": "i1",
+        "bdata": "AQI="
+      },
+      "type": "histogram",
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "x": {
+        "dtype": "f8",
+        "bdata": "mpmZmZmZyT+amZmZmZnJPzMzMzMzM+M/AAAAAAAA8D8AAAAAAADgP5qZmZmZmdk/mpmZmZmZyT9mZmZmZmbmP83MzMzMzOw/mpmZmZmZuT8AAAAAAADgPzMzMzMzM9M/"
+      },
+      "selected": {
+        "marker": {
+          "opacity": 1,
+          "color": "green"
+        }
+      },
+      "unselected": {
+        "marker": {
+          "opacity": 0.5,
+          "color": "red"
+        }
+      }
+    },
+    {
+      "selectedpoints": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "type": "box",
+      "y": {
+        "dtype": "f8",
+        "bdata": "mpmZmZmZyT+amZmZmZnJPzMzMzMzM+M/AAAAAAAA8D8AAAAAAADgP5qZmZmZmdk/mpmZmZmZyT9mZmZmZmbmP83MzMzMzOw/mpmZmZmZuT8AAAAAAADgPzMzMzMzM9M/"
+      },
+      "boxpoints": "all",
+      "xaxis": "x3",
+      "yaxis": "y3",
+      "selected": {
+        "marker": {
+          "opacity": 1,
+          "color": "green"
+        }
+      },
+      "unselected": {
+        "marker": {
+          "opacity": 0.5,
+          "color": "red"
+        }
+      }
+    },
+    {
+      "selectedpoints": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "type": "violin",
+      "y": {
+        "dtype": "f8",
+        "bdata": "mpmZmZmZyT+amZmZmZnJPzMzMzMzM+M/AAAAAAAA8D8AAAAAAADgP5qZmZmZmdk/mpmZmZmZyT9mZmZmZmbmP83MzMzMzOw/mpmZmZmZuT8AAAAAAADgPzMzMzMzM9M/"
+      },
+      "points": "all",
+      "xaxis": "x4",
+      "yaxis": "y4",
+      "selected": {
+        "marker": {
+          "opacity": 1,
+          "color": "green"
+        }
+      },
+      "unselected": {
+        "marker": {
+          "opacity": 0.5,
+          "color": "red"
+        }
+      }
+    }
+  ],
+  "layout": {
+    "dragmode": "select",
+    "showlegend": false,
+    "width": 500,
+    "height": 500,
+    "margin": {
+      "l": 20,
+      "b": 0,
+      "t": 0,
+      "r": 20
+    },
+    "xaxis": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAAC4HoXrUbjePw=="
+      }
+    },
+    "yaxis": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAAC4HoXrUbjePw=="
+      }
+    },
+    "xaxis2": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "pHA9Ctej4D8AAAAAAADwPw=="
+      },
+      "anchor": "y2"
+    },
+    "yaxis2": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAAC4HoXrUbjePw=="
+      },
+      "anchor": "x2"
+    },
+    "xaxis3": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAAC4HoXrUbjePw=="
+      },
+      "anchor": "y3"
+    },
+    "yaxis3": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "pHA9Ctej4D8AAAAAAADwPw=="
+      },
+      "anchor": "x3"
+    },
+    "xaxis4": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "pHA9Ctej4D8AAAAAAADwPw=="
+      },
+      "anchor": "y4"
+    },
+    "yaxis4": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "pHA9Ctej4D8AAAAAAADwPw=="
+      },
+      "anchor": "x4"
+    }
+  }
+}

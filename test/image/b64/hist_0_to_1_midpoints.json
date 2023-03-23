@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "x": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAAC4HoXrUbieP6RwPQrXo8A/AAAAAAAA0D8fhetRuB7VP4XrUbgehds/9ihcj8L14D8pXI/C9SjkPwAAAAAAAOg/j8L1KFyP6j/D9Shcj8LtPwAAAAAAAPA/"
+      },
+      "type": "histogram"
+    }
+  ],
+  "layout": {
+    "height": 300,
+    "width": 400
+  }
+}

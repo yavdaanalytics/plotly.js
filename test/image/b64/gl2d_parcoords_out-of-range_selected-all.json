@@ -1,0 +1,49 @@
+{
+  "data": [
+    {
+      "type": "parcoords",
+      "line": {
+        "colorscale": "Portland",
+        "color": {
+          "dtype": "i1",
+          "bdata": "AQIDBAUGBwg="
+        }
+      },
+      "dimensions": [
+        {
+          "label": "A",
+          "constraintrange": {
+            "dtype": "f8",
+            "bdata": "AAAAAAAABEAAAAAAAAAkQA=="
+          },
+          "values": {
+            "dtype": "i1",
+            "bdata": "AQIDBAUGBwg="
+          },
+          "range": [
+            2.5,
+            10
+          ]
+        },
+        {
+          "label": "B",
+          "values": {
+            "dtype": "i1",
+            "bdata": "AQIDBQgNFiM="
+          },
+          "range": [
+            0,
+            20
+          ]
+        }
+      ]
+    }
+  ],
+  "layout": {
+    "width": 400,
+    "height": 400,
+    "title": {
+      "text": "Should not select out of range values"
+    }
+  }
+}

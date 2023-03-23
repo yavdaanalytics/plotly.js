@@ -1,0 +1,14 @@
+{
+  "data": [
+    {
+      "y": {
+        "dtype": "i1",
+        "bdata": "AAEBAgMFCA0V"
+      },
+      "boxpoints": "all",
+      "jitter": 0,
+      "pointpos": -0.5,
+      "type": "box"
+    }
+  ]
+}

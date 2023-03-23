@@ -1,0 +1,136 @@
+{
+  "data": [
+    {
+      "type": "contour",
+      "contours": {
+        "coloring": "fill",
+        "showlabels": true
+      },
+      "z": {
+        "dtype": "i1",
+        "bdata": "AQIBAgQBAwQE",
+        "shape": "3, 3"
+      },
+      "colorscale": "Greys",
+      "showscale": false,
+      "showlegend": true,
+      "name": "fill"
+    },
+    {
+      "type": "contour",
+      "contours": {
+        "coloring": "lines",
+        "showlabels": true
+      },
+      "z": {
+        "dtype": "i1",
+        "bdata": "AQIDBAUGBwgJ",
+        "shape": "3, 3"
+      },
+      "showscale": false,
+      "showlegend": true,
+      "line": {
+        "width": 2,
+        "dash": "dot"
+      },
+      "name": "lines"
+    },
+    {
+      "type": "contour",
+      "contours": {
+        "coloring": "none",
+        "showlabels": true
+      },
+      "z": {
+        "dtype": "i1",
+        "bdata": "AQQHAgUIAwYJ",
+        "shape": "3, 3"
+      },
+      "line": {
+        "color": "#0f0"
+      },
+      "name": "none"
+    },
+    {
+      "type": "contour",
+      "contours": {
+        "type": "constraint",
+        "operation": "[]",
+        "value": {
+          "dtype": "i1",
+          "bdata": "Awc="
+        },
+        "showlabels": true
+      },
+      "z": {
+        "dtype": "i1",
+        "bdata": "AwIBBgUECQgH",
+        "shape": "3, 3"
+      },
+      "line": {
+        "color": "#f88"
+      },
+      "name": "constraint"
+    },
+    {
+      "type": "contour",
+      "contours": {
+        "coloring": "heatmap"
+      },
+      "line": {
+        "width": 3,
+        "color": "#cf0",
+        "dash": "dashdot"
+      },
+      "z": {
+        "dtype": "i1",
+        "bdata": "AQIDBA==",
+        "shape": "2, 2"
+      },
+      "showscale": false,
+      "showlegend": true,
+      "y": {
+        "dtype": "i1",
+        "bdata": "AgM="
+      },
+      "name": "heatmap"
+    },
+    {
+      "type": "histogram2dcontour",
+      "contours": {
+        "coloring": "heatmap"
+      },
+      "xbins": {
+        "start": 0.5,
+        "end": 2.5,
+        "size": 1
+      },
+      "ybins": {
+        "start": 1.5,
+        "end": 3.5,
+        "size": 1
+      },
+      "line": {
+        "color": "#f00",
+        "dash": "dot"
+      },
+      "showscale": false,
+      "showlegend": true,
+      "colorscale": "Viridis",
+      "x": {
+        "dtype": "f8",
+        "bdata": "mpmZmZmZ8T+amZmZmZnxP5qZmZmZmfE/zczMzMzM/D/NzMzMzMz8P5qZmZmZmfE/zczMzMzM/D/NzMzMzMz8P83MzMzMzPw/zczMzMzM/D8="
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "mpmZmZmZAUBmZmZmZmYGQGZmZmZmZgZAmpmZmZmZAUCamZmZmZkBQGZmZmZmZgZAZmZmZmZmBkBmZmZmZmYGQGZmZmZmZgZAZmZmZmZmBkA="
+      },
+      "name": "histogram"
+    }
+  ],
+  "layout": {
+    "autosize": false,
+    "height": 400,
+    "width": 500
+  }
+}

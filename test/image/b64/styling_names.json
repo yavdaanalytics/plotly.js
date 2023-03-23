@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AAECAwQFBgcI"
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AAECAwQFBgcI"
+      },
+      "name": "Name of Trace 1",
+      "type": "scatter"
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AAECAwQFBgcI"
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AQADAgUEBwYI"
+      },
+      "name": "Name of Trace 2",
+      "type": "scatter"
+    }
+  ],
+  "layout": {
+    "title": {
+      "text": "Plot Title"
+    },
+    "xaxis": {
+      "title": {
+        "font": {
+          "color": "#7f7f7f",
+          "family": "Courier New, monospace",
+          "size": 18
+        },
+        "text": "x Axis"
+      }
+    },
+    "yaxis": {
+      "title": {
+        "font": {
+          "color": "#7f7f7f",
+          "family": "Courier New, monospace",
+          "size": 18
+        },
+        "text": "y Axis"
+      }
+    }
+  }
+}

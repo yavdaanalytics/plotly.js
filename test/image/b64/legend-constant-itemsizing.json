@@ -1,0 +1,232 @@
+{
+  "data": [
+    {
+      "mode": "markers",
+      "name": "markers",
+      "y": {
+        "dtype": "i1",
+        "bdata": "AQEB"
+      },
+      "marker": {
+        "size": {
+          "dtype": "i1",
+          "bdata": "FCge"
+        },
+        "line": {
+          "width": 10,
+          "color": "#444"
+        }
+      }
+    },
+    {
+      "type": "bar",
+      "name": "bar",
+      "base": 2,
+      "y": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAA4D8AAAAAAADgPwAAAAAAAOA/"
+      },
+      "marker": {
+        "line": {
+          "width": 15
+        }
+      }
+    },
+    {
+      "mode": "lines",
+      "name": "lines",
+      "y": {
+        "dtype": "i1",
+        "bdata": "AwMD"
+      },
+      "line": {
+        "width": 30
+      }
+    },
+    {
+      "mode": "markers+lines+text",
+      "name": "all modes",
+      "y": {
+        "dtype": "i1",
+        "bdata": "BAQE"
+      },
+      "text": [
+        "a",
+        "b",
+        "c"
+      ],
+      "textposition": "bottom left",
+      "line": {
+        "width": 20
+      },
+      "marker": {
+        "size": 50,
+        "line": {
+          "width": {
+            "dtype": "i1",
+            "bdata": "Cg8O"
+          },
+          "color": "#444"
+        }
+      }
+    },
+    {
+      "type": "waterfall",
+      "name": "waterfall",
+      "base": 5,
+      "y": [
+        1,
+        -0.5,
+        null
+      ],
+      "measure": [
+        "",
+        "",
+        "total"
+      ],
+      "connector": {
+        "visible": false
+      },
+      "increasing": {
+        "marker": {
+          "line": {
+            "width": 20
+          }
+        }
+      },
+      "decreasing": {
+        "marker": {
+          "line": {
+            "width": 10
+          }
+        }
+      }
+    },
+    {
+      "type": "ohlc",
+      "name": "ohlc",
+      "open": {
+        "dtype": "i1",
+        "bdata": "BwcH"
+      },
+      "high": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAHkAAAAAAAAAeQAAAAAAAAB5A"
+      },
+      "low": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAGkAAAAAAAAAaQAAAAAAAABpA"
+      },
+      "close": {
+        "dtype": "f8",
+        "bdata": "ZmZmZmZmHECamZmZmZkbQGZmZmZmZhxA"
+      },
+      "tickwidth": 0.1,
+      "increasing": {
+        "line": {
+          "width": 12
+        }
+      },
+      "decreasing": {
+        "line": {
+          "width": 13
+        }
+      }
+    },
+    {
+      "type": "candlestick",
+      "name": "candlestick",
+      "x": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAA4D8AAAAAAAD4Pw=="
+      },
+      "open": {
+        "dtype": "i1",
+        "bdata": "Bwc="
+      },
+      "high": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAHkAAAAAAAAAeQA=="
+      },
+      "low": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAGkAAAAAAAAAaQA=="
+      },
+      "close": {
+        "dtype": "f8",
+        "bdata": "mpmZmZmZHUBmZmZmZmYaQA=="
+      },
+      "increasing": {
+        "line": {
+          "width": 15
+        }
+      },
+      "decreasing": {
+        "line": {
+          "width": 0
+        }
+      }
+    },
+    {
+      "type": "pie",
+      "name": "pie",
+      "labels": [
+        "pie"
+      ],
+      "marker": {
+        "line": {
+          "width": 20
+        }
+      },
+      "domain": {
+        "y": {
+          "dtype": "f8",
+          "bdata": "cT0K16Nw7T8AAAAAAADwPw=="
+        }
+      },
+      "textinfo": "none"
+    }
+  ],
+  "layout": {
+    "xaxis": {
+      "visible": false,
+      "rangeslider": {
+        "visible": false
+      }
+    },
+    "yaxis": {
+      "visible": false,
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAADNzMzMzMzsPw=="
+      }
+    },
+    "showlegend": true,
+    "legend": {
+      "x": 0,
+      "xanchor": "right",
+      "y": 0.5,
+      "yanchor": "center",
+      "itemsizing": "constant",
+      "traceorder": "reversed"
+    },
+    "margin": {
+      "t": 10,
+      "b": 10,
+      "r": 10
+    },
+    "width": 600,
+    "height": 450,
+    "title": {
+      "text": "legend.itemsizing: constant",
+      "font": {
+        "size": 20
+      },
+      "x": 0.05,
+      "xanchor": "left",
+      "xref": "cont",
+      "y": 0.95,
+      "yanchor": "top"
+    }
+  }
+}

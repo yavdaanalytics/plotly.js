@@ -1,0 +1,228 @@
+{
+  "data": [
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "y": {
+        "dtype": "i2",
+        "bdata": "LABYAIQA"
+      },
+      "name": "trace with wide trace name 0"
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "y": {
+        "dtype": "i2",
+        "bdata": "WACwAAgB"
+      },
+      "name": "trace with wide trace name 1",
+      "yaxis": "y2"
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "AAAAAACAYEAAAAAAAIBwQAEAAAAAwHhA"
+      },
+      "name": "trace with wide trace name 2"
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "y": {
+        "dtype": "i2",
+        "bdata": "sABgARAC"
+      },
+      "name": "trace with wide trace name 3",
+      "yaxis": "y2",
+      "visible": "legendonly"
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "y": {
+        "dtype": "i2",
+        "bdata": "3AC4AZQC"
+      },
+      "name": "trace with wide trace name 4",
+      "visible": "legendonly"
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "y": {
+        "dtype": "i2",
+        "bdata": "CAEQAhgD"
+      },
+      "name": "trace with wide trace name 5",
+      "yaxis": "y2",
+      "visible": "legendonly"
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "AAAAAABAc0AAAAAAAECDQP//////34xA"
+      },
+      "name": "trace with wide trace name 6",
+      "visible": "legendonly"
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "////////dUD///////+FQP//////f5BA"
+      },
+      "name": "trace with wide trace name 7",
+      "yaxis": "y2",
+      "visible": "legendonly"
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "//////+/eED//////7+IQP//////j5JA"
+      },
+      "name": "trace with wide trace name 8",
+      "visible": "legendonly"
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "//////9/e0D//////3+LQP//////n5RA"
+      },
+      "name": "trace with wide trace name 9",
+      "yaxis": "y2",
+      "visible": "legendonly"
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "/v////8/fkD+/////z+OQP//////r5ZA"
+      },
+      "name": "trace with wide trace name 10",
+      "visible": "legendonly"
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "//////9/gED//////3+QQP//////v5hA"
+      },
+      "name": "trace with wide trace name 11",
+      "yaxis": "y2",
+      "visible": "legendonly"
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "///////fgUD//////9+RQP7/////z5pA"
+      },
+      "name": "trace with wide trace name 12",
+      "visible": "legendonly"
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "//////8/g0D//////z+TQP7/////35xA"
+      },
+      "name": "trace with wide trace name 13",
+      "yaxis": "y2",
+      "visible": "legendonly"
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "//////+fhED//////5+UQP7/////755A"
+      },
+      "name": "trace with wide trace name 14",
+      "visible": "legendonly"
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "////////hUD///////+VQP//////f6BA"
+      },
+      "name": "trace with wide trace name 15",
+      "yaxis": "y2",
+      "visible": "legendonly"
+    }
+  ],
+  "layout": {
+    "legend": {
+      "xanchor": "left",
+      "yanchor": "top",
+      "y": 0,
+      "x": 2,
+      "orientation": "h",
+      "bgcolor": "rgb(200, 200, 200)"
+    },
+    "xaxis": {
+      "title": {
+        "text": "X Axis"
+      }
+    },
+    "yaxis": {
+      "title": {
+        "text": "Count#"
+      }
+    },
+    "yaxis2": {
+      "title": {
+        "text": "Y-2Axis"
+      },
+      "overlaying": "y",
+      "side": "right"
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "data": [
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQIDBAUG"
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "ZGQAAAAA"
+      },
+      "fill": "tozeroy",
+      "type": "scattergl"
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQIDBAUG"
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AAAAZGQA"
+      },
+      "fill": "tozeroy",
+      "type": "scattergl",
+      "mode": "none"
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQIDBAUG"
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "Y2NjZGRk"
+      },
+      "type": "scattergl",
+      "mode": "lines+markers"
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQIDBAUG"
+      },
+      "y": [
+        0,
+        0,
+        0,
+        null,
+        50,
+        50
+      ],
+      "fill": "tozeroy",
+      "type": "scattergl",
+      "mode": "none"
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQIDBAUG"
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "ZAAAAABk"
+      },
+      "type": "scattergl",
+      "mode": "lines+markers"
+    }
+  ],
+  "layout": {
+    "margin": {
+      "l": 40,
+      "r": 50,
+      "b": 80,
+      "t": 40
+    },
+    "legend": {
+      "orientation": "h",
+      "x": "0.5",
+      "xanchor": "center"
+    }
+  }
+}

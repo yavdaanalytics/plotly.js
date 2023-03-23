@@ -1,0 +1,34 @@
+{
+  "data": [
+    {
+      "type": "scattergeo",
+      "mode": "markers",
+      "lon": {
+        "dtype": "i2",
+        "bdata": "TP9V/17/Z/9w/3n/gv+L/5T/nf+m/6//uP/B/8r/0//c/+X/7v/3/wAACQASABsAJAAtADYAPwBIAFEAWgBjAGwAdQB+AIcAkACZAKIAqwA="
+      },
+      "lat": {
+        "dtype": "i1",
+        "bdata": "BQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQ=="
+      },
+      "marker": {
+        "size": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAAAABQjZg8xbwkQR6nU3ebbS5B6L1HyP3oJ0HbOIHNHZ8CQdtOLnJIFCHBlBqmEUW3LcGxwm7v7oUqwehoHZVSZxLB5v+xbOYKGkEquKXp3E4sQc1aoSHwgyxBphxiKc4QG0HUnpRDLVERwctFg7LSPCrBFZ+5OBHXLcGzLt7NDIwhwdBqaYVdXwBBcZt/oY6NJ0G4Qn4CYncuQXLMrGSMJiVBEALEY94t0kA/d9QUJ1EkwSgLW9IhYS7Bf5/F301CKMGGokAkN90EwYgM0iwAmyBBD8Ud/tWULUGK7K/DsMwqQXEWhujVexNBVHm9Ma8CGcG4DPe+RhcswTCncbF7tizB5hNFK08UHMEPtVGhfjkQQaTZcoli8SlB270koTf0LUFB66qfQgIiQeTOfcFSPPzAySkhiAgwJ8E="
+        },
+        "sizeref": 10000,
+        "sizemin": 10
+      },
+      "text": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAABQjZg8xbwkQR6nU3ebbS5B6L1HyP3oJ0HbOIHNHZ8CQdtOLnJIFCHBlBqmEUW3LcGxwm7v7oUqwehoHZVSZxLB5v+xbOYKGkEquKXp3E4sQc1aoSHwgyxBphxiKc4QG0HUnpRDLVERwctFg7LSPCrBFZ+5OBHXLcGzLt7NDIwhwdBqaYVdXwBBcZt/oY6NJ0G4Qn4CYncuQXLMrGSMJiVBEALEY94t0kA/d9QUJ1EkwSgLW9IhYS7Bf5/F301CKMGGokAkN90EwYgM0iwAmyBBD8Ud/tWULUGK7K/DsMwqQXEWhujVexNBVHm9Ma8CGcG4DPe+RhcswTCncbF7tizB5hNFK08UHMEPtVGhfjkQQaTZcoli8SlB270koTf0LUFB66qfQgIiQeTOfcFSPPzAySkhiAgwJ8E="
+      }
+    }
+  ],
+  "layout": {
+    "title": {
+      "text": "scattergeo trace scaled bubbles"
+    },
+    "showlegend": true
+  }
+}

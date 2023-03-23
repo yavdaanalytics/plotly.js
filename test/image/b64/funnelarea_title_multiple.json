@@ -1,0 +1,137 @@
+{
+  "data": [
+    {
+      "values": {
+        "dtype": "i4",
+        "bdata": "nEQBAMiWAAAoPAAAXCsAAMwGAABNAAAA"
+      },
+      "labels": [
+        "Palladium",
+        "Platinum",
+        "Ruthenium",
+        "Rhodium",
+        "Iridium",
+        "Osmium"
+      ],
+      "type": "funnelarea",
+      "name": "Year 2013",
+      "title": {
+        "text": "Year<br>2013",
+        "position": "top left"
+      },
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAAAAAAAAAAAADgPw=="
+        },
+        "y": {
+          "dtype": "f8",
+          "bdata": "UrgehetR4D8AAAAAAADwPw=="
+        }
+      },
+      "hoverinfo": "label+percent+name",
+      "textinfo": "none"
+    },
+    {
+      "values": {
+        "dtype": "i4",
+        "bdata": "5GoBAOiyAABcKwAA+CoAAKgHAABCAQAA"
+      },
+      "labels": [
+        "Palladium",
+        "Platinum",
+        "Rhodium",
+        "Ruthenium",
+        "Iridium",
+        "Osmium"
+      ],
+      "type": "funnelarea",
+      "name": "Year 2014",
+      "title": {
+        "text": "Year<br>2014",
+        "position": "top right"
+      },
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "UrgehetR4D8AAAAAAADwPw=="
+        },
+        "y": {
+          "dtype": "f8",
+          "bdata": "UrgehetR4D8AAAAAAADwPw=="
+        }
+      },
+      "hoverinfo": "label+percent+name",
+      "textinfo": "none"
+    },
+    {
+      "values": {
+        "dtype": "i4",
+        "bdata": "NE0BAMymAABoKQAAJiAAAPIDAAAIAAAA"
+      },
+      "labels": [
+        "Palladium",
+        "Platinum",
+        "Rhodium",
+        "Ruthenium",
+        "Iridium",
+        "Osmium"
+      ],
+      "type": "funnelarea",
+      "name": "Year 2015",
+      "title": {
+        "text": "Year<br>2015"
+      },
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAAAAAAAAAAAADgPw=="
+        },
+        "y": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAAAAAAAAAAAADgPw=="
+        }
+      },
+      "hoverinfo": "label+percent+name",
+      "textinfo": "none"
+    },
+    {
+      "values": {
+        "dtype": "i4",
+        "bdata": "EDoBADylAADMKQAA2iAAABQFAAAbAAAA"
+      },
+      "labels": [
+        "Palladium",
+        "Platinum",
+        "Rhodium",
+        "Ruthenium",
+        "Iridium",
+        "Osmium"
+      ],
+      "type": "funnelarea",
+      "name": "Year 2016",
+      "title": {
+        "text": "Year<br>2016"
+      },
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "UrgehetR4D8AAAAAAADwPw=="
+        },
+        "y": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAAAAAAAAAAAADgPw=="
+        }
+      },
+      "hoverinfo": "label+percent+name",
+      "textinfo": "none"
+    }
+  ],
+  "layout": {
+    "title": {
+      "text": "U.S. Imports for Platinum-group Metals"
+    },
+    "height": 400,
+    "width": 500
+  }
+}

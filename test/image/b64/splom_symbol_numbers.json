@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "type": "splom",
+      "marker": {
+        "size": {
+          "dtype": "i1",
+          "bdata": "DBAYIA=="
+        },
+        "symbol": {
+          "dtype": "i2",
+          "bdata": "AQBmAMsAMAE="
+        }
+      },
+      "dimensions": [
+        {
+          "values": {
+            "dtype": "i1",
+            "bdata": "AAECAw=="
+          },
+          "label": "A"
+        },
+        {
+          "values": {
+            "dtype": "i1",
+            "bdata": "AAIFBg=="
+          },
+          "label": "B"
+        }
+      ]
+    }
+  ]
+}

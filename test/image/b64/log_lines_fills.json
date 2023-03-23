@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "x": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAA8L8AAAAAAAD4PwAAAAAAAABAAAAAAAAAAAAAAAAAAADwPwAAAAAAAAhAAAAAAAAAEEAAAAAAAAAUQAAAAAAAABhAAAAAAAAA8D8AAAAAAADwvwAAAAAAAPC/AAAAAAAACEAAAAAAAAAIQAAAAAAAAAAAAAAAAAAAHEAAAAAAAAAcQAAAAAAAAPC/AAAAAAAA8L8="
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAA8L8AAAAAAAD4PwAAAAAAAPA/AAAAAAAA8L8AAAAAAADwvwAAAAAAAPA/AAAAAAAA8D8AAAAAAAAAAAAAAAAAAABAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAABAAAAAAAAACEAAAAAAAAAQQAAAAAAAABRAAAAAAAAAGEAAAAAAAAAAwAAAAAAAAADAAAAAAAAA8L8="
+      },
+      "mode": "markers+lines",
+      "fill": "toself"
+    },
+    {
+      "x": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAA8L8AAAAAAAD4PwAAAAAAAABAAAAAAAAAAAAAAAAAAADwPwAAAAAAAAhAAAAAAAAAEEAAAAAAAAAUQAAAAAAAABhAAAAAAAAA8D8AAAAAAADwvwAAAAAAAPC/AAAAAAAACEAAAAAAAAAIQAAAAAAAAAAAAAAAAAAAHEAAAAAAAAAcQAAAAAAAAPC/AAAAAAAA8L8="
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAA8L8AAAAAAAD4PwAAAAAAAPA/AAAAAAAA8L8AAAAAAADwvwAAAAAAAPA/AAAAAAAA8D8AAAAAAAAAAAAAAAAAAABAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAABAAAAAAAAACEAAAAAAAAAQQAAAAAAAABRAAAAAAAAAGEAAAAAAAAAAwAAAAAAAAADAAAAAAAAA8L8="
+      },
+      "mode": "markers+lines",
+      "fill": "toself",
+      "xaxis": "x2"
+    },
+    {
+      "x": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAA8L8AAAAAAAD4PwAAAAAAAABAAAAAAAAAAAAAAAAAAADwPwAAAAAAAAhAAAAAAAAAEEAAAAAAAAAUQAAAAAAAABhAAAAAAAAA8D8AAAAAAADwvwAAAAAAAPC/AAAAAAAACEAAAAAAAAAIQAAAAAAAAAAAAAAAAAAAHEAAAAAAAAAcQAAAAAAAAPC/AAAAAAAA8L8="
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAA8L8AAAAAAAD4PwAAAAAAAPA/AAAAAAAA8L8AAAAAAADwvwAAAAAAAPA/AAAAAAAA8D8AAAAAAAAAAAAAAAAAAABAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAABAAAAAAAAACEAAAAAAAAAQQAAAAAAAABRAAAAAAAAAGEAAAAAAAAAAwAAAAAAAAADAAAAAAAAA8L8="
+      },
+      "mode": "markers+lines",
+      "fill": "toself",
+      "yaxis": "y2"
+    },
+    {
+      "x": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAA8L8AAAAAAAD4PwAAAAAAAABAAAAAAAAAAAAAAAAAAADwPwAAAAAAAAhAAAAAAAAAEEAAAAAAAAAUQAAAAAAAABhAAAAAAAAA8D8AAAAAAADwvwAAAAAAAPC/AAAAAAAACEAAAAAAAAAIQAAAAAAAAAAAAAAAAAAAHEAAAAAAAAAcQAAAAAAAAPC/AAAAAAAA8L8="
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAA8L8AAAAAAAD4PwAAAAAAAPA/AAAAAAAA8L8AAAAAAADwvwAAAAAAAPA/AAAAAAAA8D8AAAAAAAAAAAAAAAAAAABAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAABAAAAAAAAACEAAAAAAAAAQQAAAAAAAABRAAAAAAAAAGEAAAAAAAAAAwAAAAAAAAADAAAAAAAAA8L8="
+      },
+      "mode": "markers+lines",
+      "fill": "toself",
+      "xaxis": "x2",
+      "yaxis": "y2"
+    },
+    {
+      "x": {
+        "dtype": "f8",
+        "bdata": "exSuR+F6hD+amZmZmZm5Pw=="
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "exSuR+F6hD+amZmZmZm5Pw=="
+      },
+      "mode": "markers",
+      "xaxis": "x2",
+      "yaxis": "y2"
+    }
+  ],
+  "layout": {
+    "width": 800,
+    "height": 600,
+    "xaxis": {
+      "title": {
+        "text": "linear"
+      }
+    },
+    "xaxis2": {
+      "title": {
+        "text": "log"
+      },
+      "type": "log"
+    },
+    "yaxis": {
+      "title": {
+        "text": "linear"
+      }
+    },
+    "yaxis2": {
+      "title": {
+        "text": "log"
+      },
+      "type": "log"
+    },
+    "grid": {
+      "columns": 2,
+      "rows": 2
+    },
+    "showlegend": false,
+    "title": {
+      "text": "<b>Lines to invalid log values</b><br>4 copies of the same self-filled trace, on all combinations of log & linear axes<br>Purple points should lie exactly on an off-to-infinity log-log line to verify that its slope is 1"
+    }
+  }
+}

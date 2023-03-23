@@ -1,0 +1,101 @@
+{
+  "data": [
+    {
+      "domain": {
+        "y": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAAAADNzMzMzMzcPw=="
+        }
+      },
+      "type": "sankey",
+      "orientation": "h",
+      "node": {
+        "line": {
+          "width": 4,
+          "color": "black"
+        },
+        "label": [
+          "<i>Rien ne se perd,<br>rien ne se cr\u00e9e,<br>tout se <b>transforme</b>.</i><sub>",
+          "H<sub>2</sub>O",
+          "<b>e<sup>i\u03c0</sup> = cos i + i sin \u03c0</b>"
+        ]
+      },
+      "link": {
+        "source": {
+          "dtype": "i1",
+          "bdata": "AAI="
+        },
+        "target": {
+          "dtype": "i1",
+          "bdata": "AQE="
+        },
+        "value": {
+          "dtype": "i1",
+          "bdata": "eDI="
+        },
+        "label": [
+          "stram1",
+          "stream2"
+        ]
+      },
+      "textfont": {
+        "color": "darkblue"
+      }
+    },
+    {
+      "domain": {
+        "y": {
+          "dtype": "f8",
+          "bdata": "mpmZmZmZ4T8AAAAAAADwPw=="
+        }
+      },
+      "type": "sankey",
+      "orientation": "v",
+      "node": {
+        "thickness": 50,
+        "line": {
+          "width": 4,
+          "color": "black"
+        },
+        "label": [
+          "<i>Rien ne se perd,<br>rien ne se cr\u00e9e,<br>tout se <b>transforme</b>.</i><sub>",
+          "H<sub>2</sub>O",
+          "<b>e<sup>i\u03c0</sup> = cos i + i sin \u03c0</b>"
+        ]
+      },
+      "link": {
+        "source": {
+          "dtype": "i1",
+          "bdata": "AAI="
+        },
+        "target": {
+          "dtype": "i1",
+          "bdata": "AQE="
+        },
+        "value": {
+          "dtype": "i1",
+          "bdata": "eDI="
+        },
+        "label": [
+          "stram1",
+          "stream2"
+        ]
+      },
+      "textfont": {
+        "color": "darkblue"
+      }
+    },
+    {
+      "visible": false,
+      "type": "sankey"
+    }
+  ],
+  "layout": {
+    "title": {
+      "text": "Multiple Sankey plots"
+    },
+    "width": 600,
+    "height": 600,
+    "showlegend": false
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AgQG"
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "/QAD"
+      },
+      "type": "scattergl"
+    }
+  ],
+  "layout": {
+    "showlegend": false,
+    "xaxis": {
+      "autorange": true,
+      "rangemode": "tozero"
+    },
+    "yaxis": {
+      "autorange": true,
+      "rangemode": "nonnegative"
+    }
+  }
+}

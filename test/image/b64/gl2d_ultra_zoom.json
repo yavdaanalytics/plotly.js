@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "x": {
+        "dtype": "f8",
+        "bdata": "exSuR+F6hD9LLApq4XqEPxtEZozheoQ/7FvCruF6hD+8cx7R4XqEP4yLevPheoQ/XaPWFeJ6hD8tuzI44nqEP/3SjlrieoQ/zurqfOJ6hD+eAkef4nqEPw=="
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "exSuR+F6hD9LLApq4XqEPxtEZozheoQ/7FvCruF6hD+8cx7R4XqEP4yLevPheoQ/XaPWFeJ6hD8tuzI44nqEP/3SjlrieoQ/zurqfOJ6hD+eAkef4nqEPw=="
+      },
+      "mode": "markers",
+      "type": "scatter"
+    }
+  ],
+  "layout": {
+    "autosize": true,
+    "xaxis": {
+      "range": [
+        0.01,
+        0.01000001
+      ],
+      "type": "linear",
+      "autorange": false
+    },
+    "yaxis": {
+      "range": [
+        0.01,
+        0.01000001
+      ],
+      "type": "linear",
+      "autorange": false
+    }
+  }
+}

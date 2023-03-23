@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "orientation": "h",
+      "type": "bar",
+      "marker": {
+        "color": "lightblue"
+      },
+      "textangle": 0,
+      "textposition": "inside",
+      "textfont": {
+        "color": "white",
+        "size": 32
+      },
+      "text": [
+        "1958 | 1962 | 1970 | 1994 | 2002 \ud83c\udde7\ud83c\uddf7",
+        "1954 | 1974 | 1990 | 2014 \ud83c\udde9\ud83c\uddea",
+        "1934 | 1938 | 1982 | 2006 \ud83c\uddee\ud83c\uddf9",
+        "1930 | 1950 \ud83c\uddfa\ud83c\uddfe",
+        "1998 | 2018 \ud83c\uddeb\ud83c\uddf7",
+        "1974 | 1986 \ud83c\udde6\ud83c\uddf7",
+        "1966 \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f",
+        "2010 \ud83c\uddea\ud83c\uddf8"
+      ],
+      "y": [
+        "Brazil",
+        "Germany",
+        "Italy",
+        "Uruguay",
+        "France",
+        "Argentina",
+        "England",
+        "Spain"
+      ],
+      "x": {
+        "dtype": "i1",
+        "bdata": "BQQEAgICAQE="
+      }
+    }
+  ],
+  "layout": {
+    "title": {
+      "text": "<b>FIFA \ud83c\udf0e World Cup \ud83c\udfc6 winners</b>",
+      "font": {
+        "size": 40,
+        "color": "gray"
+      }
+    },
+    "width": 600,
+    "height": 600,
+    "margin": {
+      "l": 20,
+      "r": 20
+    },
+    "yaxis": {
+      "ticklabelposition": "inside",
+      "autorange": "reversed"
+    },
+    "xaxis": {
+      "zeroline": false,
+      "range": [
+        -1,
+        6
+      ],
+      "tickvals": {
+        "dtype": "i1",
+        "bdata": "AAECAwQF"
+      },
+      "ticktext": [
+        "\ud83d\ude10",
+        "\ud83d\ude42",
+        "\ud83d\ude0a",
+        "\ud83e\udd28",
+        "\ud83d\ude03",
+        "\ud83d\ude0e"
+      ],
+      "tickfont": {
+        "size": 32
+      },
+      "title": {
+        "text": "<br><b>An interactive Plotly graph</b>"
+      }
+    }
+  }
+}

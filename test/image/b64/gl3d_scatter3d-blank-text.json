@@ -1,0 +1,155 @@
+{
+  "data": [
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AAECAwQFBgcICQoLDA0ODxAREhM="
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AAAAAAAAAAAAAAAAAAAAAAAAAAA="
+      },
+      "z": {
+        "dtype": "i1",
+        "bdata": "AAEAAgADAAQABQAGAAcACAAJAAo="
+      },
+      "type": "scatter3d",
+      "mode": "lines+text",
+      "line": {
+        "width": 5
+      }
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AAECAwQFBgcICQoLDA0ODxAREhM="
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AQEBAQEBAQEBAQEBAQEBAQEBAQE="
+      },
+      "z": {
+        "dtype": "i1",
+        "bdata": "AAEAAgADAAQABQAGAAcACAAJAAo="
+      },
+      "text": {
+        "dtype": "i1",
+        "bdata": "AAECAwQFBgcICQoLDA0ODxAREhM="
+      },
+      "type": "scatter3d",
+      "mode": "lines+text",
+      "line": {
+        "width": 5
+      }
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AAECAwQFBgcICQoLDA0ODxAREhM="
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AgICAgICAgICAgICAgICAgICAgI="
+      },
+      "z": {
+        "dtype": "i1",
+        "bdata": "AAEAAgADAAQABQAGAAcACAAJAAo="
+      },
+      "text": [
+        0,
+        0.001,
+        0.1,
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        null,
+        "I",
+        null,
+        "K",
+        "L",
+        "M",
+        "N",
+        {
+          "text": "X",
+          "value": 10.01
+        },
+        "Y",
+        "Zzz"
+      ],
+      "type": "scatter3d",
+      "mode": "lines+text",
+      "line": {
+        "width": 5
+      }
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AAECAwQFBgcICQoLDA0ODxAREhM="
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AwMDAwMDAwMDAwMDAwMDAwMDAwM="
+      },
+      "z": {
+        "dtype": "i1",
+        "bdata": "AAEAAgADAAQABQAGAAcACAAJAAo="
+      },
+      "text": [
+        0,
+        0.0,
+        0,
+        -0.0,
+        "",
+        "0",
+        "  ",
+        "E",
+        "\n",
+        "G",
+        null,
+        "I",
+        null,
+        "K",
+        null,
+        null,
+        null,
+        "X"
+      ],
+      "type": "scatter3d",
+      "mode": "lines+text",
+      "line": {
+        "width": 5
+      }
+    }
+  ],
+  "layout": {
+    "title": {
+      "text": "scatter3d lines with good/bad/no input texts (including undefined, null & blank variations) should be displayed well on WEBGL"
+    },
+    "width": 1200,
+    "height": 900,
+    "scene": {
+      "camera": {
+        "eye": {
+          "x": -1.25,
+          "y": 1.25,
+          "z": 1.25
+        },
+        "center": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "up": {
+          "x": 0,
+          "y": 0,
+          "z": 1
+        }
+      }
+    }
+  }
+}

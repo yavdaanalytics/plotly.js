@@ -1,0 +1,77 @@
+{
+  "data": [
+    {
+      "type": "scatter",
+      "mode": "markers",
+      "x": [
+        "2020-04-06T09:00:00",
+        "2020-04-06T10:00:00",
+        "2020-04-06T11:00:00",
+        "2020-04-06T12:00:00",
+        "2020-04-06T13:00:00",
+        "2020-04-06T14:00:00",
+        "2020-04-06T15:00:00",
+        "2020-04-06T16:00:00",
+        "2020-04-07T09:00:00",
+        "2020-04-07T10:00:00",
+        "2020-04-07T11:00:00",
+        "2020-04-07T12:00:00",
+        "2020-04-07T13:00:00",
+        "2020-04-07T14:00:00",
+        "2020-04-07T15:00:00",
+        "2020-04-07T16:00:00",
+        "2020-04-08T09:00:00",
+        "2020-04-08T10:00:00",
+        "2020-04-08T11:00:00",
+        "2020-04-08T12:00:00",
+        "2020-04-08T13:00:00",
+        "2020-04-08T14:00:00",
+        "2020-04-08T15:00:00",
+        "2020-04-08T16:00:00",
+        "2020-04-09T09:00:00",
+        "2020-04-09T10:00:00",
+        "2020-04-09T11:00:00",
+        "2020-04-09T12:00:00",
+        "2020-04-09T13:00:00",
+        "2020-04-09T14:00:00",
+        "2020-04-09T15:00:00",
+        "2020-04-09T16:00:00",
+        "2020-04-10T09:00:00",
+        "2020-04-10T10:00:00",
+        "2020-04-10T11:00:00",
+        "2020-04-10T12:00:00",
+        "2020-04-10T13:00:00",
+        "2020-04-10T14:00:00",
+        "2020-04-10T15:00:00",
+        "2020-04-10T16:00:00"
+      ],
+      "y": {
+        "dtype": "f8",
+        "bdata": "uP/4lVhFyT+ooLFcCFPDPxBrwN6s39c/JHrW3D2p5z+IwHNeW3DzP2Tk6Ta6Ifk/5oZxUrVR8T8c1qlcWyjuP/Tq1EM4wvI/lGIFDW4C6z/lrvoCw67rP56bqxDM19o/0NBsKCmSvj+UnYas/yvXvzDfReM4gLG/slfSAUYL1r8MyUQSCPHfv4BVnPVjLbK/yLu9To4TwT/WOlyykmzVv4cWLqscceW/UoL6/vWN4b/qQ13QmyrevzNrNoB8eOe/3HtJfs8m07+cabVBL7fHv9hQ4aORJ8O/YG53X5iVrr84sZBnPc/FP8ALiXySF5K/yFtW2BOUvr+iBk588Dbav3wDRzUtJue/aIr/hcHb0b+Q+AxTpTekvwCd9JQ6Gqm/NtIsPVGV1L9jET9q+Cbiv9SlAjnMJfC/998IYG0y8b8="
+      }
+    }
+  ],
+  "layout": {
+    "width": 800,
+    "height": 600,
+    "xaxis": {
+      "rangebreaks": [
+        {
+          "bounds": {
+            "dtype": "i1",
+            "bdata": "EQk="
+          },
+          "pattern": "hour"
+        }
+      ],
+      "title": {
+        "text": "time"
+      }
+    },
+    "yaxis": {
+      "title": {
+        "text": "values"
+      }
+    }
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "data": [
+    {
+      "name": "pie",
+      "type": "pie",
+      "labels": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "values": {
+        "dtype": "f8",
+        "bdata": "ETenkgEAGECOdXEbDQAUQHGsi9toABBAoBov3SQGCEApXI/C9SgAQJqZmZmZmfE/"
+      },
+      "text": [
+        true,
+        "",
+        "0",
+        0,
+        1,
+        null
+      ],
+      "textinfo": "label+text+value+percent",
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "pHA9Ctej4D8AAAAAAADwPw=="
+        },
+        "y": {
+          "dtype": "f8",
+          "bdata": "pHA9Ctej4D8AAAAAAADwPw=="
+        }
+      }
+    },
+    {
+      "name": "sunburst",
+      "type": "sunburst",
+      "parents": [
+        "",
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "labels": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "values": {
+        "dtype": "f8",
+        "bdata": "ETenkgEAGECOdXEbDQAUQHGsi9toABBAoBov3SQGCEApXI/C9SgAQJqZmZmZmfE/"
+      },
+      "text": [
+        true,
+        "",
+        "0",
+        0,
+        1,
+        null
+      ],
+      "textinfo": "label+text+value",
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "pHA9Ctej4D8AAAAAAADwPw=="
+        },
+        "y": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAAAAC4HoXrUbjePw=="
+        }
+      }
+    },
+    {
+      "name": "funnel-1",
+      "type": "funnel",
+      "y": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "x": {
+        "dtype": "f8",
+        "bdata": "ETenkgEAGECOdXEbDQAUQHGsi9toABBAoBov3SQGCEApXI/C9SgAQJqZmZmZmfE/"
+      },
+      "text": [
+        true,
+        "",
+        "0",
+        0,
+        1,
+        null
+      ],
+      "textinfo": "label+text+value+percent total"
+    },
+    {
+      "name": "funnel-2",
+      "type": "funnel",
+      "y": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "x": {
+        "dtype": "f8",
+        "bdata": "mpmZmZmZ+T8AAAAAAAD4P2ZmZmZmZvY/zczMzMzM9D8zMzMzMzPzP5qZmZmZmfE/"
+      }
+    },
+    {
+      "name": "funnelarea",
+      "type": "funnelarea",
+      "labels": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "values": {
+        "dtype": "f8",
+        "bdata": "ETenkgEAGECOdXEbDQAUQHGsi9toABBAoBov3SQGCEApXI/C9SgAQJqZmZmZmfE/"
+      },
+      "text": [
+        true,
+        "",
+        "0",
+        0,
+        1,
+        null
+      ],
+      "textinfo": "label+text+value+percent",
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAAAAC4HoXrUbjePw=="
+        },
+        "y": {
+          "dtype": "f8",
+          "bdata": "pHA9Ctej4D8AAAAAAADwPw=="
+        }
+      }
+    }
+  ],
+  "layout": {
+    "hiddenlabels": [
+      "B",
+      "E"
+    ],
+    "width": 800,
+    "height": 800,
+    "hovermode": "closest",
+    "dragmode": "pan",
+    "xaxis": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAAC4HoXrUbjePw=="
+      }
+    },
+    "yaxis": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAAC4HoXrUbjePw=="
+      }
+    }
+  }
+}

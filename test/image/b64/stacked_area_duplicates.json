@@ -1,0 +1,107 @@
+{
+  "data": [
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQICAgIDAwMDBAQEBAYI"
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AQMCBQQFBAMCBAYDBQQD"
+      },
+      "stackgroup": "a",
+      "mode": "lines+markers"
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQICAgIDBQUFBQYGBgYI"
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "BAQEBAYFBgUHBgUGBwgH"
+      },
+      "stackgroup": "a",
+      "mode": "lines+markers"
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AgICAgMEBAQEBQcHBwcI"
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "BQUEBQYHBgUEBQQFBgME"
+      },
+      "stackgroup": "a",
+      "mode": "lines+markers"
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQICAgIDAwMDBAQEBAYI"
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AQMCBQQFBAMCBAYDBQQD"
+      },
+      "stackgroup": "a",
+      "mode": "lines+markers",
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "stackgaps": "interpolate"
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQICAgIDBQUFBQYGBgYI"
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "BAQEBAYFBgUHBgUGBwgH"
+      },
+      "stackgroup": "a",
+      "mode": "lines+markers",
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "stackgaps": "interpolate"
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AgICAgMEBAQEBQcHBwcI"
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "BQUEBQYHBgUEBQQFBgME"
+      },
+      "stackgroup": "a",
+      "mode": "lines+markers",
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "stackgaps": "interpolate"
+    }
+  ],
+  "layout": {
+    "width": 500,
+    "height": 500,
+    "title": {
+      "text": "Duplicate positions"
+    },
+    "xaxis": {
+      "title": {
+        "text": "infer zero"
+      }
+    },
+    "xaxis2": {
+      "title": {
+        "text": "interpolate"
+      }
+    },
+    "grid": {
+      "columns": 1,
+      "rows": 2,
+      "pattern": "independent"
+    }
+  }
+}

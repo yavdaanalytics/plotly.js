@@ -1,0 +1,394 @@
+{
+  "data": [
+    {
+      "y": {
+        "dtype": "i1",
+        "bdata": "AQMFBw=="
+      },
+      "x": {
+        "dtype": "i1",
+        "bdata": "AgYEBQ=="
+      },
+      "line": {
+        "color": "red"
+      },
+      "stackgroup": "a",
+      "orientation": "h",
+      "name": "bottom",
+      "legendgroup": "b"
+    },
+    {
+      "y": {
+        "dtype": "i1",
+        "bdata": "AgUG"
+      },
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQME"
+      },
+      "line": {
+        "color": "green"
+      },
+      "stackgroup": "a",
+      "name": "middle",
+      "legendgroup": "m"
+    },
+    {
+      "y": {
+        "dtype": "i1",
+        "bdata": "AwQF"
+      },
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQIB"
+      },
+      "line": {
+        "color": "blue"
+      },
+      "stackgroup": "a",
+      "name": "top",
+      "legendgroup": "t"
+    },
+    {
+      "y": {
+        "dtype": "i1",
+        "bdata": "AQMFBw=="
+      },
+      "x": {
+        "dtype": "i1",
+        "bdata": "AgYEBQ=="
+      },
+      "line": {
+        "color": "red"
+      },
+      "stackgroup": "a",
+      "name": "bottom",
+      "legendgroup": "b",
+      "showlegend": false,
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "stackgaps": "interpolate"
+    },
+    {
+      "y": {
+        "dtype": "i1",
+        "bdata": "AgUG"
+      },
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQME"
+      },
+      "line": {
+        "color": "green"
+      },
+      "stackgroup": "a",
+      "orientation": "h",
+      "name": "middle",
+      "legendgroup": "m",
+      "showlegend": false,
+      "xaxis": "x2",
+      "yaxis": "y2"
+    },
+    {
+      "y": {
+        "dtype": "i1",
+        "bdata": "AwQF"
+      },
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQIB"
+      },
+      "line": {
+        "color": "blue"
+      },
+      "stackgroup": "a",
+      "name": "top",
+      "legendgroup": "t",
+      "showlegend": false,
+      "xaxis": "x2",
+      "yaxis": "y2"
+    },
+    {
+      "y": {
+        "dtype": "i1",
+        "bdata": "AQMFBw=="
+      },
+      "x": {
+        "dtype": "i1",
+        "bdata": "AgYEBQ=="
+      },
+      "line": {
+        "color": "red"
+      },
+      "stackgroup": "b",
+      "name": "bottom",
+      "legendgroup": "b",
+      "showlegend": false,
+      "xaxis": "x3",
+      "yaxis": "y3",
+      "mode": "lines+markers",
+      "groupnorm": "fraction"
+    },
+    {
+      "y": {
+        "dtype": "i1",
+        "bdata": "AgUG"
+      },
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQME"
+      },
+      "line": {
+        "color": "green"
+      },
+      "stackgroup": "b",
+      "name": "middle",
+      "legendgroup": "m",
+      "showlegend": false,
+      "xaxis": "x3",
+      "yaxis": "y3",
+      "mode": "lines+markers"
+    },
+    {
+      "y": {
+        "dtype": "i1",
+        "bdata": "AwQF"
+      },
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQIB"
+      },
+      "line": {
+        "color": "blue"
+      },
+      "stackgroup": "b",
+      "orientation": "h",
+      "name": "top",
+      "legendgroup": "t",
+      "showlegend": false,
+      "xaxis": "x3",
+      "yaxis": "y3",
+      "mode": "lines+markers"
+    },
+    {
+      "y": {
+        "dtype": "i1",
+        "bdata": "AQMFBw=="
+      },
+      "x": {
+        "dtype": "i1",
+        "bdata": "AgYEBQ=="
+      },
+      "line": {
+        "color": "red"
+      },
+      "stackgroup": "a",
+      "orientation": "h",
+      "name": "bottom",
+      "legendgroup": "b",
+      "showlegend": false,
+      "xaxis": "x4",
+      "yaxis": "y4",
+      "mode": "lines+markers"
+    },
+    {
+      "y": {
+        "dtype": "i1",
+        "bdata": "AgUG"
+      },
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQME"
+      },
+      "line": {
+        "color": "green"
+      },
+      "stackgroup": "a",
+      "name": "middle",
+      "legendgroup": "m",
+      "showlegend": false,
+      "xaxis": "x4",
+      "yaxis": "y4",
+      "mode": "lines+markers",
+      "stackgaps": "interpolate",
+      "groupnorm": "fraction"
+    },
+    {
+      "y": {
+        "dtype": "i1",
+        "bdata": "AwQF"
+      },
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQIB"
+      },
+      "line": {
+        "color": "blue"
+      },
+      "stackgroup": "a",
+      "name": "top",
+      "legendgroup": "t",
+      "showlegend": false,
+      "xaxis": "x4",
+      "yaxis": "y4",
+      "mode": "lines+markers"
+    },
+    {
+      "y": {
+        "dtype": "i1",
+        "bdata": "AQMFBw=="
+      },
+      "x": {
+        "dtype": "i1",
+        "bdata": "AgYEBQ=="
+      },
+      "line": {
+        "color": "red"
+      },
+      "stackgroup": "a",
+      "name": "bottom",
+      "legendgroup": "b",
+      "showlegend": false,
+      "xaxis": "x5",
+      "yaxis": "y5"
+    },
+    {
+      "y": {
+        "dtype": "i1",
+        "bdata": "AgUG"
+      },
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQME"
+      },
+      "line": {
+        "color": "green"
+      },
+      "stackgroup": "a",
+      "orientation": "h",
+      "name": "middle",
+      "legendgroup": "m",
+      "showlegend": false,
+      "xaxis": "x5",
+      "yaxis": "y5"
+    },
+    {
+      "y": {
+        "dtype": "i1",
+        "bdata": "AwQF"
+      },
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQIB"
+      },
+      "line": {
+        "color": "blue"
+      },
+      "stackgroup": "a",
+      "name": "top",
+      "legendgroup": "t",
+      "showlegend": false,
+      "xaxis": "x5",
+      "yaxis": "y5",
+      "groupnorm": "percent"
+    },
+    {
+      "y": {
+        "dtype": "i1",
+        "bdata": "AQMFBw=="
+      },
+      "x": {
+        "dtype": "i1",
+        "bdata": "AgYEBQ=="
+      },
+      "line": {
+        "color": "red"
+      },
+      "stackgroup": "a",
+      "name": "bottom",
+      "legendgroup": "b",
+      "showlegend": false,
+      "xaxis": "x6",
+      "yaxis": "y6",
+      "groupnorm": "percent"
+    },
+    {
+      "y": {
+        "dtype": "i1",
+        "bdata": "AgUG"
+      },
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQME"
+      },
+      "line": {
+        "color": "green"
+      },
+      "stackgroup": "a",
+      "name": "middle",
+      "legendgroup": "m",
+      "showlegend": false,
+      "xaxis": "x6",
+      "yaxis": "y6"
+    },
+    {
+      "y": {
+        "dtype": "i1",
+        "bdata": "AwQF"
+      },
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQIB"
+      },
+      "line": {
+        "color": "blue"
+      },
+      "stackgroup": "a",
+      "orientation": "h",
+      "name": "top",
+      "legendgroup": "t",
+      "showlegend": false,
+      "xaxis": "x6",
+      "yaxis": "y6",
+      "stackgaps": "interpolate"
+    }
+  ],
+  "layout": {
+    "width": 800,
+    "height": 800,
+    "xaxis": {
+      "title": {
+        "text": "stackgaps: infer zero"
+      }
+    },
+    "xaxis2": {
+      "title": {
+        "text": "stackgaps: interpolate"
+      }
+    },
+    "yaxis": {
+      "title": {
+        "text": "groupnorm: -"
+      }
+    },
+    "yaxis3": {
+      "title": {
+        "text": "groupnorm: fraction<br>mode: lines+markers"
+      }
+    },
+    "yaxis5": {
+      "title": {
+        "text": "groupnorm: percent"
+      }
+    },
+    "legend": {
+      "traceorder": "reversed"
+    },
+    "grid": {
+      "columns": 2,
+      "rows": 3,
+      "pattern": "independent",
+      "roworder": "bottom to top"
+    }
+  }
+}

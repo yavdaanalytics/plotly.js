@@ -1,0 +1,89 @@
+{
+  "layout": {
+    "legend": {
+      "title": {
+        "text": "$\\varphi ={\\frac {1+{\\sqrt {5}}}{2}}=0.618$"
+      },
+      "orientation": "v",
+      "bordercolor": "gray",
+      "borderwidth": 5,
+      "bgcolor": "rgba(255,255,0,0.5)"
+    },
+    "margin": {
+      "t": 25,
+      "b": 25,
+      "r": 25,
+      "l": 25
+    },
+    "width": 400,
+    "height": 300
+  },
+  "data": [
+    {
+      "name": "${\\frac {1}{2}}=0.5$",
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQI="
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAA4D8AAAAAAADgPw=="
+      }
+    },
+    {
+      "name": "${\\frac {2}{3}}=0.6666$",
+      "x": {
+        "dtype": "i1",
+        "bdata": "AgM="
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "aW/whclU5T9pb/CFyVTlPw=="
+      }
+    },
+    {
+      "name": "${\\frac {3}{5}}=0.6$",
+      "x": {
+        "dtype": "i1",
+        "bdata": "AwU="
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "MzMzMzMz4z8zMzMzMzPjPw=="
+      }
+    },
+    {
+      "name": "${\\frac {5}{8}}=0.6125$",
+      "x": {
+        "dtype": "i1",
+        "bdata": "BQg="
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "mpmZmZmZ4z+amZmZmZnjPw=="
+      }
+    },
+    {
+      "name": "${\\frac {8}{13}}=0.6153$",
+      "x": {
+        "dtype": "i1",
+        "bdata": "CA0="
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "VFInoImw4z9UUiegibDjPw=="
+      }
+    },
+    {
+      "name": "${\\frac {13}{21}}=0.619$",
+      "x": {
+        "dtype": "i1",
+        "bdata": "DRU="
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "AiuHFtnO4z8CK4cW2c7jPw=="
+      }
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "data": [
+    {
+      "type": "scatter3d",
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "z": {
+        "dtype": "i1",
+        "bdata": "AQIA"
+      }
+    }
+  ],
+  "layout": {
+    "scene": {
+      "xaxis": {
+        "visible": false
+      },
+      "yaxis": {
+        "visible": false
+      },
+      "zaxis": {
+        "visible": false
+      },
+      "camera": {
+        "eye": {
+          "x": -0.1,
+          "y": 0.2,
+          "z": 2.1
+        }
+      }
+    }
+  }
+}

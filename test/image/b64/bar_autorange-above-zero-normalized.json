@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "y": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "base": {
+        "dtype": "i1",
+        "bdata": "AwQF"
+      },
+      "type": "bar"
+    },
+    {
+      "y": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "base": {
+        "dtype": "i1",
+        "bdata": "AwQF"
+      },
+      "type": "bar"
+    }
+  ],
+  "layout": {
+    "barnorm": "percent",
+    "width": 400,
+    "height": 400
+  }
+}

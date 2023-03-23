@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "type": "violin",
+      "points": "all",
+      "pointpos": 1.5,
+      "marker": {
+        "size": 12
+      },
+      "jitter": 0,
+      "x": {
+        "dtype": "i1",
+        "bdata": "AAUHCA=="
+      },
+      "side": "negative",
+      "line": {
+        "color": "black"
+      },
+      "fillcolor": "#d3c78d",
+      "opacity": 0.6,
+      "y0": 0.0
+    }
+  ],
+  "layout": {
+    "title": {
+      "text": "Violins - negative sided with positive points"
+    },
+    "xaxis": {
+      "zeroline": false
+    },
+    "yaxis": {
+      "dtick": 0.1,
+      "gridcolor": "black"
+    }
+  }
+}

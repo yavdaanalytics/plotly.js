@@ -1,0 +1,23 @@
+{
+  "data": [
+    {
+      "type": "bar",
+      "y": {
+        "dtype": "i4",
+        "bdata": "5wMAAIcTAAAnIwAAxzIAAGdCAAAHUgAAp2EAAEdxAADngAAAh5AAACegAADHrwAA"
+      },
+      "texttemplate": "%{y}",
+      "textangle": 0,
+      "textfont": {
+        "size": 16
+      }
+    }
+  ],
+  "layout": {
+    "width": 800,
+    "height": 600,
+    "uniformtext": {
+      "mode": "hide"
+    }
+  }
+}

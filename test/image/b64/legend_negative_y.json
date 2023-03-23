@@ -1,0 +1,34 @@
+{
+  "data": [
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AAECAwQFBgcI"
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AAMGBAUCAwUE"
+      },
+      "type": "scatter"
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AAECAwQFBgcI"
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AAQHCAMGAwME"
+      },
+      "type": "scatter"
+    }
+  ],
+  "layout": {
+    "showlegend": true,
+    "legend": {
+      "x": 1,
+      "y": -1,
+      "xanchor": "left"
+    }
+  }
+}

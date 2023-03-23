@@ -1,0 +1,134 @@
+{
+  "data": [
+    {
+      "type": "ohlc",
+      "open": {
+        "dtype": "f8",
+        "bdata": "XX/ymbw1NEB3YO57sfg0QHnD/usEWjRAqPlWj4ejNEBl3y71G800QGDvpwxoQjRAldn05n0kNEATLVIguVk0QETfPKyRaTRAnpoJ0XfINEBjGniMp300QHKQNW93PjRATB/ZWPErNEB1Eb+FfkU0QBKOJLeYVjRAEnx/T5FKNEC4p9mN+eI0QBzyLz41bDRASHfDomuUNEAiXFwu7pM0QA=="
+      },
+      "high": {
+        "dtype": "f8",
+        "bdata": "K2CPQ0hINUBbP9n45sw1QAn7//HrFjVAZ+Lt7z91NUA8XwXfNnM1QBfSddZcRDVAlhPgDEBNNUC9TXJt0zI1QDRnOWj0SjVAAdLsPJ2TNUDrT7Cf6ms1QB5rMdOaCjVALX8eUZg8NUAmPlB5h0U1QKTr73As6zVAJr4SsO4wNUBVBhPeqJU1QBDEjgWFlDVAzyw2pBf4NUB0TtiR7jQ1QA=="
+      },
+      "low": {
+        "dtype": "f8",
+        "bdata": "5DWqGrMqM0CXfuG0l0czQNV0TmHAXzNA4AV97bQQM0CpOQ/5FC4zQIVMv9QSHjNAu3hnenT0M0AkgE8/5zwzQLXZP1fPwDNAHBJmNG7yM0D+9EBYhvYzQHQp0+a8dDNAdwsXl9+bM0B2e3A8cUkzQPwGLj3rMDNAGnVQW3piM0BHh1TnRf0zQIU+ihHMYDNA4LIXcC1PM0ASk8KpbcEzQA=="
+      },
+      "close": {
+        "dtype": "f8",
+        "bdata": "SOH/UEFkNEAV50MWmNw0QJdEcq3zSjRA/NVBf3n3NEDYZQLdFjg0QKYZYU7E7TRAvF4qh3v+NEC6KP4O3Qs0QANJgrncNTRAOheeSE/yNED2NJLY7B40QLVX7IZjUTRAJWJobhdONEAU0xQZw5A0QJDHIJWf2zRAGCg2UlNSNEB2LGM7O7Q0QANs2W7CXzRA2Cu0U/ebNED2ThXxtPs0QA=="
+      },
+      "x": [
+        "0550-01-01",
+        "0550-01-02",
+        "0550-01-03",
+        "0550-01-04",
+        "0550-01-05",
+        "0550-01-06",
+        "0550-01-07",
+        "0550-01-08",
+        "0550-01-09",
+        "0550-01-10",
+        "0550-01-11",
+        "0550-01-12",
+        "0550-01-13",
+        "0550-01-14",
+        "0550-01-15",
+        "0550-01-16",
+        "0550-01-17",
+        "0550-01-18",
+        "0550-01-19",
+        "0550-01-20"
+      ],
+      "xcalendar": "nanakshahi",
+      "increasing": {
+        "line": {
+          "color": "rgb(150, 200, 250)"
+        }
+      },
+      "decreasing": {
+        "line": {
+          "color": "rgb(128, 128, 128)",
+          "dash": "dot"
+        }
+      },
+      "line": {
+        "width": 3
+      },
+      "tickwidth": 0.2
+    },
+    {
+      "type": "candlestick",
+      "open": {
+        "dtype": "f8",
+        "bdata": "FP84PHzaOUDGhwbffxM5QC/9KOK3pjlAuXDvnPB7OUCbRxCUdg45QI1/B/xQzzlAmrRiqtnTOUBDZDjjGFM5QCUB7v709zlAjMHXe8f2OUDpynKuOIE5QAri9xVV3TlAxA0beaNKOUDV0pANnYE5QH3L1jIo+TlAW+2+kicTOUB+rSXwW8c5QJOzyY6flTlAw5U9zaq1OUC7QeiokbA5QA=="
+      },
+      "high": {
+        "dtype": "f8",
+        "bdata": "47HIVSl8OkDMGrST2qI6QHGykUyKMjpA/PsB30oCOkAALD7Rsfc6QJbWL7VCZDpAW+ehd3kEOkB5ALRXT306QIW9udLeWzpA65lsbLC8OkB6+PJglPA6QNxpHbNgQDpA98/pFAMsOkAtR+4RPvY6QDN9bfxK0zpArvfLswX+OkBUkZJ2DT46QL//XRoK4zpA8CtzUXFqOkB0cBCxqI06QA=="
+      },
+      "low": {
+        "dtype": "f8",
+        "bdata": "1C25Jho/OECNLs/V4Ok4QJyOA8+bCDhAYXl61azHOEDveSQfujk4QOaEXpZ2RDhA30TDYouLOECBrfG9YSs4QDvLHKrpXzhACZSOUs0BOECZl0eLAgc4QGkwqxIDBzhAhpxViSt2OEDevKdazS44QMufL2qT+DhAMDoxt7SBOECQ1y/zTOE4QExTMWkFCDhANNOoi2j9OEC6ov+SoGA4QA=="
+      },
+      "close": {
+        "dtype": "f8",
+        "bdata": "1M3jHK/OOUAJEPjlYkU5QEHmJtdQRTlAwUKg6/TyOUAgnxuMYEg5QALJgIVlITlAPhbPvwlhOUChmhy/aDk5QMaenYV1rjlAxRADtLo/OUD1wQ6x6Jk5QD3ILH4SnzlA+63aOvTbOUB+qYlG7fI5QCFoPzZVBDlAW1xknHBWOUBQrP8Q/iI5QCI4wy6vvzlAFvpHmA1mOUCw1O5G3Rc5QA=="
+      },
+      "x": [
+        "0550-01-01",
+        "0550-01-02",
+        "0550-01-03",
+        "0550-01-04",
+        "0550-01-05",
+        "0550-01-06",
+        "0550-01-07",
+        "0550-01-08",
+        "0550-01-09",
+        "0550-01-10",
+        "0550-01-11",
+        "0550-01-12",
+        "0550-01-13",
+        "0550-01-14",
+        "0550-01-15",
+        "0550-01-16",
+        "0550-01-17",
+        "0550-01-18",
+        "0550-01-19",
+        "0550-01-20"
+      ],
+      "xcalendar": "nanakshahi",
+      "increasing": {
+        "line": {
+          "color": "#d3d3d3"
+        },
+        "fillcolor": "rgb(150, 200, 250)"
+      },
+      "decreasing": {
+        "line": {
+          "color": "#d3d3d3"
+        },
+        "fillcolor": "rgb(128, 128, 128)"
+      },
+      "line": {
+        "width": 2
+      },
+      "whiskerwidth": 0.5
+    }
+  ],
+  "layout": {
+    "xaxis": {
+      "rangeslider": {
+        "visible": false
+      },
+      "calendar": "islamic",
+      "title": {
+        "text": "Islamic dates"
+      }
+    },
+    "showlegend": true,
+    "height": 450,
+    "width": 1100,
+    "autosize": true
+  }
+}

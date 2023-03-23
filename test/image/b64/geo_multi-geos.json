@@ -1,0 +1,39 @@
+{
+  "data": [
+    {
+      "type": "scattergeo",
+      "mode": "markers+text",
+      "name": "mah trace",
+      "lon": {
+        "dtype": "i1",
+        "bdata": "ALVk"
+      },
+      "lat": {
+        "dtype": "i1",
+        "bdata": "AC3i"
+      }
+    },
+    {
+      "type": "scattergeo",
+      "lon": {
+        "dtype": "i2",
+        "bdata": "tf8KAKAA"
+      },
+      "lat": {
+        "dtype": "i1",
+        "bdata": "LTI8"
+      },
+      "mode": "lines",
+      "geo": "geo2"
+    }
+  ],
+  "layout": {
+    "title": {
+      "text": "MULTI GEOS"
+    },
+    "height": 450,
+    "width": 1000,
+    "autosize": true,
+    "showlegend": false
+  }
+}

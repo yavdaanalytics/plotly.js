@@ -1,0 +1,158 @@
+{
+  "data": [
+    {
+      "r": {
+        "dtype": "f8",
+        "bdata": "CtejcD0K7z8K16NwPQrvPwAAAAAAAOg/j8L1KFyP6j8AAAAAAADwPwAAAAAAAPA/zczMzMzM3D8K16NwPQrvPwAAAAAAAPA/AAAAAAAAAAB7FK5H4XqEPwrXo3A9Cu8/"
+      },
+      "mode": "lines",
+      "theta": [
+        "Abstracts",
+        "Affiliations",
+        "Award Numbers",
+        "Funders",
+        "Licenses",
+        "Open References",
+        "Orcids",
+        "References",
+        "Resource Links",
+        "Similarity Checking",
+        "Update Policies",
+        "Abstracts"
+      ],
+      "line": {
+        "color": "orangered",
+        "width": 4
+      },
+      "type": "scatterpolar",
+      "name": "Backfile",
+      "legendgroup": "Backfile"
+    },
+    {
+      "r": {
+        "dtype": "f8",
+        "bdata": "XI/C9Shc7z9cj8L1KFzvP4/C9Shcj+o/exSuR+F67D8AAAAAAADwPwAAAAAAAPA/rkfhehSu7z+4HoXrUbjuPwAAAAAAAPA/AAAAAAAAAAAAAAAAAAAAAFyPwvUoXO8/"
+      },
+      "mode": "lines",
+      "theta": [
+        "Abstracts",
+        "Affiliations",
+        "Award Numbers",
+        "Funders",
+        "Licenses",
+        "Open References",
+        "Orcids",
+        "References",
+        "Resource Links",
+        "Similarity Checking",
+        "Update Policies",
+        "Abstracts"
+      ],
+      "line": {
+        "color": "blue",
+        "width": 2
+      },
+      "type": "scatterpolar",
+      "name": "Current",
+      "legendgroup": "Current"
+    },
+    {
+      "r": {
+        "dtype": "f8",
+        "bdata": "CtejcD0K7z8K16NwPQrvPwAAAAAAAOg/j8L1KFyP6j8AAAAAAADwPwAAAAAAAPA/zczMzMzM3D8K16NwPQrvPwAAAAAAAPA/AAAAAAAAAAB7FK5H4XqEPwrXo3A9Cu8/"
+      },
+      "mode": "lines",
+      "theta": [
+        "Abstracts<br>Abstracts",
+        "Affiliations<br>Affiliations",
+        "Award<br>Numbers",
+        "Funders<br>Funders",
+        "Licenses<br>Licenses",
+        "Open<br>References",
+        "Orcids<br>Orcids<br>Orcids",
+        "References<br>References",
+        "Resource<br>Links",
+        "Similarity<br>Checking",
+        "Update<br>Policies",
+        "Abstracts<br>Abstracts"
+      ],
+      "line": {
+        "color": "orangered",
+        "width": 4
+      },
+      "type": "scatterpolar",
+      "name": "Backfile",
+      "legendgroup": "Backfile",
+      "showlegend": false,
+      "subplot": "polar2"
+    },
+    {
+      "r": {
+        "dtype": "f8",
+        "bdata": "XI/C9Shc7z9cj8L1KFzvP4/C9Shcj+o/exSuR+F67D8AAAAAAADwPwAAAAAAAPA/rkfhehSu7z+4HoXrUbjuPwAAAAAAAPA/AAAAAAAAAAAAAAAAAAAAAFyPwvUoXO8/"
+      },
+      "mode": "lines",
+      "theta": [
+        "Abstracts<br>Abstracts",
+        "Affiliations<br>Affiliations",
+        "Award<br>Numbers",
+        "Funders<br>Funders",
+        "Licenses<br>Licenses",
+        "Open<br>References",
+        "Orcids<br>Orcids<br>Orcids",
+        "References<br>References",
+        "Resource<br>Links",
+        "Similarity<br>Checking",
+        "Update<br>Policies",
+        "Abstracts<br>Abstracts"
+      ],
+      "line": {
+        "color": "blue",
+        "width": 2
+      },
+      "type": "scatterpolar",
+      "name": "Current",
+      "legendgroup": "Current",
+      "showlegend": false,
+      "subplot": "polar2"
+    }
+  ],
+  "layout": {
+    "grid": {
+      "rows": 2,
+      "columns": 1,
+      "ygap": 0.15
+    },
+    "height": 800,
+    "polar": {
+      "domain": {
+        "row": 0,
+        "column": 0
+      },
+      "angularaxis": {
+        "rotation": 90,
+        "direction": "clockwise"
+      }
+    },
+    "polar2": {
+      "domain": {
+        "row": 1,
+        "column": 0
+      },
+      "angularaxis": {
+        "rotation": 90,
+        "direction": "clockwise"
+      }
+    },
+    "legend": {
+      "y": 0,
+      "yanchor": "top",
+      "x": 0,
+      "xanchor": "left",
+      "tracegroupgap": 0
+    },
+    "title": {
+      "text": "eLife Sciences Publications<br>Ltd: journal-article (8.62 - 7.95 = 0.67)"
+    }
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "data": [
+    {
+      "x": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAAAJ6d/kbdvWP9QDMK9t2+Y/l8YvvJIk8T9pOdBDbdv2P0Ym4NdIkvw/kQn4NZIkAUAAAAAAAAAEQG/2B8pt2wZA3ewPlNu2CUBM4xdeSZIMQLQc6KG2bQ9AkQn4NZIkEUDJBPwaSZISQAAAAAAAABRA"
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "kuwRaobU6z/iqx3FOWrxPwRyiSMPROg/WvENhc+W/T81ejVAaaj7P1IpdjQOte8/R1Z+GYxR+D/V52or9lfxP7yalx6oLtQ/+KanlzFopT/o+j4cJMTVv3vrDQi+s7m/5/l4jQKp5b+XvEvz2GDrvwnwJ3SocNu/"
+      },
+      "name": "trace 0",
+      "type": "scatter"
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AAECAwQF"
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAA8D8AAAAAAADgP2ZmZmZmZuY/MzMzMzMz878zMzMzMzPTP5qZmZmZmdk/"
+      },
+      "name": "trace 1",
+      "type": "bar"
+    }
+  ],
+  "layout": {
+    "title": {
+      "text": "Click to enter Plot title"
+    },
+    "font": {
+      "family": "'Open sans', verdana, arial, sans-serif",
+      "size": 12,
+      "color": "#444"
+    },
+    "showlegend": true,
+    "autosize": true,
+    "width": 1152,
+    "height": 481,
+    "xaxis": {
+      "title": {
+        "text": "Click to enter X axis title"
+      },
+      "range": [
+        -0.5,
+        5.5
+      ],
+      "domain": {
+        "dtype": "i1",
+        "bdata": "AAE="
+      },
+      "type": "linear",
+      "rangemode": "normal",
+      "showgrid": false,
+      "zeroline": false,
+      "showline": false,
+      "autotick": true,
+      "nticks": 0,
+      "ticks": "",
+      "showticklabels": true,
+      "tick0": 0,
+      "dtick": 1,
+      "ticklen": 5,
+      "tickwidth": 1,
+      "tickcolor": "#444",
+      "tickangle": "auto",
+      "tickfont": {
+        "family": "",
+        "size": 0,
+        "color": ""
+      },
+      "exponentformat": "B",
+      "showexponent": "all",
+      "gridcolor": "#eee",
+      "gridwidth": 1,
+      "zerolinecolor": "#444",
+      "zerolinewidth": 1,
+      "linecolor": "#444",
+      "linewidth": 1,
+      "anchor": "y",
+      "position": 0,
+      "mirror": false,
+      "overlaying": false,
+      "autorange": true
+    },
+    "yaxis": {
+      "title": {
+        "text": "Click to enter Y axis title"
+      },
+      "range": [
+        -1.3694066111111112,
+        2.018725611111111
+      ],
+      "domain": {
+        "dtype": "i1",
+        "bdata": "AAE="
+      },
+      "type": "linear",
+      "rangemode": "normal",
+      "showgrid": true,
+      "zeroline": true,
+      "showline": false,
+      "autotick": true,
+      "nticks": 0,
+      "ticks": "",
+      "showticklabels": true,
+      "tick0": 0,
+      "dtick": 0.5,
+      "ticklen": 5,
+      "tickwidth": 1,
+      "tickcolor": "#444",
+      "tickangle": "auto",
+      "tickfont": {
+        "family": "",
+        "size": 0,
+        "color": ""
+      },
+      "exponentformat": "B",
+      "showexponent": "all",
+      "gridcolor": "#eee",
+      "gridwidth": 1,
+      "zerolinecolor": "#444",
+      "zerolinewidth": 1,
+      "linecolor": "#444",
+      "linewidth": 1,
+      "anchor": "x",
+      "position": 0,
+      "mirror": false,
+      "overlaying": false,
+      "autorange": true
+    },
+    "legend": {
+      "orientation": "h",
+      "traceorder": "normal",
+      "font": {
+        "family": "",
+        "size": 0,
+        "color": ""
+      },
+      "bgcolor": "#fff",
+      "bordercolor": "#444",
+      "borderwidth": 1
+    },
+    "margin": {
+      "l": 80,
+      "r": 80,
+      "b": 80,
+      "t": 100,
+      "pad": 0,
+      "autoexpand": true
+    },
+    "paper_bgcolor": "#fff",
+    "plot_bgcolor": "#fff",
+    "hovermode": "x",
+    "dragmode": "zoom",
+    "barmode": "group",
+    "bargap": 0.2,
+    "bargroupgap": 0,
+    "boxmode": "overlay",
+    "separators": ".,",
+    "hidesources": false
+  }
+}

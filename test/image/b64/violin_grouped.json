@@ -1,0 +1,121 @@
+{
+  "data": [
+    {
+      "type": "violin",
+      "name": "kale",
+      "y": {
+        "dtype": "f8",
+        "bdata": "mpmZmZmZyT+amZmZmZnJPzMzMzMzM+M/AAAAAAAA8D8AAAAAAADgP5qZmZmZmdk/mpmZmZmZyT9mZmZmZmbmP83MzMzMzOw/mpmZmZmZuT8AAAAAAADgPzMzMzMzM9M/"
+      },
+      "x": [
+        "day 1",
+        "day 1",
+        "day 1",
+        "day 1",
+        "day 1",
+        "day 1",
+        "day 2",
+        "day 2",
+        "day 2",
+        "day 2",
+        "day 2",
+        "day 2"
+      ],
+      "marker": {
+        "symbol": "line-ew",
+        "color": "#3D9970",
+        "line": {
+          "color": "#3D9970",
+          "width": 2
+        }
+      },
+      "points": "all",
+      "jitter": 0,
+      "span": [
+        0,
+        null
+      ]
+    },
+    {
+      "type": "violin",
+      "name": "radishes",
+      "y": {
+        "dtype": "f8",
+        "bdata": "MzMzMzMz4z9mZmZmZmbmPzMzMzMzM9M/MzMzMzMz4z8AAAAAAAAAAAAAAAAAAOA/ZmZmZmZm5j/NzMzMzMzsPwAAAAAAAOA/mpmZmZmZ6T9mZmZmZmbmP5qZmZmZmck/"
+      },
+      "x": [
+        "day 1",
+        "day 1",
+        "day 1",
+        "day 1",
+        "day 1",
+        "day 1",
+        "day 2",
+        "day 2",
+        "day 2",
+        "day 2",
+        "day 2",
+        "day 2"
+      ],
+      "marker": {
+        "symbol": "line-ew",
+        "color": "#FF4136",
+        "line": {
+          "color": "#FF4136",
+          "width": 2
+        }
+      },
+      "points": "all",
+      "jitter": 0,
+      "span": [
+        0,
+        null
+      ]
+    },
+    {
+      "type": "violin",
+      "name": "carrots",
+      "y": {
+        "dtype": "f8",
+        "bdata": "mpmZmZmZuT8zMzMzMzPTP5qZmZmZmbk/zczMzMzM7D8zMzMzMzPjPzMzMzMzM+M/zczMzMzM7D8AAAAAAADwPzMzMzMzM9M/MzMzMzMz4z+amZmZmZnpPwAAAAAAAOA/"
+      },
+      "x": [
+        "day 1",
+        "day 1",
+        "day 1",
+        "day 1",
+        "day 1",
+        "day 1",
+        "day 2",
+        "day 2",
+        "day 2",
+        "day 2",
+        "day 2",
+        "day 2"
+      ],
+      "marker": {
+        "symbol": "line-ew",
+        "color": "#FF851B",
+        "line": {
+          "color": "#FF851B",
+          "width": 2
+        }
+      },
+      "points": "all",
+      "jitter": 0,
+      "span": [
+        0,
+        null
+      ]
+    }
+  ],
+  "layout": {
+    "yaxis": {
+      "zeroline": false,
+      "title": {
+        "text": "normalized moisture"
+      }
+    },
+    "violinmode": "group"
+  }
+}

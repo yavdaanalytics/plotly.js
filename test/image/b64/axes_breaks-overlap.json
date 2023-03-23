@@ -1,0 +1,207 @@
+{
+  "data": [
+    {
+      "x": [
+        "2020-05-19",
+        "2020-05-20",
+        "2020-05-21",
+        "2020-05-22",
+        "2020-05-23",
+        "2020-05-24",
+        "2020-05-25",
+        "2020-05-26",
+        "2020-05-27",
+        "2020-05-28"
+      ]
+    },
+    {
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "x": [
+        "2020-05-19",
+        "2020-05-20",
+        "2020-05-21",
+        "2020-05-22",
+        "2020-05-23",
+        "2020-05-24",
+        "2020-05-25",
+        "2020-05-26",
+        "2020-05-27",
+        "2020-05-28"
+      ]
+    },
+    {
+      "xaxis": "x3",
+      "yaxis": "y3",
+      "y": [
+        "2020-05-19",
+        "2020-05-20",
+        "2020-05-21",
+        "2020-05-22",
+        "2020-05-23",
+        "2020-05-24",
+        "2020-05-25",
+        "2020-05-26",
+        "2020-05-27",
+        "2020-05-28"
+      ]
+    },
+    {
+      "xaxis": "x4",
+      "yaxis": "y4",
+      "y": [
+        "2020-05-19",
+        "2020-05-20",
+        "2020-05-21",
+        "2020-05-22",
+        "2020-05-23",
+        "2020-05-24",
+        "2020-05-25",
+        "2020-05-26",
+        "2020-05-27",
+        "2020-05-28"
+      ]
+    }
+  ],
+  "layout": {
+    "showlegend": false,
+    "width": 800,
+    "height": 800,
+    "xaxis": {
+      "rangebreaks": [
+        {
+          "bounds": [
+            "sat",
+            "mon"
+          ]
+        },
+        {
+          "values": [
+            "2020-05-21",
+            "2020-05-22"
+          ]
+        },
+        {
+          "values": [
+            "2020-05-25",
+            "2020-05-26"
+          ]
+        }
+      ],
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAAC4HoXrUbjePw=="
+      }
+    },
+    "xaxis2": {
+      "rangebreaks": [
+        {
+          "bounds": [
+            "sat",
+            "mon"
+          ]
+        },
+        {
+          "values": [
+            "2020-05-21",
+            "2020-05-22"
+          ]
+        },
+        {
+          "values": [
+            "2020-05-25",
+            "2020-05-26"
+          ]
+        }
+      ],
+      "autorange": "reversed",
+      "anchor": "y2",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "pHA9Ctej4D8AAAAAAADwPw=="
+      }
+    },
+    "xaxis3": {
+      "anchor": "y3",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAAC4HoXrUbjePw=="
+      }
+    },
+    "xaxis4": {
+      "anchor": "y4",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "pHA9Ctej4D8AAAAAAADwPw=="
+      }
+    },
+    "yaxis": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAAC4HoXrUbjePw=="
+      }
+    },
+    "yaxis2": {
+      "anchor": "x2",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "pHA9Ctej4D8AAAAAAADwPw=="
+      }
+    },
+    "yaxis3": {
+      "rangebreaks": [
+        {
+          "bounds": [
+            "sat",
+            "mon"
+          ]
+        },
+        {
+          "values": [
+            "2020-05-21",
+            "2020-05-22"
+          ]
+        },
+        {
+          "values": [
+            "2020-05-25",
+            "2020-05-26"
+          ]
+        }
+      ],
+      "anchor": "x3",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "pHA9Ctej4D8AAAAAAADwPw=="
+      }
+    },
+    "yaxis4": {
+      "rangebreaks": [
+        {
+          "bounds": [
+            "sat",
+            "mon"
+          ]
+        },
+        {
+          "values": [
+            "2020-05-21",
+            "2020-05-22"
+          ]
+        },
+        {
+          "values": [
+            "2020-05-25",
+            "2020-05-26"
+          ]
+        }
+      ],
+      "autorange": "reversed",
+      "anchor": "x4",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAAC4HoXrUbjePw=="
+      }
+    }
+  }
+}

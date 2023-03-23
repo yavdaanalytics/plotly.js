@@ -1,0 +1,84 @@
+{
+  "data": [
+    {
+      "selectedpoints": {
+        "dtype": "i1",
+        "bdata": "AQIE"
+      },
+      "type": "choropleth",
+      "locations": [
+        "CAN",
+        "USA",
+        "RUS",
+        "AUS",
+        "FRA"
+      ],
+      "z": {
+        "dtype": "i1",
+        "bdata": "AAEBAAE="
+      },
+      "colorscale": [
+        [
+          0,
+          "blue"
+        ],
+        [
+          1,
+          "orange"
+        ]
+      ],
+      "showscale": false,
+      "selected": {
+        "marker": {
+          "opacity": 0.8
+        }
+      },
+      "unselected": {
+        "marker": {
+          "opacity": 0.5
+        }
+      }
+    },
+    {
+      "selectedpoints": {
+        "dtype": "i1",
+        "bdata": "AAI="
+      },
+      "type": "scattergeo",
+      "mode": "markers+text",
+      "lon": {
+        "dtype": "i1",
+        "bdata": "ALVk"
+      },
+      "lat": {
+        "dtype": "i1",
+        "bdata": "AC3i"
+      },
+      "selected": {
+        "marker": {
+          "color": "green",
+          "opacity": 1,
+          "size": 20
+        }
+      },
+      "unselected": {
+        "marker": {
+          "color": "red",
+          "opacity": 0.5,
+          "size": 10
+        }
+      }
+    }
+  ],
+  "layout": {
+    "dragmode": "lasso",
+    "showlegend": false,
+    "width": 700,
+    "height": 500,
+    "geo": {
+      "projection": {
+        "type": "miller"
+      }
+    }
+  }
+}

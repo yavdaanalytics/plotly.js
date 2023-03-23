@@ -1,0 +1,82 @@
+{
+  "data": [
+    {
+      "y": {
+        "dtype": "i1",
+        "bdata": "AA=="
+      },
+      "legendgroup": "G1"
+    },
+    {
+      "y": {
+        "dtype": "i1",
+        "bdata": "AQ=="
+      },
+      "legendgroup": "G1"
+    },
+    {
+      "y": {
+        "dtype": "i1",
+        "bdata": "Ag=="
+      },
+      "legendgroup": "G1",
+      "legendgrouptitle": {
+        "text": "First group"
+      }
+    },
+    {
+      "y": {
+        "dtype": "i1",
+        "bdata": "Aw=="
+      },
+      "legendgroup": "G2",
+      "legendgrouptitle": {
+        "text": "Second<br>group",
+        "font": {
+          "family": "Raleway",
+          "size": 14
+        }
+      }
+    },
+    {
+      "y": {
+        "dtype": "i1",
+        "bdata": "BA=="
+      },
+      "legendgroup": "G3",
+      "legendgrouptitle": {
+        "text": "Third group"
+      }
+    },
+    {
+      "y": {
+        "dtype": "i1",
+        "bdata": "BQ=="
+      },
+      "legendgroup": "G3"
+    }
+  ],
+  "layout": {
+    "title": {
+      "text": "legend group titles"
+    },
+    "margin": {
+      "t": 50,
+      "b": 25,
+      "l": 25,
+      "r": 25
+    },
+    "width": 300,
+    "height": 300,
+    "yaxis": {
+      "autorange": "reversed"
+    },
+    "legend": {
+      "bgcolor": "lightblue",
+      "title": {
+        "text": ""
+      }
+    },
+    "hovermode": "x unified"
+  }
+}

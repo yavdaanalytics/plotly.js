@@ -1,0 +1,237 @@
+{
+  "data": [
+    {
+      "name": "contour coloring:heatmap 1 - coloraxis 1",
+      "type": "contour",
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQI="
+      },
+      "z": {
+        "dtype": "i1",
+        "bdata": "AQIK/Q==",
+        "shape": "2, 2"
+      },
+      "contours": {
+        "coloring": "heatmap"
+      },
+      "coloraxis": "coloraxis"
+    },
+    {
+      "name": "heatmap - coloraxis 1",
+      "type": "heatmap",
+      "x": {
+        "dtype": "i1",
+        "bdata": "AwQ="
+      },
+      "z": {
+        "dtype": "i1",
+        "bdata": "BAIEAw==",
+        "shape": "2, 2"
+      },
+      "coloraxis": "coloraxis"
+    },
+    {
+      "name": "markers - coloraxis 1",
+      "mode": "markers",
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQMF"
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AQIB"
+      },
+      "marker": {
+        "size": 20,
+        "symbol": "diamond",
+        "color": {
+          "dtype": "i1",
+          "bdata": "AQIA"
+        },
+        "coloraxis": "coloraxis"
+      }
+    },
+    {
+      "name": "contour coloring:heatmap 2 - coloraxis 1",
+      "type": "contour",
+      "x": {
+        "dtype": "i1",
+        "bdata": "BQY="
+      },
+      "z": {
+        "dtype": "i1",
+        "bdata": "A/oEBQ==",
+        "shape": "2, 2"
+      },
+      "contours": {
+        "coloring": "heatmap"
+      },
+      "coloraxis": "coloraxis"
+    },
+    {
+      "name": "contour 1 - coloraxis 2",
+      "type": "contour",
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQI="
+      },
+      "z": {
+        "dtype": "i1",
+        "bdata": "A/oEBQ==",
+        "shape": "2, 2"
+      },
+      "coloraxis": "coloraxis2",
+      "xaxis": "x2",
+      "yaxis": "y2"
+    },
+    {
+      "name": "contour 2 - coloraxis 2",
+      "type": "contour",
+      "x": {
+        "dtype": "i1",
+        "bdata": "AgM="
+      },
+      "z": {
+        "dtype": "i1",
+        "bdata": "AQIK/Q==",
+        "shape": "2, 2"
+      },
+      "coloraxis": "coloraxis2",
+      "xaxis": "x2",
+      "yaxis": "y2"
+    },
+    {
+      "name": "contour coloring:lines - coloraxis 3",
+      "type": "contour",
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQI="
+      },
+      "z": {
+        "dtype": "i1",
+        "bdata": "A/oEBQ==",
+        "shape": "2, 2"
+      },
+      "contours": {
+        "coloring": "lines"
+      },
+      "line": {
+        "width": 2
+      },
+      "coloraxis": "coloraxis3",
+      "xaxis": "x3",
+      "yaxis": "y3"
+    },
+    {
+      "name": "contour coloring:lines 2 - coloraxis 3",
+      "type": "contour",
+      "x": {
+        "dtype": "i1",
+        "bdata": "AgM="
+      },
+      "z": {
+        "dtype": "i1",
+        "bdata": "AQIK/Q==",
+        "shape": "2, 2"
+      },
+      "contours": {
+        "coloring": "lines"
+      },
+      "line": {
+        "width": 2
+      },
+      "coloraxis": "coloraxis3",
+      "xaxis": "x3",
+      "yaxis": "y3"
+    },
+    {
+      "name": "contour coloring:heatmap edge case - coloraxis 4",
+      "type": "contour",
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "z": {
+        "dtype": "i1",
+        "bdata": "AQIDAQID",
+        "shape": "2, 3"
+      },
+      "contours": {
+        "coloring": "heatmap",
+        "start": 1,
+        "end": 5
+      },
+      "coloraxis": "coloraxis4",
+      "xaxis": "x4",
+      "yaxis": "y4"
+    },
+    {
+      "name": "contour coloring:heatmap edge case 2 - coloraxis 4",
+      "type": "contour",
+      "x": {
+        "dtype": "i1",
+        "bdata": "BQYH"
+      },
+      "z": {
+        "dtype": "i1",
+        "bdata": "AgMEAgME",
+        "shape": "2, 3"
+      },
+      "contours": {
+        "coloring": "heatmap",
+        "start": 0,
+        "end": 3
+      },
+      "coloraxis": "coloraxis4",
+      "xaxis": "x4",
+      "yaxis": "y4"
+    }
+  ],
+  "layout": {
+    "showlegend": false,
+    "grid": {
+      "rows": 2,
+      "columns": 2,
+      "pattern": "independent"
+    },
+    "coloraxis": {
+      "colorbar": {
+        "len": 0.5,
+        "x": -0.05,
+        "xanchor": "right",
+        "y": 1,
+        "yanchor": "top"
+      }
+    },
+    "coloraxis2": {
+      "colorbar": {
+        "dtick": 1,
+        "len": 0.5,
+        "x": 1.05,
+        "xanchor": "left",
+        "y": 1,
+        "yanchor": "top"
+      }
+    },
+    "coloraxis3": {
+      "colorbar": {
+        "len": 0.5,
+        "x": -0.05,
+        "xanchor": "right",
+        "y": 0,
+        "yanchor": "bottom"
+      }
+    },
+    "coloraxis4": {
+      "colorscale": "Viridis",
+      "colorbar": {
+        "len": 0.5,
+        "x": 1.05,
+        "xanchor": "left",
+        "y": 0,
+        "yanchor": "bottom"
+      }
+    }
+  }
+}

@@ -1,0 +1,249 @@
+{
+  "data": [
+    {
+      "y": {
+        "dtype": "f8",
+        "bdata": "9IhVIHOz8b/fXza7B3nmPyxfGU8237Y/szWIo67h4L9nkB7B+Dr9PxkQhIVs7OM/Fp+slaL88b+bDqlGBG2qv/nXofHL4O0/XcoTCzjxwj8Ss13n5vr5vwaxWYNAtb4/vqsUN3HZ/L+2CsZHUEbtv2o6elK9ne+/pPltVCzF5z8zn8aDU4TRv+c81GWmN+6/13nwiBCV3L/EBG1Y9S74v2o7idOcdNk/fBuWjGcw9r+pqa/IZmvev7IY+U0AvvA/oFAjKHO/6L+8sM3F3Y7xPywW4usIMOY/85KYLIKI/z/clj/ySN3wv+spDyY6iMw/GcoqXhZf+r9/zYKPeMHnP0hjgbPYQXg/S4VZzidP9D+4zI83plz8v5osYnE4g/s/4wASumjrwz++RygwQ1byP0s99Qx6KdA/5RsJXVswyT8EZl3JxAv3v+s2n0REVLk/bX41UvLK9T/yCsxVOm//PzdyIeZgXvA//32RPnUpu79ez/3RFyngP7PX+N58fNK/4nhTabYn7789hPhY/DbVPw=="
+      },
+      "name": "trace 0",
+      "boxpoints": "all",
+      "jitter": 0,
+      "pointpos": -1.8,
+      "type": "box"
+    },
+    {
+      "y": {
+        "dtype": "f8",
+        "bdata": "WeRJgxoi478282ZJjdL5vzrZCdqhPuA/tf3AzZD+8L+jIUXK3eHKPybX+4smH8g/Ou2lL2L75r+YHDmA1CHYv6fN8KnqZHG/EEz73Ksxl78Dav+FsqvWv+rzGOsuF8A/fDooalttAUDmUB83+x/wPwnjOgZucP2/vEryCPx73j98NqEumjnXvxfJRsS6Jr4/RFqiBSHr979sROmUpG/evzbHKAk/YeM/Ef6Ndxro6T8wD/okAf6UP3odY7B8o6u/hbNTrQCa1D8Pq7TGIXzRP3F597p3Dee/KdF1+0EF/b8f1HuHC3rxP7q1jw7cKvq/fYdhH0RY2b/TSy2ozZ/pvxknSkG2xIc/sd/3FHHLy79BbJrkMi+QP7LkmraIo9S/Nzciwl1p6z+jKxnUwEbjv83ttwMfkvi/G7OUzeSh0L/u0lKE/gvrPx3XzZ+LAPa/gfbgkiob6T+UEhtZGP75P2xir0qh8vy/WjdRDJjo4L+VGQVmg+S4P3c9CoF0EuI/VT4AzN159D/3c8JpJ1TDvw=="
+      },
+      "name": "trace 1",
+      "boxpoints": "all",
+      "jitter": 0,
+      "pointpos": -1.8,
+      "type": "box"
+    },
+    {
+      "y": {
+        "dtype": "f8",
+        "bdata": "WHzjqFO3+T9t8vPlO+D0v5wSYmIzW96/Pq6n1ynF9r912IZVI9H0P/2KKaGPy+U/mN8fxkvO6j+P3ULY2J7Av4YRWRTFnJu/hGldsTl8ij/mUpbtwZDZP+tQTMh+5fk/fy0W8eSN4D8xSoEHgi3ov/+PlLG/uNs/OEl/WEEw9D9IkTILBHTlP/aOdMfDsvK/AOqk6KJH879ZVsoXx3zRv/CWed7czN6/jnJyaWCZ07+ar8dmuX7pv8sWTt3Vaug/+H1yJtaU+b+Abw6sXjH4vzpHrNbOuOY/g9gNFW7e4D9388/waC3Sv4QZWx33ItW/vI0qV9al+T9ydpmVmPrvv7JD0GBcw/Q/1gq9StC+B0BWqBqlOwfiv9GwxLIKXfo/1i6xIEL78D84NFSPwKGTv2CeH9LGOwbAdxA1otNP7r8ZkK3TdVy4vzKRdE9M1/c/XZHxC17P7L/0En8QW466Pwbm/7yhBus/aMGaR/uZA8A7mJs/jVLmv6je0Yc+vd0/es+CcPVi4b9Na81Qd9r5Pw=="
+      },
+      "name": "trace 2",
+      "boxpoints": "all",
+      "jitter": 0,
+      "pointpos": -1.8,
+      "type": "box"
+    },
+    {
+      "y": {
+        "dtype": "f8",
+        "bdata": "3SwsLJeE9L+SCl2QqpP1v3ylcoLN+uW/lrW6ShKipL/9BzmF85DAvx+0GHLF1dQ/kQol4tpbwz8RFsGwXMLbv0HnA1KmOdo/WdH6wvMX9b/kORNzNi72PyLaLiFfsOS/iNtd/ar+6D+owAZkyJT7v45PHABM2ci/VzXXhsjs7T8z5EQbnEr9v2LMRhmkmNy/8Bi6PvrJ5j8maFDOEHPXv6hbX75CgPS/c3uUGBxe8b+cGBjgAffkP8bGcpoHqr4/gjxq6lrd2785jpyKAzUAQE4eNGeQGZC/r2q3zzdJ8r/xz+6MiZTxvz4GuorKr9u/I+wDBW458b8GAuycmLvpv3PDopgnBu6/Zq55H8qlAcBT2vaJTpP5v+Fblqx2wwDAEuxC5fZN5j9XdI30uzjJP9tqmstmweQ/HPRkRZwzmb9mzIXyyrflv9E0lYCN0eI/xuUO2egq3j/rdWzaCznvv0vIw8UQ8v2/sWyKYbYHwD/y40oLBBG6v4A6VWyTN9y/KIy4ybJK3D9WiMVoqJ/xvw=="
+      },
+      "name": "trace 3",
+      "boxpoints": "all",
+      "jitter": 0,
+      "pointpos": -1.8,
+      "type": "box"
+    },
+    {
+      "y": {
+        "dtype": "f8",
+        "bdata": "lCGZEVhbA8CxXBNGRGT0P5BVYLIu5uW/sKeVj8lQwb/5Z1AIny7uP6LvUdyF/+E/JNkw3ja48D/4xyeCzHj5v+KuY1Tt/+i/ix2DBdJT+7/SipDy3azzv8tI8rJHbPU/AyEpkvF76L9kE8ENlqfbv+ZBeA7qOOK/hAA5b/1b6z/fHQrj3X3kv/AcCXjz4O2/Pv16I1PuzT+LxxC8qcHyv4L4U+f27tg/E8YQhaDx9j9p8QYzFIjRP3d6kkaihuW/Rc4PXF8d5r+2dTE1jmH0v3z7sjNl7Ne/TNN30y3s4r8rgY3tcu7cvzyhUJJf2Mm/iQiXHk1Fmb/4HagZNBQDQHNTL2m+IcG/qUuxGr5nsb+CqLtkWkbSv3O3Cgham96/gwzYimSh7D/wejIrny7qP4IUYQ6vbgPAVKRV+0E4zz/qzaSxNNTSvwD/14mntNg/DaM2jdB+9L+SjaaUSqDmPySctN5wdsm/1pe/8Ph+9T/JLlYBWo0CwGqYt/YC4PM/NLwfT2jo4T8vbRZ2D+0BQA=="
+      },
+      "name": "trace 4",
+      "boxpoints": "all",
+      "jitter": 0,
+      "pointpos": -1.8,
+      "type": "box"
+    },
+    {
+      "y": {
+        "dtype": "f8",
+        "bdata": "cE2YsY4iyb9SxXy9cXXBP5tt9Lf1hNC/v/JxQ7ZsrL8lrNSj52Tqv2+IpDowsfI/1/mpS2TFmr/6OdLeu9bSv3HEc+T7VdY/rfXlpEDF7z9CBYfF6YT4P0pyGdYyN/O/nHkSOxL5w7/1UhveyaDAPxp08KOfuNs/+lqUrhjn8L/gZC21y5TJPwrcM3wcq9s/GRPNrvXm8z82zA34FmDyv23zV6SAGPW/p5YjS7uI0r/6TFwVOKb4P5V8cklnq/W/cSEG2lR60b9rVRue4HlDPxASIxIflce/IbXx2IYs2L9pMwwaRW3AP/Yr7h4DU/I/guqVkJu4xr+JkZQMav+6PxkKNej2ueY/IkXOjeUDAcDCd9pQakzov8PL5Q5KmQVAJeJWxuRK9b8Iua4f+9P0P921O5FC0/e/8AJldH+u4T92IxyJaPsHQBYKhJK51bQ/HQCN+S7nAUCOTcBtrdDvv/SSmq8BNNG/+npputde1L+q2g8myS4BQMsg937KYMS/CuV18VGl2r9i73Q4JwbTvw=="
+      },
+      "name": "trace 5",
+      "boxpoints": "all",
+      "jitter": 0,
+      "pointpos": -1.8,
+      "type": "box"
+    },
+    {
+      "y": {
+        "dtype": "f8",
+        "bdata": "r4ABAU4O1z+RHPx0DN7gv81W4Z/CdAFAXNeuyaah2b9XrR6StRblP63zQiJ5tcw/+bHEehOU9T8jWgpxA5/dP/z7MctWPtU/mOe7xtrZ279fM4nXgQcAQCP4WTFbC54/rc/PMuMA9z+52fiBenjbvyL2hlWnb+8/nGhtfLe91L/+emxltUL2v6KxI0txQJ0/JYxmOl7j9z9md4AehgX4PwkFIeAemv2/5BJ6Cj5i3T8nDIr2VeWnv+we7qNad8Y/EtgOlcSi178dyePcYrjZP43peBIqb/u/a/HKPdEx9r+SAGRsXEr0PzcX8T0iG8+/LBD6VIpPvL8dX46BwGuIvwhM4eifAPs/0gTWANlYpD+412jp1wfCP6tKs/WmXvG/1sY+WFuY4L974Mq/0Fnkv/hsDeA5BmQ/xzfQm73q/r//TRidY2cCwOliwdPd0wFAVIXq4aNi5T/8D/gai5zmv8+N8C5u7dG/XeZc2Xnarj9kY0YzeBTwv1qunKWAHeo/MK6wv2112L8ElZsPmHTrPw=="
+      },
+      "name": "trace 6",
+      "boxpoints": "all",
+      "jitter": 0,
+      "pointpos": -1.8,
+      "type": "box"
+    },
+    {
+      "y": {
+        "dtype": "f8",
+        "bdata": "S8RYC+AP2b/Uz1A4tWffvy0sM5fGF9+/HZzH0FkRw7+CWuQY8Gb2v/wLdXgRhOU/AsxsU/tW67/O1qURSxlxv/a88tPlSd2/RycMyTqi178vercqcZHSP48jJGUOR/8/T8+xMVWJ7T9jbiJybUDQvwf5N9NOg/I/uAiQfQNuzz8c0TUW5oTUP2Ez0z7vHOm/+IbQJ2pg9b/41x2Gq9fcPy8Ke/suI92/pfSoqbZs2L9kf1YWv7Div4WfZMiTFuk/9fgd3nbl3b8UZ1s7c1fyP+4JGAs7IOo/yXPVlpIQ3z8Z8z6C7+yqv/ZJdXtf3PQ/Plsz4KFH6z9GpyxeCDPoP4HV73a8/OC/wKa89MIdkT8oJcFN2Gnpv4ZZ26BMEcu/I8LlzVIhs79FSzKS5aTpP2J13NyYvfa/Dd0IEfUd7D+Hnkv5yYfcv5QlXxYUfd2/E+tAVXfh+7//zSe382fpPzejPAY4KL2/E50iErO2yj/hFhEBeqXWPy1kIWka2fO/vAC9ZZi23b8Simos5MPEvw=="
+      },
+      "name": "trace 7",
+      "boxpoints": "all",
+      "jitter": 0,
+      "pointpos": -1.8,
+      "type": "box"
+    },
+    {
+      "y": {
+        "dtype": "f8",
+        "bdata": "PrVZhi8g2b9meO/uBQSPv53ExkyID68/F+62WHJU979QwreypdbWv/kYv4vOJdo/m9UsZzBnAcCRR5i9ohbrP3IHvDE8hPS/NxAMR0Mw779Uxx8VGTfVvyYb04lnA/Q/Va58FSJG579+BfRsVfbOP9kFiWbqb7W/AMs3kNOr8b//8z3TJdK2P4F1T6QnL9w/2mTolQdg5L/CwstQ+vjgv/geMJaUova/QPjdgSENAcDAFc5FMTfxPw+yGKVjj/E/zWkmgvHQ1z/FevD1mrfiv/YHLKeaXQDABb/LJf1xy7/FODGCt0OpP8CCKfEZuLa/+GxeB6fAoz+ArL5QcOPcP4KU9+uP2+0/HJsHmZnh87+3gw9HeckBQMcT38wETOo/RzcoRODA+D+tA2nAOwzZv+a0ZVN1D+I/fA/oIyjbxT8GFWb85/LqPyZM2MjotvA/Gj2A4ljg4b8Z3LGI+rjYvx0+sMBbt90/0VF193Ld+b+Eq8T9hb+uP5nTZAYW9KY/PQ29c9ImAECIi+GKJrvKvw=="
+      },
+      "name": "trace 8",
+      "boxpoints": "all",
+      "jitter": 0,
+      "pointpos": -1.8,
+      "type": "box"
+    },
+    {
+      "y": {
+        "dtype": "f8",
+        "bdata": "wgZNC/Aq3D/BHnOnFMPDv/YTBYNNBek/+UPz+x++4z+e+hy1Gy3TP8zT/gMh9PI/aMEsRNx067/XpZvOClXjP3gRgHqmw+E/XGnGMdnX1T+VmlqAtFTQv94fkXiZlMc/84esNZa83T9H99UK7ELyv8pjLB8u4em/yfGNcVZW1b+Qg0auKHPkv8P46HlbU8G/Ww4wKuKfzz/4/ar/sWPjP9V4jjXlWvQ/6aLRL2pK8D/wjPah6tftP1gFNSCLGuS/iC4TIVTaxr/my1FLtpjGPwSclN/gePY/+g3enIoT2r97Mn2l1qL6P+ugc2D/Mf4/AdVmiEDp179PWrrmYC/gv4zQslImVPi/xmfbABEL3T//38uTeZACwGEP9iS1XOs/f5pVVEzS7j/9pdsIH9XVPwyyQ/oUe+M/UA828yLsAECWgyRzQ4/IP9QPpCU1L8C/TQzArku33b+MnzSWkJ7gv5Q5ZOTsd+M/qWR9L2Zn678owESOeCy8P+bhYV0wCfo/jVN5XMau9T/+ah27SibvPw=="
+      },
+      "name": "trace 9",
+      "boxpoints": "all",
+      "jitter": 0,
+      "pointpos": -1.8,
+      "type": "box"
+    }
+  ],
+  "layout": {
+    "title": {
+      "text": "NumPy Boxes"
+    },
+    "font": {
+      "family": "'Open sans', verdana, arial, sans-serif",
+      "size": 12,
+      "color": "#444"
+    },
+    "showlegend": false,
+    "autosize": true,
+    "width": 1366,
+    "height": 713,
+    "xaxis": {
+      "title": {
+        "text": "Click to enter X axis title"
+      },
+      "range": [
+        -0.8184999999999999,
+        9.5
+      ],
+      "domain": {
+        "dtype": "i1",
+        "bdata": "AAE="
+      },
+      "type": "category",
+      "rangemode": "normal",
+      "showgrid": false,
+      "zeroline": false,
+      "showline": false,
+      "autotick": true,
+      "nticks": 0,
+      "ticks": "",
+      "showticklabels": true,
+      "tick0": 0,
+      "dtick": 1,
+      "ticklen": 5,
+      "tickwidth": 1,
+      "tickcolor": "#444",
+      "tickangle": "auto",
+      "tickfont": {
+        "family": "",
+        "size": 0,
+        "color": ""
+      },
+      "exponentformat": "B",
+      "showexponent": "all",
+      "gridcolor": "#eee",
+      "gridwidth": 1,
+      "zerolinecolor": "#444",
+      "zerolinewidth": 1,
+      "linecolor": "#444",
+      "linewidth": 1,
+      "anchor": "y",
+      "position": 0,
+      "mirror": false,
+      "overlaying": false,
+      "autorange": true
+    },
+    "yaxis": {
+      "title": {
+        "text": "Click to enter Y axis title"
+      },
+      "range": [
+        -3.100129247314654,
+        3.318699412549501
+      ],
+      "domain": {
+        "dtype": "i1",
+        "bdata": "AAE="
+      },
+      "type": "linear",
+      "rangemode": "normal",
+      "showgrid": true,
+      "zeroline": false,
+      "showline": false,
+      "autotick": true,
+      "nticks": 0,
+      "ticks": "",
+      "showticklabels": true,
+      "tick0": 0,
+      "dtick": 1,
+      "ticklen": 5,
+      "tickwidth": 1,
+      "tickcolor": "#444",
+      "tickangle": "auto",
+      "tickfont": {
+        "family": "",
+        "size": 0,
+        "color": ""
+      },
+      "exponentformat": "B",
+      "showexponent": "all",
+      "gridcolor": "#eee",
+      "gridwidth": 1,
+      "zerolinecolor": "#444",
+      "zerolinewidth": 1,
+      "linecolor": "#444",
+      "linewidth": 1,
+      "anchor": "x",
+      "position": 0,
+      "mirror": false,
+      "overlaying": false,
+      "autorange": true
+    },
+    "legend": {
+      "traceorder": "normal",
+      "font": {
+        "family": "",
+        "size": 0,
+        "color": ""
+      },
+      "bgcolor": "#fff",
+      "bordercolor": "#444",
+      "borderwidth": 0
+    },
+    "margin": {
+      "l": 80,
+      "r": 80,
+      "b": 80,
+      "t": 100,
+      "pad": 0,
+      "autoexpand": true
+    },
+    "paper_bgcolor": "#fff",
+    "plot_bgcolor": "#fff",
+    "hovermode": "x",
+    "dragmode": "zoom",
+    "barmode": "group",
+    "bargap": 0.2,
+    "bargroupgap": 0,
+    "boxmode": "overlay",
+    "separators": ".,",
+    "hidesources": false
+  }
+}

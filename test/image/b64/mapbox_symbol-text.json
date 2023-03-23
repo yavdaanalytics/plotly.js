@@ -1,0 +1,66 @@
+{
+  "data": [
+    {
+      "type": "scattermapbox",
+      "mode": "markers+lines+text",
+      "lon": {
+        "dtype": "i1",
+        "bdata": "9hQe"
+      },
+      "lat": {
+        "dtype": "i1",
+        "bdata": "9hQo"
+      },
+      "marker": {
+        "symbol": "harbor",
+        "size": 5
+      },
+      "text": "LOOK",
+      "textfont": {
+        "size": 10,
+        "color": "red"
+      },
+      "textposition": "top center"
+    },
+    {
+      "type": "scattermapbox",
+      "mode": "markers+text",
+      "lon": {
+        "dtype": "i1",
+        "bdata": "tZx4"
+      },
+      "lat": {
+        "dtype": "i1",
+        "bdata": "LRTY"
+      },
+      "marker": {
+        "size": 15,
+        "symbol": [
+          "monument",
+          "harbor",
+          "music"
+        ]
+      },
+      "text": [
+        "Monument",
+        "Harbor",
+        "Music"
+      ],
+      "textposition": "bottom left"
+    }
+  ],
+  "layout": {
+    "mapbox": {
+      "style": "outdoors",
+      "zoom": 0.5,
+      "center": {
+        "lon": 0,
+        "lat": 0
+      }
+    },
+    "showlegend": false,
+    "height": 450,
+    "width": 1100,
+    "autosize": true
+  }
+}

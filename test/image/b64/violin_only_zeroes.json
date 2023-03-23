@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "type": "violin",
+      "y": {
+        "dtype": "i1",
+        "bdata": "AAAAAA=="
+      },
+      "points": "all",
+      "pointpos": 0,
+      "meanline": {
+        "visible": true
+      }
+    },
+    {
+      "type": "violin",
+      "y": {
+        "dtype": "i1",
+        "bdata": "AAAAAA=="
+      },
+      "points": "all",
+      "bandwidth": 0.25,
+      "pointpos": 0
+    },
+    {
+      "type": "violin",
+      "y": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAAAAAAAAAADwPwAAAAAAAPg/AAAAAAAAAEA="
+      },
+      "points": "all",
+      "pointpos": 0
+    }
+  ]
+}

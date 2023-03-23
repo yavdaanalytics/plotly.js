@@ -1,0 +1,174 @@
+{
+  "data": [
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AAAAAQEBAgIC"
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "ZGVmZGVmZGVm"
+      },
+      "z": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAA+D8AAAAAAAD4PwAAAAAAAPg/AAAAAAAA+D8AAAAAAAAEQAAAAAAAAAxAAAAAAAAA+D8AAAAAAAAMQAAAAAAAABZA"
+      },
+      "type": "mesh3d",
+      "color": "grey",
+      "lighting": {
+        "ambient": 0.5,
+        "diffuse": 0.5,
+        "specular": 0.5,
+        "roughness": 0.5,
+        "fresnel": 0.5
+      },
+      "lightposition": {
+        "x": 0,
+        "y": 2000,
+        "z": 1000
+      }
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AAAAAQEBAgIC"
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "ZGNiZGNiZGNi"
+      },
+      "z": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAA+D8AAAAAAAD4PwAAAAAAAPg/AAAAAAAA+D8AAAAAAAAEQAAAAAAAAAxAAAAAAAAA+D8AAAAAAAAMQAAAAAAAABZA"
+      },
+      "type": "mesh3d",
+      "color": "grey",
+      "lighting": {
+        "ambient": 0.5,
+        "diffuse": 0.5,
+        "specular": 0.5,
+        "roughness": 0.5,
+        "fresnel": 0.5
+      },
+      "lightposition": {
+        "x": 0,
+        "y": 2000,
+        "z": 1000
+      }
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AAAA/////v7+"
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "ZGNiZGNiZGNi"
+      },
+      "z": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAA+D8AAAAAAAD4PwAAAAAAAPg/AAAAAAAA+D8AAAAAAAAEQAAAAAAAAAxAAAAAAAAA+D8AAAAAAAAMQAAAAAAAABZA"
+      },
+      "type": "mesh3d",
+      "color": "grey",
+      "lighting": {
+        "ambient": 0.5,
+        "diffuse": 0.5,
+        "specular": 0.5,
+        "roughness": 0.5,
+        "fresnel": 0.5
+      },
+      "lightposition": {
+        "x": 0,
+        "y": 2000,
+        "z": 1000
+      }
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AAAA/////v7+"
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "ZGVmZGVmZGVm"
+      },
+      "z": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAA+D8AAAAAAAD4PwAAAAAAAPg/AAAAAAAA+D8AAAAAAAAEQAAAAAAAAAxAAAAAAAAA+D8AAAAAAAAMQAAAAAAAABZA"
+      },
+      "type": "mesh3d",
+      "color": "grey",
+      "lighting": {
+        "ambient": 0.5,
+        "diffuse": 0.5,
+        "specular": 0.5,
+        "roughness": 0.5,
+        "fresnel": 0.5
+      },
+      "lightposition": {
+        "x": 0,
+        "y": 2000,
+        "z": 1000
+      }
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "/v8AAQI="
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "YmNkZWY="
+      },
+      "z": {
+        "dtype": "i1",
+        "bdata": "BAIAAgQCAQABAgAAAAAAAgEAAQIEAgACBA==",
+        "shape": "5, 5"
+      },
+      "type": "surface",
+      "colorscale": [
+        [
+          0,
+          "grey"
+        ],
+        [
+          1,
+          "grey"
+        ]
+      ],
+      "showscale": false,
+      "lighting": {
+        "ambient": 0.5,
+        "diffuse": 0.5,
+        "specular": 0.5,
+        "roughness": 0.5,
+        "fresnel": 0.5
+      },
+      "lightposition": {
+        "x": 0,
+        "y": 2000,
+        "z": 1000
+      }
+    }
+  ],
+  "layout": {
+    "height": 800,
+    "width": 800,
+    "title": {
+      "text": "Mesh3d and surface lighting"
+    },
+    "scene": {
+      "xaxis": {},
+      "yaxis": {},
+      "zaxis": {},
+      "camera": {
+        "eye": {
+          "x": 2.0,
+          "y": -1.5,
+          "z": 0.5
+        }
+      }
+    }
+  }
+}

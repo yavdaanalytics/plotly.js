@@ -1,0 +1,70 @@
+{
+  "data": [
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AAoM"
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "CgwA"
+      },
+      "z": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "zsmooth": "best",
+      "type": "heatmap",
+      "colorscale": "Cividis",
+      "colorbar": {
+        "x": 0.42
+      }
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AAoM"
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "CgwA"
+      },
+      "z": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "contours": {
+        "coloring": "heatmap"
+      },
+      "line": {
+        "color": "#fff"
+      },
+      "colorscale": "Cividis",
+      "type": "contour",
+      "xaxis": "x2",
+      "yaxis": "y2"
+    }
+  ],
+  "layout": {
+    "title": {
+      "text": "heatmap and contour map with irregular bricks"
+    },
+    "xaxis": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAACamZmZmZnZPw=="
+      }
+    },
+    "xaxis2": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "MzMzMzMz4z8AAAAAAADwPw=="
+      }
+    },
+    "yaxis2": {
+      "anchor": "x2"
+    },
+    "height": 400,
+    "width": 800
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "data": [
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AAEC"
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AAEC"
+      },
+      "mode": "lines+markers",
+      "type": "scattergl"
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AAEC"
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AgEA"
+      },
+      "mode": "lines+markers",
+      "type": "scattergl",
+      "yaxis": "y2"
+    }
+  ],
+  "layout": {
+    "width": 700,
+    "height": 500,
+    "showlegend": false,
+    "yaxis": {
+      "side": "left"
+    },
+    "yaxis2": {
+      "side": "right",
+      "overlaying": "y"
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "data": [
+    {
+      "text": [
+        "a",
+        "j",
+        "i",
+        "k"
+      ],
+      "mode": "lines+markers+text",
+      "y": {
+        "dtype": "f8",
+        "bdata": "uB6F61GoWcBSuB6F66FbwK5H4XoUPljAexSuR+FyZMA="
+      },
+      "x": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAwWUApXI/C9bBjQNejcD0Kl2FAKVyPwvXAYEA="
+      },
+      "z": {
+        "dtype": "f8",
+        "bdata": "UrgehevRIEAAAAAAAEA8QFK4HoXr8VBApHA9CtfDUUA="
+      },
+      "type": "scatter3d",
+      "projection": {
+        "y": {
+          "show": false
+        },
+        "x": {
+          "show": false
+        },
+        "z": {
+          "show": false
+        }
+      }
+    }
+  ],
+  "layout": {
+    "autosize": true,
+    "title": {
+      "text": "Scatter3d with text weirdness"
+    },
+    "showlegend": false,
+    "height": 758,
+    "width": 1310
+  }
+}

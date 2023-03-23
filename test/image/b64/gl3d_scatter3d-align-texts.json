@@ -1,0 +1,110 @@
+{
+  "data": [
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "Aw=="
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AA=="
+      },
+      "z": {
+        "dtype": "i1",
+        "bdata": "Ag=="
+      },
+      "text": [
+        "top"
+      ],
+      "type": "scatter3d",
+      "mode": "markers+text",
+      "textposition": "top center"
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AA=="
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AA=="
+      },
+      "z": {
+        "dtype": "i1",
+        "bdata": "AA=="
+      },
+      "text": [
+        "left"
+      ],
+      "type": "scatter3d",
+      "mode": "markers+text",
+      "textposition": "center left"
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQ=="
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AA=="
+      },
+      "z": {
+        "dtype": "i1",
+        "bdata": "AQ=="
+      },
+      "text": [
+        "right"
+      ],
+      "type": "scatter3d",
+      "mode": "markers+text",
+      "textposition": "center right"
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "Ag=="
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AA=="
+      },
+      "z": {
+        "dtype": "i1",
+        "bdata": "AA=="
+      },
+      "text": [
+        "bottom"
+      ],
+      "type": "scatter3d",
+      "mode": "markers+text",
+      "textposition": "bottom center"
+    }
+  ],
+  "layout": {
+    "title": {
+      "text": "Texts in scatter3d should be aligned to left, right, top or bottom & displayed well on WEBGL"
+    },
+    "width": 800,
+    "height": 600,
+    "scene": {
+      "camera": {
+        "eye": {
+          "x": -1.25,
+          "y": 1.25,
+          "z": 1.25
+        },
+        "center": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "up": {
+          "x": 0,
+          "y": 0,
+          "z": 1
+        }
+      }
+    }
+  }
+}

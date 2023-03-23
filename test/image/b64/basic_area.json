@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQIDBA=="
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AAIDBQ=="
+      },
+      "fill": "tozeroy",
+      "type": "scatter"
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQIDBA=="
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AwUBBw=="
+      },
+      "fill": "tonexty",
+      "type": "scatter"
+    }
+  ]
+}

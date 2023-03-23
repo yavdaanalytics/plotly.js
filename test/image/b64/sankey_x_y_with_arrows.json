@@ -1,0 +1,45 @@
+{
+  "data": [
+    {
+      "type": "sankey",
+      "arrangement": "freeform",
+      "node": {
+        "label": [
+          "0",
+          "1",
+          "2"
+        ],
+        "x": {
+          "dtype": "i1",
+          "bdata": "AQID"
+        },
+        "y": {
+          "dtype": "i1",
+          "bdata": "AAAA"
+        }
+      },
+      "link": {
+        "arrowlen": 40,
+        "source": {
+          "dtype": "i1",
+          "bdata": "AAEC"
+        },
+        "target": {
+          "dtype": "i1",
+          "bdata": "AQIA"
+        },
+        "value": {
+          "dtype": "i1",
+          "bdata": "CgkB"
+        }
+      }
+    }
+  ],
+  "layout": {
+    "title": {
+      "text": "Sankey with little space"
+    },
+    "width": 400,
+    "height": 400
+  }
+}

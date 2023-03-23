@@ -1,0 +1,197 @@
+{
+  "data": [
+    {
+      "x": {
+        "dtype": "i2",
+        "bdata": "RAdOB1gHYgdsB3YHgAeKB5QHngeoB7IHvAfGB9AH"
+      },
+      "y": {
+        "dtype": "i4",
+        "bdata": "H+NJAHciVAAanWkAhS51AE9PjADuyqIAmdGvAN85rgCmuqAAyQr2AF4yNQHpdgQBAeT4AL5rIAGxACQB"
+      },
+      "mode": "lines",
+      "name": "<5",
+      "line": {
+        "color": "rgb(0, 0, 0)"
+      },
+      "fill": "tonexty",
+      "fillcolor": "rgb(0, 0, 238)",
+      "type": "scatter"
+    },
+    {
+      "x": {
+        "dtype": "i2",
+        "bdata": "RAdOB1gHYgdsB3YHgAeKB5QHngeoB7IHvAfGB9AH"
+      },
+      "y": {
+        "dtype": "i4",
+        "bdata": "o6b1AHZpJAEDHnABEMu6ARbbAgL+a00CXX+QAu3g1gKWIrMCRIQLA8K4GgTnMJcEQC5SBCDCSAQIIcwE"
+      },
+      "mode": "lines",
+      "name": "5-19",
+      "line": {
+        "color": "rgb(0, 0, 0)"
+      },
+      "fill": "tonexty",
+      "fillcolor": "rgb(0, 64, 222)",
+      "type": "scatter"
+    },
+    {
+      "x": {
+        "dtype": "i2",
+        "bdata": "RAdOB1gHYgdsB3YHgAeKB5QHngeoB7IHvAfGB9AH"
+      },
+      "y": {
+        "dtype": "i4",
+        "bdata": "VO+gAXWw9AGp3YICSjgdA/gEuAP9vXAES+X7BOdjpAUprsAFAx1sBrDLiwdrIm4IrahUCdOOOgqh9wAL"
+      },
+      "mode": "lines",
+      "name": "20-44",
+      "line": {
+        "color": "rgb(0, 0, 0)"
+      },
+      "fill": "tonexty",
+      "fillcolor": "rgb(0, 129, 190)",
+      "type": "scatter"
+    },
+    {
+      "x": {
+        "dtype": "i2",
+        "bdata": "RAdOB1gHYgdsB3YHgAeKB5QHngeoB7IHvAfGB9AH"
+      },
+      "y": {
+        "dtype": "i4",
+        "bdata": "LdXSARO0OgK1S+MC0AubA/DhVgTroj0FXJf/BZFc6gYdfE4HT+c+CGbIsQmD5OwKzjH6Cxdu/AyUrrEO"
+      },
+      "mode": "lines",
+      "name": "45-64",
+      "line": {
+        "color": "rgb(0, 0, 0)"
+      },
+      "fill": "tonexty",
+      "fillcolor": "rgb(0, 194, 157)",
+      "type": "scatter"
+    },
+    {
+      "x": {
+        "dtype": "i2",
+        "bdata": "RAdOB1gHYgdsB3YHgAeKB5QHngeoB7IHvAfGB9AH"
+      },
+      "y": {
+        "dtype": "i4",
+        "bdata": "dsnfAaJaTAIFUf0CgIHAA/FshgRi+3kFK2dLBm2GTwfDGtcH5Sj5CKqErQqTxBwMidCADXXO1g5QKMYQ"
+      },
+      "mode": "lines",
+      "name": "65+",
+      "line": {
+        "color": "rgb(0, 0, 0)"
+      },
+      "fill": "tonexty",
+      "fillcolor": "rgb(0, 255, 127)",
+      "type": "scatter"
+    }
+  ],
+  "layout": {
+    "title": {
+      "text": "US Population<br>Area Plot"
+    },
+    "font": {
+      "family": "Arial, sans-serif",
+      "size": 12,
+      "color": "#000"
+    },
+    "showlegend": true,
+    "autosize": false,
+    "width": 540,
+    "height": 440,
+    "xaxis": {
+      "title": {
+        "text": "Year"
+      },
+      "range": [
+        1860,
+        2000
+      ],
+      "domain": {
+        "dtype": "i1",
+        "bdata": "AAE="
+      },
+      "type": "linear",
+      "rangemode": "normal",
+      "showgrid": true,
+      "zeroline": true,
+      "showline": false,
+      "ticks": "",
+      "showticklabels": true,
+      "tick0": 0,
+      "dtick": 20,
+      "tickangle": 0,
+      "exponentformat": "e",
+      "showexponent": "all",
+      "gridcolor": "#ddd",
+      "gridwidth": 1,
+      "zerolinecolor": "#000",
+      "zerolinewidth": 1,
+      "anchor": "y",
+      "autorange": true
+    },
+    "yaxis": {
+      "title": {
+        "text": "Population"
+      },
+      "range": [
+        0,
+        296233583.15789473
+      ],
+      "domain": {
+        "dtype": "i1",
+        "bdata": "AAE="
+      },
+      "type": "linear",
+      "rangemode": "normal",
+      "showgrid": true,
+      "zeroline": true,
+      "showline": false,
+      "ticks": "",
+      "showticklabels": true,
+      "tick0": 0,
+      "dtick": 50000000,
+      "tickangle": 0,
+      "exponentformat": "e",
+      "showexponent": "all",
+      "gridcolor": "#ddd",
+      "gridwidth": 1,
+      "zerolinecolor": "#000",
+      "zerolinewidth": 1,
+      "anchor": "x",
+      "autorange": true
+    },
+    "legend": {
+      "x": 1.02,
+      "y": 1.0178571428571428,
+      "traceorder": "normal",
+      "font": {
+        "size": 14
+      },
+      "bgcolor": "rgba(255, 255, 255, 0)",
+      "bordercolor": "rgba(255, 255, 255, 0)",
+      "borderwidth": 0.1,
+      "xanchor": "left",
+      "yanchor": "auto"
+    },
+    "margin": {
+      "l": 80,
+      "r": 0,
+      "b": 80,
+      "t": 80,
+      "pad": 2,
+      "autoexpand": true
+    },
+    "paper_bgcolor": "#fff",
+    "plot_bgcolor": "#fff",
+    "hovermode": "x",
+    "dragmode": "zoom",
+    "separators": ".,",
+    "hidesources": false
+  }
+}

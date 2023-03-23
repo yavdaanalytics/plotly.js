@@ -1,0 +1,160 @@
+{
+  "data": [
+    {
+      "type": "bar",
+      "orientation": "h",
+      "y": [
+        [
+          "2017",
+          "2017",
+          "2017",
+          "2017",
+          "2018",
+          "2018",
+          "2018"
+        ],
+        [
+          "q1",
+          "q2",
+          "q3",
+          "q4",
+          "q1",
+          "q2",
+          "q3"
+        ]
+      ],
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQIDAQMCAwE="
+      }
+    },
+    {
+      "type": "scatter",
+      "y": [
+        [
+          "2017",
+          "2017",
+          "2017",
+          "2017",
+          "2018",
+          "2018",
+          "2018"
+        ],
+        [
+          "q1",
+          "q2",
+          "q3",
+          "q4",
+          "q1",
+          "q2",
+          "q3"
+        ]
+      ],
+      "x": {
+        "dtype": "f8",
+        "bdata": "7FG4HoXr8T8zMzMzMzMBQI/C9ShcjwhArkfhehSu9z89CtejcD0GQDMzMzMzM/8/UrgehetRBEB7FK5H4XrkPw=="
+      }
+    },
+    {
+      "mode": "markers",
+      "marker": {
+        "symbol": "square"
+      },
+      "y": [
+        [
+          "2017",
+          "2017",
+          "2017",
+          "2017",
+          "2018",
+          "2018",
+          "2018"
+        ],
+        [
+          "q1",
+          "looooooooooooooooong",
+          "q3",
+          "q4",
+          "q1",
+          "q2",
+          "q3"
+        ]
+      ],
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQIDAQMCAwE="
+      },
+      "xaxis": "x2",
+      "yaxis": "y2"
+    }
+  ],
+  "layout": {
+    "grid": {
+      "rows": 2,
+      "columns": 1,
+      "pattern": "independent",
+      "ygap": 0.2
+    },
+    "yaxis": {
+      "title": {
+        "text": "MULTI-CATEGORY"
+      },
+      "tickfont": {
+        "size": 16
+      },
+      "ticks": "outside",
+      "tickson": "boundaries"
+    },
+    "yaxis2": {
+      "title": {
+        "text": "MULTI-CATEGORY"
+      },
+      "tickfont": {
+        "size": 12
+      },
+      "ticks": "outside",
+      "tickson": "boundaries"
+    },
+    "xaxis": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "mpmZmZmZqT8AAAAAAADwPw=="
+      }
+    },
+    "xaxis2": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "MzMzMzMz0z8AAAAAAADwPw=="
+      }
+    },
+    "showlegend": false,
+    "hovermode": "y",
+    "width": 600,
+    "height": 700,
+    "annotations": [
+      {
+        "text": "LOOK",
+        "xref": "x",
+        "x": 3,
+        "yref": "y",
+        "y": 6,
+        "ax": 50,
+        "ay": -50
+      }
+    ],
+    "shapes": [
+      {
+        "type": "line",
+        "xref": "paper",
+        "x0": 0.05,
+        "x1": 1,
+        "yref": "y",
+        "y0": 7,
+        "y1": 7,
+        "line": {
+          "color": "red"
+        }
+      }
+    ]
+  }
+}

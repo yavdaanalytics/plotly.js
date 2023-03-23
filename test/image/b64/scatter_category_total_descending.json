@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "x": [
+        "a",
+        "b",
+        "c",
+        "d"
+      ],
+      "y": {
+        "dtype": "i1",
+        "bdata": "BAIDAQ=="
+      },
+      "type": "scatter",
+      "mode": "markers"
+    },
+    {
+      "x": [
+        "a",
+        "b",
+        "c",
+        "d",
+        "c",
+        "c"
+      ],
+      "type": "histogram"
+    }
+  ],
+  "layout": {
+    "title": {
+      "text": "xaxis.categoryorder: \"total descending\""
+    },
+    "width": 400,
+    "height": 400,
+    "xaxis": {
+      "domain": {
+        "dtype": "i1",
+        "bdata": "AAE="
+      },
+      "categoryorder": "total descending"
+    }
+  }
+}

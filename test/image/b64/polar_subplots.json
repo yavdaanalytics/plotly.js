@@ -1,0 +1,134 @@
+{
+  "data": [
+    {
+      "type": "scatterpolar",
+      "mode": "markers+lines+text",
+      "r": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "theta": {
+        "dtype": "i2",
+        "bdata": "AAAtALQA"
+      },
+      "text": [
+        "A0",
+        "B0",
+        "C0"
+      ],
+      "hovertext": [
+        "hover A0",
+        "hover B0",
+        "hover C0"
+      ],
+      "line": {
+        "shape": "spline"
+      },
+      "marker": {
+        "symbol": "square",
+        "size": 15
+      },
+      "textfont": {
+        "color": [
+          "red",
+          "green",
+          "blue"
+        ],
+        "size": 20
+      },
+      "textposition": [
+        "top left",
+        "bottom right",
+        "bottom right"
+      ]
+    },
+    {
+      "type": "scatterpolar",
+      "mode": "markers+lines+text",
+      "r": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "theta": {
+        "dtype": "i2",
+        "bdata": "AADT/0z/"
+      },
+      "text": [
+        "A1",
+        "B1",
+        "C1"
+      ],
+      "hovertext": [
+        "hover A1",
+        "hover B1",
+        "hover C1"
+      ],
+      "line": {
+        "shape": "spline"
+      },
+      "marker": {
+        "symbol": "square",
+        "size": 15,
+        "color": {
+          "dtype": "i1",
+          "bdata": "/wEC"
+        },
+        "showscale": true
+      },
+      "textfont": {
+        "color": "green",
+        "size": {
+          "dtype": "i1",
+          "bdata": "FA8K"
+        }
+      },
+      "textposition": "top left",
+      "subplot": "polar2"
+    }
+  ],
+  "layout": {
+    "showlegend": false,
+    "polar": {
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAAAAApXI/C9SjcPw=="
+        }
+      },
+      "radialaxis": {
+        "showgrid": false,
+        "title": {
+          "text": "1st subplot",
+          "font": {
+            "size": 20,
+            "color": "blue"
+          }
+        },
+        "angle": -45
+      }
+    },
+    "polar2": {
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "7FG4HoXr4T8AAAAAAADwPw=="
+        }
+      },
+      "radialaxis": {
+        "range": [
+          0,
+          4.7
+        ],
+        "showgrid": false,
+        "title": {
+          "text": "2nd subplot",
+          "font": {
+            "size": 10,
+            "color": "orange"
+          }
+        },
+        "angle": 45
+      }
+    }
+  }
+}

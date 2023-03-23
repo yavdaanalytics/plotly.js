@@ -1,0 +1,21 @@
+{
+  "data": [
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQIDBAUGBw=="
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "AAAAAABq+EAAAAAAAGr4QAAAAACAhD5BAAAAAICEPkEAAAAAgIQ+QQAAAAA4nHxBAAAAADicfEE="
+      }
+    }
+  ],
+  "layout": {
+    "yaxis": {
+      "tickprefix": "*** ",
+      "ticksuffix": " \u20ac",
+      "showexponent": "first"
+    }
+  }
+}

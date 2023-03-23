@@ -1,0 +1,72 @@
+{
+  "data": [
+    {
+      "base": {
+        "dtype": "i1",
+        "bdata": "AAECAw=="
+      },
+      "width": 0.2,
+      "y": {
+        "dtype": "i1",
+        "bdata": "AQEBAQ=="
+      },
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQIDBA=="
+      },
+      "type": "bar"
+    },
+    {
+      "base": {
+        "dtype": "i1",
+        "bdata": "BAMCAQ=="
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "/////w=="
+      },
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQIDBA=="
+      },
+      "type": "bar"
+    },
+    {
+      "base": {
+        "dtype": "i1",
+        "bdata": "AAEDAg=="
+      },
+      "width": 0.125,
+      "y": {
+        "dtype": "i1",
+        "bdata": "AQL/Ag=="
+      },
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQIDBA=="
+      },
+      "type": "bar"
+    },
+    {
+      "base": {
+        "dtype": "i1",
+        "bdata": "AQMCBA=="
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "//4B/g=="
+      },
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQIDBA=="
+      },
+      "type": "bar"
+    }
+  ],
+  "layout": {
+    "height": 400,
+    "width": 400,
+    "barmode": "group",
+    "barnorm": ""
+  }
+}

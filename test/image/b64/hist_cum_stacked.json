@@ -1,0 +1,99 @@
+{
+  "data": [
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQICAwMDBAQEBAUFBQUFBgYGBgcHBwgICQkK"
+      },
+      "type": "histogram",
+      "texttemplate": "%{value}",
+      "insidetextanchor": "middle",
+      "cumulative": {
+        "enabled": true
+      },
+      "xbins": {
+        "start": 0.5,
+        "end": 10.5,
+        "size": 1
+      },
+      "marker": {
+        "color": "blue",
+        "line": {
+          "width": 2,
+          "color": "#000"
+        }
+      },
+      "name": "A"
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AwMEBQYHBw=="
+      },
+      "type": "histogram",
+      "texttemplate": "%{value}",
+      "insidetextanchor": "middle",
+      "cumulative": {
+        "enabled": true,
+        "currentbin": "exclude"
+      },
+      "xbins": {
+        "start": 0.5,
+        "end": 10.5
+      },
+      "marker": {
+        "color": "red",
+        "line": {
+          "width": 2,
+          "color": "#000"
+        }
+      },
+      "name": "B"
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQICAwMDBAQEBAUFBQUFBgYGBgcHBwgICQkK"
+      },
+      "type": "box",
+      "orientation": "h",
+      "yaxis": "y2",
+      "line": {
+        "color": "blue"
+      },
+      "showlegend": false
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AwMEBQYHBw=="
+      },
+      "type": "box",
+      "orientation": "h",
+      "yaxis": "y2",
+      "line": {
+        "color": "red"
+      },
+      "showlegend": false
+    }
+  ],
+  "layout": {
+    "yaxis": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAACamZmZmZnpPw=="
+      }
+    },
+    "yaxis2": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "mpmZmZmZ6T8AAAAAAADwPw=="
+      },
+      "showline": false,
+      "showticklabels": false
+    },
+    "height": 300,
+    "width": 400,
+    "barmode": "stack"
+  }
+}

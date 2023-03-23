@@ -1,0 +1,193 @@
+{
+  "data": [
+    {
+      "type": "bar",
+      "x": [
+        "2020-01-02 08:00",
+        "2020-01-02 16:00",
+        "2020-01-03 08:00",
+        "2020-01-03 16:00",
+        "2020-01-04 08:00",
+        "2020-01-04 16:00",
+        "2020-01-05 08:00",
+        "2020-01-05 16:00",
+        "2020-01-06 08:00",
+        "2020-01-06 16:00",
+        "2020-01-07 08:00",
+        "2020-01-07 16:00"
+      ],
+      "y": {
+        "dtype": "i1",
+        "bdata": "AQIDBAUGBwgJCgsM"
+      }
+    },
+    {
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "type": "bar",
+      "x": [
+        "2020-01-02 08:00",
+        "2020-01-02 16:00",
+        "2020-01-03 08:00",
+        "2020-01-03 16:00",
+        "2020-01-04 08:00",
+        "2020-01-04 16:00",
+        "2020-01-05 08:00",
+        "2020-01-05 16:00",
+        "2020-01-06 08:00",
+        "2020-01-06 16:00",
+        "2020-01-07 08:00",
+        "2020-01-07 16:00"
+      ],
+      "y": {
+        "dtype": "i1",
+        "bdata": "AQIDBAUGBwgJCgsM"
+      }
+    },
+    {
+      "xaxis": "x3",
+      "yaxis": "y3",
+      "type": "bar",
+      "orientation": "h",
+      "y": [
+        "2020-01-02 08:00",
+        "2020-01-02 16:00",
+        "2020-01-03 08:00",
+        "2020-01-03 16:00",
+        "2020-01-04 08:00",
+        "2020-01-04 16:00",
+        "2020-01-05 08:00",
+        "2020-01-05 16:00",
+        "2020-01-06 08:00",
+        "2020-01-06 16:00",
+        "2020-01-07 08:00",
+        "2020-01-07 16:00"
+      ],
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQIDBAUGBwgJCgsM"
+      }
+    },
+    {
+      "xaxis": "x4",
+      "yaxis": "y4",
+      "type": "bar",
+      "orientation": "h",
+      "y": [
+        "2020-01-02 08:00",
+        "2020-01-02 16:00",
+        "2020-01-03 08:00",
+        "2020-01-03 16:00",
+        "2020-01-04 08:00",
+        "2020-01-04 16:00",
+        "2020-01-05 08:00",
+        "2020-01-05 16:00",
+        "2020-01-06 08:00",
+        "2020-01-06 16:00",
+        "2020-01-07 08:00",
+        "2020-01-07 16:00"
+      ],
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQIDBAUGBwgJCgsM"
+      }
+    }
+  ],
+  "layout": {
+    "showlegend": false,
+    "width": 800,
+    "height": 800,
+    "xaxis": {
+      "rangebreaks": [
+        {
+          "pattern": "day of week",
+          "bounds": {
+            "dtype": "i1",
+            "bdata": "BgE="
+          }
+        }
+      ],
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAAC4HoXrUbjePw=="
+      }
+    },
+    "xaxis2": {
+      "rangebreaks": [
+        {
+          "pattern": "day of week",
+          "bounds": {
+            "dtype": "i1",
+            "bdata": "BgE="
+          }
+        }
+      ],
+      "autorange": "reversed",
+      "anchor": "y2",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "pHA9Ctej4D8AAAAAAADwPw=="
+      }
+    },
+    "xaxis3": {
+      "anchor": "y3",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAAC4HoXrUbjePw=="
+      }
+    },
+    "xaxis4": {
+      "anchor": "y4",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "pHA9Ctej4D8AAAAAAADwPw=="
+      }
+    },
+    "yaxis": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAAC4HoXrUbjePw=="
+      }
+    },
+    "yaxis2": {
+      "anchor": "x2",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "pHA9Ctej4D8AAAAAAADwPw=="
+      }
+    },
+    "yaxis3": {
+      "rangebreaks": [
+        {
+          "pattern": "day of week",
+          "bounds": {
+            "dtype": "i1",
+            "bdata": "BgE="
+          }
+        }
+      ],
+      "anchor": "x3",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "pHA9Ctej4D8AAAAAAADwPw=="
+      }
+    },
+    "yaxis4": {
+      "rangebreaks": [
+        {
+          "pattern": "day of week",
+          "bounds": {
+            "dtype": "i1",
+            "bdata": "BgE="
+          }
+        }
+      ],
+      "autorange": "reversed",
+      "anchor": "x4",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAAC4HoXrUbjePw=="
+      }
+    }
+  }
+}

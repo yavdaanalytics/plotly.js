@@ -1,0 +1,345 @@
+{
+  "data": [
+    {
+      "type": "contour",
+      "z": {
+        "dtype": "i1",
+        "bdata": "AQEBAQACAgIC",
+        "shape": "3, 3"
+      },
+      "contours": {
+        "type": "constraint",
+        "operation": "[]",
+        "value": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAAAAAep+hILv/vPw=="
+        },
+        "showlabels": true
+      }
+    },
+    {
+      "mode": "text",
+      "x": {
+        "dtype": "i1",
+        "bdata": "AAECAAECAAEC"
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AAAAAQEBAgIC"
+      },
+      "text": {
+        "dtype": "i1",
+        "bdata": "AQEBAQACAgIC"
+      }
+    },
+    {
+      "type": "contour",
+      "z": {
+        "dtype": "i1",
+        "bdata": "AQEBAQACAgIC",
+        "shape": "3, 3"
+      },
+      "contours": {
+        "type": "constraint",
+        "operation": "[]",
+        "value": {
+          "dtype": "i1",
+          "bdata": "AAE="
+        },
+        "showlabels": true
+      },
+      "xaxis": "x2",
+      "yaxis": "y2"
+    },
+    {
+      "mode": "text",
+      "x": {
+        "dtype": "i1",
+        "bdata": "AAECAAECAAEC"
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AAAAAQEBAgIC"
+      },
+      "text": {
+        "dtype": "i1",
+        "bdata": "AQEBAQACAgIC"
+      },
+      "xaxis": "x2",
+      "yaxis": "y2"
+    },
+    {
+      "type": "contour",
+      "z": {
+        "dtype": "i1",
+        "bdata": "AQEBAQUCAgIC",
+        "shape": "3, 3"
+      },
+      "contours": {
+        "type": "constraint",
+        "operation": "[]",
+        "value": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAAAAAep+hILv/vPw=="
+        },
+        "showlabels": true
+      },
+      "xaxis": "x3",
+      "yaxis": "y3"
+    },
+    {
+      "mode": "text",
+      "x": {
+        "dtype": "i1",
+        "bdata": "AAECAAECAAEC"
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AAAAAQEBAgIC"
+      },
+      "text": {
+        "dtype": "i1",
+        "bdata": "AQEBAQUCAgIC"
+      },
+      "xaxis": "x3",
+      "yaxis": "y3"
+    },
+    {
+      "type": "contour",
+      "z": {
+        "dtype": "i1",
+        "bdata": "AQEBAQUCAgIC",
+        "shape": "3, 3"
+      },
+      "contours": {
+        "type": "constraint",
+        "operation": "[]",
+        "value": {
+          "dtype": "i1",
+          "bdata": "AAE="
+        },
+        "showlabels": true
+      },
+      "xaxis": "x4",
+      "yaxis": "y4"
+    },
+    {
+      "mode": "text",
+      "x": {
+        "dtype": "i1",
+        "bdata": "AAECAAECAAEC"
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AAAAAQEBAgIC"
+      },
+      "text": {
+        "dtype": "i1",
+        "bdata": "AQEBAQUCAgIC"
+      },
+      "xaxis": "x4",
+      "yaxis": "y4"
+    },
+    {
+      "type": "contour",
+      "z": {
+        "dtype": "i1",
+        "bdata": "AQEBAQACAgIC",
+        "shape": "3, 3"
+      },
+      "contours": {
+        "type": "constraint",
+        "operation": "][",
+        "value": {
+          "dtype": "i1",
+          "bdata": "AQI="
+        },
+        "showlabels": true
+      },
+      "xaxis": "x5",
+      "yaxis": "y5"
+    },
+    {
+      "mode": "text",
+      "x": {
+        "dtype": "i1",
+        "bdata": "AAECAAECAAEC"
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AAAAAQEBAgIC"
+      },
+      "text": {
+        "dtype": "i1",
+        "bdata": "AQEBAQACAgIC"
+      },
+      "xaxis": "x5",
+      "yaxis": "y5"
+    },
+    {
+      "type": "contour",
+      "z": {
+        "dtype": "i1",
+        "bdata": "AQEBAQACAgIC",
+        "shape": "3, 3"
+      },
+      "contours": {
+        "type": "constraint",
+        "operation": "][",
+        "value": {
+          "dtype": "f8",
+          "bdata": "K4cW2c737z81XrpJDAIAQA=="
+        },
+        "showlabels": true
+      },
+      "xaxis": "x6",
+      "yaxis": "y6"
+    },
+    {
+      "mode": "text",
+      "x": {
+        "dtype": "i1",
+        "bdata": "AAECAAECAAEC"
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AAAAAQEBAgIC"
+      },
+      "text": {
+        "dtype": "i1",
+        "bdata": "AQEBAQACAgIC"
+      },
+      "xaxis": "x6",
+      "yaxis": "y6"
+    },
+    {
+      "type": "contour",
+      "z": {
+        "dtype": "i1",
+        "bdata": "AQEBAQUCAgIC",
+        "shape": "3, 3"
+      },
+      "contours": {
+        "type": "constraint",
+        "operation": "][",
+        "value": {
+          "dtype": "i1",
+          "bdata": "AQI="
+        },
+        "showlabels": true
+      },
+      "xaxis": "x7",
+      "yaxis": "y7"
+    },
+    {
+      "mode": "text",
+      "x": {
+        "dtype": "i1",
+        "bdata": "AAECAAECAAEC"
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AAAAAQEBAgIC"
+      },
+      "text": {
+        "dtype": "i1",
+        "bdata": "AQEBAQUCAgIC"
+      },
+      "xaxis": "x7",
+      "yaxis": "y7"
+    },
+    {
+      "type": "contour",
+      "z": {
+        "dtype": "i1",
+        "bdata": "AQEBAQUCAgIC",
+        "shape": "3, 3"
+      },
+      "contours": {
+        "type": "constraint",
+        "operation": "][",
+        "value": {
+          "dtype": "f8",
+          "bdata": "K4cW2c737z81XrpJDAIAQA=="
+        },
+        "showlabels": true
+      },
+      "xaxis": "x8",
+      "yaxis": "y8"
+    },
+    {
+      "mode": "text",
+      "x": {
+        "dtype": "i1",
+        "bdata": "AAECAAECAAEC"
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AAAAAQEBAgIC"
+      },
+      "text": {
+        "dtype": "i1",
+        "bdata": "AQEBAQUCAgIC"
+      },
+      "xaxis": "x8",
+      "yaxis": "y8"
+    }
+  ],
+  "layout": {
+    "grid": {
+      "rows": 4,
+      "columns": 2,
+      "pattern": "independent"
+    },
+    "width": 600,
+    "height": 800,
+    "showlegend": false,
+    "title": {
+      "text": "Constraints that (almost) equal boundary min/max"
+    },
+    "yaxis": {
+      "title": {
+        "text": "[0, 0.9999]"
+      }
+    },
+    "yaxis2": {
+      "title": {
+        "text": "[0, 1]"
+      },
+      "side": "right"
+    },
+    "yaxis3": {
+      "title": {
+        "text": "[0, 0.9999]"
+      }
+    },
+    "yaxis4": {
+      "title": {
+        "text": "[0, 1]"
+      },
+      "side": "right"
+    },
+    "yaxis5": {
+      "title": {
+        "text": "]1, 2["
+      }
+    },
+    "yaxis6": {
+      "title": {
+        "text": "[0.999, 2.001]"
+      },
+      "side": "right"
+    },
+    "yaxis7": {
+      "title": {
+        "text": "]1, 2["
+      }
+    },
+    "yaxis8": {
+      "title": {
+        "text": "[0.999, 2.001]"
+      },
+      "side": "right"
+    }
+  }
+}

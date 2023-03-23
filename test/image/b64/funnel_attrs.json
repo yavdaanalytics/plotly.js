@@ -1,0 +1,118 @@
+{
+  "data": [
+    {
+      "text": [
+        1,
+        2,
+        3333333333,
+        4
+      ],
+      "textposition": "outside",
+      "y": {
+        "dtype": "i1",
+        "bdata": "AQIDBA=="
+      },
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQIDBA=="
+      },
+      "marker": {
+        "color": "Blue"
+      },
+      "opacity": 0.5,
+      "connector": {
+        "visible": false
+      },
+      "type": "funnel",
+      "orientation": "v"
+    },
+    {
+      "text": [
+        "Three",
+        2,
+        "inside text",
+        0
+      ],
+      "textfont": {
+        "size": {
+          "dtype": "i1",
+          "bdata": "Cg=="
+        }
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AwIBAQ=="
+      },
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQIDBA=="
+      },
+      "marker": {
+        "color": "Orange"
+      },
+      "opacity": 0.5,
+      "connector": {
+        "visible": false
+      },
+      "type": "funnel",
+      "orientation": "v"
+    },
+    {
+      "width": 1,
+      "text": {
+        "dtype": "i1",
+        "bdata": "AQMCBA=="
+      },
+      "textposition": "inside",
+      "y": {
+        "dtype": "i1",
+        "bdata": "AQMCBA=="
+      },
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQIDBA=="
+      },
+      "marker": {
+        "color": "Green"
+      },
+      "opacity": 0.5,
+      "connector": {
+        "visible": false
+      },
+      "type": "funnel",
+      "orientation": "v"
+    },
+    {
+      "text": [
+        2,
+        "outside text",
+        3,
+        2
+      ],
+      "y": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAEAAAAAAAADQPwAAAAAAAAhAAAAAAAAAAEA="
+      },
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQIDBA=="
+      },
+      "marker": {
+        "color": "Red"
+      },
+      "opacity": 0.5,
+      "connector": {
+        "visible": false
+      },
+      "type": "funnel",
+      "orientation": "v"
+    }
+  ],
+  "layout": {
+    "xaxis": {
+      "showgrid": true
+    },
+    "height": 800,
+    "width": 800
+  }
+}

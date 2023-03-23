@@ -1,0 +1,1616 @@
+{
+  "data": [
+    {
+      "x": {
+        "dtype": "f8",
+        "bdata": "/UHLMSKiwr/w/o5n/U7Dv1G217e0+8O/IMIQy9WnxL/Fe4gA6lLFv3qwi9Z2/MW/BfGRYf6jxr91bsDS/0jHv4Ai2A346se/ViRtTmKJyL9x5QjcuCPJv0xzmMx1ucm/Kb5D1BNKyr9sbYQhD9XKvxk+C0TmWcu/paq7HBvYy79NKMDUM0/Mv7old9m7vsy/d7e72kQmzb+9DdbIZ4XNvzbpMM/F282/KbPLSAkpzr/W6EWr5mzOv7xPUWUdp86/Z9hVrXjXzr8l4Rw90P3Ov9wocvcIGs+/SWPPdBUsz78k7Ft09jPPvz0tzC67Mc+/wUD7iIElz79yOXQkdg/PvxEOhkzU786/ovPrvuXGzr8KSYpPApXOv6c1PGePWs6/ZbctXv8Xzr9k776y0M3Nv17MbR6NfM2/DYPAisgkzb9hXqPoH8fMv+wuHe03ZMy/P/yktrv8y7+gtL9eW5HLvw3I23vKIsu/FHKhl76xyr/ayh+e7T7Kv46oX0oMy8m/olb1lMxWyb/e6ygp3OLIvwalOuXib8i/inwlaoH+x7/h7Q6/T4/Hv+pgUAzcIse/+FS2cam5xr9afjT7LlTGv2pG5rbW8sW/70nC7vyVxb+3du+H7z3Fvz5FLYnt6sS/lkZAySadxL8S4dLFu1TEv56auaK9EcS/a58MUS7Uw78nGg/dAJzDv2UXauEZacO/6o3VHVA7w7+cD+gubRLDv1C0bWQu7sK/OudZs0XOwr9bjibAWrLCv1wBPv4LmsK/xLPk4O+Ewr/8ZPsZlnLCv8Hz4uKIYsK/OU7HS05Uwr8m656NaUfCvw8tP1tcO8K/bEsDLqgvwr9ZEqqKzyPCv9gQPjtXF8K/3LcSe8cJwr/4eh4SrfrBvxs2PV2a6cG/zO0tQSjWwb9Rb2oG97/Bv1FnRRyvpsG/sEELwgGKwb9poDKVqWnBv/qO+QNrRcG/KPcbpBQdwb9MeZ1tf/DAv0Xq69mOv8C/dK7n5zCKwL+iU6MFXlDAvwOa6+AYEsC/exjIP9yev7+DxXMG6BC/v0qkPeeTer6/P3PO+C/cvb8="
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "lClAL5GcAcBkIHsEyUMBwDUXttkA6wDABQ7xrjiSAMDVBCyEcDkAwEz3zbJQwf+/7ORDXcAP/7+N0rkHMF7+vy7AL7KfrP2/zq2lXA/7/L9vmxsHf0n8vxCJkbHul/u/sHYHXF7m+r9RZH0GzjT6v/JR87A9g/m/kj9pW63R+L8zLd8FHSD4v9QaVbCMbve/dAjLWvy89r8V9kAFbAv2v7bjtq/bWfW/VtEsWkuo9L/3vqIEu/bzv5isGK8qRfO/OJqOWZqT8r/ZhwQECuLxv3p1eq55MPG/G2PwWOl+8L92ocwGsprvv7h8uFuRN+6/+leksHDU7L86M5AFUHHrv3wOfFovDuq/vulnrw6r6L/+xFME7kfnv0CgP1nN5OW/gnsrrqyB5L/CVhcDjB7jvwQyA1hru+G/Rg3vrEpY4L8Q0bUDVOrdv5CHja0SJNu/FD5lV9Fd2L+Y9DwBkJfVvxirFKtO0dK/nGHsVA0L0L9AMIj9l4nKv0CdN1EV/cS/gBTOSSXhvr+g7izxH8izv0CRFzE1XqG/AOqqAFZPgz+ABm0x4AWrP0CpV3H1m7g/kGf8ZH3awT+Q+kwRAGfHP5CNnb2C88w/QBD3tAJA0T/AWR8LRAbUP0CjR2GFzNY/uOxvt8aS2T84NpgNCFncP7h/wGNJH98/mGT0XMXy4D9YiQgI5lXiPxiuHLMGueM/1NIwXicc5T+U90QJSH/mP1QcWbRo4uc/EEFtX4lF6T/QZYEKqqjqP5CKlbXKC+w/TK+pYOtu7T8M1L0LDNLuP2b8aFuWGvA/xA7zsCbM8D8kIX0Gt33xP4QzB1xHL/I/4kWRsdfg8j9CWBsHaJLzP6BqpVz4Q/Q/AH0vsoj19D9gj7kHGaf1P76hQ12pWPY/HrTNsjkK9z9+xlcIyrv3P9zY4V1abfg/POtrs+oe+T+c/fUIe9D5P/oPgF4Lgvo/WiIKtJsz+z+6NJQJLOX7PxhHHl+8lvw/eFmotExI/T/YazIK3fn9Pzh+vF9tq/4/mJBGtf1c/z96UWgFRwcAQKpaLTAPYABA2mPyWte4AEA="
+      },
+      "fill": "tonextx",
+      "fillcolor": "rgb(31, 119, 180)",
+      "hoverinfo": "text",
+      "line": {
+        "color": "rgb(0, 0, 0)",
+        "shape": "spline",
+        "width": 0.5
+      },
+      "mode": "lines",
+      "name": "",
+      "opacity": 0.5,
+      "type": "scatter",
+      "xaxis": "x1",
+      "yaxis": "y1"
+    },
+    {
+      "x": {
+        "dtype": "f8",
+        "bdata": "/UHLMSKiwj/w/o5n/U7DP1G217e0+8M/IMIQy9WnxD/Fe4gA6lLFP3qwi9Z2/MU/BfGRYf6jxj91bsDS/0jHP4Ai2A346sc/ViRtTmKJyD9x5QjcuCPJP0xzmMx1uck/Kb5D1BNKyj9sbYQhD9XKPxk+C0TmWcs/paq7HBvYyz9NKMDUM0/MP7old9m7vsw/d7e72kQmzT+9DdbIZ4XNPzbpMM/F280/KbPLSAkpzj/W6EWr5mzOP7xPUWUdp84/Z9hVrXjXzj8l4Rw90P3OP9wocvcIGs8/SWPPdBUszz8k7Ft09jPPPz0tzC67Mc8/wUD7iIElzz9yOXQkdg/PPxEOhkzU784/ovPrvuXGzj8KSYpPApXOP6c1PGePWs4/ZbctXv8Xzj9k776y0M3NP17MbR6NfM0/DYPAisgkzT9hXqPoH8fMP+wuHe03ZMw/P/yktrv8yz+gtL9eW5HLPw3I23vKIss/FHKhl76xyj/ayh+e7T7KP46oX0oMy8k/olb1lMxWyT/e6ygp3OLIPwalOuXib8g/inwlaoH+xz/h7Q6/T4/HP+pgUAzcIsc/+FS2cam5xj9afjT7LlTGP2pG5rbW8sU/70nC7vyVxT+3du+H7z3FPz5FLYnt6sQ/lkZAySadxD8S4dLFu1TEP56auaK9EcQ/a58MUS7Uwz8nGg/dAJzDP2UXauEZacM/6o3VHVA7wz+cD+gubRLDP1C0bWQu7sI/OudZs0XOwj9bjibAWrLCP1wBPv4LmsI/xLPk4O+Ewj/8ZPsZlnLCP8Hz4uKIYsI/OU7HS05Uwj8m656NaUfCPw8tP1tcO8I/bEsDLqgvwj9ZEqqKzyPCP9gQPjtXF8I/3LcSe8cJwj/4eh4SrfrBPxs2PV2a6cE/zO0tQSjWwT9Rb2oG97/BP1FnRRyvpsE/sEELwgGKwT9poDKVqWnBP/qO+QNrRcE/KPcbpBQdwT9MeZ1tf/DAP0Xq69mOv8A/dK7n5zCKwD+iU6MFXlDAPwOa6+AYEsA/exjIP9yevz+DxXMG6BC/P0qkPeeTer4/P3PO+C/cvT8="
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "lClAL5GcAcBkIHsEyUMBwDUXttkA6wDABQ7xrjiSAMDVBCyEcDkAwEz3zbJQwf+/7ORDXcAP/7+N0rkHMF7+vy7AL7KfrP2/zq2lXA/7/L9vmxsHf0n8vxCJkbHul/u/sHYHXF7m+r9RZH0GzjT6v/JR87A9g/m/kj9pW63R+L8zLd8FHSD4v9QaVbCMbve/dAjLWvy89r8V9kAFbAv2v7bjtq/bWfW/VtEsWkuo9L/3vqIEu/bzv5isGK8qRfO/OJqOWZqT8r/ZhwQECuLxv3p1eq55MPG/G2PwWOl+8L92ocwGsprvv7h8uFuRN+6/+leksHDU7L86M5AFUHHrv3wOfFovDuq/vulnrw6r6L/+xFME7kfnv0CgP1nN5OW/gnsrrqyB5L/CVhcDjB7jvwQyA1hru+G/Rg3vrEpY4L8Q0bUDVOrdv5CHja0SJNu/FD5lV9Fd2L+Y9DwBkJfVvxirFKtO0dK/nGHsVA0L0L9AMIj9l4nKv0CdN1EV/cS/gBTOSSXhvr+g7izxH8izv0CRFzE1XqG/AOqqAFZPgz+ABm0x4AWrP0CpV3H1m7g/kGf8ZH3awT+Q+kwRAGfHP5CNnb2C88w/QBD3tAJA0T/AWR8LRAbUP0CjR2GFzNY/uOxvt8aS2T84NpgNCFncP7h/wGNJH98/mGT0XMXy4D9YiQgI5lXiPxiuHLMGueM/1NIwXicc5T+U90QJSH/mP1QcWbRo4uc/EEFtX4lF6T/QZYEKqqjqP5CKlbXKC+w/TK+pYOtu7T8M1L0LDNLuP2b8aFuWGvA/xA7zsCbM8D8kIX0Gt33xP4QzB1xHL/I/4kWRsdfg8j9CWBsHaJLzP6BqpVz4Q/Q/AH0vsoj19D9gj7kHGaf1P76hQ12pWPY/HrTNsjkK9z9+xlcIyrv3P9zY4V1abfg/POtrs+oe+T+c/fUIe9D5P/oPgF4Lgvo/WiIKtJsz+z+6NJQJLOX7PxhHHl+8lvw/eFmotExI/T/YazIK3fn9Pzh+vF9tq/4/mJBGtf1c/z96UWgFRwcAQKpaLTAPYABA2mPyWte4AEA="
+      },
+      "fill": "tonextx",
+      "fillcolor": "rgb(31, 119, 180)",
+      "hoverinfo": "text",
+      "line": {
+        "color": "rgb(0, 0, 0)",
+        "shape": "spline",
+        "width": 0.5
+      },
+      "mode": "lines",
+      "name": "",
+      "opacity": 0.5,
+      "text": [
+        "(pdf(y), y)=(0.15, -2.20)",
+        "(pdf(y), y)=(0.15, -2.16)",
+        "(pdf(y), y)=(0.16, -2.11)",
+        "(pdf(y), y)=(0.16, -2.07)",
+        "(pdf(y), y)=(0.17, -2.03)",
+        "(pdf(y), y)=(0.17, -1.98)",
+        "(pdf(y), y)=(0.18, -1.94)",
+        "(pdf(y), y)=(0.18, -1.90)",
+        "(pdf(y), y)=(0.19, -1.85)",
+        "(pdf(y), y)=(0.19, -1.81)",
+        "(pdf(y), y)=(0.20, -1.77)",
+        "(pdf(y), y)=(0.20, -1.72)",
+        "(pdf(y), y)=(0.21, -1.68)",
+        "(pdf(y), y)=(0.21, -1.64)",
+        "(pdf(y), y)=(0.21, -1.59)",
+        "(pdf(y), y)=(0.22, -1.55)",
+        "(pdf(y), y)=(0.22, -1.51)",
+        "(pdf(y), y)=(0.22, -1.46)",
+        "(pdf(y), y)=(0.23, -1.42)",
+        "(pdf(y), y)=(0.23, -1.38)",
+        "(pdf(y), y)=(0.23, -1.33)",
+        "(pdf(y), y)=(0.24, -1.29)",
+        "(pdf(y), y)=(0.24, -1.25)",
+        "(pdf(y), y)=(0.24, -1.20)",
+        "(pdf(y), y)=(0.24, -1.16)",
+        "(pdf(y), y)=(0.24, -1.12)",
+        "(pdf(y), y)=(0.24, -1.07)",
+        "(pdf(y), y)=(0.24, -1.03)",
+        "(pdf(y), y)=(0.24, -0.99)",
+        "(pdf(y), y)=(0.24, -0.94)",
+        "(pdf(y), y)=(0.24, -0.90)",
+        "(pdf(y), y)=(0.24, -0.86)",
+        "(pdf(y), y)=(0.24, -0.81)",
+        "(pdf(y), y)=(0.24, -0.77)",
+        "(pdf(y), y)=(0.24, -0.73)",
+        "(pdf(y), y)=(0.24, -0.68)",
+        "(pdf(y), y)=(0.24, -0.64)",
+        "(pdf(y), y)=(0.23, -0.60)",
+        "(pdf(y), y)=(0.23, -0.55)",
+        "(pdf(y), y)=(0.23, -0.51)",
+        "(pdf(y), y)=(0.22, -0.47)",
+        "(pdf(y), y)=(0.22, -0.42)",
+        "(pdf(y), y)=(0.22, -0.38)",
+        "(pdf(y), y)=(0.22, -0.34)",
+        "(pdf(y), y)=(0.21, -0.29)",
+        "(pdf(y), y)=(0.21, -0.25)",
+        "(pdf(y), y)=(0.21, -0.21)",
+        "(pdf(y), y)=(0.20, -0.16)",
+        "(pdf(y), y)=(0.20, -0.12)",
+        "(pdf(y), y)=(0.19, -0.08)",
+        "(pdf(y), y)=(0.19, -0.03)",
+        "(pdf(y), y)=(0.19, 0.01)",
+        "(pdf(y), y)=(0.18, 0.05)",
+        "(pdf(y), y)=(0.18, 0.10)",
+        "(pdf(y), y)=(0.18, 0.14)",
+        "(pdf(y), y)=(0.17, 0.18)",
+        "(pdf(y), y)=(0.17, 0.23)",
+        "(pdf(y), y)=(0.17, 0.27)",
+        "(pdf(y), y)=(0.17, 0.31)",
+        "(pdf(y), y)=(0.16, 0.36)",
+        "(pdf(y), y)=(0.16, 0.40)",
+        "(pdf(y), y)=(0.16, 0.44)",
+        "(pdf(y), y)=(0.16, 0.49)",
+        "(pdf(y), y)=(0.15, 0.53)",
+        "(pdf(y), y)=(0.15, 0.57)",
+        "(pdf(y), y)=(0.15, 0.62)",
+        "(pdf(y), y)=(0.15, 0.66)",
+        "(pdf(y), y)=(0.15, 0.70)",
+        "(pdf(y), y)=(0.15, 0.75)",
+        "(pdf(y), y)=(0.15, 0.79)",
+        "(pdf(y), y)=(0.15, 0.83)",
+        "(pdf(y), y)=(0.15, 0.88)",
+        "(pdf(y), y)=(0.14, 0.92)",
+        "(pdf(y), y)=(0.14, 0.96)",
+        "(pdf(y), y)=(0.14, 1.01)",
+        "(pdf(y), y)=(0.14, 1.05)",
+        "(pdf(y), y)=(0.14, 1.09)",
+        "(pdf(y), y)=(0.14, 1.14)",
+        "(pdf(y), y)=(0.14, 1.18)",
+        "(pdf(y), y)=(0.14, 1.22)",
+        "(pdf(y), y)=(0.14, 1.27)",
+        "(pdf(y), y)=(0.14, 1.31)",
+        "(pdf(y), y)=(0.14, 1.35)",
+        "(pdf(y), y)=(0.14, 1.40)",
+        "(pdf(y), y)=(0.14, 1.44)",
+        "(pdf(y), y)=(0.14, 1.48)",
+        "(pdf(y), y)=(0.14, 1.53)",
+        "(pdf(y), y)=(0.14, 1.57)",
+        "(pdf(y), y)=(0.14, 1.61)",
+        "(pdf(y), y)=(0.13, 1.66)",
+        "(pdf(y), y)=(0.13, 1.70)",
+        "(pdf(y), y)=(0.13, 1.74)",
+        "(pdf(y), y)=(0.13, 1.79)",
+        "(pdf(y), y)=(0.13, 1.83)",
+        "(pdf(y), y)=(0.13, 1.87)",
+        "(pdf(y), y)=(0.13, 1.92)",
+        "(pdf(y), y)=(0.12, 1.96)",
+        "(pdf(y), y)=(0.12, 2.00)",
+        "(pdf(y), y)=(0.12, 2.05)",
+        "(pdf(y), y)=(0.12, 2.09)"
+      ],
+      "type": "scatter",
+      "xaxis": "x1",
+      "yaxis": "y1"
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AAA="
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "lClAL5GcAcDaY/Ja17gAQA=="
+      },
+      "line": {
+        "color": "rgb(0,0,0)",
+        "width": 1.5
+      },
+      "mode": "lines",
+      "name": "",
+      "type": "scatter",
+      "xaxis": "x1",
+      "yaxis": "y1"
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AAA="
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "19dnfgXl8r95aajTc+7wPw=="
+      },
+      "hoverinfo": "text",
+      "line": {
+        "color": "rgb(0,0,0)",
+        "width": 4
+      },
+      "mode": "lines",
+      "text": [
+        "lower-quartile: -1.18",
+        "upper-quartile: 1.06"
+      ],
+      "type": "scatter",
+      "xaxis": "x1",
+      "yaxis": "y1"
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AA=="
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "+nEwG1bb4r8="
+      },
+      "hoverinfo": "text",
+      "marker": {
+        "color": "rgb(255,255,255)",
+        "symbol": "square"
+      },
+      "mode": "markers",
+      "text": [
+        "median: -0.59"
+      ],
+      "type": "scatter",
+      "xaxis": "x1",
+      "yaxis": "y1"
+    },
+    {
+      "x": {
+        "dtype": "f8",
+        "bdata": "r42dEse40r+vjZ0Sx7jSv6+NnRLHuNK/r42dEse40r+vjZ0Sx7jSv6+NnRLHuNK/r42dEse40r+vjZ0Sx7jSv6+NnRLHuNK/"
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "2mPyWte4AEB5aajTc+7wP/pxMBtW2+K/19dnfgXl8r8E2MoD64Liv5QpQC+RnAHA+oXst0CM97+Rp0Y+WmX6P6c9DJkW2+m/"
+      },
+      "hoverinfo": "y",
+      "marker": {
+        "color": "rgb(31, 119, 180)",
+        "symbol": "line-ew-open"
+      },
+      "mode": "markers",
+      "name": "",
+      "showlegend": false,
+      "type": "scatter",
+      "xaxis": "x1",
+      "yaxis": "y1"
+    },
+    {
+      "x": {
+        "dtype": "f8",
+        "bdata": "I21zPlf2tL8vwP8iaSu1v0qloDZYX7W/pTzKm0iStb+FCoN4YcS1vxtrks3M9bW/1gElSLcmtr8fZw0OUFe2v31J0YTIh7a/2AS9E1S4tr9jSEHhJ+m2v/yu54t6Gre/BRw034NMt7/KLNGEfH+3v5gMbrKds7e/72S71CDpt7837vs3PyC4vxk/o64xWbi/a9WCNjCUuL895gmdcdG4vyRAICMrEbm/MWsnIZBTub9oK6+r0Zi5vxuZazke4bm/CiD7SqEsur8L4QkVg3u6v/UoXi3ozbq/svNWO/Eju7/dxWGsun27v+qP6Gxc27u/tM8ypuk8vL8Ny66BcKK8v0aOEPL5C72/cGKsgol5vb/5umktHeu9v9g4ojetYL6/aGE2Fizavr86GRdZhle/v9fpd56i2L+/GlPpxrAuwL/9nGztznLAv/wyMyiWuMC/K/u48e3/wL9JWQDnukjBv0b8/djeksG/n1zo4Tjewb9wvlR+pSrCv26gBar+d8K/kcFIABzGwr8KW73f0hTDv7jdVZH2Y8O/tnpjclizw799BnUhyALEv8plzq0TUsS/zbI5yQehxL9gru/7b+/EvwnjUdoWPcW/MSMuPMaJxb+mxUB1R9XFv5g3qY5jH8a/XisDgeNnxr9F2tVukK7Gv+F9Ct8z88a/olIb95c1x79UIa20h3XHvyt1RibPsse/9EXZojvtx7+U9dX/myTIv0EJgcXAWMi/RPxHYXyJyL+I5dRVo7bIv05kpGgM4Mi/8FrlzJAFyb8uYm5LDCfJv7iJmWddRMm/j+TbgGVdyb+KfvPwCHLJv9CjiyYvgsm/V9A8vMKNyb/JI9OLsZTJv93Ky73slsm/HWn/1GiUyb/sInW2HY3Jv5huX60Ggcm/NkJJayJwyb9kg38Ec1rJv5bDx+j9P8m/Skl62Msgyb/DIhrW6PzIv8R8ihRk1Mi/Aa8E4k+nyL+nXPaPwXXIv7Wi8lfRP8i/JpXkPZoFyL8COrTvOcfHv87EkaLQhMe/1Akd7oA+x7+E96Clb/TGv0tanK/Dpsa/AEbS26VVxr8="
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "uiipOT1SB8BQYww7vPgGwOedbzw7nwbAfdjSPbpFBsATEzY/OewFwKlNmUC4kgXAQIj8QTc5BcDWwl9Dtt8EwGz9wkQ1hgTAAjgmRrQsBMCZcolHM9MDwC+t7EiyeQPAxedPSjEgA8BcIrNLsMYCwPJcFk0vbQLAiJd5Tq4TAsAe0txPLboBwLQMQFGsYAHAS0ejUisHAcDhgQZUqq0AwHe8aVUpVADAG+6ZrVD1/79IY2CwTkL/v3TYJrNMj/6/oU3ttUrc/b/NwrO4SCn9v/o3ertGdvy/Jq1AvkTD+79TIgfBQhD7v3+XzcNAXfq/rAyUxj6q+b/YgVrJPPf4vwX3IMw6RPi/MmznzjiR979e4a3RNt72v4tWdNQ0K/a/t8s61zJ49b/kQAHaMMX0vxC2x9wuEvS/PSuO3yxf879poFTiKqzyv5YVG+Uo+fG/worh5yZG8b/v/6fqJJPwvzbq3NpFwO+/kNRp4EFa7r/ovvblPfTsv0Cpg+s5juu/nJMQ8TUo6r/0fZ32McLov0xoKvwtXOe/qFK3ASr25b8APUQHJpDkv1gn0QwiKuO/sBFeEh7E4b8M/OoXGl7gv8jM7zos8N2/eKEJRiQk278odiNRHFjYv+BKPVwUjNW/kB9XZwzA0r+A6OHkCOjPv+CRFfv4T8q/UDtJEem3xL9gyflOsj++vyAcYXuSD7O/ALwhn8p9n78A8oFeaYWKPwDX0f6ZAa0/wJgB0+ywuT/wIk1ThnDCP5B5GT2WCMg/MNDlJqagzT9oE1kIW5zRP7A+P/1iaNQ/AGol8mo01z9QlQvncgDaP6DA8dt6zNw/6OvX0IKY3z+cC99iRTLhP0QhUl1JmOI/6DbFV03+4z+QTDhSUWTlPzhiq0xVyuY/4HceR1kw6D+EjZFBXZbpPyyjBDxh/Oo/1Lh3NmVi7D98zuowacjtPyDkXSttLu8/5HzokjhK8D+4ByKQOv3wP4ySW408sPE/YB2Vij5j8j80qM6HQBbzPwQzCIVCyfM/2L1BgkR89D+sSHt/Ri/1P4DTtHxI4vU/VF7ueUqV9j8="
+      },
+      "fill": "tonextx",
+      "fillcolor": "rgb(255, 127, 14)",
+      "hoverinfo": "text",
+      "line": {
+        "color": "rgb(0, 0, 0)",
+        "shape": "spline",
+        "width": 0.5
+      },
+      "mode": "lines",
+      "name": "",
+      "opacity": 0.5,
+      "text": [
+        "(pdf(y), y)=(-0.08, -2.92)",
+        "(pdf(y), y)=(-0.08, -2.87)",
+        "(pdf(y), y)=(-0.08, -2.83)",
+        "(pdf(y), y)=(-0.08, -2.78)",
+        "(pdf(y), y)=(-0.09, -2.74)",
+        "(pdf(y), y)=(-0.09, -2.70)",
+        "(pdf(y), y)=(-0.09, -2.65)",
+        "(pdf(y), y)=(-0.09, -2.61)",
+        "(pdf(y), y)=(-0.09, -2.57)",
+        "(pdf(y), y)=(-0.09, -2.52)",
+        "(pdf(y), y)=(-0.09, -2.48)",
+        "(pdf(y), y)=(-0.09, -2.43)",
+        "(pdf(y), y)=(-0.09, -2.39)",
+        "(pdf(y), y)=(-0.09, -2.35)",
+        "(pdf(y), y)=(-0.09, -2.30)",
+        "(pdf(y), y)=(-0.09, -2.26)",
+        "(pdf(y), y)=(-0.09, -2.22)",
+        "(pdf(y), y)=(-0.10, -2.17)",
+        "(pdf(y), y)=(-0.10, -2.13)",
+        "(pdf(y), y)=(-0.10, -2.08)",
+        "(pdf(y), y)=(-0.10, -2.04)",
+        "(pdf(y), y)=(-0.10, -2.00)",
+        "(pdf(y), y)=(-0.10, -1.95)",
+        "(pdf(y), y)=(-0.10, -1.91)",
+        "(pdf(y), y)=(-0.10, -1.87)",
+        "(pdf(y), y)=(-0.10, -1.82)",
+        "(pdf(y), y)=(-0.10, -1.78)",
+        "(pdf(y), y)=(-0.11, -1.74)",
+        "(pdf(y), y)=(-0.11, -1.69)",
+        "(pdf(y), y)=(-0.11, -1.65)",
+        "(pdf(y), y)=(-0.11, -1.60)",
+        "(pdf(y), y)=(-0.11, -1.56)",
+        "(pdf(y), y)=(-0.11, -1.52)",
+        "(pdf(y), y)=(-0.12, -1.47)",
+        "(pdf(y), y)=(-0.12, -1.43)",
+        "(pdf(y), y)=(-0.12, -1.39)",
+        "(pdf(y), y)=(-0.12, -1.34)",
+        "(pdf(y), y)=(-0.12, -1.30)",
+        "(pdf(y), y)=(-0.12, -1.25)",
+        "(pdf(y), y)=(-0.13, -1.21)",
+        "(pdf(y), y)=(-0.13, -1.17)",
+        "(pdf(y), y)=(-0.13, -1.12)",
+        "(pdf(y), y)=(-0.13, -1.08)",
+        "(pdf(y), y)=(-0.14, -1.04)",
+        "(pdf(y), y)=(-0.14, -0.99)",
+        "(pdf(y), y)=(-0.14, -0.95)",
+        "(pdf(y), y)=(-0.14, -0.90)",
+        "(pdf(y), y)=(-0.14, -0.86)",
+        "(pdf(y), y)=(-0.15, -0.82)",
+        "(pdf(y), y)=(-0.15, -0.77)",
+        "(pdf(y), y)=(-0.15, -0.73)",
+        "(pdf(y), y)=(-0.15, -0.69)",
+        "(pdf(y), y)=(-0.16, -0.64)",
+        "(pdf(y), y)=(-0.16, -0.60)",
+        "(pdf(y), y)=(-0.16, -0.56)",
+        "(pdf(y), y)=(-0.16, -0.51)",
+        "(pdf(y), y)=(-0.17, -0.47)",
+        "(pdf(y), y)=(-0.17, -0.42)",
+        "(pdf(y), y)=(-0.17, -0.38)",
+        "(pdf(y), y)=(-0.17, -0.34)",
+        "(pdf(y), y)=(-0.18, -0.29)",
+        "(pdf(y), y)=(-0.18, -0.25)",
+        "(pdf(y), y)=(-0.18, -0.21)",
+        "(pdf(y), y)=(-0.18, -0.16)",
+        "(pdf(y), y)=(-0.18, -0.12)",
+        "(pdf(y), y)=(-0.19, -0.07)",
+        "(pdf(y), y)=(-0.19, -0.03)",
+        "(pdf(y), y)=(-0.19, 0.01)",
+        "(pdf(y), y)=(-0.19, 0.06)",
+        "(pdf(y), y)=(-0.19, 0.10)",
+        "(pdf(y), y)=(-0.19, 0.14)",
+        "(pdf(y), y)=(-0.19, 0.19)",
+        "(pdf(y), y)=(-0.20, 0.23)",
+        "(pdf(y), y)=(-0.20, 0.28)",
+        "(pdf(y), y)=(-0.20, 0.32)",
+        "(pdf(y), y)=(-0.20, 0.36)",
+        "(pdf(y), y)=(-0.20, 0.41)",
+        "(pdf(y), y)=(-0.20, 0.45)",
+        "(pdf(y), y)=(-0.20, 0.49)",
+        "(pdf(y), y)=(-0.20, 0.54)",
+        "(pdf(y), y)=(-0.20, 0.58)",
+        "(pdf(y), y)=(-0.20, 0.62)",
+        "(pdf(y), y)=(-0.20, 0.67)",
+        "(pdf(y), y)=(-0.20, 0.71)",
+        "(pdf(y), y)=(-0.20, 0.76)",
+        "(pdf(y), y)=(-0.20, 0.80)",
+        "(pdf(y), y)=(-0.20, 0.84)",
+        "(pdf(y), y)=(-0.20, 0.89)",
+        "(pdf(y), y)=(-0.20, 0.93)",
+        "(pdf(y), y)=(-0.19, 0.97)",
+        "(pdf(y), y)=(-0.19, 1.02)",
+        "(pdf(y), y)=(-0.19, 1.06)",
+        "(pdf(y), y)=(-0.19, 1.11)",
+        "(pdf(y), y)=(-0.19, 1.15)",
+        "(pdf(y), y)=(-0.19, 1.19)",
+        "(pdf(y), y)=(-0.18, 1.24)",
+        "(pdf(y), y)=(-0.18, 1.28)",
+        "(pdf(y), y)=(-0.18, 1.32)",
+        "(pdf(y), y)=(-0.18, 1.37)",
+        "(pdf(y), y)=(-0.17, 1.41)"
+      ],
+      "type": "scatter",
+      "xaxis": "x2",
+      "yaxis": "y1"
+    },
+    {
+      "x": {
+        "dtype": "f8",
+        "bdata": "I21zPlf2tD8vwP8iaSu1P0qloDZYX7U/pTzKm0iStT+FCoN4YcS1Pxtrks3M9bU/1gElSLcmtj8fZw0OUFe2P31J0YTIh7Y/2AS9E1S4tj9jSEHhJ+m2P/yu54t6Grc/BRw034NMtz/KLNGEfH+3P5gMbrKds7c/72S71CDptz837vs3PyC4Pxk/o64xWbg/a9WCNjCUuD895gmdcdG4PyRAICMrEbk/MWsnIZBTuT9oK6+r0Zi5PxuZazke4bk/CiD7SqEsuj8L4QkVg3u6P/UoXi3ozbo/svNWO/Ejuz/dxWGsun27P+qP6Gxc27s/tM8ypuk8vD8Ny66BcKK8P0aOEPL5C70/cGKsgol5vT/5umktHeu9P9g4ojetYL4/aGE2Fizavj86GRdZhle/P9fpd56i2L8/GlPpxrAuwD/9nGztznLAP/wyMyiWuMA/K/u48e3/wD9JWQDnukjBP0b8/djeksE/n1zo4TjewT9wvlR+pSrCP26gBar+d8I/kcFIABzGwj8KW73f0hTDP7jdVZH2Y8M/tnpjclizwz99BnUhyALEP8plzq0TUsQ/zbI5yQehxD9gru/7b+/EPwnjUdoWPcU/MSMuPMaJxT+mxUB1R9XFP5g3qY5jH8Y/XisDgeNnxj9F2tVukK7GP+F9Ct8z88Y/olIb95c1xz9UIa20h3XHPyt1RibPssc/9EXZojvtxz+U9dX/myTIP0EJgcXAWMg/RPxHYXyJyD+I5dRVo7bIP05kpGgM4Mg/8FrlzJAFyT8uYm5LDCfJP7iJmWddRMk/j+TbgGVdyT+KfvPwCHLJP9CjiyYvgsk/V9A8vMKNyT/JI9OLsZTJP93Ky73slsk/HWn/1GiUyT/sInW2HY3JP5huX60Ggck/NkJJayJwyT9kg38Ec1rJP5bDx+j9P8k/Skl62MsgyT/DIhrW6PzIP8R8ihRk1Mg/Aa8E4k+nyD+nXPaPwXXIP7Wi8lfRP8g/JpXkPZoFyD8COrTvOcfHP87EkaLQhMc/1Akd7oA+xz+E96Clb/TGP0tanK/DpsY/AEbS26VVxj8="
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "uiipOT1SB8BQYww7vPgGwOedbzw7nwbAfdjSPbpFBsATEzY/OewFwKlNmUC4kgXAQIj8QTc5BcDWwl9Dtt8EwGz9wkQ1hgTAAjgmRrQsBMCZcolHM9MDwC+t7EiyeQPAxedPSjEgA8BcIrNLsMYCwPJcFk0vbQLAiJd5Tq4TAsAe0txPLboBwLQMQFGsYAHAS0ejUisHAcDhgQZUqq0AwHe8aVUpVADAG+6ZrVD1/79IY2CwTkL/v3TYJrNMj/6/oU3ttUrc/b/NwrO4SCn9v/o3ertGdvy/Jq1AvkTD+79TIgfBQhD7v3+XzcNAXfq/rAyUxj6q+b/YgVrJPPf4vwX3IMw6RPi/MmznzjiR979e4a3RNt72v4tWdNQ0K/a/t8s61zJ49b/kQAHaMMX0vxC2x9wuEvS/PSuO3yxf879poFTiKqzyv5YVG+Uo+fG/worh5yZG8b/v/6fqJJPwvzbq3NpFwO+/kNRp4EFa7r/ovvblPfTsv0Cpg+s5juu/nJMQ8TUo6r/0fZ32McLov0xoKvwtXOe/qFK3ASr25b8APUQHJpDkv1gn0QwiKuO/sBFeEh7E4b8M/OoXGl7gv8jM7zos8N2/eKEJRiQk278odiNRHFjYv+BKPVwUjNW/kB9XZwzA0r+A6OHkCOjPv+CRFfv4T8q/UDtJEem3xL9gyflOsj++vyAcYXuSD7O/ALwhn8p9n78A8oFeaYWKPwDX0f6ZAa0/wJgB0+ywuT/wIk1ThnDCP5B5GT2WCMg/MNDlJqagzT9oE1kIW5zRP7A+P/1iaNQ/AGol8mo01z9QlQvncgDaP6DA8dt6zNw/6OvX0IKY3z+cC99iRTLhP0QhUl1JmOI/6DbFV03+4z+QTDhSUWTlPzhiq0xVyuY/4HceR1kw6D+EjZFBXZbpPyyjBDxh/Oo/1Lh3NmVi7D98zuowacjtPyDkXSttLu8/5HzokjhK8D+4ByKQOv3wP4ySW408sPE/YB2Vij5j8j80qM6HQBbzPwQzCIVCyfM/2L1BgkR89D+sSHt/Ri/1P4DTtHxI4vU/VF7ueUqV9j8="
+      },
+      "fill": "tonextx",
+      "fillcolor": "rgb(255, 127, 14)",
+      "hoverinfo": "text",
+      "line": {
+        "color": "rgb(0, 0, 0)",
+        "shape": "spline",
+        "width": 0.5
+      },
+      "mode": "lines",
+      "name": "",
+      "opacity": 0.5,
+      "text": [
+        "(pdf(y), y)=(0.08, -2.92)",
+        "(pdf(y), y)=(0.08, -2.87)",
+        "(pdf(y), y)=(0.08, -2.83)",
+        "(pdf(y), y)=(0.08, -2.78)",
+        "(pdf(y), y)=(0.09, -2.74)",
+        "(pdf(y), y)=(0.09, -2.70)",
+        "(pdf(y), y)=(0.09, -2.65)",
+        "(pdf(y), y)=(0.09, -2.61)",
+        "(pdf(y), y)=(0.09, -2.57)",
+        "(pdf(y), y)=(0.09, -2.52)",
+        "(pdf(y), y)=(0.09, -2.48)",
+        "(pdf(y), y)=(0.09, -2.43)",
+        "(pdf(y), y)=(0.09, -2.39)",
+        "(pdf(y), y)=(0.09, -2.35)",
+        "(pdf(y), y)=(0.09, -2.30)",
+        "(pdf(y), y)=(0.09, -2.26)",
+        "(pdf(y), y)=(0.09, -2.22)",
+        "(pdf(y), y)=(0.10, -2.17)",
+        "(pdf(y), y)=(0.10, -2.13)",
+        "(pdf(y), y)=(0.10, -2.08)",
+        "(pdf(y), y)=(0.10, -2.04)",
+        "(pdf(y), y)=(0.10, -2.00)",
+        "(pdf(y), y)=(0.10, -1.95)",
+        "(pdf(y), y)=(0.10, -1.91)",
+        "(pdf(y), y)=(0.10, -1.87)",
+        "(pdf(y), y)=(0.10, -1.82)",
+        "(pdf(y), y)=(0.10, -1.78)",
+        "(pdf(y), y)=(0.11, -1.74)",
+        "(pdf(y), y)=(0.11, -1.69)",
+        "(pdf(y), y)=(0.11, -1.65)",
+        "(pdf(y), y)=(0.11, -1.60)",
+        "(pdf(y), y)=(0.11, -1.56)",
+        "(pdf(y), y)=(0.11, -1.52)",
+        "(pdf(y), y)=(0.12, -1.47)",
+        "(pdf(y), y)=(0.12, -1.43)",
+        "(pdf(y), y)=(0.12, -1.39)",
+        "(pdf(y), y)=(0.12, -1.34)",
+        "(pdf(y), y)=(0.12, -1.30)",
+        "(pdf(y), y)=(0.12, -1.25)",
+        "(pdf(y), y)=(0.13, -1.21)",
+        "(pdf(y), y)=(0.13, -1.17)",
+        "(pdf(y), y)=(0.13, -1.12)",
+        "(pdf(y), y)=(0.13, -1.08)",
+        "(pdf(y), y)=(0.14, -1.04)",
+        "(pdf(y), y)=(0.14, -0.99)",
+        "(pdf(y), y)=(0.14, -0.95)",
+        "(pdf(y), y)=(0.14, -0.90)",
+        "(pdf(y), y)=(0.14, -0.86)",
+        "(pdf(y), y)=(0.15, -0.82)",
+        "(pdf(y), y)=(0.15, -0.77)",
+        "(pdf(y), y)=(0.15, -0.73)",
+        "(pdf(y), y)=(0.15, -0.69)",
+        "(pdf(y), y)=(0.16, -0.64)",
+        "(pdf(y), y)=(0.16, -0.60)",
+        "(pdf(y), y)=(0.16, -0.56)",
+        "(pdf(y), y)=(0.16, -0.51)",
+        "(pdf(y), y)=(0.17, -0.47)",
+        "(pdf(y), y)=(0.17, -0.42)",
+        "(pdf(y), y)=(0.17, -0.38)",
+        "(pdf(y), y)=(0.17, -0.34)",
+        "(pdf(y), y)=(0.18, -0.29)",
+        "(pdf(y), y)=(0.18, -0.25)",
+        "(pdf(y), y)=(0.18, -0.21)",
+        "(pdf(y), y)=(0.18, -0.16)",
+        "(pdf(y), y)=(0.18, -0.12)",
+        "(pdf(y), y)=(0.19, -0.07)",
+        "(pdf(y), y)=(0.19, -0.03)",
+        "(pdf(y), y)=(0.19, 0.01)",
+        "(pdf(y), y)=(0.19, 0.06)",
+        "(pdf(y), y)=(0.19, 0.10)",
+        "(pdf(y), y)=(0.19, 0.14)",
+        "(pdf(y), y)=(0.19, 0.19)",
+        "(pdf(y), y)=(0.20, 0.23)",
+        "(pdf(y), y)=(0.20, 0.28)",
+        "(pdf(y), y)=(0.20, 0.32)",
+        "(pdf(y), y)=(0.20, 0.36)",
+        "(pdf(y), y)=(0.20, 0.41)",
+        "(pdf(y), y)=(0.20, 0.45)",
+        "(pdf(y), y)=(0.20, 0.49)",
+        "(pdf(y), y)=(0.20, 0.54)",
+        "(pdf(y), y)=(0.20, 0.58)",
+        "(pdf(y), y)=(0.20, 0.62)",
+        "(pdf(y), y)=(0.20, 0.67)",
+        "(pdf(y), y)=(0.20, 0.71)",
+        "(pdf(y), y)=(0.20, 0.76)",
+        "(pdf(y), y)=(0.20, 0.80)",
+        "(pdf(y), y)=(0.20, 0.84)",
+        "(pdf(y), y)=(0.20, 0.89)",
+        "(pdf(y), y)=(0.20, 0.93)",
+        "(pdf(y), y)=(0.19, 0.97)",
+        "(pdf(y), y)=(0.19, 1.02)",
+        "(pdf(y), y)=(0.19, 1.06)",
+        "(pdf(y), y)=(0.19, 1.11)",
+        "(pdf(y), y)=(0.19, 1.15)",
+        "(pdf(y), y)=(0.19, 1.19)",
+        "(pdf(y), y)=(0.18, 1.24)",
+        "(pdf(y), y)=(0.18, 1.28)",
+        "(pdf(y), y)=(0.18, 1.32)",
+        "(pdf(y), y)=(0.18, 1.37)",
+        "(pdf(y), y)=(0.17, 1.41)"
+      ],
+      "type": "scatter",
+      "xaxis": "x2",
+      "yaxis": "y1"
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AAA="
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "uiipOT1SB8BUXu55SpX2Pw=="
+      },
+      "line": {
+        "color": "rgb(0,0,0)",
+        "width": 1.5
+      },
+      "mode": "lines",
+      "name": "",
+      "type": "scatter",
+      "xaxis": "x2",
+      "yaxis": "y1"
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AAA="
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "uiipOT1SB8BUXu55SpX2Pw=="
+      },
+      "hoverinfo": "text",
+      "line": {
+        "color": "rgb(0,0,0)",
+        "width": 4
+      },
+      "mode": "lines",
+      "text": [
+        "lower-quartile: -2.92",
+        "upper-quartile: 1.41"
+      ],
+      "type": "scatter",
+      "xaxis": "x2",
+      "yaxis": "y1"
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AA=="
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "b+Xs+DeC0z8="
+      },
+      "hoverinfo": "text",
+      "marker": {
+        "color": "rgb(255,255,255)",
+        "symbol": "square"
+      },
+      "mode": "markers",
+      "text": [
+        "median: 0.30"
+      ],
+      "type": "scatter",
+      "xaxis": "x2",
+      "yaxis": "y1"
+    },
+    {
+      "x": {
+        "dtype": "f8",
+        "bdata": "CY30Fhy1zr8JjfQWHLXOvwmN9BYctc6/CY30Fhy1zr8="
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "VF7ueUqV9j+6KKk5PVIHwCDwNcFPaNw/fLVHYUA4xT8="
+      },
+      "hoverinfo": "y",
+      "marker": {
+        "color": "rgb(255, 127, 14)",
+        "symbol": "line-ew-open"
+      },
+      "mode": "markers",
+      "name": "",
+      "showlegend": false,
+      "type": "scatter",
+      "xaxis": "x2",
+      "yaxis": "y1"
+    },
+    {
+      "x": {
+        "dtype": "f8",
+        "bdata": "OVz5nAKhzL/q423EzPbMv0i5hVqnSM2/qbXxXJaWzb8nUAiiouDNv0S4NcfZJs6/3uA3F05pzr9Phk5oFqjOvxuUmPJN486//SPpHhQbz785cm5OjE/Pv4tllJvdgM+/4YKalDKvz7/9LmLwuNrPv/frAp/QAdC/e/PpRw8V0L+TiygRMyfQvz509n9XONC/HSkM0ZhI0L/BQznIE1jQv43IYH/lZtC/0Fc2NSt10L/OdxYcAoPQvzyQUimHkNC/O8RG5dad0L8MqIw8DavQv/TnmVJFuNC/x2UVVpnF0L+1KihXItPQv4zdCSD44NC/N08CEDHv0L+rMxP54f3Qv8tadgAeDdG/9sgVgvYc0b9v/xv3ei3RvwGws9+4PtG/xREHsLtQ0b+vK4jAjGPRvyK/hEEzd9G/uBsCMrSL0b9wHddZEqHRv4v29EZOt9G/MDrKTWbO0b/L76aMVubRv2ZQBPIY/9G/zDSPRaUY0r9fMdEz8TLSvzDjUVzwTdK/FAkIYpRp0r8/p/D9zIXSv0efoROIotK/K9Ksx7G/0r/oBKmXNN3Sv9hPtnP5+tK/GtJU2ecY07/zpmXv5TbTv6SmL6PYVNO/zj9DxqNy07/NoxotKpDTv0qJVc5NrdO/591x4u/J078B1eQD8eXTvyHJeU8xAdS/uFPehJAb1L9tyEQn7jTUv37dB54pTdS/LrE7VSJk1L8Ahxnet3nUvyqCNA/KjdS/AUpmJDmg1L/P6GLe5bDUvztW46Gxv9S/GP5Vln7M1L/zOATEL9fUv+wYmzGp39S/SSwFAdDl1L8+74GLiunUv7Sh5nzA6tS/vR7z7Vrp1L81NaR9ROXUvx3na2lp3tS/xOs2pLfU1L8l4yXsHsjUv8bi396QuNS/ynBjDAGm1L8mqzoIZZDUvxBI93i0d9S/YFrbJelb1L+MV5QC/zzUv1XK7jj0GtS/3mlqMMn107/X+ZeTgM3Tv9VnLFMfotO/AQm3pqxz07+rqOsKMkLTv0c+dD27DdO/jppBNlbW0r8xH1YeE5zSv9yaCUQEX9K/T6DJDD4f0r8="
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "nl1doXER9r+RFjkvGrT1v4TPFL3CVvW/d4jwSmv59L9qQczYE5z0v136p2a8PvS/ULOD9GTh879DbF+CDYTzvzYlOxC2JvO/Kd4Wnl7J8r8cl/IrB2zyvw9QzrmvDvK/AgmqR1ix8b/0wYXVAFTxv+h6YWOp9vC/2jM98VGZ8L/O7Bh/+jvwv4FL6RlGve+/Z72gNZcC779NL1hR6EfuvzOhD205je2/GBPHiIrS7L//hH6k2xfsv+X2NcAsXeu/ymjt232i6r+w2qT3zufpv5ZMXBMgLem/fL4TL3Fy6L9iMMtKwrfnv0iigmYT/ea/LhQ6gmRC5r8UhvGdtYflv/r3qLkGzeS/4Glg1VcS5L/G2xfxqFfjv6xNzwz6nOK/kr+GKEvi4b94MT5EnCfhv16j9V/tbOC/iCpa93xk379UDskuH+/dvx7yN2bBedy/6tWmnWME27+2uRXVBY/Zv4SdhAyoGdi/UIHzQ0qk1r8cZWJ77C7Vv+hI0bKOudO/sCxA6jBE0r98EK8h087Qv5DoO7Lqss6/KLAZIS/Iy7/Ad/ePc93Iv1g/1f638sW/8AazbfwHw7+IzpDcQB3Av0As3ZYKZbq/cLuYdJOPtL9AlaikOHStv6CzH2BKyaG/AEhbbnB5iL+APsijSDKGP0Dxem2AN6E/4NIDsm7irD9AWkZ7rka0PxDLip0lHLo/4DvPv5zxvz9Y1gnxiePCP8AOLIJFzsU/KEdOEwG5yD+Qf3CkvKPLP/i3kjV4js4/MHha45m80D9klOur9zHSP5iwfHRVp9M/zMwNPbMc1T8A6Z4FEZLWPzQFMM5uB9g/aCHBlsx82T+cPVJfKvLaP9BZ4yeIZ9w/CHZ08OXc3T88kgW5Q1LfPzhXy8DQY+A/UuUTpX8e4T9sc1yJLtnhP4YBpW3dk+I/oI/tUYxO4z+4HTY2OwnkP9Srfhrqw+Q/7DnH/ph+5T8IyA/jRznmPyBWWMf28+Y/POSgq6Wu5z9UcumPVGnoP3AAMnQDJOk/jI56WLLe6T+kHMM8YZnqP8CqCyEQVOs/2DhUBb8O7D8="
+      },
+      "fill": "tonextx",
+      "fillcolor": "rgb(44, 160, 44)",
+      "hoverinfo": "text",
+      "line": {
+        "color": "rgb(0, 0, 0)",
+        "shape": "spline",
+        "width": 0.5
+      },
+      "mode": "lines",
+      "name": "",
+      "opacity": 0.5,
+      "text": [
+        "(pdf(y), y)=(-0.22, -1.38)",
+        "(pdf(y), y)=(-0.23, -1.36)",
+        "(pdf(y), y)=(-0.23, -1.33)",
+        "(pdf(y), y)=(-0.23, -1.31)",
+        "(pdf(y), y)=(-0.23, -1.29)",
+        "(pdf(y), y)=(-0.24, -1.27)",
+        "(pdf(y), y)=(-0.24, -1.24)",
+        "(pdf(y), y)=(-0.24, -1.22)",
+        "(pdf(y), y)=(-0.24, -1.20)",
+        "(pdf(y), y)=(-0.24, -1.17)",
+        "(pdf(y), y)=(-0.24, -1.15)",
+        "(pdf(y), y)=(-0.25, -1.13)",
+        "(pdf(y), y)=(-0.25, -1.11)",
+        "(pdf(y), y)=(-0.25, -1.08)",
+        "(pdf(y), y)=(-0.25, -1.06)",
+        "(pdf(y), y)=(-0.25, -1.04)",
+        "(pdf(y), y)=(-0.25, -1.01)",
+        "(pdf(y), y)=(-0.25, -0.99)",
+        "(pdf(y), y)=(-0.25, -0.97)",
+        "(pdf(y), y)=(-0.26, -0.95)",
+        "(pdf(y), y)=(-0.26, -0.92)",
+        "(pdf(y), y)=(-0.26, -0.90)",
+        "(pdf(y), y)=(-0.26, -0.88)",
+        "(pdf(y), y)=(-0.26, -0.86)",
+        "(pdf(y), y)=(-0.26, -0.83)",
+        "(pdf(y), y)=(-0.26, -0.81)",
+        "(pdf(y), y)=(-0.26, -0.79)",
+        "(pdf(y), y)=(-0.26, -0.76)",
+        "(pdf(y), y)=(-0.26, -0.74)",
+        "(pdf(y), y)=(-0.26, -0.72)",
+        "(pdf(y), y)=(-0.26, -0.70)",
+        "(pdf(y), y)=(-0.27, -0.67)",
+        "(pdf(y), y)=(-0.27, -0.65)",
+        "(pdf(y), y)=(-0.27, -0.63)",
+        "(pdf(y), y)=(-0.27, -0.60)",
+        "(pdf(y), y)=(-0.27, -0.58)",
+        "(pdf(y), y)=(-0.27, -0.56)",
+        "(pdf(y), y)=(-0.27, -0.54)",
+        "(pdf(y), y)=(-0.27, -0.51)",
+        "(pdf(y), y)=(-0.27, -0.49)",
+        "(pdf(y), y)=(-0.28, -0.47)",
+        "(pdf(y), y)=(-0.28, -0.44)",
+        "(pdf(y), y)=(-0.28, -0.42)",
+        "(pdf(y), y)=(-0.28, -0.40)",
+        "(pdf(y), y)=(-0.28, -0.38)",
+        "(pdf(y), y)=(-0.28, -0.35)",
+        "(pdf(y), y)=(-0.28, -0.33)",
+        "(pdf(y), y)=(-0.29, -0.31)",
+        "(pdf(y), y)=(-0.29, -0.29)",
+        "(pdf(y), y)=(-0.29, -0.26)",
+        "(pdf(y), y)=(-0.29, -0.24)",
+        "(pdf(y), y)=(-0.29, -0.22)",
+        "(pdf(y), y)=(-0.29, -0.19)",
+        "(pdf(y), y)=(-0.30, -0.17)",
+        "(pdf(y), y)=(-0.30, -0.15)",
+        "(pdf(y), y)=(-0.30, -0.13)",
+        "(pdf(y), y)=(-0.30, -0.10)",
+        "(pdf(y), y)=(-0.30, -0.08)",
+        "(pdf(y), y)=(-0.31, -0.06)",
+        "(pdf(y), y)=(-0.31, -0.03)",
+        "(pdf(y), y)=(-0.31, -0.01)",
+        "(pdf(y), y)=(-0.31, 0.01)",
+        "(pdf(y), y)=(-0.31, 0.03)",
+        "(pdf(y), y)=(-0.31, 0.06)",
+        "(pdf(y), y)=(-0.32, 0.08)",
+        "(pdf(y), y)=(-0.32, 0.10)",
+        "(pdf(y), y)=(-0.32, 0.12)",
+        "(pdf(y), y)=(-0.32, 0.15)",
+        "(pdf(y), y)=(-0.32, 0.17)",
+        "(pdf(y), y)=(-0.32, 0.19)",
+        "(pdf(y), y)=(-0.32, 0.22)",
+        "(pdf(y), y)=(-0.32, 0.24)",
+        "(pdf(y), y)=(-0.32, 0.26)",
+        "(pdf(y), y)=(-0.33, 0.28)",
+        "(pdf(y), y)=(-0.33, 0.31)",
+        "(pdf(y), y)=(-0.33, 0.33)",
+        "(pdf(y), y)=(-0.33, 0.35)",
+        "(pdf(y), y)=(-0.33, 0.38)",
+        "(pdf(y), y)=(-0.33, 0.40)",
+        "(pdf(y), y)=(-0.33, 0.42)",
+        "(pdf(y), y)=(-0.33, 0.44)",
+        "(pdf(y), y)=(-0.33, 0.47)",
+        "(pdf(y), y)=(-0.32, 0.49)",
+        "(pdf(y), y)=(-0.32, 0.51)",
+        "(pdf(y), y)=(-0.32, 0.53)",
+        "(pdf(y), y)=(-0.32, 0.56)",
+        "(pdf(y), y)=(-0.32, 0.58)",
+        "(pdf(y), y)=(-0.32, 0.60)",
+        "(pdf(y), y)=(-0.32, 0.63)",
+        "(pdf(y), y)=(-0.31, 0.65)",
+        "(pdf(y), y)=(-0.31, 0.67)",
+        "(pdf(y), y)=(-0.31, 0.69)",
+        "(pdf(y), y)=(-0.31, 0.72)",
+        "(pdf(y), y)=(-0.30, 0.74)",
+        "(pdf(y), y)=(-0.30, 0.76)",
+        "(pdf(y), y)=(-0.30, 0.79)",
+        "(pdf(y), y)=(-0.29, 0.81)",
+        "(pdf(y), y)=(-0.29, 0.83)",
+        "(pdf(y), y)=(-0.29, 0.85)",
+        "(pdf(y), y)=(-0.28, 0.88)"
+      ],
+      "type": "scatter",
+      "xaxis": "x3",
+      "yaxis": "y1"
+    },
+    {
+      "x": {
+        "dtype": "f8",
+        "bdata": "OVz5nAKhzD/q423EzPbMP0i5hVqnSM0/qbXxXJaWzT8nUAiiouDNP0S4NcfZJs4/3uA3F05pzj9Phk5oFqjOPxuUmPJN484//SPpHhQbzz85cm5OjE/PP4tllJvdgM8/4YKalDKvzz/9LmLwuNrPP/frAp/QAdA/e/PpRw8V0D+TiygRMyfQPz509n9XONA/HSkM0ZhI0D/BQznIE1jQP43IYH/lZtA/0Fc2NSt10D/OdxYcAoPQPzyQUimHkNA/O8RG5dad0D8MqIw8DavQP/TnmVJFuNA/x2UVVpnF0D+1KihXItPQP4zdCSD44NA/N08CEDHv0D+rMxP54f3QP8tadgAeDdE/9sgVgvYc0T9v/xv3ei3RPwGws9+4PtE/xREHsLtQ0T+vK4jAjGPRPyK/hEEzd9E/uBsCMrSL0T9wHddZEqHRP4v29EZOt9E/MDrKTWbO0T/L76aMVubRP2ZQBPIY/9E/zDSPRaUY0j9fMdEz8TLSPzDjUVzwTdI/FAkIYpRp0j8/p/D9zIXSP0efoROIotI/K9Ksx7G/0j/oBKmXNN3SP9hPtnP5+tI/GtJU2ecY0z/zpmXv5TbTP6SmL6PYVNM/zj9DxqNy0z/NoxotKpDTP0qJVc5NrdM/591x4u/J0z8B1eQD8eXTPyHJeU8xAdQ/uFPehJAb1D9tyEQn7jTUP37dB54pTdQ/LrE7VSJk1D8Ahxnet3nUPyqCNA/KjdQ/AUpmJDmg1D/P6GLe5bDUPztW46Gxv9Q/GP5Vln7M1D/zOATEL9fUP+wYmzGp39Q/SSwFAdDl1D8+74GLiunUP7Sh5nzA6tQ/vR7z7Vrp1D81NaR9ROXUPx3na2lp3tQ/xOs2pLfU1D8l4yXsHsjUP8bi396QuNQ/ynBjDAGm1D8mqzoIZZDUPxBI93i0d9Q/YFrbJelb1D+MV5QC/zzUP1XK7jj0GtQ/3mlqMMn10z/X+ZeTgM3TP9VnLFMfotM/AQm3pqxz0z+rqOsKMkLTP0c+dD27DdM/jppBNlbW0j8xH1YeE5zSP9yaCUQEX9I/T6DJDD4f0j8="
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "nl1doXER9r+RFjkvGrT1v4TPFL3CVvW/d4jwSmv59L9qQczYE5z0v136p2a8PvS/ULOD9GTh879DbF+CDYTzvzYlOxC2JvO/Kd4Wnl7J8r8cl/IrB2zyvw9QzrmvDvK/AgmqR1ix8b/0wYXVAFTxv+h6YWOp9vC/2jM98VGZ8L/O7Bh/+jvwv4FL6RlGve+/Z72gNZcC779NL1hR6EfuvzOhD205je2/GBPHiIrS7L//hH6k2xfsv+X2NcAsXeu/ymjt232i6r+w2qT3zufpv5ZMXBMgLem/fL4TL3Fy6L9iMMtKwrfnv0iigmYT/ea/LhQ6gmRC5r8UhvGdtYflv/r3qLkGzeS/4Glg1VcS5L/G2xfxqFfjv6xNzwz6nOK/kr+GKEvi4b94MT5EnCfhv16j9V/tbOC/iCpa93xk379UDskuH+/dvx7yN2bBedy/6tWmnWME27+2uRXVBY/Zv4SdhAyoGdi/UIHzQ0qk1r8cZWJ77C7Vv+hI0bKOudO/sCxA6jBE0r98EK8h087Qv5DoO7Lqss6/KLAZIS/Iy7/Ad/ePc93Iv1g/1f638sW/8AazbfwHw7+IzpDcQB3Av0As3ZYKZbq/cLuYdJOPtL9AlaikOHStv6CzH2BKyaG/AEhbbnB5iL+APsijSDKGP0Dxem2AN6E/4NIDsm7irD9AWkZ7rka0PxDLip0lHLo/4DvPv5zxvz9Y1gnxiePCP8AOLIJFzsU/KEdOEwG5yD+Qf3CkvKPLP/i3kjV4js4/MHha45m80D9klOur9zHSP5iwfHRVp9M/zMwNPbMc1T8A6Z4FEZLWPzQFMM5uB9g/aCHBlsx82T+cPVJfKvLaP9BZ4yeIZ9w/CHZ08OXc3T88kgW5Q1LfPzhXy8DQY+A/UuUTpX8e4T9sc1yJLtnhP4YBpW3dk+I/oI/tUYxO4z+4HTY2OwnkP9Srfhrqw+Q/7DnH/ph+5T8IyA/jRznmPyBWWMf28+Y/POSgq6Wu5z9UcumPVGnoP3AAMnQDJOk/jI56WLLe6T+kHMM8YZnqP8CqCyEQVOs/2DhUBb8O7D8="
+      },
+      "fill": "tonextx",
+      "fillcolor": "rgb(44, 160, 44)",
+      "hoverinfo": "text",
+      "line": {
+        "color": "rgb(0, 0, 0)",
+        "shape": "spline",
+        "width": 0.5
+      },
+      "mode": "lines",
+      "name": "",
+      "opacity": 0.5,
+      "text": [
+        "(pdf(y), y)=(0.22, -1.38)",
+        "(pdf(y), y)=(0.23, -1.36)",
+        "(pdf(y), y)=(0.23, -1.33)",
+        "(pdf(y), y)=(0.23, -1.31)",
+        "(pdf(y), y)=(0.23, -1.29)",
+        "(pdf(y), y)=(0.24, -1.27)",
+        "(pdf(y), y)=(0.24, -1.24)",
+        "(pdf(y), y)=(0.24, -1.22)",
+        "(pdf(y), y)=(0.24, -1.20)",
+        "(pdf(y), y)=(0.24, -1.17)",
+        "(pdf(y), y)=(0.24, -1.15)",
+        "(pdf(y), y)=(0.25, -1.13)",
+        "(pdf(y), y)=(0.25, -1.11)",
+        "(pdf(y), y)=(0.25, -1.08)",
+        "(pdf(y), y)=(0.25, -1.06)",
+        "(pdf(y), y)=(0.25, -1.04)",
+        "(pdf(y), y)=(0.25, -1.01)",
+        "(pdf(y), y)=(0.25, -0.99)",
+        "(pdf(y), y)=(0.25, -0.97)",
+        "(pdf(y), y)=(0.26, -0.95)",
+        "(pdf(y), y)=(0.26, -0.92)",
+        "(pdf(y), y)=(0.26, -0.90)",
+        "(pdf(y), y)=(0.26, -0.88)",
+        "(pdf(y), y)=(0.26, -0.86)",
+        "(pdf(y), y)=(0.26, -0.83)",
+        "(pdf(y), y)=(0.26, -0.81)",
+        "(pdf(y), y)=(0.26, -0.79)",
+        "(pdf(y), y)=(0.26, -0.76)",
+        "(pdf(y), y)=(0.26, -0.74)",
+        "(pdf(y), y)=(0.26, -0.72)",
+        "(pdf(y), y)=(0.26, -0.70)",
+        "(pdf(y), y)=(0.27, -0.67)",
+        "(pdf(y), y)=(0.27, -0.65)",
+        "(pdf(y), y)=(0.27, -0.63)",
+        "(pdf(y), y)=(0.27, -0.60)",
+        "(pdf(y), y)=(0.27, -0.58)",
+        "(pdf(y), y)=(0.27, -0.56)",
+        "(pdf(y), y)=(0.27, -0.54)",
+        "(pdf(y), y)=(0.27, -0.51)",
+        "(pdf(y), y)=(0.27, -0.49)",
+        "(pdf(y), y)=(0.28, -0.47)",
+        "(pdf(y), y)=(0.28, -0.44)",
+        "(pdf(y), y)=(0.28, -0.42)",
+        "(pdf(y), y)=(0.28, -0.40)",
+        "(pdf(y), y)=(0.28, -0.38)",
+        "(pdf(y), y)=(0.28, -0.35)",
+        "(pdf(y), y)=(0.28, -0.33)",
+        "(pdf(y), y)=(0.29, -0.31)",
+        "(pdf(y), y)=(0.29, -0.29)",
+        "(pdf(y), y)=(0.29, -0.26)",
+        "(pdf(y), y)=(0.29, -0.24)",
+        "(pdf(y), y)=(0.29, -0.22)",
+        "(pdf(y), y)=(0.29, -0.19)",
+        "(pdf(y), y)=(0.30, -0.17)",
+        "(pdf(y), y)=(0.30, -0.15)",
+        "(pdf(y), y)=(0.30, -0.13)",
+        "(pdf(y), y)=(0.30, -0.10)",
+        "(pdf(y), y)=(0.30, -0.08)",
+        "(pdf(y), y)=(0.31, -0.06)",
+        "(pdf(y), y)=(0.31, -0.03)",
+        "(pdf(y), y)=(0.31, -0.01)",
+        "(pdf(y), y)=(0.31, 0.01)",
+        "(pdf(y), y)=(0.31, 0.03)",
+        "(pdf(y), y)=(0.31, 0.06)",
+        "(pdf(y), y)=(0.32, 0.08)",
+        "(pdf(y), y)=(0.32, 0.10)",
+        "(pdf(y), y)=(0.32, 0.12)",
+        "(pdf(y), y)=(0.32, 0.15)",
+        "(pdf(y), y)=(0.32, 0.17)",
+        "(pdf(y), y)=(0.32, 0.19)",
+        "(pdf(y), y)=(0.32, 0.22)",
+        "(pdf(y), y)=(0.32, 0.24)",
+        "(pdf(y), y)=(0.32, 0.26)",
+        "(pdf(y), y)=(0.33, 0.28)",
+        "(pdf(y), y)=(0.33, 0.31)",
+        "(pdf(y), y)=(0.33, 0.33)",
+        "(pdf(y), y)=(0.33, 0.35)",
+        "(pdf(y), y)=(0.33, 0.38)",
+        "(pdf(y), y)=(0.33, 0.40)",
+        "(pdf(y), y)=(0.33, 0.42)",
+        "(pdf(y), y)=(0.33, 0.44)",
+        "(pdf(y), y)=(0.33, 0.47)",
+        "(pdf(y), y)=(0.32, 0.49)",
+        "(pdf(y), y)=(0.32, 0.51)",
+        "(pdf(y), y)=(0.32, 0.53)",
+        "(pdf(y), y)=(0.32, 0.56)",
+        "(pdf(y), y)=(0.32, 0.58)",
+        "(pdf(y), y)=(0.32, 0.60)",
+        "(pdf(y), y)=(0.32, 0.63)",
+        "(pdf(y), y)=(0.31, 0.65)",
+        "(pdf(y), y)=(0.31, 0.67)",
+        "(pdf(y), y)=(0.31, 0.69)",
+        "(pdf(y), y)=(0.31, 0.72)",
+        "(pdf(y), y)=(0.30, 0.74)",
+        "(pdf(y), y)=(0.30, 0.76)",
+        "(pdf(y), y)=(0.30, 0.79)",
+        "(pdf(y), y)=(0.29, 0.81)",
+        "(pdf(y), y)=(0.29, 0.83)",
+        "(pdf(y), y)=(0.29, 0.85)",
+        "(pdf(y), y)=(0.28, 0.88)"
+      ],
+      "type": "scatter",
+      "xaxis": "x3",
+      "yaxis": "y1"
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AAA="
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "nl1doXER9r/YOFQFvw7sPw=="
+      },
+      "line": {
+        "color": "rgb(0,0,0)",
+        "width": 1.5
+      },
+      "mode": "lines",
+      "name": "",
+      "type": "scatter",
+      "xaxis": "x3",
+      "yaxis": "y1"
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AAA="
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "Q8urgBiB878wWsGwfybpPw=="
+      },
+      "hoverinfo": "text",
+      "line": {
+        "color": "rgb(0,0,0)",
+        "width": 4
+      },
+      "mode": "lines",
+      "text": [
+        "lower-quartile: -1.22",
+        "upper-quartile: 0.79"
+      ],
+      "type": "scatter",
+      "xaxis": "x3",
+      "yaxis": "y1"
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AA=="
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "4FM53Qtcer8="
+      },
+      "hoverinfo": "text",
+      "marker": {
+        "color": "rgb(255,255,255)",
+        "symbol": "square"
+      },
+      "mode": "markers",
+      "text": [
+        "median: -0.01"
+      ],
+      "type": "scatter",
+      "xaxis": "x3",
+      "yaxis": "y1"
+    },
+    {
+      "x": {
+        "dtype": "f8",
+        "bdata": "C8IUybMZ2b8LwhTJsxnZvwvCFMmzGdm/C8IUybMZ2b8LwhTJsxnZvwvCFMmzGdm/"
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "2DhUBb8O7D+eXV2hcRH2vzBawbB/Juk/d17I+JLTyz+185u2U3nNv0PLq4AYgfO/"
+      },
+      "hoverinfo": "y",
+      "marker": {
+        "color": "rgb(44, 160, 44)",
+        "symbol": "line-ew-open"
+      },
+      "mode": "markers",
+      "name": "",
+      "showlegend": false,
+      "type": "scatter",
+      "xaxis": "x3",
+      "yaxis": "y1"
+    },
+    {
+      "x": {
+        "dtype": "f8",
+        "bdata": "8lSWZ3DiyL9zmmvJH0TJv17TinPqpMm/M+gnzdcEyr9PeVuV8GPKv9nQMMQ+wsq/scT7aM0fy7/AVDSGqHzLvyp6G+vc2Mu/B69xC3g0zL/kJozVh4/Mvz9zGYca6sy/JFnpgD5Ezb8B6A0aAp7Nv81lrXJz982/uV/dRqBQzr8gHt/BlanOv8nfFFJgAs+/8p0Ffgtbz7/gtcK6obPPv0fa/yEWBtC/RVcUe1ky0L9hil8Vnl7Qv6Xxn0vmitC/3zNolzO30L9tYHSDhuPQv4RZlp/eD9G/hkZOdjo80b9nWSCEl2jRv1aFtTDylNG/8QjRyUXB0b/66yCAjO3Rv1TS62W/GdK/Q9Wab9ZF0r8geRp2yHHSvxBbCjuLndK/E96vbhPJ0r/K+py3VPTSv1dm+btBH9O/oZJZLMxJ078wmQzQ5HPTv9f2x5J7ndO/bRyWk3/G078ZQ+s03+7Tv0Kqwi2IFtS/sWqlm2c91L80XnsVamPUv/Y6Br97iNS/cOzmXIis1L9RZg1pe8/Uv8WjcydA8dS/0TsFu8ER1b8S5JU66zDVv1ZhysWnTtW/zbrYmeJq1b9FAwYmh4XVv+WsyR+BntW/IBmAlry11b+26JcGJsvVv7twJ2yq3tW/a6LZVDfw1b8zniPxuv/Vv4gQtiQkDda/ZVMflmIY1r9UHJW9ZiHWv7M33vIhKNa/3HJWeoYs1r8PXAiRhy7Wvz3l2XcZLta/VDzKfTEr1r+TTkAJxiXWv3ZraqDOHda/6Vaw8EMT1r/x0TnVHwbWv3U1jFxd9tW/6i1Czfjj1b9v+uCp787Vv2PIzrNAt9W/AeFt7euc1b/3Y2Cb8n/Vv847+ERXYNW/+drWsx0+1b9bJsDyShnVvxLAo0vl8dS/y67fRPTH1L9JJ7+dgJvUv10KOEqUbNS/4HzpbTo71L/w3F1WfwfUv/xBknRw0dO/mK/FVRyZ07/cLpKbkl7Tv8khUvPjIdO/oFjUDCLj0r9Su2GQX6LSv765FxSwX9K/myubECgb0r/d1CfV3NTRv6ljAXvkjNG/r29L2FVD0b8="
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "RCUHUaVI879SXhV+Cuvyv2CXI6tvjfK/btAx2NQv8r99CUAFOtLxv4tCTjKfdPG/mXtcXwQX8b+ntGqMabnwv7XteLnOW/C/hk0OzWf877+jvyonMkHvv78xR4H8he6/3KNj28bK7b/4FYA1kQ/tvxSInI9bVOy/MPq46SWZ679MbNVD8N3qv2ne8Z26Iuq/hVAO+IRn6b+iwipST6zov740R6wZ8ee/2qZjBuQ157/2GIBgrnrmvxKLnLp4v+W/L/24FEME5b9Lb9VuDUnkv2fh8cjXjeO/hFMOI6LS4r+gxSp9bBfiv7w3R9c2XOG/2KljMQGh4L/qNwAXl8vfvyIcOcsrVd6/WgByf8De3L+U5KozVWjbv8zI4+fp8dm/BK0cnH572L88kVVQEwXXv3Z1jgSojtW/rlnHuDwY1L/mPQBt0aHSvyAiOSFmK9G/sAzkqvVpz78g1VUTH33Mv5Cdx3tIkMm/AGY55HGjxr9wLqtMm7bDv+j2HLXEycC/sH4dO9y5u7+QDwEML+C1v3Cg5NyBBrC/oGKQW6lZpL/ACK/6nUyRvwDPCgdbaHg/AHA0fsuAnT9AFlMdwHOqP0D6xT2NE7M/YGnibDrtuD+A2P6b58a+P9CjjWVKUMI/YNsb/SA9xT/oEqqU9ynIP3hKOCzOFss/CILGw6QDzj/MXKqtPXjQP5R4cfmo7tE/XJQ4RRRl0z8ksP+Qf9vUP+jLxtzqUdY/sOeNKFbI1z94A1V0wT7ZP0AfHMAstdo/CDvjC5gr3D/QVqpXA6LdP5hycaNuGN8/Lkec92xH4D8S1X+dogLhP/ZiY0PYveE/2vBG6Q154j++fiqPQzTjP6IMDjV57+M/hprx2q6q5D9oKNWA5GXlP0y2uCYaIeY/MESczE/c5j8U0n9yhZfnP/hfYxi7Uug/3O1GvvAN6T/AeypkJsnpP6QJDgpchOo/iJfxr5E/6z9sJdVVx/rrP1CzuPv8tew/MEGcoTJx7T8Uz39HaCzuP/hcY+2d5+4/3OpGk9Oi7z9gPJWcBC/wP1IDh2+fjPA/Q8p4Qjrq8D8="
+      },
+      "fill": "tonextx",
+      "fillcolor": "rgb(214, 39, 40)",
+      "hoverinfo": "text",
+      "line": {
+        "color": "rgb(0, 0, 0)",
+        "shape": "spline",
+        "width": 0.5
+      },
+      "mode": "lines",
+      "name": "",
+      "opacity": 0.5,
+      "text": [
+        "(pdf(y), y)=(-0.19, -1.21)",
+        "(pdf(y), y)=(-0.20, -1.18)",
+        "(pdf(y), y)=(-0.20, -1.16)",
+        "(pdf(y), y)=(-0.20, -1.14)",
+        "(pdf(y), y)=(-0.21, -1.11)",
+        "(pdf(y), y)=(-0.21, -1.09)",
+        "(pdf(y), y)=(-0.21, -1.07)",
+        "(pdf(y), y)=(-0.21, -1.05)",
+        "(pdf(y), y)=(-0.22, -1.02)",
+        "(pdf(y), y)=(-0.22, -1.00)",
+        "(pdf(y), y)=(-0.22, -0.98)",
+        "(pdf(y), y)=(-0.23, -0.95)",
+        "(pdf(y), y)=(-0.23, -0.93)",
+        "(pdf(y), y)=(-0.23, -0.91)",
+        "(pdf(y), y)=(-0.23, -0.89)",
+        "(pdf(y), y)=(-0.24, -0.86)",
+        "(pdf(y), y)=(-0.24, -0.84)",
+        "(pdf(y), y)=(-0.24, -0.82)",
+        "(pdf(y), y)=(-0.24, -0.79)",
+        "(pdf(y), y)=(-0.25, -0.77)",
+        "(pdf(y), y)=(-0.25, -0.75)",
+        "(pdf(y), y)=(-0.25, -0.73)",
+        "(pdf(y), y)=(-0.26, -0.70)",
+        "(pdf(y), y)=(-0.26, -0.68)",
+        "(pdf(y), y)=(-0.26, -0.66)",
+        "(pdf(y), y)=(-0.26, -0.63)",
+        "(pdf(y), y)=(-0.27, -0.61)",
+        "(pdf(y), y)=(-0.27, -0.59)",
+        "(pdf(y), y)=(-0.27, -0.57)",
+        "(pdf(y), y)=(-0.27, -0.54)",
+        "(pdf(y), y)=(-0.28, -0.52)",
+        "(pdf(y), y)=(-0.28, -0.50)",
+        "(pdf(y), y)=(-0.28, -0.47)",
+        "(pdf(y), y)=(-0.29, -0.45)",
+        "(pdf(y), y)=(-0.29, -0.43)",
+        "(pdf(y), y)=(-0.29, -0.41)",
+        "(pdf(y), y)=(-0.29, -0.38)",
+        "(pdf(y), y)=(-0.30, -0.36)",
+        "(pdf(y), y)=(-0.30, -0.34)",
+        "(pdf(y), y)=(-0.30, -0.31)",
+        "(pdf(y), y)=(-0.30, -0.29)",
+        "(pdf(y), y)=(-0.31, -0.27)",
+        "(pdf(y), y)=(-0.31, -0.25)",
+        "(pdf(y), y)=(-0.31, -0.22)",
+        "(pdf(y), y)=(-0.31, -0.20)",
+        "(pdf(y), y)=(-0.32, -0.18)",
+        "(pdf(y), y)=(-0.32, -0.15)",
+        "(pdf(y), y)=(-0.32, -0.13)",
+        "(pdf(y), y)=(-0.32, -0.11)",
+        "(pdf(y), y)=(-0.33, -0.09)",
+        "(pdf(y), y)=(-0.33, -0.06)",
+        "(pdf(y), y)=(-0.33, -0.04)",
+        "(pdf(y), y)=(-0.33, -0.02)",
+        "(pdf(y), y)=(-0.33, 0.01)",
+        "(pdf(y), y)=(-0.33, 0.03)",
+        "(pdf(y), y)=(-0.34, 0.05)",
+        "(pdf(y), y)=(-0.34, 0.07)",
+        "(pdf(y), y)=(-0.34, 0.10)",
+        "(pdf(y), y)=(-0.34, 0.12)",
+        "(pdf(y), y)=(-0.34, 0.14)",
+        "(pdf(y), y)=(-0.34, 0.17)",
+        "(pdf(y), y)=(-0.34, 0.19)",
+        "(pdf(y), y)=(-0.34, 0.21)",
+        "(pdf(y), y)=(-0.35, 0.23)",
+        "(pdf(y), y)=(-0.35, 0.26)",
+        "(pdf(y), y)=(-0.35, 0.28)",
+        "(pdf(y), y)=(-0.35, 0.30)",
+        "(pdf(y), y)=(-0.35, 0.33)",
+        "(pdf(y), y)=(-0.35, 0.35)",
+        "(pdf(y), y)=(-0.35, 0.37)",
+        "(pdf(y), y)=(-0.35, 0.39)",
+        "(pdf(y), y)=(-0.35, 0.42)",
+        "(pdf(y), y)=(-0.34, 0.44)",
+        "(pdf(y), y)=(-0.34, 0.46)",
+        "(pdf(y), y)=(-0.34, 0.49)",
+        "(pdf(y), y)=(-0.34, 0.51)",
+        "(pdf(y), y)=(-0.34, 0.53)",
+        "(pdf(y), y)=(-0.34, 0.55)",
+        "(pdf(y), y)=(-0.34, 0.58)",
+        "(pdf(y), y)=(-0.34, 0.60)",
+        "(pdf(y), y)=(-0.33, 0.62)",
+        "(pdf(y), y)=(-0.33, 0.65)",
+        "(pdf(y), y)=(-0.33, 0.67)",
+        "(pdf(y), y)=(-0.33, 0.69)",
+        "(pdf(y), y)=(-0.32, 0.71)",
+        "(pdf(y), y)=(-0.32, 0.74)",
+        "(pdf(y), y)=(-0.32, 0.76)",
+        "(pdf(y), y)=(-0.32, 0.78)",
+        "(pdf(y), y)=(-0.31, 0.81)",
+        "(pdf(y), y)=(-0.31, 0.83)",
+        "(pdf(y), y)=(-0.31, 0.85)",
+        "(pdf(y), y)=(-0.30, 0.87)",
+        "(pdf(y), y)=(-0.30, 0.90)",
+        "(pdf(y), y)=(-0.30, 0.92)",
+        "(pdf(y), y)=(-0.29, 0.94)",
+        "(pdf(y), y)=(-0.29, 0.97)",
+        "(pdf(y), y)=(-0.28, 0.99)",
+        "(pdf(y), y)=(-0.28, 1.01)",
+        "(pdf(y), y)=(-0.27, 1.03)",
+        "(pdf(y), y)=(-0.27, 1.06)"
+      ],
+      "type": "scatter",
+      "xaxis": "x4",
+      "yaxis": "y1"
+    },
+    {
+      "x": {
+        "dtype": "f8",
+        "bdata": "8lSWZ3DiyD9zmmvJH0TJP17TinPqpMk/M+gnzdcEyj9PeVuV8GPKP9nQMMQ+wso/scT7aM0fyz/AVDSGqHzLPyp6G+vc2Ms/B69xC3g0zD/kJozVh4/MPz9zGYca6sw/JFnpgD5EzT8B6A0aAp7NP81lrXJz980/uV/dRqBQzj8gHt/BlanOP8nfFFJgAs8/8p0Ffgtbzz/gtcK6obPPP0fa/yEWBtA/RVcUe1ky0D9hil8Vnl7QP6Xxn0vmitA/3zNolzO30D9tYHSDhuPQP4RZlp/eD9E/hkZOdjo80T9nWSCEl2jRP1aFtTDylNE/8QjRyUXB0T/66yCAjO3RP1TS62W/GdI/Q9Wab9ZF0j8geRp2yHHSPxBbCjuLndI/E96vbhPJ0j/K+py3VPTSP1dm+btBH9M/oZJZLMxJ0z8wmQzQ5HPTP9f2x5J7ndM/bRyWk3/G0z8ZQ+s03+7TP0Kqwi2IFtQ/sWqlm2c91D80XnsVamPUP/Y6Br97iNQ/cOzmXIis1D9RZg1pe8/UP8WjcydA8dQ/0TsFu8ER1T8S5JU66zDVP1ZhysWnTtU/zbrYmeJq1T9FAwYmh4XVP+WsyR+BntU/IBmAlry11T+26JcGJsvVP7twJ2yq3tU/a6LZVDfw1T8zniPxuv/VP4gQtiQkDdY/ZVMflmIY1j9UHJW9ZiHWP7M33vIhKNY/3HJWeoYs1j8PXAiRhy7WPz3l2XcZLtY/VDzKfTEr1j+TTkAJxiXWP3ZraqDOHdY/6Vaw8EMT1j/x0TnVHwbWP3U1jFxd9tU/6i1Czfjj1T9v+uCp787VP2PIzrNAt9U/AeFt7euc1T/3Y2Cb8n/VP847+ERXYNU/+drWsx0+1T9bJsDyShnVPxLAo0vl8dQ/y67fRPTH1D9JJ7+dgJvUP10KOEqUbNQ/4HzpbTo71D/w3F1WfwfUP/xBknRw0dM/mK/FVRyZ0z/cLpKbkl7TP8khUvPjIdM/oFjUDCLj0j9Su2GQX6LSP765FxSwX9I/myubECgb0j/d1CfV3NTRP6ljAXvkjNE/r29L2FVD0T8="
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "RCUHUaVI879SXhV+Cuvyv2CXI6tvjfK/btAx2NQv8r99CUAFOtLxv4tCTjKfdPG/mXtcXwQX8b+ntGqMabnwv7XteLnOW/C/hk0OzWf877+jvyonMkHvv78xR4H8he6/3KNj28bK7b/4FYA1kQ/tvxSInI9bVOy/MPq46SWZ679MbNVD8N3qv2ne8Z26Iuq/hVAO+IRn6b+iwipST6zov740R6wZ8ee/2qZjBuQ157/2GIBgrnrmvxKLnLp4v+W/L/24FEME5b9Lb9VuDUnkv2fh8cjXjeO/hFMOI6LS4r+gxSp9bBfiv7w3R9c2XOG/2KljMQGh4L/qNwAXl8vfvyIcOcsrVd6/WgByf8De3L+U5KozVWjbv8zI4+fp8dm/BK0cnH572L88kVVQEwXXv3Z1jgSojtW/rlnHuDwY1L/mPQBt0aHSvyAiOSFmK9G/sAzkqvVpz78g1VUTH33Mv5Cdx3tIkMm/AGY55HGjxr9wLqtMm7bDv+j2HLXEycC/sH4dO9y5u7+QDwEML+C1v3Cg5NyBBrC/oGKQW6lZpL/ACK/6nUyRvwDPCgdbaHg/AHA0fsuAnT9AFlMdwHOqP0D6xT2NE7M/YGnibDrtuD+A2P6b58a+P9CjjWVKUMI/YNsb/SA9xT/oEqqU9ynIP3hKOCzOFss/CILGw6QDzj/MXKqtPXjQP5R4cfmo7tE/XJQ4RRRl0z8ksP+Qf9vUP+jLxtzqUdY/sOeNKFbI1z94A1V0wT7ZP0AfHMAstdo/CDvjC5gr3D/QVqpXA6LdP5hycaNuGN8/Lkec92xH4D8S1X+dogLhP/ZiY0PYveE/2vBG6Q154j++fiqPQzTjP6IMDjV57+M/hprx2q6q5D9oKNWA5GXlP0y2uCYaIeY/MESczE/c5j8U0n9yhZfnP/hfYxi7Uug/3O1GvvAN6T/AeypkJsnpP6QJDgpchOo/iJfxr5E/6z9sJdVVx/rrP1CzuPv8tew/MEGcoTJx7T8Uz39HaCzuP/hcY+2d5+4/3OpGk9Oi7z9gPJWcBC/wP1IDh2+fjPA/Q8p4Qjrq8D8="
+      },
+      "fill": "tonextx",
+      "fillcolor": "rgb(214, 39, 40)",
+      "hoverinfo": "text",
+      "line": {
+        "color": "rgb(0, 0, 0)",
+        "shape": "spline",
+        "width": 0.5
+      },
+      "mode": "lines",
+      "name": "",
+      "opacity": 0.5,
+      "text": [
+        "(pdf(y), y)=(0.19, -1.21)",
+        "(pdf(y), y)=(0.20, -1.18)",
+        "(pdf(y), y)=(0.20, -1.16)",
+        "(pdf(y), y)=(0.20, -1.14)",
+        "(pdf(y), y)=(0.21, -1.11)",
+        "(pdf(y), y)=(0.21, -1.09)",
+        "(pdf(y), y)=(0.21, -1.07)",
+        "(pdf(y), y)=(0.21, -1.05)",
+        "(pdf(y), y)=(0.22, -1.02)",
+        "(pdf(y), y)=(0.22, -1.00)",
+        "(pdf(y), y)=(0.22, -0.98)",
+        "(pdf(y), y)=(0.23, -0.95)",
+        "(pdf(y), y)=(0.23, -0.93)",
+        "(pdf(y), y)=(0.23, -0.91)",
+        "(pdf(y), y)=(0.23, -0.89)",
+        "(pdf(y), y)=(0.24, -0.86)",
+        "(pdf(y), y)=(0.24, -0.84)",
+        "(pdf(y), y)=(0.24, -0.82)",
+        "(pdf(y), y)=(0.24, -0.79)",
+        "(pdf(y), y)=(0.25, -0.77)",
+        "(pdf(y), y)=(0.25, -0.75)",
+        "(pdf(y), y)=(0.25, -0.73)",
+        "(pdf(y), y)=(0.26, -0.70)",
+        "(pdf(y), y)=(0.26, -0.68)",
+        "(pdf(y), y)=(0.26, -0.66)",
+        "(pdf(y), y)=(0.26, -0.63)",
+        "(pdf(y), y)=(0.27, -0.61)",
+        "(pdf(y), y)=(0.27, -0.59)",
+        "(pdf(y), y)=(0.27, -0.57)",
+        "(pdf(y), y)=(0.27, -0.54)",
+        "(pdf(y), y)=(0.28, -0.52)",
+        "(pdf(y), y)=(0.28, -0.50)",
+        "(pdf(y), y)=(0.28, -0.47)",
+        "(pdf(y), y)=(0.29, -0.45)",
+        "(pdf(y), y)=(0.29, -0.43)",
+        "(pdf(y), y)=(0.29, -0.41)",
+        "(pdf(y), y)=(0.29, -0.38)",
+        "(pdf(y), y)=(0.30, -0.36)",
+        "(pdf(y), y)=(0.30, -0.34)",
+        "(pdf(y), y)=(0.30, -0.31)",
+        "(pdf(y), y)=(0.30, -0.29)",
+        "(pdf(y), y)=(0.31, -0.27)",
+        "(pdf(y), y)=(0.31, -0.25)",
+        "(pdf(y), y)=(0.31, -0.22)",
+        "(pdf(y), y)=(0.31, -0.20)",
+        "(pdf(y), y)=(0.32, -0.18)",
+        "(pdf(y), y)=(0.32, -0.15)",
+        "(pdf(y), y)=(0.32, -0.13)",
+        "(pdf(y), y)=(0.32, -0.11)",
+        "(pdf(y), y)=(0.33, -0.09)",
+        "(pdf(y), y)=(0.33, -0.06)",
+        "(pdf(y), y)=(0.33, -0.04)",
+        "(pdf(y), y)=(0.33, -0.02)",
+        "(pdf(y), y)=(0.33, 0.01)",
+        "(pdf(y), y)=(0.33, 0.03)",
+        "(pdf(y), y)=(0.34, 0.05)",
+        "(pdf(y), y)=(0.34, 0.07)",
+        "(pdf(y), y)=(0.34, 0.10)",
+        "(pdf(y), y)=(0.34, 0.12)",
+        "(pdf(y), y)=(0.34, 0.14)",
+        "(pdf(y), y)=(0.34, 0.17)",
+        "(pdf(y), y)=(0.34, 0.19)",
+        "(pdf(y), y)=(0.34, 0.21)",
+        "(pdf(y), y)=(0.35, 0.23)",
+        "(pdf(y), y)=(0.35, 0.26)",
+        "(pdf(y), y)=(0.35, 0.28)",
+        "(pdf(y), y)=(0.35, 0.30)",
+        "(pdf(y), y)=(0.35, 0.33)",
+        "(pdf(y), y)=(0.35, 0.35)",
+        "(pdf(y), y)=(0.35, 0.37)",
+        "(pdf(y), y)=(0.35, 0.39)",
+        "(pdf(y), y)=(0.35, 0.42)",
+        "(pdf(y), y)=(0.34, 0.44)",
+        "(pdf(y), y)=(0.34, 0.46)",
+        "(pdf(y), y)=(0.34, 0.49)",
+        "(pdf(y), y)=(0.34, 0.51)",
+        "(pdf(y), y)=(0.34, 0.53)",
+        "(pdf(y), y)=(0.34, 0.55)",
+        "(pdf(y), y)=(0.34, 0.58)",
+        "(pdf(y), y)=(0.34, 0.60)",
+        "(pdf(y), y)=(0.33, 0.62)",
+        "(pdf(y), y)=(0.33, 0.65)",
+        "(pdf(y), y)=(0.33, 0.67)",
+        "(pdf(y), y)=(0.33, 0.69)",
+        "(pdf(y), y)=(0.32, 0.71)",
+        "(pdf(y), y)=(0.32, 0.74)",
+        "(pdf(y), y)=(0.32, 0.76)",
+        "(pdf(y), y)=(0.32, 0.78)",
+        "(pdf(y), y)=(0.31, 0.81)",
+        "(pdf(y), y)=(0.31, 0.83)",
+        "(pdf(y), y)=(0.31, 0.85)",
+        "(pdf(y), y)=(0.30, 0.87)",
+        "(pdf(y), y)=(0.30, 0.90)",
+        "(pdf(y), y)=(0.30, 0.92)",
+        "(pdf(y), y)=(0.29, 0.94)",
+        "(pdf(y), y)=(0.29, 0.97)",
+        "(pdf(y), y)=(0.28, 0.99)",
+        "(pdf(y), y)=(0.28, 1.01)",
+        "(pdf(y), y)=(0.27, 1.03)",
+        "(pdf(y), y)=(0.27, 1.06)"
+      ],
+      "type": "scatter",
+      "xaxis": "x4",
+      "yaxis": "y1"
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AAA="
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "RCUHUaVI879DynhCOurwPw=="
+      },
+      "line": {
+        "color": "rgb(0,0,0)",
+        "width": 1.5
+      },
+      "mode": "lines",
+      "name": "",
+      "type": "scatter",
+      "xaxis": "x4",
+      "yaxis": "y1"
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AAA="
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "RCUHUaVI879DynhCOurwPw=="
+      },
+      "hoverinfo": "text",
+      "line": {
+        "color": "rgb(0,0,0)",
+        "width": 4
+      },
+      "mode": "lines",
+      "text": [
+        "lower-quartile: -1.21",
+        "upper-quartile: 1.06"
+      ],
+      "type": "scatter",
+      "xaxis": "x4",
+      "yaxis": "y1"
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AA=="
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "eA9aBQ7Lwz8="
+      },
+      "hoverinfo": "text",
+      "marker": {
+        "color": "rgb(255,255,255)",
+        "symbol": "square"
+      },
+      "mode": "markers",
+      "text": [
+        "median: 0.15"
+      ],
+      "type": "scatter",
+      "xaxis": "x4",
+      "yaxis": "y1"
+    },
+    {
+      "x": {
+        "dtype": "f8",
+        "bdata": "rKGjRzye2r+soaNHPJ7av6yho0c8ntq/rKGjRzye2r8="
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "RCUHUaVI87+tp3IWJ63bP9JgYkRkiL+/Q8p4Qjrq8D8="
+      },
+      "hoverinfo": "y",
+      "marker": {
+        "color": "rgb(214, 39, 40)",
+        "symbol": "line-ew-open"
+      },
+      "mode": "markers",
+      "name": "",
+      "showlegend": false,
+      "type": "scatter",
+      "xaxis": "x4",
+      "yaxis": "y1"
+    },
+    {
+      "x": {
+        "dtype": "f8",
+        "bdata": "MeaEyUfbz7+pDtYOUgTQvyoZexCDGtC/W+DadzYw0L8zmfLna0XQv9UV/hcjWtC/SsjY0ltu0L/Ef1X2FYLQv+5UjXJRldC/0D8mSQ6o0L8K2JGMTLrQv5jFRF8MzNC/tm3n8k3d0L9ybICHEe7Qv/JvmWpX/tC/pQ5f9h8O0b90NbyQax3RvyfOcao6LNG/VEErvo060b9teZBPZUjRv7EOVurBVdG/LEVMIaRi0b8bh22NDG/Rv4kG7cz7etG/RjFGgnKG0b+voU1TcZHRv0s2ROj4m9G/kPjs6gmm0b+IeaYFpa/Rv81IiOLKuNG/YieFKnzB0b/4lJKEucnRv0tS1pSD0dG/Qm/a+9rY0b/1dshVwN/Rv6JGrDk05tG/Wxe/ODfs0b9YPLvdyfHRv7EROazs9tG/y5AVIKD70b/N+OKs5P/Rv2LyY726A9K/ZY4RsyIH0r92d6zlHArSv1Km2aKpDNK/k+DKLckO0r/mQPO+exDSv1n/x4PBEdK/LKeNnpoS0r8G3zEmBxPSvwffMSYHE9K/LKeNnpoS0r9Z/8eDwRHSv+ZA8757ENK/kuDKLckO0r9SptmiqQzSv3Z3rOUcCtK/ZY4RsyIH0r9i8mO9ugPSv8344qzk/9G/y5AVIKD70b+xETms7PbRv1g8u93J8dG/Wxe/ODfs0b+iRqw5NObRv/V2yFXA39G/Qm/a+9rY0b9LUtaUg9HRv/iUkoS5ydG/YieFKnzB0b/NSIjiyrjRv4h5pgWlr9G/kPjs6gmm0b9LNkTo+JvRv6+hTVNxkdG/RjFGgnKG0b+JBu3M+3rRvxuHbY0Mb9G/LEVMIaRi0b+xDlbqwVXRv215kE9lSNG/VEErvo060b8nznGqOizRv3M1vJBrHdG/pA5f9h8O0b/yb5lqV/7Qv3JsgIcR7tC/tm3n8k3d0L+YxURfDMzQvwrYkYxMutC/0D8mSQ6o0L/uVI1yUZXQv8R/VfYVgtC/SsjY0ltu0L/VFf4XI1rQvzOZ8udrRdC/W+DadzYw0L8qGXsQgxrQv6kO1g5SBNC/MeaEyUfbz78="
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "SvOc+hrSDsDk/vzr+K8OwH4KXd3WjQ7AGBa9zrRrDsCyIR3AkkkOwEwtfbFwJw7A5jjdok4FDsCARD2ULOMNwBpQnYUKwQ3AtFv9duieDcBOZ11oxnwNwOhyvVmkWg3Agn4dS4I4DcAcin08YBYNwLaV3S0+9AzAUKE9HxzSDMDqrJ0Q+q8MwIS4/QHYjQzAHsRd87VrDMC5z73kk0kMwFPbHdZxJwzA7eZ9x08FDMCH8t24LeMLwCH+PaoLwQvAuwmem+meC8BVFf6Mx3wLwO8gXn6lWgvAiSy+b4M4C8AjOB5hYRYLwL1DflI/9ArAV0/eQx3SCsDxWj41+68KwItmnibZjQrAJXL+F7drCsC/fV4JlUkKwFmJvvpyJwrA85Qe7FAFCsCNoH7dLuMJwCes3s4MwQnAwbc+wOqeCcBbw56xyHwJwPXO/qKmWgnAj9pelIQ4CcAp5r6FYhYJwMTxHndA9AjAXv1+aB7SCMD4CN9Z/K8IwJIUP0vajQjALCCfPLhrCMDGK/8tlkkIwGA3Xx90JwjA+kK/EFIFCMCUTh8CMOMHwC5af/MNwQfAyGXf5OueB8BicT/WyXwHwPx8n8enWgfAloj/uIU4B8AwlF+qYxYHwMqfv5tB9AbAZKsfjR/SBsD+tn9+/a8GwJjC32/bjQbAMs4/YblrBsDM2Z9Sl0kGwGbl/0N1JwbAAPFfNVMFBsCa/L8mMeMFwDQIIBgPwQXAzhOACe2eBcBoH+D6ynwFwAIrQOyoWgXAnDag3YY4BcA2QgDPZBYFwNBNYMBC9ATAalnAsSDSBMAEZSCj/q8EwJ5wgJTcjQTAOHzghbprBMDSh0B3mEkEwGyToGh2JwTABp8AWlQFBMCgqmBLMuMDwDq2wDwQwQPA1MEgLu6eA8BuzYAfzHwDwAjZ4BCqWgPAouRAAog4A8A98KDzZRYDwNf7AOVD9ALAcQdh1iHSAsALE8HH/68CwKUeIbndjQLAPyqBqrtrAsDZNeGbmUkCwHNBQY13JwLADU2hflUFAsCnWAFwM+MBwEFkYWERwQHA22/BUu+eAcA="
+      },
+      "fill": "tonextx",
+      "fillcolor": "rgb(148, 103, 189)",
+      "hoverinfo": "text",
+      "line": {
+        "color": "rgb(0, 0, 0)",
+        "shape": "spline",
+        "width": 0.5
+      },
+      "mode": "lines",
+      "name": "",
+      "opacity": 0.5,
+      "text": [
+        "(pdf(y), y)=(-0.25, -3.85)",
+        "(pdf(y), y)=(-0.25, -3.84)",
+        "(pdf(y), y)=(-0.25, -3.82)",
+        "(pdf(y), y)=(-0.25, -3.80)",
+        "(pdf(y), y)=(-0.25, -3.79)",
+        "(pdf(y), y)=(-0.26, -3.77)",
+        "(pdf(y), y)=(-0.26, -3.75)",
+        "(pdf(y), y)=(-0.26, -3.74)",
+        "(pdf(y), y)=(-0.26, -3.72)",
+        "(pdf(y), y)=(-0.26, -3.70)",
+        "(pdf(y), y)=(-0.26, -3.69)",
+        "(pdf(y), y)=(-0.26, -3.67)",
+        "(pdf(y), y)=(-0.26, -3.65)",
+        "(pdf(y), y)=(-0.26, -3.64)",
+        "(pdf(y), y)=(-0.27, -3.62)",
+        "(pdf(y), y)=(-0.27, -3.60)",
+        "(pdf(y), y)=(-0.27, -3.59)",
+        "(pdf(y), y)=(-0.27, -3.57)",
+        "(pdf(y), y)=(-0.27, -3.55)",
+        "(pdf(y), y)=(-0.27, -3.54)",
+        "(pdf(y), y)=(-0.27, -3.52)",
+        "(pdf(y), y)=(-0.27, -3.50)",
+        "(pdf(y), y)=(-0.27, -3.49)",
+        "(pdf(y), y)=(-0.27, -3.47)",
+        "(pdf(y), y)=(-0.27, -3.45)",
+        "(pdf(y), y)=(-0.27, -3.44)",
+        "(pdf(y), y)=(-0.28, -3.42)",
+        "(pdf(y), y)=(-0.28, -3.40)",
+        "(pdf(y), y)=(-0.28, -3.39)",
+        "(pdf(y), y)=(-0.28, -3.37)",
+        "(pdf(y), y)=(-0.28, -3.35)",
+        "(pdf(y), y)=(-0.28, -3.34)",
+        "(pdf(y), y)=(-0.28, -3.32)",
+        "(pdf(y), y)=(-0.28, -3.30)",
+        "(pdf(y), y)=(-0.28, -3.29)",
+        "(pdf(y), y)=(-0.28, -3.27)",
+        "(pdf(y), y)=(-0.28, -3.25)",
+        "(pdf(y), y)=(-0.28, -3.24)",
+        "(pdf(y), y)=(-0.28, -3.22)",
+        "(pdf(y), y)=(-0.28, -3.20)",
+        "(pdf(y), y)=(-0.28, -3.19)",
+        "(pdf(y), y)=(-0.28, -3.17)",
+        "(pdf(y), y)=(-0.28, -3.15)",
+        "(pdf(y), y)=(-0.28, -3.14)",
+        "(pdf(y), y)=(-0.28, -3.12)",
+        "(pdf(y), y)=(-0.28, -3.10)",
+        "(pdf(y), y)=(-0.28, -3.09)",
+        "(pdf(y), y)=(-0.28, -3.07)",
+        "(pdf(y), y)=(-0.28, -3.05)",
+        "(pdf(y), y)=(-0.28, -3.04)",
+        "(pdf(y), y)=(-0.28, -3.02)",
+        "(pdf(y), y)=(-0.28, -3.00)",
+        "(pdf(y), y)=(-0.28, -2.99)",
+        "(pdf(y), y)=(-0.28, -2.97)",
+        "(pdf(y), y)=(-0.28, -2.95)",
+        "(pdf(y), y)=(-0.28, -2.94)",
+        "(pdf(y), y)=(-0.28, -2.92)",
+        "(pdf(y), y)=(-0.28, -2.90)",
+        "(pdf(y), y)=(-0.28, -2.89)",
+        "(pdf(y), y)=(-0.28, -2.87)",
+        "(pdf(y), y)=(-0.28, -2.85)",
+        "(pdf(y), y)=(-0.28, -2.84)",
+        "(pdf(y), y)=(-0.28, -2.82)",
+        "(pdf(y), y)=(-0.28, -2.80)",
+        "(pdf(y), y)=(-0.28, -2.79)",
+        "(pdf(y), y)=(-0.28, -2.77)",
+        "(pdf(y), y)=(-0.28, -2.75)",
+        "(pdf(y), y)=(-0.28, -2.74)",
+        "(pdf(y), y)=(-0.28, -2.72)",
+        "(pdf(y), y)=(-0.28, -2.70)",
+        "(pdf(y), y)=(-0.28, -2.69)",
+        "(pdf(y), y)=(-0.28, -2.67)",
+        "(pdf(y), y)=(-0.28, -2.65)",
+        "(pdf(y), y)=(-0.28, -2.64)",
+        "(pdf(y), y)=(-0.27, -2.62)",
+        "(pdf(y), y)=(-0.27, -2.60)",
+        "(pdf(y), y)=(-0.27, -2.59)",
+        "(pdf(y), y)=(-0.27, -2.57)",
+        "(pdf(y), y)=(-0.27, -2.55)",
+        "(pdf(y), y)=(-0.27, -2.54)",
+        "(pdf(y), y)=(-0.27, -2.52)",
+        "(pdf(y), y)=(-0.27, -2.50)",
+        "(pdf(y), y)=(-0.27, -2.49)",
+        "(pdf(y), y)=(-0.27, -2.47)",
+        "(pdf(y), y)=(-0.27, -2.45)",
+        "(pdf(y), y)=(-0.27, -2.44)",
+        "(pdf(y), y)=(-0.26, -2.42)",
+        "(pdf(y), y)=(-0.26, -2.40)",
+        "(pdf(y), y)=(-0.26, -2.39)",
+        "(pdf(y), y)=(-0.26, -2.37)",
+        "(pdf(y), y)=(-0.26, -2.35)",
+        "(pdf(y), y)=(-0.26, -2.34)",
+        "(pdf(y), y)=(-0.26, -2.32)",
+        "(pdf(y), y)=(-0.26, -2.30)",
+        "(pdf(y), y)=(-0.26, -2.29)",
+        "(pdf(y), y)=(-0.25, -2.27)",
+        "(pdf(y), y)=(-0.25, -2.25)",
+        "(pdf(y), y)=(-0.25, -2.24)",
+        "(pdf(y), y)=(-0.25, -2.22)",
+        "(pdf(y), y)=(-0.25, -2.20)"
+      ],
+      "type": "scatter",
+      "xaxis": "x5",
+      "yaxis": "y1"
+    },
+    {
+      "x": {
+        "dtype": "f8",
+        "bdata": "MeaEyUfbzz+pDtYOUgTQPyoZexCDGtA/W+DadzYw0D8zmfLna0XQP9UV/hcjWtA/SsjY0ltu0D/Ef1X2FYLQP+5UjXJRldA/0D8mSQ6o0D8K2JGMTLrQP5jFRF8MzNA/tm3n8k3d0D9ybICHEe7QP/JvmWpX/tA/pQ5f9h8O0T90NbyQax3RPyfOcao6LNE/VEErvo060T9teZBPZUjRP7EOVurBVdE/LEVMIaRi0T8bh22NDG/RP4kG7cz7etE/RjFGgnKG0T+voU1TcZHRP0s2ROj4m9E/kPjs6gmm0T+IeaYFpa/RP81IiOLKuNE/YieFKnzB0T/4lJKEucnRP0tS1pSD0dE/Qm/a+9rY0T/1dshVwN/RP6JGrDk05tE/Wxe/ODfs0T9YPLvdyfHRP7EROazs9tE/y5AVIKD70T/N+OKs5P/RP2LyY726A9I/ZY4RsyIH0j92d6zlHArSP1Km2aKpDNI/k+DKLckO0j/mQPO+exDSP1n/x4PBEdI/LKeNnpoS0j8G3zEmBxPSPwffMSYHE9I/LKeNnpoS0j9Z/8eDwRHSP+ZA8757ENI/kuDKLckO0j9SptmiqQzSP3Z3rOUcCtI/ZY4RsyIH0j9i8mO9ugPSP8344qzk/9E/y5AVIKD70T+xETms7PbRP1g8u93J8dE/Wxe/ODfs0T+iRqw5NObRP/V2yFXA39E/Qm/a+9rY0T9LUtaUg9HRP/iUkoS5ydE/YieFKnzB0T/NSIjiyrjRP4h5pgWlr9E/kPjs6gmm0T9LNkTo+JvRP6+hTVNxkdE/RjFGgnKG0T+JBu3M+3rRPxuHbY0Mb9E/LEVMIaRi0T+xDlbqwVXRP215kE9lSNE/VEErvo060T8nznGqOizRP3M1vJBrHdE/pA5f9h8O0T/yb5lqV/7QP3JsgIcR7tA/tm3n8k3d0D+YxURfDMzQPwrYkYxMutA/0D8mSQ6o0D/uVI1yUZXQP8R/VfYVgtA/SsjY0ltu0D/VFf4XI1rQPzOZ8udrRdA/W+DadzYw0D8qGXsQgxrQP6kO1g5SBNA/MeaEyUfbzz8="
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "SvOc+hrSDsDk/vzr+K8OwH4KXd3WjQ7AGBa9zrRrDsCyIR3AkkkOwEwtfbFwJw7A5jjdok4FDsCARD2ULOMNwBpQnYUKwQ3AtFv9duieDcBOZ11oxnwNwOhyvVmkWg3Agn4dS4I4DcAcin08YBYNwLaV3S0+9AzAUKE9HxzSDMDqrJ0Q+q8MwIS4/QHYjQzAHsRd87VrDMC5z73kk0kMwFPbHdZxJwzA7eZ9x08FDMCH8t24LeMLwCH+PaoLwQvAuwmem+meC8BVFf6Mx3wLwO8gXn6lWgvAiSy+b4M4C8AjOB5hYRYLwL1DflI/9ArAV0/eQx3SCsDxWj41+68KwItmnibZjQrAJXL+F7drCsC/fV4JlUkKwFmJvvpyJwrA85Qe7FAFCsCNoH7dLuMJwCes3s4MwQnAwbc+wOqeCcBbw56xyHwJwPXO/qKmWgnAj9pelIQ4CcAp5r6FYhYJwMTxHndA9AjAXv1+aB7SCMD4CN9Z/K8IwJIUP0vajQjALCCfPLhrCMDGK/8tlkkIwGA3Xx90JwjA+kK/EFIFCMCUTh8CMOMHwC5af/MNwQfAyGXf5OueB8BicT/WyXwHwPx8n8enWgfAloj/uIU4B8AwlF+qYxYHwMqfv5tB9AbAZKsfjR/SBsD+tn9+/a8GwJjC32/bjQbAMs4/YblrBsDM2Z9Sl0kGwGbl/0N1JwbAAPFfNVMFBsCa/L8mMeMFwDQIIBgPwQXAzhOACe2eBcBoH+D6ynwFwAIrQOyoWgXAnDag3YY4BcA2QgDPZBYFwNBNYMBC9ATAalnAsSDSBMAEZSCj/q8EwJ5wgJTcjQTAOHzghbprBMDSh0B3mEkEwGyToGh2JwTABp8AWlQFBMCgqmBLMuMDwDq2wDwQwQPA1MEgLu6eA8BuzYAfzHwDwAjZ4BCqWgPAouRAAog4A8A98KDzZRYDwNf7AOVD9ALAcQdh1iHSAsALE8HH/68CwKUeIbndjQLAPyqBqrtrAsDZNeGbmUkCwHNBQY13JwLADU2hflUFAsCnWAFwM+MBwEFkYWERwQHA22/BUu+eAcA="
+      },
+      "fill": "tonextx",
+      "fillcolor": "rgb(148, 103, 189)",
+      "hoverinfo": "text",
+      "line": {
+        "color": "rgb(0, 0, 0)",
+        "shape": "spline",
+        "width": 0.5
+      },
+      "mode": "lines",
+      "name": "",
+      "opacity": 0.5,
+      "type": "scatter",
+      "xaxis": "x5",
+      "yaxis": "y1"
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AAA="
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "SvOc+hrSDsDbb8FS754BwA=="
+      },
+      "line": {
+        "color": "rgb(0,0,0)",
+        "width": 1.5
+      },
+      "mode": "lines",
+      "name": "",
+      "type": "scatter",
+      "xaxis": "x5",
+      "yaxis": "y1"
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AAA="
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "SvOc+hrSDsDbb8FS754BwA=="
+      },
+      "hoverinfo": "text",
+      "line": {
+        "color": "rgb(0,0,0)",
+        "width": 4
+      },
+      "mode": "lines",
+      "text": [
+        "lower-quartile: -3.85",
+        "upper-quartile: -2.20"
+      ],
+      "type": "scatter",
+      "xaxis": "x5",
+      "yaxis": "y1"
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AA=="
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "kjGvJoU4CMA="
+      },
+      "hoverinfo": "text",
+      "marker": {
+        "color": "rgb(255,255,255)",
+        "symbol": "square"
+      },
+      "mode": "markers",
+      "text": [
+        "median: -3.03"
+      ],
+      "type": "scatter",
+      "xaxis": "x5",
+      "yaxis": "y1"
+    },
+    {
+      "x": {
+        "dtype": "f8",
+        "bdata": "1T6i+m6w1b/VPqL6brDVvw=="
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "SvOc+hrSDsDbb8FS754BwA=="
+      },
+      "hoverinfo": "y",
+      "marker": {
+        "color": "rgb(148, 103, 189)",
+        "symbol": "line-ew-open"
+      },
+      "mode": "markers",
+      "name": "",
+      "showlegend": false,
+      "type": "scatter",
+      "xaxis": "x5",
+      "yaxis": "y1"
+    }
+  ],
+  "layout": {
+    "autosize": false,
+    "height": 500,
+    "hovermode": "closest",
+    "showlegend": false,
+    "title": {
+      "text": "Violin and Rug Plot"
+    },
+    "width": 800,
+    "xaxis1": {
+      "anchor": "y1",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAAAK16NwPQrHPw=="
+      },
+      "mirror": false,
+      "range": [
+        -0.3925279313842237,
+        0.3437732761535197
+      ],
+      "showgrid": false,
+      "showline": false,
+      "showticklabels": false,
+      "ticks": "",
+      "title": {
+        "text": "A"
+      },
+      "zeroline": false
+    },
+    "xaxis2": {
+      "anchor": "free",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "PQrXo3A9yj+kcD0K16PYPw=="
+      },
+      "mirror": false,
+      "position": 0,
+      "range": [
+        -0.3399020301901163,
+        0.29991835849176357
+      ],
+      "showgrid": false,
+      "showline": false,
+      "showticklabels": false,
+      "ticks": "",
+      "title": {
+        "text": "B"
+      },
+      "zeroline": false
+    },
+    "xaxis3": {
+      "anchor": "free",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "PQrXo3A92j/hehSuR+HiPw=="
+      },
+      "mirror": false,
+      "position": 0,
+      "range": [
+        -0.4921937431032638,
+        0.4268281192527198
+      ],
+      "showgrid": false,
+      "showline": false,
+      "showticklabels": false,
+      "ticks": "",
+      "title": {
+        "text": "C"
+      },
+      "zeroline": false
+    },
+    "xaxis4": {
+      "anchor": "free",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "rkfhehSu4z9wPQrXo3DpPw=="
+      },
+      "mirror": false,
+      "position": 0,
+      "range": [
+        -0.5159079265214369,
+        0.4465899387678641
+      ],
+      "showgrid": false,
+      "showline": false,
+      "showticklabels": false,
+      "ticks": "",
+      "title": {
+        "text": "D"
+      },
+      "zeroline": false
+    },
+    "xaxis5": {
+      "anchor": "free",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "PQrXo3A96j8AAAAAAADwPw=="
+      },
+      "mirror": false,
+      "position": 0,
+      "range": [
+        -0.4388936469645903,
+        0.38241137247049195
+      ],
+      "showgrid": false,
+      "showline": false,
+      "showticklabels": false,
+      "ticks": "",
+      "title": {
+        "text": "E"
+      },
+      "zeroline": false
+    },
+    "yaxis1": {
+      "anchor": "x1",
+      "autorange": true,
+      "domain": {
+        "dtype": "i1",
+        "bdata": "AAE="
+      },
+      "mirror": false,
+      "showgrid": false,
+      "showline": true,
+      "showticklabels": true,
+      "ticklen": 4,
+      "title": {
+        "text": ""
+      },
+      "zeroline": false
+    }
+  }
+}

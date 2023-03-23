@@ -1,0 +1,83 @@
+{
+  "data": [
+    {
+      "x": [
+        "a",
+        "b",
+        "c",
+        "a",
+        "b",
+        "d",
+        "b",
+        "c",
+        "b",
+        "b"
+      ],
+      "type": "histogram"
+    },
+    {
+      "x": [
+        "d",
+        "c",
+        "a",
+        "e",
+        "a"
+      ],
+      "type": "histogram"
+    },
+    {
+      "y": [
+        "a",
+        "b",
+        "c",
+        "a",
+        "b",
+        "d",
+        "b",
+        "c"
+      ],
+      "type": "histogram",
+      "xaxis": "x2",
+      "yaxis": "y2"
+    },
+    {
+      "y": [
+        "d",
+        "c",
+        "b",
+        "a",
+        "e",
+        "a",
+        "b"
+      ],
+      "type": "histogram",
+      "xaxis": "x2",
+      "yaxis": "y2"
+    }
+  ],
+  "layout": {
+    "title": {
+      "text": "categoryorder: \"total ascending\""
+    },
+    "height": 400,
+    "width": 600,
+    "barmode": "stack",
+    "xaxis": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAADNzMzMzMzcPw=="
+      },
+      "categoryorder": "total ascending"
+    },
+    "xaxis2": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "mpmZmZmZ4T8AAAAAAADwPw=="
+      }
+    },
+    "yaxis2": {
+      "anchor": "x2",
+      "categoryorder": "total ascending"
+    }
+  }
+}

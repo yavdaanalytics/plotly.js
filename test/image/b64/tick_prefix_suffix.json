@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQIDBAUGBw=="
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "AAAAAABq+EAAAAAAAGr4QAAAAACAhD5BAAAAAICEPkEAAAAAgIQ+QQAAAAA4nHxBAAAAADicfEE="
+      },
+      "line": {
+        "shape": "spline"
+      }
+    }
+  ],
+  "layout": {
+    "title": {
+      "text": "tick label prefix and suffix"
+    },
+    "xaxis": {
+      "tickprefix": "-> ",
+      "ticksuffix": " s"
+    },
+    "yaxis": {
+      "tickprefix": "*** ",
+      "showtickprefix": "first",
+      "ticksuffix": " \u20ac",
+      "showticksuffix": "last"
+    }
+  }
+}

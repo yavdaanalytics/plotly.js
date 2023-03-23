@@ -1,0 +1,47 @@
+{
+  "data": [
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AAECAwQFBgcI"
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "CAcGBQQDAgEA"
+      },
+      "type": "scatter"
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AAECAwQFBgcI"
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AAECAwQFBgcI"
+      },
+      "type": "scatter"
+    }
+  ],
+  "layout": {
+    "xaxis": {
+      "ticks": "outside",
+      "tickwidth": 4,
+      "tick0": 0,
+      "ticklen": 8,
+      "dtick": 0.25,
+      "tickcolor": "#000",
+      "autotick": false
+    },
+    "yaxis": {
+      "ticks": "outside",
+      "tickwidth": 3.5,
+      "tick0": 0,
+      "ticklen": 8,
+      "dtick": 0.25,
+      "tickcolor": "#000",
+      "autotick": false,
+      "gridwidth": 0.1
+    }
+  }
+}

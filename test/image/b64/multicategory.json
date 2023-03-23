@@ -1,0 +1,69 @@
+{
+  "data": [
+    {
+      "type": "bar",
+      "x": [
+        [
+          "2017",
+          "2017",
+          "2017",
+          "2017",
+          "2018",
+          "2018",
+          "2018"
+        ],
+        [
+          "q1",
+          "q2",
+          "q3",
+          "q4",
+          "q1",
+          "q2",
+          "q3"
+        ]
+      ],
+      "y": {
+        "dtype": "i1",
+        "bdata": "AQIDAQMCAwE="
+      }
+    },
+    {
+      "type": "bar",
+      "x": [
+        [
+          "2017",
+          "2017",
+          "2017",
+          "2017",
+          "2018",
+          "2018",
+          "2018"
+        ],
+        [
+          "q1",
+          "q2",
+          "q3",
+          "q4",
+          "q1",
+          "q2",
+          "q3"
+        ]
+      ],
+      "y": {
+        "dtype": "f8",
+        "bdata": "7FG4HoXr8T8zMzMzMzMBQI/C9ShcjwhArkfhehSu9z89CtejcD0GQDMzMzMzM/8/UrgehetRBEB7FK5H4XrkPw=="
+      }
+    }
+  ],
+  "layout": {
+    "xaxis": {
+      "title": {
+        "text": "MULTI-CATEGORY"
+      },
+      "tickfont": {
+        "size": 16
+      },
+      "ticks": "outside"
+    }
+  }
+}

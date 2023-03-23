@@ -1,0 +1,72 @@
+{
+  "layout": {
+    "width": 500,
+    "height": 500,
+    "font": {
+      "size": 15
+    }
+  },
+  "data": [
+    {
+      "type": "parcoords",
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "mpmZmZmZyT/NzMzMzMzsPw=="
+        },
+        "y": {
+          "dtype": "f8",
+          "bdata": "mpmZmZmZyT9mZmZmZmbmPw=="
+        }
+      },
+      "labelfont": {
+        "color": "red",
+        "size": 20
+      },
+      "tickfont": {
+        "color": "blue"
+      },
+      "rangefont": {
+        "color": "green"
+      },
+      "line": {
+        "showscale": true,
+        "reversescale": true,
+        "colorscale": "Jet",
+        "cmin": -4000,
+        "cmax": -100,
+        "color": {
+          "dtype": "i2",
+          "bdata": "1//b+lz/wPix/138Qf9Z9Kv++vA="
+        },
+        "colorbar": {
+          "x": 1.1
+        }
+      },
+      "dimensions": [
+        {
+          "constraintrange": {
+            "dtype": "i2",
+            "bdata": "yAC8Ag=="
+          },
+          "label": "Block height",
+          "values": {
+            "dtype": "i2",
+            "bdata": "QQEWAh4CogIfAKICfAD2AMgB5wI="
+          }
+        },
+        {
+          "label": "Block width",
+          "range": [
+            0,
+            700000
+          ],
+          "values": {
+            "dtype": "i4",
+            "bdata": "VhkEAEd4BwDOyAUAwCcJAEd4BwBWGQQAwCcJAM7IBQBWGQQAR3gHAA=="
+          }
+        }
+      ]
+    }
+  ]
+}

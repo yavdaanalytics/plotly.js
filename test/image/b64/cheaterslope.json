@@ -1,0 +1,485 @@
+{
+  "data": [
+    {
+      "type": "carpet",
+      "carpet": "c1",
+      "a": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "b": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAACamZmZmZnpPwAAAAAAAABAMzMzMzMz8z8AAAAAAAAAQJqZmZmZmQlAAAAAAAAAAEBmZmZmZmYGQAAAAAAAABBA",
+        "shape": "3, 3"
+      },
+      "aaxis": {
+        "smoothing": 1,
+        "title": {
+          "text": "A axis<br>title"
+        },
+        "color": "red"
+      },
+      "baxis": {
+        "smoothing": 1,
+        "title": {
+          "text": "B axis<br>title"
+        }
+      },
+      "xaxis": "x",
+      "yaxis": "y",
+      "cheaterslope": -10
+    },
+    {
+      "type": "carpet",
+      "carpet": "c2",
+      "a": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "b": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "mpmZmZmZ6T8AAAAAAAAAAAAAAAAAAABAAAAAAAAAAEAzMzMzMzPzP5qZmZmZmQlAZmZmZmZmBkAAAAAAAAAAQAAAAAAAABBA",
+        "shape": "3, 3"
+      },
+      "aaxis": {
+        "smoothing": 1,
+        "title": {
+          "text": "A axis<br>title"
+        },
+        "color": "red"
+      },
+      "baxis": {
+        "smoothing": 1,
+        "title": {
+          "text": "B axis<br>title"
+        }
+      },
+      "xaxis": "x2",
+      "yaxis": "y",
+      "cheaterslope": -10
+    },
+    {
+      "type": "carpet",
+      "carpet": "c3",
+      "a": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "b": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAACamZmZmZnpPwAAAAAAAABAMzMzMzMz8z8AAAAAAAAAQJqZmZmZmQlAAAAAAAAAAEBmZmZmZmYGQAAAAAAAABBA",
+        "shape": "3, 3"
+      },
+      "aaxis": {
+        "smoothing": 1,
+        "title": {
+          "text": "A axis<br>title"
+        },
+        "color": "red"
+      },
+      "baxis": {
+        "smoothing": 1,
+        "title": {
+          "text": "B axis<br>title"
+        }
+      },
+      "xaxis": "x",
+      "yaxis": "y2",
+      "cheaterslope": -0.3
+    },
+    {
+      "type": "carpet",
+      "carpet": "c4",
+      "a": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "b": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "mpmZmZmZ6T8AAAAAAAAAAAAAAAAAAABAAAAAAAAAAEAzMzMzMzPzP5qZmZmZmQlAZmZmZmZmBkAAAAAAAAAAQAAAAAAAABBA",
+        "shape": "3, 3"
+      },
+      "aaxis": {
+        "smoothing": 1,
+        "title": {
+          "text": "A axis<br>title"
+        },
+        "color": "red"
+      },
+      "baxis": {
+        "smoothing": 1,
+        "title": {
+          "text": "B axis<br>title"
+        }
+      },
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "cheaterslope": -0.3
+    },
+    {
+      "type": "carpet",
+      "carpet": "c5",
+      "a": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "b": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAACamZmZmZnpPwAAAAAAAABAMzMzMzMz8z8AAAAAAAAAQJqZmZmZmQlAAAAAAAAAAEBmZmZmZmYGQAAAAAAAABBA",
+        "shape": "3, 3"
+      },
+      "aaxis": {
+        "smoothing": 1,
+        "title": {
+          "text": "A axis<br>title"
+        },
+        "color": "red"
+      },
+      "baxis": {
+        "smoothing": 1,
+        "title": {
+          "text": "B axis<br>title"
+        }
+      },
+      "xaxis": "x",
+      "yaxis": "y3",
+      "cheaterslope": 0
+    },
+    {
+      "type": "carpet",
+      "carpet": "c6",
+      "a": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "b": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "mpmZmZmZ6T8AAAAAAAAAAAAAAAAAAABAAAAAAAAAAEAzMzMzMzPzP5qZmZmZmQlAZmZmZmZmBkAAAAAAAAAAQAAAAAAAABBA",
+        "shape": "3, 3"
+      },
+      "aaxis": {
+        "smoothing": 1,
+        "title": {
+          "text": "A axis<br>title"
+        },
+        "color": "red"
+      },
+      "baxis": {
+        "smoothing": 1,
+        "title": {
+          "text": "B axis<br>title"
+        }
+      },
+      "xaxis": "x2",
+      "yaxis": "y3",
+      "cheaterslope": 0
+    },
+    {
+      "type": "carpet",
+      "carpet": "c7",
+      "a": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "b": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAACamZmZmZnpPwAAAAAAAABAMzMzMzMz8z8AAAAAAAAAQJqZmZmZmQlAAAAAAAAAAEBmZmZmZmYGQAAAAAAAABBA",
+        "shape": "3, 3"
+      },
+      "aaxis": {
+        "smoothing": 1,
+        "title": {
+          "text": "A axis<br>title"
+        },
+        "color": "red"
+      },
+      "baxis": {
+        "smoothing": 1,
+        "title": {
+          "text": "B axis<br>title"
+        }
+      },
+      "xaxis": "x",
+      "yaxis": "y4",
+      "cheaterslope": 0.3
+    },
+    {
+      "type": "carpet",
+      "carpet": "c8",
+      "a": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "b": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "mpmZmZmZ6T8AAAAAAAAAAAAAAAAAAABAAAAAAAAAAEAzMzMzMzPzP5qZmZmZmQlAZmZmZmZmBkAAAAAAAAAAQAAAAAAAABBA",
+        "shape": "3, 3"
+      },
+      "aaxis": {
+        "smoothing": 1,
+        "title": {
+          "text": "A axis<br>title"
+        },
+        "color": "red"
+      },
+      "baxis": {
+        "smoothing": 1,
+        "title": {
+          "text": "B axis<br>title"
+        }
+      },
+      "xaxis": "x2",
+      "yaxis": "y4",
+      "cheaterslope": 0.3
+    },
+    {
+      "type": "carpet",
+      "carpet": "c9",
+      "a": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "b": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAACamZmZmZnpPwAAAAAAAABAMzMzMzMz8z8AAAAAAAAAQJqZmZmZmQlAAAAAAAAAAEBmZmZmZmYGQAAAAAAAABBA",
+        "shape": "3, 3"
+      },
+      "aaxis": {
+        "smoothing": 1,
+        "title": {
+          "text": "A axis<br>title"
+        },
+        "color": "red"
+      },
+      "baxis": {
+        "smoothing": 1,
+        "title": {
+          "text": "B axis<br>title"
+        }
+      },
+      "xaxis": "x",
+      "yaxis": "y5",
+      "cheaterslope": 10
+    },
+    {
+      "type": "carpet",
+      "carpet": "c10",
+      "a": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "b": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "mpmZmZmZ6T8AAAAAAAAAAAAAAAAAAABAAAAAAAAAAEAzMzMzMzPzP5qZmZmZmQlAZmZmZmZmBkAAAAAAAAAAQAAAAAAAABBA",
+        "shape": "3, 3"
+      },
+      "aaxis": {
+        "smoothing": 1,
+        "title": {
+          "text": "A axis<br>title"
+        },
+        "color": "red"
+      },
+      "baxis": {
+        "smoothing": 1,
+        "title": {
+          "text": "B axis<br>title"
+        }
+      },
+      "xaxis": "x2",
+      "yaxis": "y5",
+      "cheaterslope": 10
+    }
+  ],
+  "layout": {
+    "title": {
+      "text": "Cheaterslope with titles"
+    },
+    "width": 600,
+    "height": 800,
+    "dragmode": "pan",
+    "margin": {
+      "t": 60,
+      "r": 30,
+      "b": 30,
+      "l": 30
+    },
+    "yaxis": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAABSuB6F61HIPw=="
+      },
+      "zeroline": false,
+      "range": [
+        -2,
+        5
+      ]
+    },
+    "yaxis2": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "4XoUrkfhyj/2KFyPwvXYPw=="
+      },
+      "zeroline": false,
+      "range": [
+        -2,
+        5
+      ]
+    },
+    "yaxis3": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "PQrXo3A92j/hehSuR+HiPw=="
+      },
+      "zeroline": false,
+      "range": [
+        -2,
+        5
+      ]
+    },
+    "yaxis4": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "hetRuB6F4z9I4XoUrkfpPw=="
+      },
+      "zeroline": false,
+      "range": [
+        -2,
+        5
+      ]
+    },
+    "yaxis5": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "7FG4HoXr6T8AAAAAAADwPw=="
+      },
+      "zeroline": false,
+      "range": [
+        -2,
+        5
+      ]
+    },
+    "xaxis": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAABcj8L1KFzfPw=="
+      },
+      "range": [
+        -0.5,
+        1.2
+      ]
+    },
+    "xaxis2": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "UrgehetR4D8AAAAAAADwPw=="
+      },
+      "range": [
+        -0.5,
+        1.2
+      ]
+    },
+    "annotations": [
+      {
+        "x": 0,
+        "y": 4.5,
+        "text": "slope: -10",
+        "align": "left",
+        "xref": "x",
+        "yref": "y",
+        "showarrow": false,
+        "font": {
+          "size": 14
+        }
+      },
+      {
+        "x": 0,
+        "align": "left",
+        "y": 4.5,
+        "xref": "x",
+        "yref": "y2",
+        "text": "slope: -0.3",
+        "showarrow": false,
+        "font": {
+          "size": 14
+        }
+      },
+      {
+        "x": 0,
+        "y": 4.5,
+        "align": "left",
+        "xref": "x",
+        "yref": "y3",
+        "text": "slope: 0",
+        "showarrow": false,
+        "font": {
+          "size": 14
+        }
+      },
+      {
+        "x": 0,
+        "y": 4.5,
+        "align": "left",
+        "xref": "x",
+        "yref": "y4",
+        "text": "slope: 0.3",
+        "showarrow": false,
+        "font": {
+          "size": 14
+        }
+      },
+      {
+        "x": 0,
+        "y": 4.5,
+        "align": "left",
+        "xref": "x",
+        "yref": "y5",
+        "text": "slope: 10",
+        "showarrow": false,
+        "font": {
+          "size": 14
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "data": [
+    {
+      "type": "bar",
+      "x": {
+        "dtype": "i4",
+        "bdata": "5wMAAIcTAAAnIwAAxzIAAGdCAAAHUgAAp2EAAEdxAADngAAAh5AAACegAADHrwAA"
+      },
+      "texttemplate": "%{x}",
+      "insidetextanchor": "end",
+      "textangle": 15,
+      "textfont": {
+        "size": 16
+      }
+    }
+  ],
+  "layout": {
+    "width": 300,
+    "height": 600,
+    "uniformtext": {
+      "mode": "hide"
+    },
+    "xaxis": {
+      "autorange": "reversed"
+    },
+    "yaxis": {
+      "autorange": "reversed"
+    }
+  }
+}

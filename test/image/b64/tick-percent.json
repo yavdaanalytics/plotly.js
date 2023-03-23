@@ -1,0 +1,104 @@
+{
+  "data": [
+    {
+      "type": "scatter",
+      "y": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAA8D8AAAAAAAAAAAAAAAAAAOA/"
+      }
+    },
+    {
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "type": "scatter",
+      "y": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAA8D8AAAAAAAAAAAAAAAAAAOA/"
+      }
+    },
+    {
+      "xaxis": "x3",
+      "yaxis": "y3",
+      "type": "scatter",
+      "y": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAA8D8AAAAAAAAAAAAAAAAAAOA/"
+      }
+    },
+    {
+      "xaxis": "x4",
+      "yaxis": "y4",
+      "type": "scatter",
+      "y": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAA8D8AAAAAAAAAAAAAAAAAAOA/"
+      }
+    }
+  ],
+  "layout": {
+    "width": 800,
+    "height": 800,
+    "xaxis": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAAC4HoXrUbjePw=="
+      }
+    },
+    "xaxis2": {
+      "anchor": "y2",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "pHA9Ctej4D8AAAAAAADwPw=="
+      }
+    },
+    "xaxis3": {
+      "anchor": "y3",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAAC4HoXrUbjePw=="
+      }
+    },
+    "xaxis4": {
+      "autorange": "reversed",
+      "anchor": "y4",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "pHA9Ctej4D8AAAAAAADwPw=="
+      }
+    },
+    "yaxis": {
+      "tickformat": "p",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAAC4HoXrUbjePw=="
+      }
+    },
+    "yaxis2": {
+      "tickformat": "p",
+      "dtick": 0.1,
+      "anchor": "x2",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "pHA9Ctej4D8AAAAAAADwPw=="
+      }
+    },
+    "yaxis3": {
+      "tickformat": "p",
+      "dtick": 0.3,
+      "anchor": "x3",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "pHA9Ctej4D8AAAAAAADwPw=="
+      }
+    },
+    "yaxis4": {
+      "tickformat": "p",
+      "dtick": 0.05,
+      "anchor": "x4",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAAC4HoXrUbjePw=="
+      }
+    }
+  }
+}

@@ -1,0 +1,300 @@
+{
+  "data": [
+    {
+      "type": "scatterternary",
+      "mode": "lines",
+      "a": {
+        "dtype": "i1",
+        "bdata": "AAoA"
+      },
+      "b": {
+        "dtype": "i1",
+        "bdata": "ZFpa"
+      },
+      "c": {
+        "dtype": "i1",
+        "bdata": "AAAK"
+      },
+      "line": {
+        "color": "#c00"
+      }
+    },
+    {
+      "type": "scatterternary",
+      "mode": "lines",
+      "a": {
+        "dtype": "i1",
+        "bdata": "AAoPAA=="
+      },
+      "b": {
+        "dtype": "i1",
+        "bdata": "WlpVRg=="
+      },
+      "c": {
+        "dtype": "i1",
+        "bdata": "CgAAHg=="
+      },
+      "line": {
+        "color": "#c00"
+      }
+    },
+    {
+      "type": "scatterternary",
+      "mode": "lines",
+      "a": {
+        "dtype": "i1",
+        "bdata": "AA8UFAUFAA=="
+      },
+      "b": {
+        "dtype": "i1",
+        "bdata": "RlVQNTUtMg=="
+      },
+      "c": {
+        "dtype": "i1",
+        "bdata": "HgAAICoyMg=="
+      },
+      "line": {
+        "color": "#c00"
+      }
+    },
+    {
+      "type": "scatterternary",
+      "mode": "lines",
+      "a": {
+        "dtype": "i1",
+        "bdata": "FCMjHBQ="
+      },
+      "b": {
+        "dtype": "i1",
+        "bdata": "UEEtLTU="
+      },
+      "c": {
+        "dtype": "i1",
+        "bdata": "AAAUGyA="
+      },
+      "line": {
+        "color": "#c00"
+      }
+    },
+    {
+      "type": "scatterternary",
+      "mode": "lines",
+      "a": {
+        "dtype": "i1",
+        "bdata": "IyM3"
+      },
+      "b": {
+        "dtype": "i1",
+        "bdata": "QS0t"
+      },
+      "c": {
+        "dtype": "i1",
+        "bdata": "ABQA"
+      },
+      "line": {
+        "color": "#c00"
+      }
+    },
+    {
+      "type": "scatterternary",
+      "mode": "lines",
+      "a": {
+        "dtype": "i1",
+        "bdata": "N2Q8KCg="
+      },
+      "b": {
+        "dtype": "i1",
+        "bdata": "LQAAFC0="
+      },
+      "c": {
+        "dtype": "i1",
+        "bdata": "AAAoKA8="
+      },
+      "line": {
+        "color": "#c00"
+      }
+    },
+    {
+      "type": "scatterternary",
+      "mode": "lines",
+      "a": {
+        "dtype": "i1",
+        "bdata": "KCgcHA=="
+      },
+      "b": {
+        "dtype": "i1",
+        "bdata": "LRQULQ=="
+      },
+      "c": {
+        "dtype": "i1",
+        "bdata": "Dyg0Gw=="
+      },
+      "line": {
+        "color": "#c00"
+      }
+    },
+    {
+      "type": "scatterternary",
+      "mode": "lines",
+      "a": {
+        "dtype": "i1",
+        "bdata": "PCgo"
+      },
+      "b": {
+        "dtype": "i1",
+        "bdata": "AAAU"
+      },
+      "c": {
+        "dtype": "i1",
+        "bdata": "KDwo"
+      },
+      "line": {
+        "color": "#c00"
+      }
+    },
+    {
+      "type": "scatterternary",
+      "mode": "lines",
+      "a": {
+        "dtype": "i1",
+        "bdata": "HBwoKA=="
+      },
+      "b": {
+        "dtype": "i1",
+        "bdata": "ABQUAA=="
+      },
+      "c": {
+        "dtype": "i1",
+        "bdata": "SDQoPA=="
+      },
+      "line": {
+        "color": "#c00"
+      }
+    },
+    {
+      "type": "scatterternary",
+      "mode": "lines",
+      "a": {
+        "dtype": "i1",
+        "bdata": "ABwcDAwA"
+      },
+      "b": {
+        "dtype": "i1",
+        "bdata": "MhYAAAgU"
+      },
+      "c": {
+        "dtype": "i1",
+        "bdata": "MjJIWFBQ"
+      },
+      "line": {
+        "color": "#c00"
+      }
+    },
+    {
+      "type": "scatterternary",
+      "mode": "lines",
+      "a": {
+        "dtype": "i1",
+        "bdata": "AAAMDA=="
+      },
+      "b": {
+        "dtype": "i1",
+        "bdata": "ABQIAA=="
+      },
+      "c": {
+        "dtype": "i1",
+        "bdata": "ZFBQWA=="
+      },
+      "line": {
+        "color": "#c00"
+      }
+    },
+    {
+      "type": "scatterternary",
+      "mode": "lines",
+      "a": {
+        "dtype": "i1",
+        "bdata": "HBwFBRQ="
+      },
+      "b": {
+        "dtype": "i1",
+        "bdata": "LRYtNTU="
+      },
+      "c": {
+        "dtype": "i1",
+        "bdata": "GzIyKiA="
+      },
+      "line": {
+        "color": "#c00"
+      }
+    }
+  ],
+  "layout": {
+    "ternary": {
+      "aaxis": {
+        "title": {
+          "text": "Clay"
+        },
+        "min": 0.01,
+        "linewidth": 2,
+        "ticks": "outside",
+        "ticklen": 8,
+        "showgrid": true,
+        "tickvals": {
+          "dtype": "f8",
+          "bdata": "mpmZmZmZyT+amZmZmZnZPzMzMzMzM+M/mpmZmZmZ6T8="
+        },
+        "ticktext": [
+          "20%",
+          "40%",
+          "60%",
+          "80%"
+        ]
+      },
+      "baxis": {
+        "title": {
+          "text": "Sand"
+        },
+        "min": 0.01,
+        "linewidth": 2,
+        "ticks": "outside",
+        "ticklen": 8,
+        "showgrid": true,
+        "tickvals": {
+          "dtype": "f8",
+          "bdata": "mpmZmZmZyT+amZmZmZnZPzMzMzMzM+M/mpmZmZmZ6T8="
+        },
+        "ticktext": [
+          "20%",
+          "40%",
+          "60%",
+          "80%"
+        ]
+      },
+      "caxis": {
+        "title": {
+          "text": "Silt"
+        },
+        "min": 0.01,
+        "linewidth": 2,
+        "ticks": "outside",
+        "ticklen": 8,
+        "showgrid": true,
+        "tickvals": {
+          "dtype": "f8",
+          "bdata": "mpmZmZmZyT+amZmZmZnZPzMzMzMzM+M/mpmZmZmZ6T8="
+        },
+        "ticktext": [
+          "20%",
+          "40%",
+          "60%",
+          "80%"
+        ]
+      }
+    },
+    "showlegend": false,
+    "width": 700,
+    "height": 450,
+    "autosize": false
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "x": [
+        "2019-04-01",
+        "2019-04-02",
+        "2019-04-03"
+      ],
+      "y": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "type": "scatter"
+    },
+    {
+      "x": [
+        "2019-04-06",
+        "2019-04-07",
+        "2019-04-08"
+      ],
+      "y": {
+        "dtype": "i1",
+        "bdata": "BAUG"
+      },
+      "xaxis": "x2",
+      "type": "scatter"
+    }
+  ],
+  "layout": {
+    "xaxis": {
+      "autorange": true,
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAADNzMzMzMzcPw=="
+      },
+      "type": "date"
+    },
+    "xaxis2": {
+      "autorange": true,
+      "domain": {
+        "dtype": "f8",
+        "bdata": "mpmZmZmZ4T8AAAAAAADwPw=="
+      },
+      "matches": "x",
+      "type": "date"
+    }
+  }
+}

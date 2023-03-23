@@ -1,0 +1,421 @@
+{
+  "data": [
+    {
+      "type": "sankey",
+      "domain": {
+        "x": {
+          "dtype": "i1",
+          "bdata": "AAE="
+        },
+        "y": {
+          "dtype": "i1",
+          "bdata": "AAE="
+        }
+      },
+      "orientation": "h",
+      "valueformat": ".0f",
+      "valuesuffix": "TWh",
+      "node": {
+        "pad": 15,
+        "thickness": 15,
+        "line": {
+          "color": "black",
+          "width": 0.5
+        },
+        "label": [
+          "Agricultural 'waste'",
+          "Bio-conversion",
+          "Liquid",
+          "Losses",
+          "Solid",
+          "Gas",
+          "Biofuel imports",
+          "Biomass imports",
+          "Coal imports",
+          "Coal",
+          "Coal reserves",
+          "District heating",
+          "Industry",
+          "Heating and cooling - commercial",
+          "Heating and cooling - homes",
+          "Electricity grid",
+          "Over generation / exports",
+          "H2 conversion",
+          "Road transport",
+          "Agriculture",
+          "Rail transport",
+          "Lighting & appliances - commercial",
+          "Lighting & appliances - homes",
+          "Gas imports",
+          "Ngas",
+          "Gas reserves",
+          "Thermal generation",
+          "Geothermal",
+          "H2",
+          "Hydro",
+          "International shipping",
+          "Domestic aviation",
+          "International aviation",
+          "National navigation",
+          "Marine algae",
+          "Nuclear",
+          "Oil imports",
+          "Oil",
+          "Oil reserves",
+          "Other waste",
+          "Pumped heat",
+          "Solar PV",
+          "Solar Thermal",
+          "Solar",
+          "Tidal",
+          "UK land based bioenergy",
+          "Wave",
+          "Wind"
+        ],
+        "color": [
+          "rgba(31, 119, 180, 0.8)",
+          "rgba(255, 127, 14, 0.8)",
+          "rgba(44, 160, 44, 0.8)",
+          "rgba(214, 39, 40, 0.8)",
+          "rgba(148, 103, 189, 0.8)",
+          "rgba(140, 86, 75, 0.8)",
+          "rgba(227, 119, 194, 0.8)",
+          "rgba(127, 127, 127, 0.8)",
+          "rgba(188, 189, 34, 0.8)",
+          "rgba(23, 190, 207, 0.8)",
+          "rgba(31, 119, 180, 0.8)",
+          "rgba(255, 127, 14, 0.8)",
+          "rgba(44, 160, 44, 0.8)",
+          "rgba(214, 39, 40, 0.8)",
+          "rgba(148, 103, 189, 0.8)",
+          "rgba(140, 86, 75, 0.8)",
+          "rgba(227, 119, 194, 0.8)",
+          "rgba(127, 127, 127, 0.8)",
+          "rgba(188, 189, 34, 0.8)",
+          "rgba(23, 190, 207, 0.8)",
+          "rgba(31, 119, 180, 0.8)",
+          "rgba(255, 127, 14, 0.8)",
+          "rgba(44, 160, 44, 0.8)",
+          "rgba(214, 39, 40, 0.8)",
+          "rgba(148, 103, 189, 0.8)",
+          "rgba(140, 86, 75, 0.8)",
+          "rgba(227, 119, 194, 0.8)",
+          "rgba(127, 127, 127, 0.8)",
+          "rgba(188, 189, 34, 0.8)",
+          "rgba(23, 190, 207, 0.8)",
+          "rgba(31, 119, 180, 0.8)",
+          "rgba(255, 127, 14, 0.8)",
+          "rgba(44, 160, 44, 0.8)",
+          "rgba(214, 39, 40, 0.8)",
+          "rgba(148, 103, 189, 0.8)",
+          "magenta",
+          "rgba(227, 119, 194, 0.8)",
+          "rgba(127, 127, 127, 0.8)",
+          "rgba(188, 189, 34, 0.8)",
+          "rgba(23, 190, 207, 0.8)",
+          "rgba(31, 119, 180, 0.8)",
+          "rgba(255, 127, 14, 0.8)",
+          "rgba(44, 160, 44, 0.8)",
+          "rgba(214, 39, 40, 0.8)",
+          "rgba(148, 103, 189, 0.8)",
+          "rgba(140, 86, 75, 0.8)",
+          "rgba(227, 119, 194, 0.8)",
+          "rgba(127, 127, 127, 0.8)"
+        ]
+      },
+      "link": {
+        "source": {
+          "dtype": "i1",
+          "bdata": "AAEBAQEGBwgKCQsLCw8PDw8PDw8PDw8PFxkFBQUFBRsRERwdAgICAgICAgIiGCMjJCYlJycoKCkqKysEBAQaGhosLS4vIyM="
+        },
+        "target": {
+          "dtype": "i1",
+          "bdata": "AQIDBAUCBAkJBAwNDhAOEQwSEw0DFBUWGBgNAxoTDA8cAxIPDB4SHyATIRQBBRoaJSUCBAEODQ8OKikTGgwPAwsPAQ8PGho="
+        },
+        "value": {
+          "dtype": "f8",
+          "bdata": "LbKd76cuX0C0yHa+nxrjP+kmMQis3DpA/tR46SaFcUDwp8ZLN0lUQAAAAAAAgEFAAAAAAACAQUCDwMqhRTYnQOxRuB6F+09ABoGVQ4vkUkC6SQwCK0clQOF6FK5HgTZAZDvfT40XR0CiRbbz/RxaQFg5tMh2blxApHA9CtcjO0BxPQrXo2J1QLx0kxgE5kJA2c73U+OlEUDn+6nx0m1EQJzEILByWExAwcqhRbZzH0CNl24Sg4BWQFYOLbKdX1dAeekmMQhcRED0/dR46Y5UQFCNl24Sg8A/0SLb+X5q9j+Nl24Sg/xiQPhT46WbxABACtejcD1KSEBaZDvfTw0cQBKDwMqh5TRAK4cW2c73GEASg8DKoeU0QHsUrkfh+htATmIQWDlEXkCuR+F6FBZgQB+F61G4+mBA0SLb+X7qLEAGgZVDi8hpQB+F61G4Hg1AlkOLbOebQED0/dR46aYRQAAAAAAAwCxAsHJoke28XkAAAAAAAEB/QJ7vp8ZLf2FAO99PjZeEf0CiRbbz/exaQFK4HoXrH4NAQmDl0CJLTECkcD0K13NTQEa28/3UIGhAXrpJDAKrUUAX2c73U/NNQBfZzvdTQzNAF9nO91NDM0AX2c73U/NNQNNNYhBYOew/UrgehesBeUCTGARWDj1HQGiR7Xw/bIBAeekmMQiZiECTGARWDtVTQIGVQ4ts5yJAuB6F61HAZkAX2c73UwMzQGDl0CLbFXJAAAAAAAAAWUAAAAAAAABZQA=="
+        },
+        "color": [
+          "rgba(0,0,96,0.2)",
+          "rgba(0,0,96,0.2)",
+          "rgba(0,0,96,0.2)",
+          "rgba(0,0,96,0.2)",
+          "rgba(0,0,96,0.2)",
+          "rgba(0,0,96,0.2)",
+          "rgba(0,0,96,0.2)",
+          "rgba(0,0,96,0.2)",
+          "rgba(0,0,96,0.2)",
+          "rgba(0,0,96,0.2)",
+          "rgba(0,0,96,0.2)",
+          "rgba(0,0,96,0.2)",
+          "rgba(0,0,96,0.2)",
+          "rgba(0,0,96,0.2)",
+          "rgba(0,0,96,0.2)",
+          "rgba(0,0,96,0.2)",
+          "rgba(0,0,96,0.2)",
+          "rgba(0,0,96,0.2)",
+          "rgba(0,0,96,0.2)",
+          "rgba(0,0,96,0.2)",
+          "rgba(0,0,96,0.2)",
+          "rgba(0,0,96,0.2)",
+          "rgba(0,0,96,0.2)",
+          "rgba(0,0,96,0.2)",
+          "rgba(0,0,96,0.2)",
+          "rgba(0,0,96,0.2)",
+          "rgba(0,0,96,0.2)",
+          "rgba(0,0,96,0.2)",
+          "rgba(0,0,96,0.2)",
+          "rgba(0,0,96,0.2)",
+          "rgba(0,0,96,0.2)",
+          "rgba(0,0,96,0.2)",
+          "rgba(0,0,96,0.2)",
+          "rgba(0,0,96,0.2)",
+          "rgba(0,0,96,0.2)",
+          "rgba(0,0,96,0.2)",
+          "rgba(0,0,96,0.2)",
+          "rgba(0,0,96,0.2)",
+          "rgba(0,0,96,0.2)",
+          "rgba(0,0,96,0.2)",
+          "rgba(0,0,96,0.2)",
+          "rgba(0,0,96,0.2)",
+          "rgba(0,0,96,0.2)",
+          "rgba(0,0,96,0.2)",
+          "rgba(0,0,96,0.2)",
+          "rgba(0,0,96,0.2)",
+          "rgba(33,102,172,0.35)",
+          "rgba(178,24,43,0.35)",
+          "rgba(0,0,96,0.2)",
+          "rgba(0,0,96,0.2)",
+          "rgba(0,0,96,0.2)",
+          "rgba(0,0,96,0.2)",
+          "rgba(0,0,96,0.2)",
+          "rgba(0,0,96,0.2)",
+          "rgba(0,0,96,0.2)",
+          "rgba(0,0,96,0.2)",
+          "rgba(0,0,96,0.2)",
+          "rgba(0,0,96,0.2)",
+          "rgba(0,0,96,0.2)",
+          "rgba(0,0,96,0.2)",
+          "rgba(0,0,96,0.2)",
+          "rgba(0,0,96,0.2)",
+          "rgba(0,0,96,0.2)",
+          "rgba(0,0,96,0.2)",
+          "rgba(0,0,96,0.2)",
+          "rgba(0,0,96,0.2)",
+          "rgba(0,0,96,0.2)",
+          "rgba(0,0,96,0.2)",
+          "rgba(0,0,96,0.2)",
+          "lightgreen",
+          "goldenrod"
+        ],
+        "label": [
+          "stream 1",
+          "",
+          "",
+          "",
+          "stream 1",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "stream 1",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Old generation plant (made-up)",
+          "New generation plant (made-up)",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    }
+  ],
+  "layout": {
+    "title": {
+      "text": "Energy forecast for 2050, UK \u2014 Department of Energy & Climate Change<br>Imperfect copy of <a href='https://bost.ocks.org/mike/sankey/'>Mike Bostock's example</a><br>with numerous <a href='https://plotly.com/javascript/'>Plotly</a> features"
+    },
+    "width": 1118,
+    "height": 772,
+    "font": {
+      "size": 10
+    },
+    "updatemenus": [
+      {
+        "y": 1,
+        "buttons": [
+          {
+            "label": "Light",
+            "method": "relayout",
+            "args": [
+              "paper_bgcolor",
+              "white"
+            ]
+          },
+          {
+            "label": "Dark",
+            "method": "relayout",
+            "args": [
+              "paper_bgcolor",
+              "black"
+            ]
+          }
+        ]
+      },
+      {
+        "y": 0.9,
+        "buttons": [
+          {
+            "label": "Thick",
+            "method": "restyle",
+            "args": [
+              "node.thickness",
+              15
+            ]
+          },
+          {
+            "label": "Thin",
+            "method": "restyle",
+            "args": [
+              "node.thickness",
+              8
+            ]
+          }
+        ]
+      },
+      {
+        "y": 0.8,
+        "buttons": [
+          {
+            "label": "Small gap",
+            "method": "restyle",
+            "args": [
+              "node.pad",
+              15
+            ]
+          },
+          {
+            "label": "Large gap",
+            "method": "restyle",
+            "args": [
+              "node.pad",
+              20
+            ]
+          }
+        ]
+      },
+      {
+        "y": 0.7,
+        "buttons": [
+          {
+            "label": "Snap",
+            "method": "restyle",
+            "args": [
+              "arrangement",
+              "snap"
+            ]
+          },
+          {
+            "label": "Perpendicular",
+            "method": "restyle",
+            "args": [
+              "arrangement",
+              "perpendicular"
+            ]
+          },
+          {
+            "label": "Freeform",
+            "method": "restyle",
+            "args": [
+              "arrangement",
+              "freeform"
+            ]
+          },
+          {
+            "label": "Fixed",
+            "method": "restyle",
+            "args": [
+              "arrangement",
+              "fixed"
+            ]
+          }
+        ]
+      },
+      {
+        "y": 0.6,
+        "buttons": [
+          {
+            "label": "Horizontal",
+            "method": "restyle",
+            "args": [
+              "orientation",
+              "h"
+            ]
+          },
+          {
+            "label": "Vertical",
+            "method": "restyle",
+            "args": [
+              "orientation",
+              "v"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

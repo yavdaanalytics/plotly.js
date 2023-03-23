@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "type": "violin",
+      "points": "all",
+      "pointpos": -0.4,
+      "jitter": 0,
+      "x": {
+        "dtype": "i1",
+        "bdata": "AAUHCA=="
+      },
+      "side": "positive",
+      "line": {
+        "color": "black"
+      },
+      "fillcolor": "#8dd3c7",
+      "opacity": 0.6,
+      "y0": 0.0
+    },
+    {
+      "type": "violin",
+      "points": "all",
+      "pointpos": -0.1,
+      "jitter": 0,
+      "x": {
+        "dtype": "i1",
+        "bdata": "FBkbHA=="
+      },
+      "side": "positive",
+      "line": {
+        "color": "black"
+      },
+      "fillcolor": "#d3c78d",
+      "opacity": 0.6,
+      "y0": 0.0
+    }
+  ],
+  "layout": {
+    "title": {
+      "text": "Violins - only positive sided"
+    },
+    "legend": {
+      "x": 0
+    },
+    "xaxis": {
+      "zeroline": false
+    },
+    "yaxis": {
+      "dtick": 0.1,
+      "gridcolor": "black"
+    }
+  }
+}

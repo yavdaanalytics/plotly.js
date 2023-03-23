@@ -1,0 +1,51 @@
+{
+  "data": [
+    {
+      "type": "surface",
+      "connectgaps": true,
+      "x": {
+        "dtype": "f8",
+        "bdata": "mpmZmZmZuT+amZmZmZnJPzMzMzMzM9M/mpmZmZmZ2T8="
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AAECAwQ="
+      },
+      "z": [
+        [
+          1001,
+          1002,
+          1001,
+          null,
+          null
+        ],
+        [
+          1002,
+          1001,
+          null,
+          1002,
+          null
+        ],
+        [
+          1002,
+          null,
+          1001,
+          1001
+        ],
+        [
+          null,
+          null,
+          1000,
+          null
+        ]
+      ]
+    }
+  ],
+  "layout": {
+    "title": {
+      "text": "Surface plot with interpolated gaps<br>(connectgaps: true)"
+    },
+    "width": 600,
+    "height": 400
+  }
+}

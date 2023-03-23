@@ -1,0 +1,93 @@
+{
+  "data": [
+    {
+      "values": {
+        "dtype": "i1",
+        "bdata": "AwEFAgQ="
+      },
+      "type": "pie",
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAAAACamZmZmZnZPw=="
+        },
+        "y": {
+          "dtype": "f8",
+          "bdata": "MzMzMzMz4z8AAAAAAADwPw=="
+        }
+      },
+      "sort": true,
+      "direction": "counterclockwise",
+      "name": "sorted ccw (default)"
+    },
+    {
+      "values": {
+        "dtype": "i1",
+        "bdata": "AwEFAgQ="
+      },
+      "type": "pie",
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "MzMzMzMz4z8AAAAAAADwPw=="
+        },
+        "y": {
+          "dtype": "f8",
+          "bdata": "MzMzMzMz4z8AAAAAAADwPw=="
+        }
+      },
+      "sort": true,
+      "direction": "clockwise",
+      "name": "sorted cw"
+    },
+    {
+      "values": {
+        "dtype": "i1",
+        "bdata": "AwEFAgQ="
+      },
+      "type": "pie",
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAAAACamZmZmZnZPw=="
+        },
+        "y": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAAAACamZmZmZnZPw=="
+        }
+      },
+      "sort": false,
+      "direction": "counterclockwise",
+      "name": "unsorted ccw"
+    },
+    {
+      "values": {
+        "dtype": "i1",
+        "bdata": "AwEFAgQ="
+      },
+      "type": "pie",
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "MzMzMzMz4z8AAAAAAADwPw=="
+        },
+        "y": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAAAACamZmZmZnZPw=="
+        }
+      },
+      "sort": false,
+      "direction": "clockwise",
+      "name": "unsorted cw"
+    }
+  ],
+  "layout": {
+    "height": 500,
+    "width": 600,
+    "uniformtext": {
+      "mode": "hide",
+      "minsize": 16
+    },
+    "showlegend": false
+  }
+}

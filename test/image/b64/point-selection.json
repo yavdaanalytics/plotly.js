@@ -1,0 +1,128 @@
+{
+  "data": [
+    {
+      "mode": "lines+markers+text",
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQIDBAUG"
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AQMCBAUH"
+      },
+      "ids": [
+        "a",
+        "b",
+        "c",
+        "d",
+        "e",
+        "f"
+      ],
+      "text": [
+        "a",
+        "b",
+        "c",
+        "d",
+        "e",
+        "f"
+      ],
+      "marker": {
+        "color": "#67353E",
+        "size": 12
+      },
+      "textposition": "top left",
+      "selectedpoints": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "selected": {
+        "marker": {
+          "color": "blue",
+          "size": 20
+        }
+      },
+      "unselected": {
+        "marker": {
+          "color": "green",
+          "opacity": 0.5
+        }
+      },
+      "transforms": [
+        {
+          "type": "filter",
+          "target": "x",
+          "operation": "][",
+          "value": {
+            "dtype": "f8",
+            "bdata": "AAAAAAAADEAAAAAAAAASQA=="
+          }
+        }
+      ]
+    },
+    {
+      "mode": "lines+markers+text",
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQIDBAUG"
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "BgUGBQQD"
+      },
+      "ids": [
+        "a",
+        "b",
+        "c",
+        "d",
+        "e",
+        "f"
+      ],
+      "text": [
+        "a",
+        "b",
+        "c",
+        "d",
+        "e",
+        "f"
+      ],
+      "marker": {
+        "color": "#34ABA2",
+        "size": 12
+      },
+      "textposition": "top left",
+      "selectedpoints": [],
+      "selected": {
+        "marker": {
+          "color": "green"
+        }
+      },
+      "unselected": {
+        "marker": {
+          "color": "blue",
+          "opacity": 0.5
+        }
+      },
+      "transforms": [
+        {
+          "type": "filter",
+          "target": "x",
+          "operation": "][",
+          "value": {
+            "dtype": "f8",
+            "bdata": "AAAAAAAADEAAAAAAAAASQA=="
+          }
+        }
+      ]
+    }
+  ],
+  "layout": {
+    "dragmode": "lasso",
+    "legend": {
+      "x": 0,
+      "y": 1,
+      "xanchor": "left",
+      "yanchor": "bottom"
+    },
+    "width": 600
+  }
+}

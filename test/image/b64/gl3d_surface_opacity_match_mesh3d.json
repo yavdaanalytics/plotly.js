@@ -1,0 +1,127 @@
+{
+  "data": [
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "/wH/AQ=="
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "//8BAQ=="
+      },
+      "z": {
+        "dtype": "i1",
+        "bdata": "AAAAAA=="
+      },
+      "i": {
+        "dtype": "i1",
+        "bdata": "AAM="
+      },
+      "j": {
+        "dtype": "i1",
+        "bdata": "AQI="
+      },
+      "k": {
+        "dtype": "i1",
+        "bdata": "AwA="
+      },
+      "flatshading": true,
+      "lightposition": {
+        "x": 1000,
+        "y": 1000,
+        "z": 0
+      },
+      "color": "red",
+      "opacity": 0.5,
+      "type": "mesh3d",
+      "name": "mesh3d",
+      "scene": "scene"
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "/wAB"
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "/wAB"
+      },
+      "z": {
+        "dtype": "i1",
+        "bdata": "AAAAAAAAAAAA",
+        "shape": "3, 3"
+      },
+      "lightposition": {
+        "x": 1000,
+        "y": 1000,
+        "z": 0
+      },
+      "showscale": false,
+      "colorscale": [
+        [
+          0,
+          "red"
+        ],
+        [
+          1,
+          "red"
+        ]
+      ],
+      "opacity": 0.5,
+      "type": "surface",
+      "name": "surface",
+      "scene": "scene2"
+    }
+  ],
+  "layout": {
+    "title": {
+      "text": "surface and mesh3d with half opacity"
+    },
+    "width": 400,
+    "height": 600,
+    "scene": {
+      "aspectratio": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "camera": {
+        "projection": {
+          "type": "orthographic"
+        }
+      },
+      "domain": {
+        "x": {
+          "dtype": "i1",
+          "bdata": "AAE="
+        },
+        "y": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAAAAAAAAAAAADgPw=="
+        }
+      }
+    },
+    "scene2": {
+      "aspectratio": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "camera": {
+        "projection": {
+          "type": "orthographic"
+        }
+      },
+      "domain": {
+        "x": {
+          "dtype": "i1",
+          "bdata": "AAE="
+        },
+        "y": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAA4D8AAAAAAADwPw=="
+        }
+      }
+    }
+  }
+}

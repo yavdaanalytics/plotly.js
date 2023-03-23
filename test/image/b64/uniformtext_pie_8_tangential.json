@@ -1,0 +1,240 @@
+{
+  "data": [
+    {
+      "rotation": -360,
+      "values": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAHEDNzMzMzMzsP5qZmZmZmbk/"
+      },
+      "text": [
+        "L O N G",
+        "text",
+        "invisible"
+      ],
+      "type": "pie",
+      "textinfo": "text",
+      "insidetextorientation": "tangential",
+      "textposition": "inside",
+      "hole": 0.5,
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAAAAC4HoXrUbjOPw=="
+        },
+        "y": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAAAABcj8L1KFzfPw=="
+        }
+      }
+    },
+    {
+      "rotation": -360,
+      "values": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAHEDNzMzMzMzsP5qZmZmZmbk/"
+      },
+      "text": [
+        "L<br>O<br>N<br>G",
+        "text",
+        "invisible"
+      ],
+      "type": "pie",
+      "textinfo": "text",
+      "insidetextorientation": "tangential",
+      "textposition": "inside",
+      "hole": 0.5,
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAA0D9cj8L1KFzfPw=="
+        },
+        "y": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAAAABcj8L1KFzfPw=="
+        }
+      }
+    },
+    {
+      "rotation": 180,
+      "values": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAHEDNzMzMzMzsP5qZmZmZmbk/"
+      },
+      "text": [
+        "L O N G",
+        "text",
+        "invisible"
+      ],
+      "type": "pie",
+      "textinfo": "text",
+      "insidetextorientation": "tangential",
+      "textposition": "inside",
+      "hole": 0.5,
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAAAAC4HoXrUbjOPw=="
+        },
+        "y": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAA4D+uR+F6FK7vPw=="
+        }
+      }
+    },
+    {
+      "rotation": 180,
+      "values": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAHEDNzMzMzMzsP5qZmZmZmbk/"
+      },
+      "text": [
+        "L<br>O<br>N<br>G",
+        "text",
+        "invisible"
+      ],
+      "type": "pie",
+      "textinfo": "text",
+      "insidetextorientation": "tangential",
+      "textposition": "inside",
+      "hole": 0.5,
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAA0D9cj8L1KFzfPw=="
+        },
+        "y": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAA4D+uR+F6FK7vPw=="
+        }
+      }
+    },
+    {
+      "rotation": -270,
+      "values": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAHEDNzMzMzMzsP5qZmZmZmbk/"
+      },
+      "text": [
+        "L O N G",
+        "text",
+        "invisible"
+      ],
+      "type": "pie",
+      "textinfo": "text",
+      "insidetextorientation": "tangential",
+      "textposition": "inside",
+      "hole": 0.5,
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAA4D+uR+F6FK7nPw=="
+        },
+        "y": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAAAABcj8L1KFzfPw=="
+        }
+      }
+    },
+    {
+      "rotation": -270,
+      "values": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAHEDNzMzMzMzsP5qZmZmZmbk/"
+      },
+      "text": [
+        "L<br>O<br>N<br>G",
+        "text",
+        "invisible"
+      ],
+      "type": "pie",
+      "textinfo": "text",
+      "insidetextorientation": "tangential",
+      "textposition": "inside",
+      "hole": 0.5,
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAA6D+uR+F6FK7vPw=="
+        },
+        "y": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAAAABcj8L1KFzfPw=="
+        }
+      }
+    },
+    {
+      "rotation": 270,
+      "values": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAHEDNzMzMzMzsP5qZmZmZmbk/"
+      },
+      "text": [
+        "L O N G",
+        "text",
+        "invisible"
+      ],
+      "type": "pie",
+      "textinfo": "text",
+      "insidetextorientation": "tangential",
+      "textposition": "inside",
+      "hole": 0.5,
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAA4D+uR+F6FK7nPw=="
+        },
+        "y": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAA4D+uR+F6FK7vPw=="
+        }
+      }
+    },
+    {
+      "rotation": 270,
+      "values": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAHEDNzMzMzMzsP5qZmZmZmbk/"
+      },
+      "text": [
+        "L<br>O<br>N<br>G",
+        "text",
+        "invisible"
+      ],
+      "type": "pie",
+      "textinfo": "text",
+      "insidetextorientation": "tangential",
+      "textposition": "inside",
+      "hole": 0.5,
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAA6D+uR+F6FK7vPw=="
+        },
+        "y": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAA4D+uR+F6FK7vPw=="
+        }
+      }
+    }
+  ],
+  "layout": {
+    "width": 800,
+    "height": 500,
+    "margin": {
+      "t": 10,
+      "b": 10,
+      "l": 10,
+      "r": 10
+    },
+    "legend": {
+      "orientation": "h",
+      "title": {
+        "text": "pie uniform text<br>with <i>tangential</i> orientation<br>minsize=8"
+      }
+    },
+    "uniformtext": {
+      "mode": "hide",
+      "minsize": 8
+    }
+  }
+}

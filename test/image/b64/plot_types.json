@@ -1,0 +1,183 @@
+{
+  "data": [
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AgEC"
+      }
+    },
+    {
+      "type": "scatter3d",
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "z": {
+        "dtype": "i1",
+        "bdata": "AgEC"
+      }
+    },
+    {
+      "type": "scattergeo",
+      "mode": "markers+lines",
+      "lon": {
+        "dtype": "i1",
+        "bdata": "nABk"
+      },
+      "lat": {
+        "dtype": "i1",
+        "bdata": "0wAt"
+      }
+    },
+    {
+      "type": "pie",
+      "labels": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "values": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "H4XrUbge1T9xPQrXo3DlPw=="
+        },
+        "y": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAA4D8AAAAAAADwPw=="
+        }
+      }
+    },
+    {
+      "type": "scatterternary",
+      "a": {
+        "dtype": "i1",
+        "bdata": "AgEB"
+      },
+      "b": {
+        "dtype": "i1",
+        "bdata": "AQIB"
+      },
+      "c": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAA8D8AAAAAAADwP5SHhVrT/ABA"
+      }
+    }
+  ],
+  "layout": {
+    "xaxis": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAAAfhetRuB7VPw=="
+      },
+      "type": "linear",
+      "range": [
+        0.8719530783206721,
+        3.128046921679328
+      ],
+      "autorange": true
+    },
+    "yaxis": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAAAAAAAAAADgPw=="
+      },
+      "type": "linear",
+      "range": [
+        0.9202898550724637,
+        2.079710144927536
+      ],
+      "autorange": true
+    },
+    "xaxis2": {
+      "anchor": "y2",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "H4XrUbge1T9xPQrXo3DlPw=="
+      }
+    },
+    "yaxis2": {
+      "anchor": "x2",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "H4XrUbge1T9xPQrXo3DlPw=="
+      }
+    },
+    "scene": {
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAAAAAfhetRuB7VPw=="
+        },
+        "y": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAA4D8AAAAAAADwPw=="
+        }
+      },
+      "aspectratio": {
+        "x": 1.2599210498948732,
+        "y": 1.2599210498948732,
+        "z": 0.6299605249474366
+      }
+    },
+    "geo": {
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "H4XrUbge1T9xPQrXo3DlPw=="
+        },
+        "y": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAAAAAAAAAAAADgPw=="
+        }
+      }
+    },
+    "ternary": {
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "cT0K16Nw5T8AAAAAAADwPw=="
+        },
+        "y": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAA4D8AAAAAAADwPw=="
+        }
+      },
+      "aaxis": {
+        "title": {
+          "text": "A"
+        }
+      },
+      "baxis": {
+        "title": {
+          "text": "B"
+        }
+      },
+      "caxis": {
+        "title": {
+          "text": "C"
+        }
+      }
+    },
+    "margin": {
+      "t": 25,
+      "l": 25,
+      "r": 25,
+      "b": 25
+    },
+    "showlegend": false,
+    "height": 450,
+    "width": 1000,
+    "autosize": true
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "data": [
+    {
+      "type": "scatter3d",
+      "x": {
+        "dtype": "i1",
+        "bdata": "AAAA"
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AQEB"
+      },
+      "z": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "mode": "lines+markers",
+      "line": {
+        "width": 3,
+        "color": {
+          "dtype": "i1",
+          "bdata": "AAEC"
+        }
+      }
+    },
+    {
+      "type": "scatter3d",
+      "x": {
+        "dtype": "i1",
+        "bdata": "AAAA"
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AgIC"
+      },
+      "z": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "mode": "lines+markers",
+      "line": {
+        "width": 3,
+        "color": {
+          "dtype": "i1",
+          "bdata": "AAEC"
+        }
+      },
+      "marker": {
+        "color": {
+          "dtype": "i1",
+          "bdata": "AAEC"
+        }
+      }
+    },
+    {
+      "type": "scatter3d",
+      "x": {
+        "dtype": "i1",
+        "bdata": "AAAA"
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AwMD"
+      },
+      "z": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "mode": "lines+markers",
+      "marker": {
+        "color": {
+          "dtype": "i1",
+          "bdata": "AAEC"
+        }
+      },
+      "line": {
+        "width": 3
+      }
+    },
+    {
+      "type": "scatter3d",
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQEB"
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AAAA"
+      },
+      "z": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "mode": "lines+markers",
+      "line": {
+        "width": 3,
+        "colorscale": "Blues",
+        "color": {
+          "dtype": "i1",
+          "bdata": "AAEC"
+        }
+      },
+      "marker": {
+        "colorscale": "Blues",
+        "color": {
+          "dtype": "i1",
+          "bdata": "AAEC"
+        }
+      }
+    },
+    {
+      "type": "scatter3d",
+      "x": {
+        "dtype": "i1",
+        "bdata": "AgIC"
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AAAA"
+      },
+      "z": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "mode": "lines+markers",
+      "line": {
+        "width": 3,
+        "colorscale": "RdBu",
+        "color": {
+          "dtype": "i1",
+          "bdata": "AAEC"
+        }
+      },
+      "marker": {
+        "colorscale": "RdBu",
+        "color": {
+          "dtype": "i1",
+          "bdata": "AAEC"
+        }
+      }
+    },
+    {
+      "type": "scatter3d",
+      "x": {
+        "dtype": "i1",
+        "bdata": "AwMD"
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AAAA"
+      },
+      "z": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "mode": "lines+markers",
+      "line": {
+        "width": 3,
+        "colorscale": "BuRd",
+        "color": {
+          "dtype": "i1",
+          "bdata": "AAEC"
+        }
+      },
+      "marker": {
+        "colorscale": "BuRd",
+        "color": {
+          "dtype": "i1",
+          "bdata": "AAEC"
+        }
+      }
+    }
+  ]
+}

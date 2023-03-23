@@ -1,0 +1,184 @@
+{
+  "data": [
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQEDAwEBAwM="
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "FRcXFRUXFxU="
+      },
+      "z": {
+        "dtype": "f8",
+        "bdata": "exSuR+F6hD97FK5H4XqEP3sUrkfheoQ/exSuR+F6hD8AAAAAAABZQAAAAAAAAFlAAAAAAAAAWUAAAAAAAABZQA=="
+      },
+      "i": {
+        "dtype": "i1",
+        "bdata": "BwAAAAQEAgYEAAMH"
+      },
+      "j": {
+        "dtype": "i1",
+        "bdata": "AwQBAgUGBQUAAQIC"
+      },
+      "k": {
+        "dtype": "i1",
+        "bdata": "AAcCAwYHAQIFBQcG"
+      },
+      "type": "mesh3d"
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "Bfs="
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "Cg8="
+      },
+      "z": {
+        "dtype": "f8",
+        "bdata": "exSuR+F6hD8AAAAAAABZQAAAAAAAQI9AmpmZmZmZuT8AAAAAAABZQHsUrkfheoQ//Knx0k1iUD8AAAAAAAAkQA==",
+        "shape": "4, 2"
+      },
+      "type": "surface",
+      "colorscale": [
+        [
+          0,
+          "rgb(127,127,255)"
+        ],
+        [
+          0.1,
+          "rgb(63,63,255)"
+        ],
+        [
+          0.2,
+          "rgb(0,0,255)"
+        ],
+        [
+          0.3,
+          "rgb(0,63,191)"
+        ],
+        [
+          0.4,
+          "rgb(0,127,127)"
+        ],
+        [
+          0.5,
+          "rgb(0,191,63)"
+        ],
+        [
+          0.6,
+          "rgb(0,255,0)"
+        ],
+        [
+          0.7,
+          "rgb(63,191,0)"
+        ],
+        [
+          0.8,
+          "rgb(127,127,0)"
+        ],
+        [
+          0.9,
+          "rgb(191,63,0)"
+        ],
+        [
+          1,
+          "rgb(255,0,0)"
+        ]
+      ],
+      "cmin": 0,
+      "cmax": 2
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "+/z9/v8AAQIDBAU="
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "GRAJBAEAAQQJEBk="
+      },
+      "z": {
+        "dtype": "f8",
+        "bdata": "8WjjiLX45D4tQxzr4jYaP/yp8dJNYlA/exSuR+F6hD+amZmZmZm5PwAAAAAAAPA/AAAAAAAAJEAAAAAAAABZQAAAAAAAQI9AAAAAAACIw0AAAAAAAGr4QA=="
+      },
+      "line": {
+        "color": "black",
+        "width": 5
+      },
+      "text": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        "H",
+        "I",
+        "J",
+        "K"
+      ],
+      "type": "scatter3d",
+      "mode": "markers+lines+text",
+      "error_x": {
+        "type": "sqrt",
+        "color": "red"
+      },
+      "error_y": {
+        "type": "sqrt",
+        "color": "green"
+      },
+      "error_z": {
+        "type": "sqrt",
+        "color": "blue"
+      }
+    }
+  ],
+  "layout": {
+    "height": 758,
+    "width": 1310,
+    "title": {
+      "text": "X-axis using autorange:'reversed',Y-axis using range:[30,-5] & Z-axis using range:'reversed' & type:log"
+    },
+    "scene": {
+      "xaxis": {
+        "autorange": "reversed",
+        "showbackground": true,
+        "backgroundcolor": "rgb(127,191,191)",
+        "gridcolor": "rgb(255,255,255)",
+        "zerolinecolor": "rgb(63,0,0)",
+        "zerolinewidth": 5
+      },
+      "yaxis": {
+        "range": [
+          30,
+          -5
+        ],
+        "showbackground": true,
+        "backgroundcolor": "rgb(191,127,191)",
+        "gridcolor": "rgb(255,255,255)",
+        "zerolinecolor": "rgb(0,63,0)",
+        "zerolinewidth": 5
+      },
+      "zaxis": {
+        "autorange": "reversed",
+        "type": "log",
+        "showbackground": true,
+        "backgroundcolor": "rgb(191,191,127)",
+        "gridcolor": "rgb(255,255,255)",
+        "zerolinecolor": "rgb(0,0,63)",
+        "zerolinewidth": 5
+      },
+      "camera": {
+        "eye": {
+          "x": -1.75,
+          "y": -0.75,
+          "z": 0.75
+        }
+      }
+    }
+  }
+}

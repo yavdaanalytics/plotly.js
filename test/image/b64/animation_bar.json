@@ -1,0 +1,128 @@
+{
+  "data": [
+    {
+      "type": "bar",
+      "x": [
+        "A",
+        "B",
+        "C"
+      ],
+      "y": {
+        "dtype": "i1",
+        "bdata": "GAUI"
+      },
+      "ids": [
+        "A",
+        "B",
+        "C"
+      ],
+      "error_y": {
+        "array": {
+          "dtype": "i1",
+          "bdata": "AwIB"
+        }
+      }
+    }
+  ],
+  "layout": {
+    "width": 400,
+    "height": 400,
+    "yaxis": {
+      "range": [
+        0,
+        30
+      ]
+    }
+  },
+  "frames": [
+    {
+      "data": [
+        {
+          "y": {
+            "dtype": "i1",
+            "bdata": "DA8K"
+          }
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "error_y": {
+            "array": {
+              "dtype": "i1",
+              "bdata": "BQQB"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "marker": {
+            "color": [
+              "red",
+              "blue",
+              "green"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "width": 0.25
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "marker": {
+            "line": {
+              "width": 10
+            }
+          }
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "marker": {
+            "line": {
+              "color": [
+                "orange",
+                "yellow",
+                "blue"
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "ids": [
+            "B",
+            "C",
+            "A"
+          ]
+        }
+      ]
+    },
+    {
+      "layout": {
+        "yaxis": {
+          "range": [
+            0,
+            20
+          ]
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "data": [
+    {
+      "type": "box",
+      "name": "box",
+      "y": {
+        "dtype": "f8",
+        "bdata": "iLK2T1Ywyz9DepBjJBvkP5zvEct+eQBAYA7g/U+MAUAAI6xiH/kFQPDnXxA6vQtAG6M7rcc5DUCCrgvHRw4SQI4iyaTU5RJAunPTgz2IEEDqrf0kTJUTQLoW2rXpgBBAjtixHubYDkBwWV49llsRQDzc6REO5w9A9hG5xBgaC0AC6Q/Yu4IDQPqYMmBYKABAkf8cqZRZ+j8DtezhUdHvPwIQ7JGh2OU/sErsh+r31j9sQyoufRvuv8gdBmEnDfO/6wq+o8Qf/78LHZ2lQ439v4dODW7xDwTAccY6ahgJDMA+oAel/OUMwDMTafrYYA/A6KEr+UbSDMDYXxjCWYoLwCLWUzog7gnA6o7jTLUGDMBBoqrMtNYEwK6XkHXESgLALpzGiaYi+L9XvgBOToz7vwLUqODO3ui/1OZq6KPj0z9aJbtr2QTQP8YDhah9we0/nBhDeEoN9j/YUpayCtUCQCOjEZAqjAhAIrPs9YqwDUD2u4VTQwcQQDCFfSV3mBBAWNcZxqe0EEC320Ut81UQQA=="
+      },
+      "boxpoints": "all",
+      "pointpos": 0,
+      "fillcolor": "rgba(0, 0, 0, 0)",
+      "line": {
+        "color": "rgba(0, 0, 0, 0)"
+      },
+      "marker": {
+        "color": "#fc8d62",
+        "symbol": "cross"
+      },
+      "hoveron": "points"
+    },
+    {
+      "type": "violin",
+      "name": "violin",
+      "y": {
+        "dtype": "f8",
+        "bdata": "iLK2T1Ywyz9DepBjJBvkP5zvEct+eQBAYA7g/U+MAUAAI6xiH/kFQPDnXxA6vQtAG6M7rcc5DUCCrgvHRw4SQI4iyaTU5RJAunPTgz2IEEDqrf0kTJUTQLoW2rXpgBBAjtixHubYDkBwWV49llsRQDzc6REO5w9A9hG5xBgaC0AC6Q/Yu4IDQPqYMmBYKABAkf8cqZRZ+j8DtezhUdHvPwIQ7JGh2OU/sErsh+r31j9sQyoufRvuv8gdBmEnDfO/6wq+o8Qf/78LHZ2lQ439v4dODW7xDwTAccY6ahgJDMA+oAel/OUMwDMTafrYYA/A6KEr+UbSDMDYXxjCWYoLwCLWUzog7gnA6o7jTLUGDMBBoqrMtNYEwK6XkHXESgLALpzGiaYi+L9XvgBOToz7vwLUqODO3ui/1OZq6KPj0z9aJbtr2QTQP8YDhah9we0/nBhDeEoN9j/YUpayCtUCQCOjEZAqjAhAIrPs9YqwDUD2u4VTQwcQQDCFfSV3mBBAWNcZxqe0EEC320Ut81UQQA=="
+      },
+      "points": "all",
+      "pointpos": 0,
+      "fillcolor": "rgba(0, 0, 0, 0)",
+      "line": {
+        "color": "rgba(0, 0, 0, 0)"
+      },
+      "marker": {
+        "color": "#8da0cb",
+        "size": 10,
+        "line": {
+          "width": 1
+        }
+      },
+      "hoveron": "points"
+    }
+  ],
+  "layout": {
+    "legend": {
+      "x": 0,
+      "y": 1
+    }
+  }
+}

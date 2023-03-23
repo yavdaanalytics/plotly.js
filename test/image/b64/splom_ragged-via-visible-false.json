@@ -1,0 +1,54 @@
+{
+  "data": [
+    {
+      "type": "splom",
+      "dimensions": [
+        {
+          "values": {
+            "dtype": "i1",
+            "bdata": "AQID"
+          },
+          "label": "A"
+        },
+        {
+          "values": {
+            "dtype": "i1",
+            "bdata": "BAUG"
+          },
+          "label": "B"
+        }
+      ]
+    },
+    {
+      "type": "splom",
+      "dimensions": [
+        {
+          "visible": false
+        },
+        {
+          "visible": false
+        },
+        {
+          "values": {
+            "dtype": "i1",
+            "bdata": "AQID"
+          },
+          "label": "C"
+        },
+        {
+          "values": {
+            "dtype": "i1",
+            "bdata": "BAUG"
+          },
+          "label": "D"
+        }
+      ]
+    }
+  ],
+  "layout": {
+    "showlegend": false,
+    "title": {
+      "text": "ragged sploms using visible false dimensions"
+    }
+  }
+}

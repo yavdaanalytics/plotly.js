@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "y": {
+        "dtype": "i1",
+        "bdata": "AQIDBAUG"
+      },
+      "x": {
+        "dtype": "i1",
+        "bdata": "AAECAwQF"
+      }
+    }
+  ],
+  "layout": {
+    "yaxis": {
+      "type": "log",
+      "tickvals": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAA+D89CtejcD0EQORO6WD9/xdA"
+      }
+    },
+    "height": 300,
+    "width": 400,
+    "xaxis": {
+      "ticktext": [
+        "<span style=\"fill:green\">green</span>\neggs",
+        "&amp;\r\nham",
+        "H<sub>2</sub>O",
+        "Gorgonzola"
+      ],
+      "tickvals": {
+        "dtype": "i1",
+        "bdata": "AAECAwQF"
+      }
+    }
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "type": "waterfall",
+      "y": {
+        "dtype": "i1",
+        "bdata": "Af4B"
+      },
+      "yaxis": "y2"
+    },
+    {
+      "type": "waterfall",
+      "y": {
+        "dtype": "i1",
+        "bdata": "Av8C"
+      }
+    },
+    {
+      "type": "waterfall",
+      "y": {
+        "dtype": "i1",
+        "bdata": "Af0A"
+      }
+    },
+    {
+      "type": "waterfall",
+      "y": {
+        "dtype": "i1",
+        "bdata": "Af4B"
+      },
+      "alignmentgroup": "top",
+      "hovertext": "alignmentgroup: top",
+      "xaxis": "x2",
+      "yaxis": "y2"
+    },
+    {
+      "type": "waterfall",
+      "y": {
+        "dtype": "i1",
+        "bdata": "Av8C"
+      },
+      "hovertext": "alignmentgroup: top<br>offsetgroup: 1",
+      "alignmentgroup": "bottom",
+      "offsetgroup": "1",
+      "xaxis": "x2"
+    },
+    {
+      "type": "waterfall",
+      "y": {
+        "dtype": "i1",
+        "bdata": "Af0A"
+      },
+      "hovertext": "alignmentgroup: top<br>offsetgroup: 2",
+      "alignmentgroup": "bottom",
+      "offsetgroup": "2",
+      "xaxis": "x2"
+    }
+  ],
+  "layout": {
+    "showlegend": false,
+    "grid": {
+      "rows": 2,
+      "columns": 2,
+      "roworder": "bottom to top"
+    },
+    "colorway": [
+      "blue",
+      "orange",
+      "green"
+    ],
+    "margin": {
+      "t": 20
+    },
+    "xaxis": {
+      "title": {
+        "text": "no alignmentgroup<br>no offsetgroup"
+      }
+    },
+    "xaxis2": {
+      "title": {
+        "text": "with alignmentgroup<br>with offsetgroup"
+      }
+    }
+  }
+}

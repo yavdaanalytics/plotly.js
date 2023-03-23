@@ -1,0 +1,129 @@
+{
+  "data": [
+    {
+      "type": "scattergl",
+      "y": {
+        "dtype": "i1",
+        "bdata": "AQIBAP8CAwU="
+      }
+    },
+    {
+      "type": "scattergl",
+      "xaxis": "x2",
+      "y": {
+        "dtype": "f8",
+        "bdata": "vwofAMZIHEAAAAAAAAAkQL8KHwDGSBxAAAAAAAAAAAC/Ch8AxkgcwAAAAAAAACRAwAofAMZIHEC/Ch8AxkgcwA=="
+      }
+    },
+    {
+      "type": "scattergl",
+      "y": {
+        "dtype": "f8",
+        "bdata": "wAofAMZIHEAJc9m/rw/GPMAKHwDGSBxAAAAAAAAAJEDACh8AxkgcQAlz2b+vD8Y8vwofAMZIHMDCCh8AxkgcwA=="
+      },
+      "yaxis": "y2"
+    },
+    {
+      "type": "scattergl",
+      "xaxis": "x2",
+      "y": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAECrqqqqqqr6PwAAAAAAAABAAAAAAAAABECrqqqqqqoKQKuqqqqqqvo/t23btm3b9j9yHMdxHMfxPw=="
+      },
+      "yaxis": "y2"
+    }
+  ],
+  "layout": {
+    "dragmode": "pan",
+    "shapes": [
+      {
+        "fillcolor": "#c7eae5",
+        "layer": "below",
+        "type": "rect",
+        "x0": 3.5,
+        "x1": 4.5,
+        "xref": "x",
+        "y0": 0,
+        "y1": 1,
+        "yref": "paper"
+      },
+      {
+        "fillcolor": "#c7eae5",
+        "layer": "above",
+        "opacity": 0.5,
+        "type": "rect",
+        "x0": 5.5,
+        "x1": 6.5,
+        "xref": "x2",
+        "y0": 0,
+        "y1": 1,
+        "yref": "paper"
+      },
+      {
+        "visible": false
+      },
+      {
+        "fillcolor": "#f6e8c3",
+        "layer": "below",
+        "type": "rect",
+        "x0": 0,
+        "x1": 1,
+        "xref": "paper",
+        "y0": 0,
+        "y1": 3,
+        "yref": "y"
+      },
+      {
+        "fillcolor": "#f6e8c3",
+        "layer": "above",
+        "opacity": 0.5,
+        "type": "rect",
+        "x0": 0,
+        "x1": 1,
+        "xref": "paper",
+        "y0": 1,
+        "y1": 4,
+        "yref": "y2"
+      },
+      {
+        "fillcolor": "#d3d3d3",
+        "layer": "below",
+        "type": "rect",
+        "x0": 0.3,
+        "x1": 0.7,
+        "xref": "paper",
+        "y0": 0.3,
+        "y1": 0.7,
+        "yref": "paper"
+      }
+    ],
+    "showlegend": false,
+    "title": {
+      "text": "shape shading a region"
+    },
+    "xaxis": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAADNzMzMzMzcPw=="
+      }
+    },
+    "xaxis2": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "mpmZmZmZ4T8AAAAAAADwPw=="
+      }
+    },
+    "yaxis": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAADNzMzMzMzcPw=="
+      }
+    },
+    "yaxis2": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "mpmZmZmZ4T8AAAAAAADwPw=="
+      }
+    }
+  }
+}

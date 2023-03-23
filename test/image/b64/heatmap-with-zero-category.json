@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AwIBAA=="
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AwIBAA=="
+      },
+      "z": [
+        [
+          98,
+          97,
+          96,
+          null
+        ],
+        [
+          88,
+          87,
+          86,
+          null
+        ],
+        [
+          78,
+          77,
+          76,
+          null
+        ],
+        [
+          null,
+          null,
+          null,
+          null
+        ]
+      ],
+      "type": "heatmap",
+      "colorscale": [
+        [
+          0,
+          "#3D9970"
+        ],
+        [
+          1,
+          "#001f3f"
+        ]
+      ],
+      "showscale": false,
+      "xgap": 1,
+      "ygap": 1
+    }
+  ],
+  "layout": {
+    "height": 450,
+    "width": 650,
+    "xaxis": {
+      "type": "category"
+    },
+    "yaxis": {
+      "type": "category"
+    }
+  }
+}

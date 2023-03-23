@@ -1,0 +1,46 @@
+{
+  "data": [
+    {
+      "r": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "theta": {
+        "dtype": "i1",
+        "bdata": "BAEC"
+      },
+      "type": "scatterpolar"
+    }
+  ],
+  "layout": {
+    "template": {
+      "data": {
+        "scatterpolar": [
+          {
+            "thetaunit": "radians",
+            "marker": {
+              "color": "hotpink",
+              "size": 20
+            },
+            "line": {
+              "color": "cyan"
+            }
+          }
+        ]
+      },
+      "layout": {
+        "polar": {
+          "bgcolor": "black",
+          "radialaxis": {
+            "gridcolor": "white",
+            "linecolor": "white"
+          },
+          "angularaxis": {
+            "gridcolor": "white",
+            "linecolor": "white"
+          }
+        }
+      }
+    }
+  }
+}

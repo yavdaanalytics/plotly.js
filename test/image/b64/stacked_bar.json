@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "x": [
+        "giraffes",
+        "orangutans",
+        "monkeys"
+      ],
+      "y": {
+        "dtype": "i1",
+        "bdata": "FA4X"
+      },
+      "name": "SF Zoo",
+      "type": "bar"
+    },
+    {
+      "x": [
+        "giraffes",
+        "orangutans",
+        "monkeys"
+      ],
+      "y": {
+        "dtype": "i1",
+        "bdata": "DBId"
+      },
+      "name": "LA Zoo",
+      "type": "bar"
+    }
+  ],
+  "layout": {
+    "xaxis": {
+      "type": "category"
+    },
+    "barmode": "stack"
+  }
+}

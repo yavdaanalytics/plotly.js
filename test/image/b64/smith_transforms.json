@@ -1,0 +1,186 @@
+{
+  "data": [
+    {
+      "type": "scattersmith",
+      "mode": "lines+markers",
+      "real": {
+        "dtype": "i1",
+        "bdata": "Af/+AAEDAw=="
+      },
+      "imag": {
+        "dtype": "i1",
+        "bdata": "AgEAAQMEAw=="
+      },
+      "transforms": [
+        {
+          "type": "groupby",
+          "groups": [
+            "a",
+            "a",
+            "b",
+            "a",
+            "b",
+            "b",
+            "a"
+          ],
+          "styles": [
+            {
+              "target": "a",
+              "value": {
+                "marker": {
+                  "color": "orange"
+                }
+              }
+            },
+            {
+              "target": "b",
+              "value": {
+                "marker": {
+                  "color": "blue"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "type": "filter",
+          "target": "real",
+          "operation": ">=",
+          "value": 0,
+          "preservegaps": true
+        }
+      ],
+      "name": "Groupby+filter"
+    },
+    {
+      "type": "scattersmith",
+      "real": {
+        "dtype": "i1",
+        "bdata": "AQIDBP0="
+      },
+      "imag": {
+        "dtype": "f8",
+        "bdata": "mpmZmZmZ8T+amZmZmZkBQGZmZmZmZgpAmpmZmZmZEUAAAAAAAAAWQA=="
+      },
+      "marker": {
+        "size": {
+          "dtype": "f8",
+          "bdata": "MzMzMzMz0z+amZmZmZnJP5qZmZmZmbk/mpmZmZmZ2T8AAAAAAADgPw=="
+        },
+        "sizeref": 0.01,
+        "color": {
+          "dtype": "i1",
+          "bdata": "AgQGCgg="
+        },
+        "opacity": {
+          "dtype": "f8",
+          "bdata": "zczMzMzM7D8zMzMzMzPjP5qZmZmZmck/mpmZmZmZ6T8AAAAAAADwPw=="
+        },
+        "line": {
+          "color": {
+            "dtype": "f8",
+            "bdata": "mpmZmZmZAUBmZmZmZmYKQJqZmZmZmRFAAAAAAAAAFkCamZmZmZnxPw=="
+          }
+        }
+      },
+      "transforms": [
+        {
+          "type": "aggregate",
+          "groups": [
+            "a",
+            "b",
+            "a",
+            "a",
+            "a"
+          ],
+          "aggregations": [
+            {
+              "target": "real",
+              "func": "sum"
+            },
+            {
+              "target": "imag",
+              "func": "avg"
+            },
+            {
+              "target": "marker.size",
+              "func": "min"
+            },
+            {
+              "target": "marker.color",
+              "func": "max"
+            },
+            {
+              "target": "marker.line.color",
+              "func": "last"
+            },
+            {
+              "target": "marker.line.width",
+              "func": "count"
+            }
+          ]
+        }
+      ],
+      "name": "Aggregate"
+    },
+    {
+      "type": "scattersmith",
+      "real": {
+        "dtype": "i1",
+        "bdata": "AQIDBAUG"
+      },
+      "imag": {
+        "dtype": "i1",
+        "bdata": "AQQCBgUD"
+      },
+      "transforms": [
+        {
+          "type": "sort",
+          "target": {
+            "dtype": "i1",
+            "bdata": "AQYCBQME"
+          }
+        }
+      ],
+      "name": "Sort"
+    },
+    {
+      "type": "scattersmith",
+      "real": {
+        "dtype": "i1",
+        "bdata": "BAUGBAUG"
+      },
+      "imag": {
+        "dtype": "i1",
+        "bdata": "AQEBAgIC"
+      },
+      "marker": {
+        "color": {
+          "dtype": "i1",
+          "bdata": "AQID//79"
+        },
+        "size": 12
+      },
+      "mode": "lines+markers",
+      "transforms": [
+        {
+          "type": "groupby",
+          "groups": {
+            "dtype": "i1",
+            "bdata": "AQEBAgIC"
+          }
+        }
+      ]
+    }
+  ],
+  "layout": {
+    "legend": {
+      "orientation": "h"
+    },
+    "width": 500,
+    "height": 500,
+    "title": {
+      "text": "Transforms on smith subplot"
+    }
+  }
+}

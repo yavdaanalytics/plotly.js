@@ -1,0 +1,57 @@
+{
+  "data": [
+    {
+      "y": {
+        "dtype": "i1",
+        "bdata": "AQUDBAU="
+      },
+      "name": "Super long name<br>Super long name<br>Super long name<br>Super long name",
+      "type": "scatter",
+      "showlegend": true
+    },
+    {
+      "y": {
+        "dtype": "i1",
+        "bdata": "AwIFAQU="
+      },
+      "name": "Also super long name<br>Also super long name<br>Also super long name",
+      "type": "scatter",
+      "showlegend": true
+    },
+    {
+      "type": "pie",
+      "labels": [
+        "a very<br>long<br>legend item",
+        "a",
+        "b",
+        "c"
+      ],
+      "values": {
+        "dtype": "i1",
+        "bdata": "Cg8NEQ=="
+      },
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAA4D8AAAAAAADwPw=="
+        }
+      }
+    }
+  ],
+  "layout": {
+    "width": 800,
+    "xaxis": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAAAAAAAAAADgPw=="
+      }
+    },
+    "legend": {
+      "bgcolor": "rgba(0,255,255,1)",
+      "valign": "top",
+      "font": {
+        "size": 10
+      }
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "data": [
+    {
+      "type": "scattermapbox",
+      "mode": "markers",
+      "lon": {
+        "dtype": "f8",
+        "bdata": "ZmZmZmZmUsBI4XoUrmdSwIXrUbgeZVLA"
+      },
+      "lat": {
+        "dtype": "f8",
+        "bdata": "AAAAAADARkDD9Shcj8JGQD0K16NwvUZA"
+      },
+      "marker": {
+        "size": 20,
+        "color": [
+          "#1b9e77",
+          "#d95f02",
+          "#7570b3"
+        ]
+      }
+    },
+    {
+      "type": "scattermapbox",
+      "mode": "markers",
+      "lon": {
+        "dtype": "f8",
+        "bdata": "ZmZmZmZmUsBI4XoUrmdSwIXrUbgeZVLA"
+      },
+      "lat": {
+        "dtype": "f8",
+        "bdata": "AAAAAADARkDD9Shcj8JGQD0K16NwvUZA"
+      },
+      "marker": {
+        "size": {
+          "dtype": "i1",
+          "bdata": "FB4K"
+        },
+        "color": "#1b9e77"
+      },
+      "subplot": "mapbox2"
+    }
+  ],
+  "layout": {
+    "mapbox": {
+      "style": "mapbox://styles/plotly-js-tests/ck4og36lx0vnj1cpdl8y0cr8m",
+      "center": {
+        "lon": -73.60287319770295,
+        "lat": 45.50110152988742
+      },
+      "zoom": 11.4
+    },
+    "mapbox2": {
+      "style": "satellite-streets",
+      "center": {
+        "lon": -73.60287319770295,
+        "lat": 45.50110152988742
+      },
+      "zoom": 11.4
+    },
+    "showlegend": false,
+    "width": 700,
+    "height": 450
+  }
+}

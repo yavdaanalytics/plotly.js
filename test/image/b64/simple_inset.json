@@ -1,0 +1,44 @@
+{
+  "data": [
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "BAMC"
+      },
+      "type": "scatter"
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "FB4o"
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "Higy"
+      },
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "type": "scatter"
+    }
+  ],
+  "layout": {
+    "yaxis2": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "MzMzMzMz4z9mZmZmZmbuPw=="
+      },
+      "anchor": "x2"
+    },
+    "xaxis2": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "MzMzMzMz4z9mZmZmZmbuPw=="
+      },
+      "anchor": "y2"
+    }
+  }
+}

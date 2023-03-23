@@ -1,0 +1,132 @@
+{
+  "data": [
+    {
+      "type": "scatterpolar",
+      "name": "missing \u03b8",
+      "r": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      }
+    },
+    {
+      "type": "scatterpolar",
+      "name": "missing r",
+      "theta": {
+        "dtype": "i2",
+        "bdata": "AACm/yT/"
+      }
+    },
+    {
+      "type": "scatterpolar",
+      "name": "set r0/dr",
+      "r0": 5,
+      "dr": -1,
+      "theta": {
+        "dtype": "i2",
+        "bdata": "AACm/0L/"
+      }
+    },
+    {
+      "type": "scatterpolar",
+      "name": "set \u03b8<sub>0</sub>/d\u03b8",
+      "r": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "theta0": 1,
+      "dtheta": 2,
+      "thetaunit": "radians"
+    },
+    {
+      "type": "scatterpolargl",
+      "name": "[gl] missing \u03b8",
+      "subplot": "polar2",
+      "marker": {
+        "color": "#1f77b4"
+      },
+      "r": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      }
+    },
+    {
+      "type": "scatterpolargl",
+      "name": "[gl] missing r",
+      "subplot": "polar2",
+      "marker": {
+        "color": "#ff7f0e"
+      },
+      "theta": {
+        "dtype": "i2",
+        "bdata": "AACm/yT/"
+      }
+    },
+    {
+      "type": "scatterpolargl",
+      "name": "[gl] set r0/dr",
+      "subplot": "polar2",
+      "marker": {
+        "color": "#2ca02c"
+      },
+      "r0": 5,
+      "dr": -1,
+      "theta": {
+        "dtype": "i2",
+        "bdata": "AACm/0L/"
+      }
+    },
+    {
+      "type": "scatterpolargl",
+      "name": "[gl] set \u03b8<sub>0</sub>/d\u03b8",
+      "subplot": "polar2",
+      "marker": {
+        "color": "#d62728"
+      },
+      "r": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "theta0": 1,
+      "dtheta": 2,
+      "thetaunit": "radians"
+    }
+  ],
+  "layout": {
+    "width": 500,
+    "height": 800,
+    "margin": {
+      "l": 200,
+      "t": 20,
+      "b": 20
+    },
+    "legend": {
+      "x": -0.2,
+      "xanchor": "right",
+      "y": 0.5
+    },
+    "polar": {
+      "domain": {
+        "x": {
+          "dtype": "i1",
+          "bdata": "AAE="
+        },
+        "y": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAA4D8AAAAAAADwPw=="
+        }
+      }
+    },
+    "polar2": {
+      "domain": {
+        "x": {
+          "dtype": "i1",
+          "bdata": "AAE="
+        },
+        "y": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAAAAAAAAAAAADgPw=="
+        }
+      }
+    }
+  }
+}

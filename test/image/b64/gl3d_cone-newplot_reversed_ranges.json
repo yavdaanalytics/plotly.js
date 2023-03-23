@@ -1,0 +1,185 @@
+{
+  "data": [
+    {
+      "x": {
+        "dtype": "f8",
+        "bdata": "mpmZmZmZyT8="
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "mpmZmZmZ2T8="
+      },
+      "z": {
+        "dtype": "f8",
+        "bdata": "MzMzMzMz478="
+      },
+      "u": {
+        "dtype": "i1",
+        "bdata": "AQ=="
+      },
+      "v": {
+        "dtype": "i1",
+        "bdata": "AQ=="
+      },
+      "w": {
+        "dtype": "i1",
+        "bdata": "AA=="
+      },
+      "type": "cone"
+    },
+    {
+      "x": {
+        "dtype": "f8",
+        "bdata": "mpmZmZmZ2T8="
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "MzMzMzMz478="
+      },
+      "z": {
+        "dtype": "f8",
+        "bdata": "mpmZmZmZyT8="
+      },
+      "u": {
+        "dtype": "i1",
+        "bdata": "AQ=="
+      },
+      "v": {
+        "dtype": "i1",
+        "bdata": "AA=="
+      },
+      "w": {
+        "dtype": "i1",
+        "bdata": "AQ=="
+      },
+      "type": "cone"
+    },
+    {
+      "x": {
+        "dtype": "f8",
+        "bdata": "MzMzMzMz478="
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "mpmZmZmZyT8="
+      },
+      "z": {
+        "dtype": "f8",
+        "bdata": "mpmZmZmZ2T8="
+      },
+      "u": {
+        "dtype": "i1",
+        "bdata": "AA=="
+      },
+      "v": {
+        "dtype": "i1",
+        "bdata": "AQ=="
+      },
+      "w": {
+        "dtype": "i1",
+        "bdata": "AQ=="
+      },
+      "type": "cone"
+    },
+    {
+      "x": {
+        "dtype": "f8",
+        "bdata": "mpmZmZmZyb8="
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "mpmZmZmZ2b8="
+      },
+      "z": {
+        "dtype": "f8",
+        "bdata": "MzMzMzMz4z8="
+      },
+      "u": {
+        "dtype": "i1",
+        "bdata": "/w=="
+      },
+      "v": {
+        "dtype": "i1",
+        "bdata": "/w=="
+      },
+      "w": {
+        "dtype": "i1",
+        "bdata": "AA=="
+      },
+      "type": "cone"
+    },
+    {
+      "x": {
+        "dtype": "f8",
+        "bdata": "mpmZmZmZ2b8="
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "MzMzMzMz4z8="
+      },
+      "z": {
+        "dtype": "f8",
+        "bdata": "mpmZmZmZyb8="
+      },
+      "u": {
+        "dtype": "i1",
+        "bdata": "/w=="
+      },
+      "v": {
+        "dtype": "i1",
+        "bdata": "AA=="
+      },
+      "w": {
+        "dtype": "i1",
+        "bdata": "/w=="
+      },
+      "type": "cone"
+    },
+    {
+      "x": {
+        "dtype": "f8",
+        "bdata": "MzMzMzMz4z8="
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "mpmZmZmZyb8="
+      },
+      "z": {
+        "dtype": "f8",
+        "bdata": "mpmZmZmZ2b8="
+      },
+      "u": {
+        "dtype": "i1",
+        "bdata": "AA=="
+      },
+      "v": {
+        "dtype": "i1",
+        "bdata": "/w=="
+      },
+      "w": {
+        "dtype": "i1",
+        "bdata": "/w=="
+      },
+      "type": "cone"
+    }
+  ],
+  "layout": {
+    "height": 758,
+    "width": 1310,
+    "title": {
+      "text": "Cone objects with Y-axis using autorange: 'reversed'"
+    },
+    "scene": {
+      "yaxis": {
+        "autorange": "reversed"
+      },
+      "camera": {
+        "eye": {
+          "x": 1,
+          "y": -1.5,
+          "z": 1.25
+        }
+      }
+    }
+  }
+}

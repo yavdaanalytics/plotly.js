@@ -1,0 +1,18 @@
+{
+  "data": [
+    {
+      "y": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      }
+    }
+  ],
+  "layout": {
+    "xaxis": {
+      "visible": false
+    },
+    "yaxis": {
+      "visible": false
+    }
+  }
+}

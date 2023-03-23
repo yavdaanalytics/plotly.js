@@ -1,0 +1,151 @@
+{
+  "data": [
+    {
+      "mode": "lines",
+      "line": {
+        "width": 4
+      },
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQIDBA=="
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAEEAAAAAAAAAQQBzr4jYaABBAxyk6ksv/D0A="
+      },
+      "type": "scatter",
+      "name": "scatter almost horizontal"
+    },
+    {
+      "mode": "lines",
+      "line": {
+        "width": 4
+      },
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQIDBA=="
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAACEAAAAAAAAAIQDnWxW00AAhAxyk6ksv/B0A="
+      },
+      "type": "scattergl",
+      "name": "scattergl almost horizontal"
+    },
+    {
+      "mode": "lines",
+      "line": {
+        "width": 4
+      },
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQIDBA=="
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AgICAg=="
+      },
+      "type": "scattergl",
+      "name": "scattergl horizontal"
+    },
+    {
+      "mode": "lines",
+      "line": {
+        "width": 4
+      },
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQIDBA=="
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AQEBAQ=="
+      },
+      "type": "scatter",
+      "name": "scatter horizontal"
+    },
+    {
+      "mode": "lines",
+      "line": {
+        "width": 4
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AQIDBA=="
+      },
+      "x": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAEEAAAAAAAAAQQBzr4jYaABBAxyk6ksv/D0A="
+      },
+      "type": "scatter",
+      "name": "scatter almost vertical"
+    },
+    {
+      "mode": "lines",
+      "line": {
+        "width": 4
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AQIDBA=="
+      },
+      "x": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAACEAAAAAAAAAIQDnWxW00AAhAxyk6ksv/B0A="
+      },
+      "type": "scattergl",
+      "name": "scattergl almost vertical"
+    },
+    {
+      "mode": "lines",
+      "line": {
+        "width": 4
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AQIDBA=="
+      },
+      "x": {
+        "dtype": "i1",
+        "bdata": "AgICAg=="
+      },
+      "type": "scattergl",
+      "name": "scattergl vertical"
+    },
+    {
+      "mode": "lines",
+      "line": {
+        "width": 4
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AQIDBA=="
+      },
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQEBAQ=="
+      },
+      "type": "scatter",
+      "name": "scatter vertical"
+    }
+  ],
+  "layout": {
+    "width": 800,
+    "height": 600,
+    "xaxis": {
+      "range": [
+        4.5,
+        0.5
+      ]
+    },
+    "yaxis": {
+      "range": [
+        4.5,
+        0.5
+      ]
+    },
+    "title": {
+      "text": "exact and approximate horizontal and vertical lines using scatter and scattergl with reversed ranges"
+    }
+  }
+}

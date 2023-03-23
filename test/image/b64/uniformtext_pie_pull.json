@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "type": "pie",
+      "insidetextorientation": "horizontal",
+      "hole": 0.25,
+      "domain": {
+        "y": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAA4D8AAAAAAADwPw=="
+        }
+      },
+      "sort": false,
+      "labels": {
+        "dtype": "i1",
+        "bdata": "AQIDBAUGBwgJCgsM"
+      },
+      "values": {
+        "dtype": "i1",
+        "bdata": "AQIDBAUGBwgJCgsM"
+      },
+      "pull": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAAAAAAAAAADgPwAAAAAAAAAAAAAAAAAA4D8AAAAAAAAAAAAAAAAAAOA/AAAAAAAAAAAAAAAAAADgPwAAAAAAAAAAAAAAAAAA4D8AAAAAAAAAAAAAAAAAAOA/"
+      },
+      "textposition": "inside",
+      "textinfo": "value"
+    },
+    {
+      "type": "pie",
+      "insidetextorientation": "horizontal",
+      "hole": 0.25,
+      "domain": {
+        "y": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAAAAAAAAAAAADgPw=="
+        }
+      },
+      "sort": false,
+      "labels": {
+        "dtype": "i1",
+        "bdata": "AQIDBAUGBwgJCgsM"
+      },
+      "text": [
+        "slice",
+        "slice",
+        "slice",
+        "slice",
+        "slice",
+        "slice",
+        "slice",
+        "slice",
+        "slice",
+        "slice",
+        "slice",
+        "slice"
+      ],
+      "pull": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAAAAAAAAAADgPwAAAAAAAAAAAAAAAAAA4D8AAAAAAAAAAAAAAAAAAOA/AAAAAAAAAAAAAAAAAADgPwAAAAAAAAAAAAAAAAAA4D8AAAAAAAAAAAAAAAAAAOA/"
+      },
+      "textposition": "inside",
+      "textinfo": "text"
+    }
+  ],
+  "layout": {
+    "width": 600,
+    "height": 900,
+    "margin": {
+      "t": 10,
+      "b": 10,
+      "l": 10,
+      "r": 10
+    },
+    "legend": {
+      "title": {
+        "text": "pie uniform text<br>with <i>horizontal</i> orientation<br>minsize=20"
+      }
+    },
+    "uniformtext": {
+      "mode": "hide",
+      "minsize": 20
+    }
+  }
+}

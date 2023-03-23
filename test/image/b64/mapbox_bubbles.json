@@ -1,0 +1,149 @@
+{
+  "data": [
+    {
+      "type": "scattermapbox",
+      "lon": {
+        "dtype": "i1",
+        "bdata": "ChQe"
+      },
+      "lat": {
+        "dtype": "i1",
+        "bdata": "ChQe"
+      },
+      "marker": {
+        "size": {
+          "dtype": "i1",
+          "bdata": "FAoo"
+        },
+        "color": [
+          "red",
+          "blue",
+          "orange"
+        ],
+        "opacity": {
+          "dtype": "f8",
+          "bdata": "MzMzMzMz0z8AAAAAAADgPwAAAAAAAPA/"
+        }
+      },
+      "opacity": 0.7
+    },
+    {
+      "type": "scattermapbox",
+      "lon": {
+        "dtype": "i1",
+        "bdata": "tYhk"
+      },
+      "lat": {
+        "dtype": "i1",
+        "bdata": "LRTY"
+      },
+      "marker": {
+        "size": {
+          "dtype": "i1",
+          "bdata": "PBQo"
+        },
+        "color": {
+          "dtype": "i1",
+          "bdata": "ABQe"
+        },
+        "colorbar": {},
+        "cmin": 0,
+        "cmax": 30,
+        "colorscale": [
+          [
+            0,
+            "rgb(220,220,220)"
+          ],
+          [
+            0.2,
+            "rgb(245,195,157)"
+          ],
+          [
+            0.4,
+            "rgb(245,160,105)"
+          ],
+          [
+            1,
+            "rgb(178,10,28)"
+          ]
+        ]
+      }
+    },
+    {
+      "type": "scattermapbox",
+      "selectedpoints": {
+        "dtype": "i1",
+        "bdata": "AQ=="
+      },
+      "mode": "markers",
+      "lon": {
+        "dtype": "i1",
+        "bdata": "9uzi"
+      },
+      "lat": {
+        "dtype": "i1",
+        "bdata": "ChQe"
+      },
+      "marker": {
+        "size": 20
+      },
+      "selected": {
+        "marker": {
+          "opacity": 0.8
+        }
+      },
+      "unselected": {
+        "marker": {
+          "opacity": 0.5
+        }
+      }
+    },
+    {
+      "type": "scattermapbox",
+      "selectedpoints": {
+        "dtype": "i1",
+        "bdata": "AAI="
+      },
+      "mode": "markers",
+      "lon": {
+        "dtype": "i1",
+        "bdata": "9uzi"
+      },
+      "lat": {
+        "dtype": "i1",
+        "bdata": "9uzi"
+      },
+      "marker": {
+        "size": 20
+      },
+      "selected": {
+        "marker": {
+          "size": 40,
+          "color": "green"
+        }
+      },
+      "unselected": {
+        "marker": {
+          "size": 10,
+          "color": "red"
+        }
+      },
+      "hoverlabel": {
+        "bgcolor": "grey"
+      }
+    }
+  ],
+  "layout": {
+    "mapbox": {
+      "style": "light",
+      "zoom": 0.5
+    },
+    "showlegend": false,
+    "height": 450,
+    "width": 600,
+    "margin": {
+      "l": 10
+    },
+    "dragmode": "select"
+  }
+}

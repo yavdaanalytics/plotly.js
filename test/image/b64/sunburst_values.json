@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "type": "sunburst",
+      "name": "with branchvalues:remainder",
+      "labels": [
+        "Eve",
+        "Cain",
+        "Seth",
+        "Enos",
+        "Noam",
+        "Abel",
+        "Awan",
+        "Enoch",
+        "Azura"
+      ],
+      "parents": [
+        "",
+        "Eve",
+        "Eve",
+        "Seth",
+        "Seth",
+        "Eve",
+        "Eve",
+        "Awan",
+        "Eve"
+      ],
+      "values": {
+        "dtype": "i1",
+        "bdata": "Cg4MCgIGBgEE"
+      },
+      "textinfo": "label+value+percent parent+percent root",
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAAAAC4HoXrUbjePw=="
+        }
+      },
+      "outsidetextfont": {
+        "size": 20,
+        "color": "#377eb8"
+      },
+      "leaf": {
+        "opacity": 0.4
+      },
+      "marker": {
+        "line": {
+          "width": 2
+        }
+      }
+    },
+    {
+      "type": "sunburst",
+      "name": "with branchvalues:total",
+      "branchvalues": "total",
+      "labels": [
+        "Eve",
+        "Cain",
+        "Seth",
+        "Enos",
+        "Noam",
+        "Abel",
+        "Awan",
+        "Enoch",
+        "Azura"
+      ],
+      "parents": [
+        "",
+        "Eve",
+        "Eve",
+        "Seth",
+        "Seth",
+        "Eve",
+        "Eve",
+        "Awan",
+        "Eve"
+      ],
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "pHA9Ctej4D8AAAAAAADwPw=="
+        }
+      },
+      "values": {
+        "dtype": "i1",
+        "bdata": "QQ4MCgIGBgEE"
+      },
+      "textinfo": "label+value+percent parent+percent root",
+      "outsidetextfont": {
+        "size": 20,
+        "color": "#377eb8"
+      },
+      "leaf": {
+        "opacity": 0.4
+      },
+      "marker": {
+        "line": {
+          "width": 2
+        }
+      }
+    }
+  ],
+  "layout": {
+    "annotations": [
+      {
+        "showarrow": false,
+        "text": "branchvalues: <b>remainder</b>",
+        "x": 0.25,
+        "xanchor": "center",
+        "y": 1.1,
+        "yanchor": "bottom"
+      },
+      {
+        "showarrow": false,
+        "text": "branchvalues: <b>total</b>",
+        "x": 0.75,
+        "xanchor": "center",
+        "y": 1.1,
+        "yanchor": "bottom"
+      }
+    ],
+    "paper_bgcolor": "#d3d3d3"
+  }
+}

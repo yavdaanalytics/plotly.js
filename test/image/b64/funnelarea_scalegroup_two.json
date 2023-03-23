@@ -1,0 +1,293 @@
+{
+  "data": [
+    {
+      "type": "funnelarea",
+      "scalegroup": "first",
+      "values": {
+        "dtype": "i1",
+        "bdata": "BgUEAwIB"
+      },
+      "textinfo": "value",
+      "title": {
+        "position": "top right",
+        "text": "1 - 6 in first group"
+      },
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "ZmZmZmZm5j8AAAAAAADwPw=="
+        },
+        "y": {
+          "dtype": "f8",
+          "bdata": "ZmZmZmZm5j8AAAAAAADwPw=="
+        }
+      }
+    },
+    {
+      "type": "funnelarea",
+      "scalegroup": "first",
+      "values": {
+        "dtype": "i1",
+        "bdata": "EA8ODQwL"
+      },
+      "textinfo": "value",
+      "title": {
+        "position": "top right",
+        "text": "11 - 16 in first group"
+      },
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "ZmZmZmZm5j8AAAAAAADwPw=="
+        },
+        "y": {
+          "dtype": "f8",
+          "bdata": "ZmZmZmZm1j/NzMzMzMzkPw=="
+        }
+      }
+    },
+    {
+      "type": "funnelarea",
+      "scalegroup": "first",
+      "values": {
+        "dtype": "i1",
+        "bdata": "PDIoHhQK"
+      },
+      "textinfo": "value",
+      "title": {
+        "position": "top right",
+        "text": "10 - 60 in first group"
+      },
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "ZmZmZmZm5j8AAAAAAADwPw=="
+        },
+        "y": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAAAAAzMzMzMzPTPw=="
+        }
+      }
+    },
+    {
+      "type": "funnelarea",
+      "scalegroup": "first",
+      "values": {
+        "dtype": "i1",
+        "bdata": "PDIoHhQK"
+      },
+      "textinfo": "value",
+      "title": {
+        "position": "top center",
+        "text": "10 - 60 in first group"
+      },
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "ZmZmZmZm1j/NzMzMzMzkPw=="
+        },
+        "y": {
+          "dtype": "f8",
+          "bdata": "ZmZmZmZm5j8AAAAAAADwPw=="
+        }
+      }
+    },
+    {
+      "type": "funnelarea",
+      "scalegroup": "first",
+      "title": {
+        "position": "top center",
+        "text": "110 - 160 in first group"
+      },
+      "values": {
+        "dtype": "i2",
+        "bdata": "oACWAIwAggB4AG4A"
+      },
+      "textinfo": "value",
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "ZmZmZmZm1j/NzMzMzMzkPw=="
+        },
+        "y": {
+          "dtype": "f8",
+          "bdata": "ZmZmZmZm1j/NzMzMzMzkPw=="
+        }
+      }
+    },
+    {
+      "type": "funnelarea",
+      "scalegroup": "first",
+      "values": {
+        "dtype": "i2",
+        "bdata": "WAL0AZABLAHIAGQA"
+      },
+      "textinfo": "value",
+      "title": {
+        "position": "top center",
+        "text": "100 - 600 in first group"
+      },
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "ZmZmZmZm1j/NzMzMzMzkPw=="
+        },
+        "y": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAAAAAzMzMzMzPTPw=="
+        }
+      }
+    },
+    {
+      "type": "funnelarea",
+      "scalegroup": "second",
+      "values": {
+        "dtype": "i1",
+        "bdata": "BgUEAwIB"
+      },
+      "textinfo": "value",
+      "title": {
+        "position": "top left",
+        "text": "1 - 6 in second group"
+      },
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAAAAAzMzMzMzPTPw=="
+        },
+        "y": {
+          "dtype": "f8",
+          "bdata": "ZmZmZmZm5j8AAAAAAADwPw=="
+        }
+      }
+    },
+    {
+      "type": "funnelarea",
+      "scalegroup": "second",
+      "values": {
+        "dtype": "i1",
+        "bdata": "EA8ODQwL"
+      },
+      "textinfo": "value",
+      "title": {
+        "position": "top left",
+        "text": "11 - 16 in second group"
+      },
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAAAAAzMzMzMzPTPw=="
+        },
+        "y": {
+          "dtype": "f8",
+          "bdata": "ZmZmZmZm1j/NzMzMzMzkPw=="
+        }
+      }
+    },
+    {
+      "type": "funnelarea",
+      "scalegroup": "second",
+      "values": {
+        "dtype": "i1",
+        "bdata": "PDIoHhQK"
+      },
+      "textinfo": "value",
+      "title": {
+        "position": "top left",
+        "text": "10 - 60 in second group"
+      },
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAAAAAzMzMzMzPTPw=="
+        },
+        "y": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAAAAAzMzMzMzPTPw=="
+        }
+      }
+    }
+  ],
+  "layout": {
+    "hiddenlabels": [
+      "1",
+      "4"
+    ],
+    "width": 800,
+    "height": 800,
+    "shapes": [
+      {
+        "type": "rect",
+        "layer": "below",
+        "x0": 0,
+        "x1": 0.3,
+        "y0": 0,
+        "y1": 0.3
+      },
+      {
+        "type": "rect",
+        "layer": "below",
+        "x0": 0,
+        "x1": 0.3,
+        "y0": 0.35,
+        "y1": 0.65
+      },
+      {
+        "type": "rect",
+        "layer": "below",
+        "x0": 0,
+        "x1": 0.3,
+        "y0": 0.7,
+        "y1": 1
+      },
+      {
+        "type": "rect",
+        "layer": "below",
+        "x0": 0.35,
+        "x1": 0.65,
+        "y0": 0,
+        "y1": 0.3
+      },
+      {
+        "type": "rect",
+        "layer": "below",
+        "x0": 0.35,
+        "x1": 0.65,
+        "y0": 0.35,
+        "y1": 0.65
+      },
+      {
+        "type": "rect",
+        "layer": "below",
+        "x0": 0.35,
+        "x1": 0.65,
+        "y0": 0.7,
+        "y1": 1
+      },
+      {
+        "type": "rect",
+        "layer": "below",
+        "x0": 0.7,
+        "x1": 1,
+        "y0": 0,
+        "y1": 0.3
+      },
+      {
+        "type": "rect",
+        "layer": "below",
+        "x0": 0.7,
+        "x1": 1,
+        "y0": 0.35,
+        "y1": 0.65
+      },
+      {
+        "type": "rect",
+        "layer": "below",
+        "x0": 0.7,
+        "x1": 1,
+        "y0": 0.7,
+        "y1": 1
+      }
+    ]
+  }
+}

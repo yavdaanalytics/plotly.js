@@ -1,0 +1,429 @@
+{
+  "data": [
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "/wAB"
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "/wAB"
+      },
+      "z": {
+        "dtype": "i1",
+        "bdata": "AAEAAQABAAEA",
+        "shape": "3, 3"
+      },
+      "lightposition": {
+        "x": 1000,
+        "y": 1000,
+        "z": 0
+      },
+      "opacity": 1,
+      "colorscale": [
+        [
+          0,
+          "#FF0"
+        ],
+        [
+          1,
+          "#FF0"
+        ]
+      ],
+      "showscale": false,
+      "type": "surface",
+      "name": "surface",
+      "scene": "scene"
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AAEAAQABAAE="
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AAABAQAAAQE="
+      },
+      "z": {
+        "dtype": "i1",
+        "bdata": "AAAAAAEBAQE="
+      },
+      "i": {
+        "dtype": "i1",
+        "bdata": "AAMEBwAGAQcABQIH"
+      },
+      "j": {
+        "dtype": "i1",
+        "bdata": "AQIFBgIEAwUEAQYD"
+      },
+      "k": {
+        "dtype": "i1",
+        "bdata": "AwAHBAYABwEFAAcC"
+      },
+      "flatshading": true,
+      "lightposition": {
+        "x": 1000,
+        "y": 1000,
+        "z": 0
+      },
+      "opacity": 1,
+      "color": "#FF0",
+      "type": "mesh3d",
+      "name": "mesh3d",
+      "scene": "scene2"
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "/wAB"
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "/wAB"
+      },
+      "z": {
+        "dtype": "i1",
+        "bdata": "AAEAAQABAAEA",
+        "shape": "3, 3"
+      },
+      "lightposition": {
+        "x": 1000,
+        "y": 1000,
+        "z": 0
+      },
+      "opacity": 0.5,
+      "showscale": false,
+      "type": "surface",
+      "name": "surface",
+      "scene": "scene3"
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AAEAAQABAAE="
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AAABAQAAAQE="
+      },
+      "z": {
+        "dtype": "i1",
+        "bdata": "AAAAAAEBAQE="
+      },
+      "i": {
+        "dtype": "i1",
+        "bdata": "AAMEBwAGAQcABQIH"
+      },
+      "j": {
+        "dtype": "i1",
+        "bdata": "AQIFBgIEAwUEAQYD"
+      },
+      "k": {
+        "dtype": "i1",
+        "bdata": "AwAHBAYABwEFAAcC"
+      },
+      "flatshading": true,
+      "lightposition": {
+        "x": 1000,
+        "y": 1000,
+        "z": 0
+      },
+      "opacity": 0.5,
+      "type": "mesh3d",
+      "name": "mesh3d",
+      "scene": "scene4"
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AAABAQAAAQE="
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AAEBAAABAQA="
+      },
+      "z": {
+        "dtype": "i1",
+        "bdata": "AAAAAAEBAQE="
+      },
+      "u": {
+        "dtype": "i1",
+        "bdata": "AAABAQAAAQE="
+      },
+      "v": {
+        "dtype": "i1",
+        "bdata": "AAEBAAABAQA="
+      },
+      "w": {
+        "dtype": "i1",
+        "bdata": "AAAAAAEBAQE="
+      },
+      "lightposition": {
+        "x": 1000,
+        "y": 1000,
+        "z": 0
+      },
+      "opacity": 0.5,
+      "showscale": false,
+      "type": "cone",
+      "name": "cone",
+      "scene": "scene5"
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AAABAQAAAQE="
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AAEBAAABAQA="
+      },
+      "z": {
+        "dtype": "i1",
+        "bdata": "AAAAAAEBAQE="
+      },
+      "u": {
+        "dtype": "i1",
+        "bdata": "AAABAQAAAQE="
+      },
+      "v": {
+        "dtype": "i1",
+        "bdata": "AAEBAAABAQA="
+      },
+      "w": {
+        "dtype": "i1",
+        "bdata": "AAAAAAEBAQE="
+      },
+      "lightposition": {
+        "x": 1000,
+        "y": 1000,
+        "z": 0
+      },
+      "opacity": 0.5,
+      "showscale": false,
+      "type": "streamtube",
+      "name": "streamtube",
+      "scene": "scene6"
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AAAAAAEBAQE="
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AAABAQAAAQE="
+      },
+      "z": {
+        "dtype": "i1",
+        "bdata": "AAEAAQABAAE="
+      },
+      "value": {
+        "dtype": "i1",
+        "bdata": "AAAAAQEAAAA="
+      },
+      "lightposition": {
+        "x": 1000,
+        "y": 1000,
+        "z": 0
+      },
+      "opacity": 0.5,
+      "showscale": false,
+      "type": "isosurface",
+      "name": "isosurface",
+      "scene": "scene7"
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AAAAAAEBAQE="
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AAABAQAAAQE="
+      },
+      "z": {
+        "dtype": "i1",
+        "bdata": "AAEAAQABAAE="
+      },
+      "value": {
+        "dtype": "i1",
+        "bdata": "AAAAAQEAAAA="
+      },
+      "lightposition": {
+        "x": 1000,
+        "y": 1000,
+        "z": 0
+      },
+      "opacityscale": "max",
+      "opacity": 0.5,
+      "showscale": false,
+      "type": "volume",
+      "name": "volume",
+      "scene": "scene8"
+    }
+  ],
+  "layout": {
+    "paper_bgcolor": "rgba(0,0,255, 0.5)",
+    "margin": {
+      "t": 0,
+      "b": 0,
+      "l": 0,
+      "r": 0
+    },
+    "width": 1000,
+    "height": 500,
+    "scene": {
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAAAAAAAAAAAADQPw=="
+        },
+        "y": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAAAAAAAAAAAADgPw=="
+        }
+      },
+      "camera": {
+        "eye": {
+          "x": 1.5,
+          "y": 3,
+          "z": 1
+        }
+      }
+    },
+    "scene2": {
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAAAAAAAAAAAADQPw=="
+        },
+        "y": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAA4D8AAAAAAADwPw=="
+        }
+      },
+      "camera": {
+        "eye": {
+          "x": 1.5,
+          "y": 3,
+          "z": 1
+        }
+      }
+    },
+    "scene3": {
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAA0D8AAAAAAADgPw=="
+        },
+        "y": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAAAAAAAAAAAADgPw=="
+        }
+      },
+      "camera": {
+        "eye": {
+          "x": 1.5,
+          "y": 3,
+          "z": 1
+        }
+      }
+    },
+    "scene4": {
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAA0D8AAAAAAADgPw=="
+        },
+        "y": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAA4D8AAAAAAADwPw=="
+        }
+      },
+      "camera": {
+        "eye": {
+          "x": 1.5,
+          "y": 3,
+          "z": 1
+        }
+      }
+    },
+    "scene5": {
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAA4D8AAAAAAADoPw=="
+        },
+        "y": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAAAAAAAAAAAADgPw=="
+        }
+      },
+      "camera": {
+        "eye": {
+          "x": 1.5,
+          "y": 3,
+          "z": 1
+        }
+      }
+    },
+    "scene6": {
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAA4D8AAAAAAADoPw=="
+        },
+        "y": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAA4D8AAAAAAADwPw=="
+        }
+      },
+      "camera": {
+        "eye": {
+          "x": 1.5,
+          "y": 3,
+          "z": 1
+        }
+      }
+    },
+    "scene7": {
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAA6D8AAAAAAADwPw=="
+        },
+        "y": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAAAAAAAAAAAADgPw=="
+        }
+      },
+      "camera": {
+        "eye": {
+          "x": 1.5,
+          "y": 3,
+          "z": 1
+        }
+      }
+    },
+    "scene8": {
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAA6D8AAAAAAADwPw=="
+        },
+        "y": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAA4D8AAAAAAADwPw=="
+        }
+      },
+      "camera": {
+        "eye": {
+          "x": 1.5,
+          "y": 3,
+          "z": 1
+        }
+      }
+    }
+  }
+}

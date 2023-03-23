@@ -1,0 +1,131 @@
+{
+  "data": [
+    {
+      "type": "surface",
+      "z": {
+        "dtype": "f8",
+        "bdata": "UrgehevRIEAAAAAAAAAIQAAAAAAAABBAAAAAAAAA8D8AAAAAAAAAQAAAAAAAAAhAAAAAAAAAAEAAAAAAAIBFQAAAAAAAAPA/",
+        "shape": "3, 3"
+      },
+      "reversescale": true,
+      "colorbar": {
+        "title": {
+          "text": "surface"
+        },
+        "x": -0.15,
+        "len": 0.3,
+        "y": 0.7
+      }
+    },
+    {
+      "type": "mesh3d",
+      "name": "colorscale + intensity",
+      "x": {
+        "dtype": "i1",
+        "bdata": "AAECAA=="
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AAABAg=="
+      },
+      "z": {
+        "dtype": "i1",
+        "bdata": "AAIAAQ=="
+      },
+      "i": {
+        "dtype": "i1",
+        "bdata": "AAAAAQ=="
+      },
+      "j": {
+        "dtype": "i1",
+        "bdata": "AQIDAg=="
+      },
+      "k": {
+        "dtype": "i1",
+        "bdata": "AgMBAw=="
+      },
+      "colorscale": [
+        [
+          0,
+          "rgb(0, 0, 0)"
+        ],
+        [
+          0.33,
+          "rgb(255, 0, 0)"
+        ],
+        [
+          0.66,
+          "rgb(0, 255, 0)"
+        ],
+        [
+          1,
+          "rgb(0, 0, 255)"
+        ]
+      ],
+      "intensity": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAAAfhetRuB7VPx+F61G4HuU/AAAAAAAA8D8="
+      },
+      "reversescale": true,
+      "colorbar": {
+        "title": {
+          "text": "mesh3d"
+        },
+        "x": -0.15,
+        "len": 0.3,
+        "y": 0.4
+      }
+    },
+    {
+      "type": "streamtube",
+      "x": {
+        "dtype": "i1",
+        "bdata": "AAAAAAAAAAAAAQEBAQEBAQEBAgICAgICAgIC"
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AAAAAQEBAgICAAAAAQEBAgICAAAAAQEBAgIC"
+      },
+      "z": {
+        "dtype": "i1",
+        "bdata": "AAECAAECAAECAAECAAECAAECAAECAAECAAEC"
+      },
+      "u": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAA8D8AAAAAAADwPwAAAAAAAPA/AAAAAAAA8D8AAAAAAADwPwAAAAAAAPA/AAAAAAAA8D8AAAAAAADwPwAAAAAAAPA/d4aER6p2/T93hoRHqnb9P3eGhEeqdv0/d4aER6p2/T93hoRHqnb9P3eGhEeqdv0/d4aER6p2/T93hoRHqnb9P3eGhEeqdv0/I9podXuM/j8j2mh1e4z+PyPaaHV7jP4/I9podXuM/j8j2mh1e4z+PyPaaHV7jP4/I9podXuM/j8j2mh1e4z+PyPaaHV7jP4/"
+      },
+      "v": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAA8D8AAAAAAADwPwAAAAAAAPA/jAa1DyhK4T+MBrUPKErhP4wGtQ8oSuE/BXJTVyai2r8FclNXJqLavwVyU1cmotq/AAAAAAAA8D8AAAAAAADwPwAAAAAAAPA/jAa1DyhK4T+MBrUPKErhP4wGtQ8oSuE/BXJTVyai2r8FclNXJqLavwVyU1cmotq/AAAAAAAA8D8AAAAAAADwPwAAAAAAAPA/jAa1DyhK4T+MBrUPKErhP4wGtQ8oSuE/BXJTVyai2r8FclNXJqLavwVyU1cmotq/"
+      },
+      "w": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAACjEuDmKbK2Pzcbk0+prsU/AAAAAAAAAACjEuDmKbK2Pzcbk0+prsU/AAAAAAAAAACjEuDmKbK2Pzcbk0+prsU/AAAAAAAAAACjEuDmKbK2Pzcbk0+prsU/AAAAAAAAAACjEuDmKbK2Pzcbk0+prsU/AAAAAAAAAACjEuDmKbK2Pzcbk0+prsU/AAAAAAAAAACjEuDmKbK2Pzcbk0+prsU/AAAAAAAAAACjEuDmKbK2Pzcbk0+prsU/AAAAAAAAAACjEuDmKbK2Pzcbk0+prsU/"
+      },
+      "reversescale": true,
+      "colorbar": {
+        "title": {
+          "text": "streamtube"
+        },
+        "x": -0.15,
+        "len": 0.3,
+        "y": 0,
+        "yanchor": "bottom"
+      }
+    }
+  ],
+  "layout": {
+    "title": {
+      "text": "gl3d trace with reversescale:true"
+    },
+    "scene": {
+      "camera": {
+        "eye": {
+          "x": -2,
+          "y": -0.35,
+          "z": 0.34
+        }
+      }
+    }
+  }
+}

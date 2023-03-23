@@ -1,0 +1,46 @@
+{
+  "data": [
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AAECAwQFBgcI"
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AAMGBAUCAwUE"
+      },
+      "name": "Plot"
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AAECAwQFBgcI"
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AAQHCAMGAwME"
+      },
+      "name": "Plot Plot"
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AAECAwQFBgcI"
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAAAAAAAAAAAUQAAAAAAAAAhAAAAAAAAAJEBSuB6F61EVQOxRuB6F6wFAmpmZmZmZEUBmZmZmZmYUQM3MzMzMzBxA"
+      },
+      "name": "Plot Plot Plot"
+    }
+  ],
+  "layout": {
+    "paper_bgcolor": "pink",
+    "legend": {
+      "orientation": "h",
+      "x": -0.4,
+      "y": -0.1
+    },
+    "width": 400
+  }
+}

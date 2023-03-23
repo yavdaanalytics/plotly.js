@@ -1,0 +1,89 @@
+{
+  "data": [
+    {
+      "y": [
+        "12 AM diagonal",
+        "1 AM diagonal",
+        "2 AM diagonal",
+        "3 AM diagonal",
+        "4 AM diagonal",
+        "5 AM diagonal",
+        "6 AM diagonal",
+        "7 AM diagonal",
+        "8 AM diagonal",
+        "9 AM diagonal",
+        "10 AM diagonal",
+        "11 AM diagonal"
+      ],
+      "x": {
+        "dtype": "f8",
+        "bdata": "uB6F61G4TUAAAAAAADBRQAAAAAAA4FVAAAAAAAAgWUCkcD0K1+NXQDMzMzMzM1dAAAAAAABQVUCamZmZmVlTQJqZmZmZGVNAXI/C9Sh8UkCkcD0K16NSQKRwPQrXQ1RA"
+      }
+    },
+    {
+      "y": [
+        "12 AM diagonal",
+        "1 AM diagonal",
+        "2 AM diagonal",
+        "3 AM diagonal",
+        "4 AM diagonal",
+        "5 AM diagonal",
+        "6 AM diagonal",
+        "7 AM diagonal",
+        "8 AM diagonal",
+        "9 AM diagonal",
+        "10 AM diagonal",
+        "11 AM diagonal"
+      ],
+      "x": {
+        "dtype": "f8",
+        "bdata": "pHA9CtdDVECkcD0K16NSQFyPwvUofFJAmpmZmZkZU0CamZmZmVlTQAAAAAAAUFVAMzMzMzMzV0CkcD0K1+NXQAAAAAAAIFlAAAAAAADgVUAAAAAAADBRQLgehetRuE1A"
+      },
+      "xaxis": "x2",
+      "yaxis": "y2"
+    }
+  ],
+  "layout": {
+    "grid": {
+      "columns": 1,
+      "rows": 2,
+      "pattern": "independent"
+    },
+    "margin": {
+      "l": 0,
+      "r": 0,
+      "t": 0,
+      "b": 0
+    },
+    "xaxis": {
+      "showgrid": false,
+      "showline": true,
+      "zeroline": true,
+      "automargin": true,
+      "side": "bottom"
+    },
+    "yaxis": {
+      "side": "right",
+      "showgrid": false,
+      "showline": true,
+      "zeroline": true,
+      "automargin": true,
+      "tickangle": -45
+    },
+    "xaxis2": {
+      "showgrid": false,
+      "showline": true,
+      "zeroline": true,
+      "automargin": true,
+      "side": "top"
+    },
+    "yaxis2": {
+      "showgrid": false,
+      "showline": true,
+      "zeroline": true,
+      "automargin": true,
+      "tickangle": -45
+    },
+    "showlegend": false
+  }
+}

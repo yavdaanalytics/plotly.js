@@ -1,0 +1,99 @@
+{
+  "data": [
+    {
+      "z": {
+        "dtype": "f8",
+        "bdata": "oZnMHaJ2vj8Wq2Ea4cjVP8LxIU1hCug/yKh8GdZe5j8/qIsUyoLhP8IHwIky5d8/HNyMiYO64j+eq/dlelPQP1LALKNHguw/Vbw2wHG+wT/7B5EMObbuP9ZRekvepcw/Yrq18cww4D+TsMrgg7LuP1eYvtcQHMM/",
+        "shape": "3, 5"
+      },
+      "x": [
+        "Mon",
+        "Tues",
+        "Wed",
+        "Th",
+        "Fri"
+      ],
+      "y": [
+        "8am",
+        "12pm",
+        "6pm"
+      ],
+      "colorscale": [
+        [
+          0,
+          "rgb(128, 0, 38)"
+        ],
+        [
+          0.125,
+          "rgb(189, 0, 38)"
+        ],
+        [
+          0.25,
+          "rgb(227, 26, 28)"
+        ],
+        [
+          0.375,
+          "rgb(252, 78, 42)"
+        ],
+        [
+          0.5,
+          "rgb(253, 141, 60)"
+        ],
+        [
+          0.625,
+          "rgb(254, 178, 76)"
+        ],
+        [
+          0.75,
+          "rgb(254, 217, 118)"
+        ],
+        [
+          0.875,
+          "rgb(255, 237, 160)"
+        ],
+        [
+          1,
+          "rgb(255, 255, 204)"
+        ]
+      ],
+      "x0": 0,
+      "dx": 1,
+      "y0": 0,
+      "dy": 1,
+      "type": "heatmap"
+    }
+  ],
+  "layout": {
+    "title": {
+      "text": "User Traffic"
+    },
+    "font": {
+      "family": "Arial, sans-serif",
+      "size": 12,
+      "color": "#000"
+    },
+    "autosize": false,
+    "width": 600,
+    "height": 350,
+    "xaxis": {
+      "ticks": ""
+    },
+    "yaxis": {
+      "ticks": ""
+    },
+    "annotations": [
+      {
+        "showarrow": false,
+        "x": "Wed",
+        "y": "12pm",
+        "text": "meeting"
+      },
+      {
+        "showarrow": false,
+        "x": 0,
+        "y": 0,
+        "text": "meeting"
+      }
+    ]
+  }
+}

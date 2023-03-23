@@ -1,0 +1,165 @@
+{
+  "data": [
+    {
+      "type": "scattergeo",
+      "mode": "markers+lines",
+      "lon": {
+        "dtype": "i2",
+        "bdata": "qgC0AEz/Vv8="
+      },
+      "lat": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAScAAAAAAAIBGwAAAAAAAACTAAAAAAACANMA="
+      },
+      "marker": {
+        "size": 20
+      }
+    },
+    {
+      "type": "choropleth",
+      "locations": [
+        "NZL",
+        "AUS"
+      ],
+      "z": {
+        "dtype": "i1",
+        "bdata": "AAE="
+      },
+      "showscale": false
+    },
+    {
+      "type": "scattergeo",
+      "mode": "markers+lines",
+      "lon": {
+        "dtype": "i2",
+        "bdata": "Vv+qAA=="
+      },
+      "lat": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAScAAAAAAAIA0wA=="
+      },
+      "marker": {
+        "size": 20
+      },
+      "line": {
+        "width": 5
+      },
+      "geo": "geo2",
+      "name": "west to east"
+    },
+    {
+      "type": "scattergeo",
+      "mode": "markers+lines",
+      "lon": {
+        "dtype": "i2",
+        "bdata": "qgBW/w=="
+      },
+      "lat": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAScAAAAAAAIA0wA=="
+      },
+      "marker": {
+        "size": 20
+      },
+      "line": {
+        "width": 5
+      },
+      "geo": "geo2",
+      "name": "east to west"
+    },
+    {
+      "type": "choropleth",
+      "locations": [
+        "NZL",
+        "AUS"
+      ],
+      "z": {
+        "dtype": "i1",
+        "bdata": "AAE="
+      },
+      "showscale": false,
+      "geo": "geo2"
+    }
+  ],
+  "layout": {
+    "geo": {
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAAAAAAAAAAAADgPw=="
+        },
+        "y": {
+          "dtype": "i1",
+          "bdata": "AAE="
+        }
+      },
+      "showocean": true,
+      "lonaxis": {
+        "showgrid": true,
+        "dtick": 2,
+        "range": [
+          120,
+          -120
+        ]
+      },
+      "projection": {
+        "scale": 2
+      },
+      "center": {
+        "lat": -45
+      }
+    },
+    "geo2": {
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAA4D8AAAAAAADwPw=="
+        },
+        "y": {
+          "dtype": "i1",
+          "bdata": "AAE="
+        }
+      },
+      "showocean": true,
+      "lonaxis": {
+        "showgrid": true,
+        "dtick": 2,
+        "range": [
+          150,
+          -150
+        ]
+      },
+      "lataxis": {
+        "range": [
+          -90,
+          0
+        ]
+      }
+    },
+    "annotations": [
+      {
+        "showarrow": false,
+        "xref": "paper",
+        "yref": "paper",
+        "x": 0.25,
+        "y": 1,
+        "xanchor": "center",
+        "yanchor": "bottom",
+        "text": "set <i>lonaxis.range</i>, <i>center.lon</i> and <i>projection.scale</i>"
+      },
+      {
+        "showarrow": false,
+        "xref": "paper",
+        "yref": "paper",
+        "x": 0.75,
+        "y": 1,
+        "xanchor": "center",
+        "yanchor": "bottom",
+        "text": "set <i>lonaxis.range</i> and <i>lataxis.range</i>"
+      }
+    ],
+    "showlegend": false,
+    "width": 700,
+    "height": 440
+  }
+}

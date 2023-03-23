@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "y": {
+        "dtype": "i1",
+        "bdata": "AQIB"
+      },
+      "name": "country=Canada",
+      "legendgroup": "country=Canada"
+    },
+    {
+      "y": {
+        "dtype": "i1",
+        "bdata": "AgEC"
+      },
+      "name": "country=Mexico",
+      "legendgroup": "country=Mexico"
+    },
+    {
+      "y": {
+        "dtype": "i1",
+        "bdata": "AwAE"
+      },
+      "name": "country=United States",
+      "legendgroup": "country=United States"
+    }
+  ],
+  "layout": {
+    "legend": {
+      "bgcolor": "red",
+      "orientation": "h"
+    },
+    "width": 700
+  }
+}

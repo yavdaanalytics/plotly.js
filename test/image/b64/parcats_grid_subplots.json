@@ -1,0 +1,212 @@
+{
+  "data": [
+    {
+      "type": "parcats",
+      "domain": {
+        "row": 0,
+        "column": 0
+      },
+      "dimensions": [
+        {
+          "label": "One",
+          "values": {
+            "dtype": "i1",
+            "bdata": "AQECAQIBAQIBAgMBAgMBAgECAQE="
+          }
+        },
+        {
+          "label": "Two",
+          "values": [
+            "A",
+            "B",
+            "A",
+            "B",
+            "C",
+            "C",
+            "A",
+            "B",
+            "C",
+            "B",
+            "C",
+            "B",
+            "C",
+            "B",
+            "C",
+            "B",
+            "C",
+            "B",
+            "A",
+            "A"
+          ]
+        },
+        {
+          "label": "Three",
+          "values": {
+            "dtype": "i1",
+            "bdata": "CwsLCwsLCwsLCwsLCwsLCwsLCws="
+          }
+        }
+      ],
+      "bundlecolors": true,
+      "line": {
+        "color": {
+          "dtype": "i1",
+          "bdata": "AAABAQABAAAAAgICAgECAQACAQI="
+        },
+        "shape": "linear",
+        "showscale": true,
+        "colorscale": "Viridis"
+      }
+    },
+    {
+      "type": "parcats",
+      "domain": {
+        "row": 0,
+        "column": 1
+      },
+      "dimensions": [
+        {
+          "label": "One",
+          "values": {
+            "dtype": "i1",
+            "bdata": "AQECAQIBAQIB"
+          }
+        },
+        {
+          "label": "Two",
+          "values": [
+            "A",
+            "B",
+            "A",
+            "B",
+            "C",
+            "C",
+            "A",
+            "B",
+            "C"
+          ]
+        },
+        {
+          "label": "Three",
+          "values": {
+            "dtype": "i1",
+            "bdata": "CwsLCwsLCwsL"
+          }
+        }
+      ],
+      "labelfont": {
+        "family": "Rockwell",
+        "size": 20,
+        "color": "gray"
+      },
+      "tickfont": {
+        "family": "Arial",
+        "size": 10,
+        "color": "firebrick"
+      }
+    },
+    {
+      "type": "parcats",
+      "domain": {
+        "row": 1,
+        "column": 0
+      },
+      "tickfont": {
+        "color": "black"
+      },
+      "dimensions": [
+        {
+          "label": "One",
+          "values": {
+            "dtype": "i1",
+            "bdata": "AQECAQIBAQIB"
+          }
+        },
+        {
+          "label": "Two",
+          "values": [
+            "A",
+            "B",
+            "A",
+            "B",
+            "C",
+            "C",
+            "A",
+            "B",
+            "C"
+          ],
+          "categoryarray": [
+            "A",
+            "B",
+            "C"
+          ],
+          "ticktext": [
+            "$A^2$",
+            "<b>Bold</b><br>and<br><i>Italic</i>",
+            "<a href='http://www.google.com'>Link</a>"
+          ]
+        },
+        {
+          "label": "Three",
+          "values": {
+            "dtype": "i1",
+            "bdata": "CwsLCwsLCwsL"
+          }
+        }
+      ]
+    },
+    {
+      "type": "parcats",
+      "domain": {
+        "row": 1,
+        "column": 1
+      },
+      "dimensions": [
+        {
+          "label": "One",
+          "values": {
+            "dtype": "i1",
+            "bdata": "AQECAQIBAQIB"
+          }
+        },
+        {
+          "label": "Two",
+          "values": [
+            "A",
+            "B",
+            "A",
+            "B",
+            "C",
+            "C",
+            "A",
+            "B",
+            "C"
+          ]
+        },
+        {
+          "label": "Three",
+          "values": {
+            "dtype": "i1",
+            "bdata": "CwsLCwsLCwsL"
+          }
+        }
+      ],
+      "bundlecolors": false,
+      "line": {
+        "color": {
+          "dtype": "i1",
+          "bdata": "AAABAQABAAAA"
+        },
+        "shape": "hspline"
+      }
+    }
+  ],
+  "layout": {
+    "height": 602,
+    "width": 592,
+    "grid": {
+      "rows": 2,
+      "columns": 2
+    }
+  }
+}

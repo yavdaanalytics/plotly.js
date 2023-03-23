@@ -1,0 +1,230 @@
+{
+  "data": [
+    {
+      "contours": {
+        "type": "constraint",
+        "operation": "[]",
+        "value": {
+          "dtype": "i1",
+          "bdata": "AgQ="
+        },
+        "showlabels": true
+      },
+      "hoverlabel": {
+        "font": {
+          "size": 20,
+          "color": "rgb(0,100,200)"
+        },
+        "bgcolor": "rgb(200,200,200)",
+        "bordercolor": "rgb(0,0,100)"
+      },
+      "zhoverformat": ".2f",
+      "z": {
+        "dtype": "i1",
+        "bdata": "AQIDAgMEAwQF",
+        "shape": "3, 3"
+      },
+      "type": "contour",
+      "name": "[2, 4]"
+    },
+    {
+      "contours": {
+        "type": "constraint",
+        "operation": "=",
+        "value": 3.000101,
+        "showlabels": true
+      },
+      "z": {
+        "dtype": "i1",
+        "bdata": "AQIDAgMEAwQF",
+        "shape": "3, 3"
+      },
+      "type": "contour",
+      "name": "=3.0001"
+    },
+    {
+      "contours": {
+        "type": "constraint",
+        "operation": ">",
+        "value": 1,
+        "showlabels": true
+      },
+      "fillcolor": "rgba(0,200,0,0.3)",
+      "z": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAAAAAAAAAADgPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAkQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+        "shape": "3, 3"
+      },
+      "type": "contour",
+      "name": ">1"
+    },
+    {
+      "contours": {
+        "type": "constraint",
+        "operation": ">",
+        "value": 0.25,
+        "showlabels": true
+      },
+      "line": {
+        "color": "rgb(150,0,0)"
+      },
+      "z": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAAAAAAAAAADgPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAkQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+        "shape": "3, 3"
+      },
+      "type": "contour",
+      "name": ">0.25"
+    },
+    {
+      "contours": {
+        "type": "constraint",
+        "operation": "][",
+        "value": {
+          "dtype": "i1",
+          "bdata": "Bgc="
+        },
+        "showlabels": true
+      },
+      "fillcolor": "rgba(150,0,200,0.3)",
+      "line": {
+        "color": "rgb(100,0,0)"
+      },
+      "z": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAAAAAAAAAADgPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAkQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+        "shape": "3, 3"
+      },
+      "type": "contour",
+      "name": "]6, 7["
+    },
+    {
+      "contours": {
+        "type": "constraint",
+        "operation": "<",
+        "value": 8,
+        "showlabels": true,
+        "labelfont": {
+          "size": 20,
+          "color": "red"
+        },
+        "labelformat": ".2f"
+      },
+      "line": {
+        "width": 4,
+        "dash": "dot"
+      },
+      "z": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAAAAAAAAAADgPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAkQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+        "shape": "3, 3"
+      },
+      "type": "contour",
+      "name": "<8"
+    },
+    {
+      "contours": {
+        "type": "constraint",
+        "operation": "][",
+        "value": {
+          "dtype": "i1",
+          "bdata": "AwQ="
+        },
+        "showlabels": true
+      },
+      "z": {
+        "dtype": "i1",
+        "bdata": "CwoBCwoBCwoB",
+        "shape": "3, 3"
+      },
+      "type": "contour",
+      "name": "]3, 4["
+    },
+    {
+      "contours": {
+        "type": "constraint",
+        "operation": "<",
+        "value": -1
+      },
+      "z": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAAAAAAAAAADgvwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+        "shape": "3, 3"
+      },
+      "type": "contour",
+      "name": "< -1",
+      "xaxis": "x2"
+    },
+    {
+      "contours": {
+        "type": "constraint",
+        "operation": "<",
+        "value": -0.25
+      },
+      "z": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAAAAAAAAAADgvwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+        "shape": "3, 3"
+      },
+      "type": "contour",
+      "name": "< -0.25",
+      "xaxis": "x2"
+    },
+    {
+      "contours": {
+        "type": "constraint",
+        "operation": "][",
+        "value": {
+          "dtype": "i1",
+          "bdata": "+fo="
+        }
+      },
+      "z": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAAAAAAAAAADgvwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+        "shape": "3, 3"
+      },
+      "type": "contour",
+      "name": "]-7, -6[",
+      "xaxis": "x2"
+    },
+    {
+      "contours": {
+        "type": "constraint",
+        "operation": ">",
+        "value": -8
+      },
+      "z": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAAAAAAAAAADgvwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+        "shape": "3, 3"
+      },
+      "type": "contour",
+      "name": "> -8",
+      "xaxis": "x2"
+    }
+  ],
+  "layout": {
+    "xaxis": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAADi6ZWyDHHcPw=="
+      }
+    },
+    "xaxis2": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "Dwu1pnnH4T8AAAAAAADwPw=="
+      }
+    },
+    "height": 500,
+    "width": 1100,
+    "margin": {
+      "l": 50,
+      "r": 150,
+      "t": 50,
+      "b": 50,
+      "autoexpand": false
+    }
+  }
+}

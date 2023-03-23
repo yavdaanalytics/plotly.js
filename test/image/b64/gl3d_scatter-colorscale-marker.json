@@ -1,0 +1,338 @@
+{
+  "data": [
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "/P3+/wABAgMEBQY="
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AAAAAAAAAAAAAAA="
+      },
+      "z": {
+        "dtype": "i1",
+        "bdata": "AAAAAAAAAAAAAAA="
+      },
+      "mode": "markers",
+      "type": "scatter3d",
+      "marker": {
+        "size": 14,
+        "color": {
+          "dtype": "i1",
+          "bdata": "/v8AAQIDBAUGBwg="
+        },
+        "colorscale": "Greens",
+        "cmin": 2,
+        "cmax": 4,
+        "cauto": true
+      }
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "/P3+/wABAgMEBQY="
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AQEBAQEBAQEBAQE="
+      },
+      "z": {
+        "dtype": "i1",
+        "bdata": "AAAAAAAAAAAAAAA="
+      },
+      "mode": "markers",
+      "type": "scatter3d",
+      "marker": {
+        "size": 12,
+        "color": {
+          "dtype": "i1",
+          "bdata": "/v8AAQIDBAUGBwg="
+        },
+        "colorscale": "Viridis",
+        "cmin": 2,
+        "cmax": 4
+      }
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "/P3+/wABAgMEBQY="
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AgICAgICAgICAgI="
+      },
+      "z": {
+        "dtype": "i1",
+        "bdata": "AAAAAAAAAAAAAAA="
+      },
+      "mode": "markers",
+      "type": "scatter3d",
+      "marker": {
+        "size": 9,
+        "color": {
+          "dtype": "i1",
+          "bdata": "/v8AAQIDBAUGBwg="
+        },
+        "colorscale": "Viridis",
+        "cmin": -20,
+        "cmax": 20,
+        "reversescale": false
+      }
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "/P3+/wABAgMEBQY="
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AwMDAwMDAwMDAwM="
+      },
+      "z": {
+        "dtype": "i1",
+        "bdata": "AAAAAAAAAAAAAAA="
+      },
+      "mode": "markers",
+      "type": "scatter3d",
+      "marker": {
+        "size": 6,
+        "color": {
+          "dtype": "i1",
+          "bdata": "/v8AAQIDBAUGBwg="
+        },
+        "colorscale": "Viridis",
+        "cmin": -20,
+        "cmax": 20,
+        "reversescale": true
+      }
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "/P3+/wABAgMEBQY="
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "BAQEBAQEBAQEBAQ="
+      },
+      "z": {
+        "dtype": "i1",
+        "bdata": "AAAAAAAAAAAAAAA="
+      },
+      "mode": "markers",
+      "type": "scatter3d",
+      "marker": {
+        "size": 8,
+        "color": {
+          "dtype": "i1",
+          "bdata": "/v8AAQIDBAUGBwg="
+        },
+        "colorscale": "Reds",
+        "autocolorscale": false
+      }
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "/P3+/wABAgMEBQY="
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "BQUFBQUFBQUFBQU="
+      },
+      "z": {
+        "dtype": "i1",
+        "bdata": "AAAAAAAAAAAAAAA="
+      },
+      "mode": "markers",
+      "type": "scatter3d",
+      "marker": {
+        "size": 11,
+        "color": {
+          "dtype": "i1",
+          "bdata": "/v8AAQIDBAUGBwg="
+        },
+        "colorscale": "Viridis",
+        "autocolorscale": true
+      }
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "/P3+/wABAgMEBQY="
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "BgYGBgYGBgYGBgY="
+      },
+      "z": {
+        "dtype": "i1",
+        "bdata": "AAAAAAAAAAAAAAA="
+      },
+      "mode": "markers",
+      "type": "scatter3d",
+      "marker": {
+        "size": 14,
+        "color": {
+          "dtype": "i1",
+          "bdata": "/v8AAQIDBAUGBwg="
+        },
+        "colorscale": "Viridis"
+      }
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "/P3+/wABAgMEBQY="
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "BwcHBwcHBwcHBwc="
+      },
+      "z": {
+        "dtype": "i1",
+        "bdata": "AAAAAAAAAAAAAAA="
+      },
+      "mode": "markers",
+      "type": "scatter3d",
+      "marker": {
+        "size": 12,
+        "color": {
+          "dtype": "i1",
+          "bdata": "/v8AAQIDBAUGBwg="
+        },
+        "colorscale": "Viridis",
+        "cmin": 2,
+        "cmax": 4,
+        "reversescale": true
+      }
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "/P3+/wABAgMEBQY="
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "CAgICAgICAgICAg="
+      },
+      "z": {
+        "dtype": "i1",
+        "bdata": "AAAAAAAAAAAAAAA="
+      },
+      "mode": "markers",
+      "type": "scatter3d",
+      "marker": {
+        "size": 9,
+        "color": {
+          "dtype": "i1",
+          "bdata": "//79/Pv6+fj39vU="
+        }
+      }
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "/P3+/wABAgMEBQY="
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "CQkJCQkJCQkJCQk="
+      },
+      "z": {
+        "dtype": "i1",
+        "bdata": "AAAAAAAAAAAAAAA="
+      },
+      "mode": "markers",
+      "type": "scatter3d",
+      "marker": {
+        "size": 7,
+        "color": {
+          "dtype": "i1",
+          "bdata": "AAECAwQFBgcICQo="
+        }
+      }
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "/P3+/wABAgMEBQY="
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "CgoKCgoKCgoKCgo="
+      },
+      "z": {
+        "dtype": "i1",
+        "bdata": "AAAAAAAAAAAAAAA="
+      },
+      "mode": "markers",
+      "type": "scatter3d",
+      "marker": {
+        "size": 8,
+        "color": {
+          "dtype": "i1",
+          "bdata": "/v8AAQIDBAUGBwg="
+        },
+        "cmin": 2,
+        "cmax": 4,
+        "cauto": true
+      }
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "/P3+/wABAgMEBQY="
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "CwsLCwsLCwsLCws="
+      },
+      "z": {
+        "dtype": "i1",
+        "bdata": "AAAAAAAAAAAAAAA="
+      },
+      "mode": "markers",
+      "type": "scatter3d",
+      "marker": {
+        "size": 11,
+        "color": {
+          "dtype": "i1",
+          "bdata": "/v8AAQIDBAUGBwg="
+        }
+      }
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "/P3+/wABAgMEBQY="
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "DAwMDAwMDAwMDAw="
+      },
+      "z": {
+        "dtype": "i1",
+        "bdata": "AAAAAAAAAAAAAAA="
+      },
+      "mode": "markers",
+      "type": "scatter3d",
+      "marker": {
+        "size": 13,
+        "color": {
+          "dtype": "i1",
+          "bdata": "/v8AAQIDBAUGBwg="
+        },
+        "reversescale": true
+      }
+    }
+  ],
+  "layout": {
+    "title": {
+      "text": "Scatter colorscale marker cauto, constrained and expanded variations"
+    },
+    "height": 758,
+    "width": 1310
+  }
+}

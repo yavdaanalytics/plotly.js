@@ -1,0 +1,588 @@
+{
+  "data": [
+    {
+      "opacity": 0.3,
+      "coloraxis": "coloraxis",
+      "type": "streamtube",
+      "x": {
+        "dtype": "i1",
+        "bdata": "AP/+/fwA//79/AD//v38AP/+/fwA//79/AD//v38AP/+/fwA//79/AD//v38AP/+/fwA//79/AD//v38AP/+/fwA//79/AD//v38AP/+/fwA//79/AD//v38AP/+/fwA//79/AD//v38AP/+/fwA//79/AD//v38AP/+/fw="
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AAAAAAD///////7+/v7+/f39/f38/Pz8/AAAAAAA///////+/v7+/v39/f39/Pz8/PwAAAAAAP///////v7+/v79/f39/fz8/Pz8AAAAAAD///////7+/v7+/f39/f38/Pz8/AAAAAAA///////+/v7+/v39/f39/Pz8/Pw="
+      },
+      "z": {
+        "dtype": "i1",
+        "bdata": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP/////////////////////////////////+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/f39/f39/f39/f39/f39/f39/f39/f39/fz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pw="
+      },
+      "w": {
+        "dtype": "i1",
+        "bdata": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA="
+      },
+      "v": {
+        "dtype": "i1",
+        "bdata": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA="
+      },
+      "u": {
+        "dtype": "i1",
+        "bdata": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP/////////////////////////////////+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/f39/f39/f39/f39/f39/f39/f39/f39/fz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pw="
+      },
+      "starts": {
+        "z": {
+          "dtype": "i1",
+          "bdata": "AP/+/fwA//79/AD//v38AP/+/fwA//79/A=="
+        },
+        "y": {
+          "dtype": "i1",
+          "bdata": "AAAAAAD///////7+/v7+/f39/f38/Pz8/A=="
+        },
+        "x": {
+          "dtype": "i1",
+          "bdata": "Af///////////////////////////////w=="
+        }
+      },
+      "scene": "scene"
+    },
+    {
+      "opacity": 0.3,
+      "coloraxis": "coloraxis",
+      "type": "streamtube",
+      "x": {
+        "dtype": "i1",
+        "bdata": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP/////////////////////////////////+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/f39/f39/f39/f39/f39/f39/f39/f39/fz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pw="
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AAAAAAD///////7+/v7+/f39/f38/Pz8/AAAAAAA///////+/v7+/v39/f39/Pz8/PwAAAAAAP///////v7+/v79/f39/fz8/Pz8AAAAAAD///////7+/v7+/f39/f38/Pz8/AAAAAAA///////+/v7+/v39/f39/Pz8/Pw="
+      },
+      "z": {
+        "dtype": "i1",
+        "bdata": "AP/+/fwA//79/AD//v38AP/+/fwA//79/AD//v38AP/+/fwA//79/AD//v38AP/+/fwA//79/AD//v38AP/+/fwA//79/AD//v38AP/+/fwA//79/AD//v38AP/+/fwA//79/AD//v38AP/+/fwA//79/AD//v38AP/+/fw="
+      },
+      "w": {
+        "dtype": "i1",
+        "bdata": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA="
+      },
+      "v": {
+        "dtype": "i1",
+        "bdata": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA="
+      },
+      "u": {
+        "dtype": "i1",
+        "bdata": "AP/+/fwA//79/AD//v38AP/+/fwA//79/AD//v38AP/+/fwA//79/AD//v38AP/+/fwA//79/AD//v38AP/+/fwA//79/AD//v38AP/+/fwA//79/AD//v38AP/+/fwA//79/AD//v38AP/+/fwA//79/AD//v38AP/+/fw="
+      },
+      "starts": {
+        "z": {
+          "dtype": "i1",
+          "bdata": "AP/+/fwA//79/AD//v38AP/+/fwA//79/A=="
+        },
+        "y": {
+          "dtype": "i1",
+          "bdata": "AAAAAAD///////7+/v7+/f39/f38/Pz8/A=="
+        },
+        "x": {
+          "dtype": "i1",
+          "bdata": "Af///////////////////////////////w=="
+        }
+      },
+      "scene": "scene2"
+    },
+    {
+      "opacity": 0.3,
+      "coloraxis": "coloraxis",
+      "type": "streamtube",
+      "y": {
+        "dtype": "i1",
+        "bdata": "AP/+/fwA//79/AD//v38AP/+/fwA//79/AD//v38AP/+/fwA//79/AD//v38AP/+/fwA//79/AD//v38AP/+/fwA//79/AD//v38AP/+/fwA//79/AD//v38AP/+/fwA//79/AD//v38AP/+/fwA//79/AD//v38AP/+/fw="
+      },
+      "z": {
+        "dtype": "i1",
+        "bdata": "AAAAAAD///////7+/v7+/f39/f38/Pz8/AAAAAAA///////+/v7+/v39/f39/Pz8/PwAAAAAAP///////v7+/v79/f39/fz8/Pz8AAAAAAD///////7+/v7+/f39/f38/Pz8/AAAAAAA///////+/v7+/v39/f39/Pz8/Pw="
+      },
+      "x": {
+        "dtype": "i1",
+        "bdata": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP/////////////////////////////////+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/f39/f39/f39/f39/f39/f39/f39/f39/fz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pw="
+      },
+      "u": {
+        "dtype": "i1",
+        "bdata": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA="
+      },
+      "w": {
+        "dtype": "i1",
+        "bdata": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA="
+      },
+      "v": {
+        "dtype": "i1",
+        "bdata": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP/////////////////////////////////+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/f39/f39/f39/f39/f39/f39/f39/f39/fz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pw="
+      },
+      "starts": {
+        "x": {
+          "dtype": "i1",
+          "bdata": "AP/+/fwA//79/AD//v38AP/+/fwA//79/A=="
+        },
+        "z": {
+          "dtype": "i1",
+          "bdata": "AAAAAAD///////7+/v7+/f39/f38/Pz8/A=="
+        },
+        "y": {
+          "dtype": "i1",
+          "bdata": "Af///////////////////////////////w=="
+        }
+      },
+      "scene": "scene3"
+    },
+    {
+      "opacity": 0.3,
+      "coloraxis": "coloraxis",
+      "type": "streamtube",
+      "y": {
+        "dtype": "i1",
+        "bdata": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP/////////////////////////////////+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/f39/f39/f39/f39/f39/f39/f39/f39/fz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pw="
+      },
+      "z": {
+        "dtype": "i1",
+        "bdata": "AAAAAAD///////7+/v7+/f39/f38/Pz8/AAAAAAA///////+/v7+/v39/f39/Pz8/PwAAAAAAP///////v7+/v79/f39/fz8/Pz8AAAAAAD///////7+/v7+/f39/f38/Pz8/AAAAAAA///////+/v7+/v39/f39/Pz8/Pw="
+      },
+      "x": {
+        "dtype": "i1",
+        "bdata": "AP/+/fwA//79/AD//v38AP/+/fwA//79/AD//v38AP/+/fwA//79/AD//v38AP/+/fwA//79/AD//v38AP/+/fwA//79/AD//v38AP/+/fwA//79/AD//v38AP/+/fwA//79/AD//v38AP/+/fwA//79/AD//v38AP/+/fw="
+      },
+      "u": {
+        "dtype": "i1",
+        "bdata": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA="
+      },
+      "w": {
+        "dtype": "i1",
+        "bdata": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA="
+      },
+      "v": {
+        "dtype": "i1",
+        "bdata": "AP/+/fwA//79/AD//v38AP/+/fwA//79/AD//v38AP/+/fwA//79/AD//v38AP/+/fwA//79/AD//v38AP/+/fwA//79/AD//v38AP/+/fwA//79/AD//v38AP/+/fwA//79/AD//v38AP/+/fwA//79/AD//v38AP/+/fw="
+      },
+      "starts": {
+        "x": {
+          "dtype": "i1",
+          "bdata": "AP/+/fwA//79/AD//v38AP/+/fwA//79/A=="
+        },
+        "z": {
+          "dtype": "i1",
+          "bdata": "AAAAAAD///////7+/v7+/f39/f38/Pz8/A=="
+        },
+        "y": {
+          "dtype": "i1",
+          "bdata": "Af///////////////////////////////w=="
+        }
+      },
+      "scene": "scene4"
+    },
+    {
+      "opacity": 0.3,
+      "coloraxis": "coloraxis",
+      "type": "streamtube",
+      "z": {
+        "dtype": "i1",
+        "bdata": "AP/+/fwA//79/AD//v38AP/+/fwA//79/AD//v38AP/+/fwA//79/AD//v38AP/+/fwA//79/AD//v38AP/+/fwA//79/AD//v38AP/+/fwA//79/AD//v38AP/+/fwA//79/AD//v38AP/+/fwA//79/AD//v38AP/+/fw="
+      },
+      "x": {
+        "dtype": "i1",
+        "bdata": "AAAAAAD///////7+/v7+/f39/f38/Pz8/AAAAAAA///////+/v7+/v39/f39/Pz8/PwAAAAAAP///////v7+/v79/f39/fz8/Pz8AAAAAAD///////7+/v7+/f39/f38/Pz8/AAAAAAA///////+/v7+/v39/f39/Pz8/Pw="
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP/////////////////////////////////+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/f39/f39/f39/f39/f39/f39/f39/f39/fz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pw="
+      },
+      "v": {
+        "dtype": "i1",
+        "bdata": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA="
+      },
+      "u": {
+        "dtype": "i1",
+        "bdata": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA="
+      },
+      "w": {
+        "dtype": "i1",
+        "bdata": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP/////////////////////////////////+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/f39/f39/f39/f39/f39/f39/f39/f39/fz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pw="
+      },
+      "starts": {
+        "y": {
+          "dtype": "i1",
+          "bdata": "AP/+/fwA//79/AD//v38AP/+/fwA//79/A=="
+        },
+        "x": {
+          "dtype": "i1",
+          "bdata": "AAAAAAD///////7+/v7+/f39/f38/Pz8/A=="
+        },
+        "z": {
+          "dtype": "i1",
+          "bdata": "Af///////////////////////////////w=="
+        }
+      },
+      "scene": "scene5"
+    },
+    {
+      "opacity": 0.3,
+      "coloraxis": "coloraxis",
+      "type": "streamtube",
+      "z": {
+        "dtype": "i1",
+        "bdata": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP/////////////////////////////////+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/f39/f39/f39/f39/f39/f39/f39/f39/fz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pw="
+      },
+      "x": {
+        "dtype": "i1",
+        "bdata": "AAAAAAD///////7+/v7+/f39/f38/Pz8/AAAAAAA///////+/v7+/v39/f39/Pz8/PwAAAAAAP///////v7+/v79/f39/fz8/Pz8AAAAAAD///////7+/v7+/f39/f38/Pz8/AAAAAAA///////+/v7+/v39/f39/Pz8/Pw="
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AP/+/fwA//79/AD//v38AP/+/fwA//79/AD//v38AP/+/fwA//79/AD//v38AP/+/fwA//79/AD//v38AP/+/fwA//79/AD//v38AP/+/fwA//79/AD//v38AP/+/fwA//79/AD//v38AP/+/fwA//79/AD//v38AP/+/fw="
+      },
+      "v": {
+        "dtype": "i1",
+        "bdata": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA="
+      },
+      "u": {
+        "dtype": "i1",
+        "bdata": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA="
+      },
+      "w": {
+        "dtype": "i1",
+        "bdata": "AP/+/fwA//79/AD//v38AP/+/fwA//79/AD//v38AP/+/fwA//79/AD//v38AP/+/fwA//79/AD//v38AP/+/fwA//79/AD//v38AP/+/fwA//79/AD//v38AP/+/fwA//79/AD//v38AP/+/fwA//79/AD//v38AP/+/fw="
+      },
+      "starts": {
+        "y": {
+          "dtype": "i1",
+          "bdata": "AP/+/fwA//79/AD//v38AP/+/fwA//79/A=="
+        },
+        "x": {
+          "dtype": "i1",
+          "bdata": "AAAAAAD///////7+/v7+/f39/f38/Pz8/A=="
+        },
+        "z": {
+          "dtype": "i1",
+          "bdata": "Af///////////////////////////////w=="
+        }
+      },
+      "scene": "scene6"
+    },
+    {
+      "opacity": 0.3,
+      "coloraxis": "coloraxis",
+      "type": "cone",
+      "x": {
+        "dtype": "i1",
+        "bdata": "AP/+/fwA//79/AD//v38AP/+/fwA//79/AD//v38AP/+/fwA//79/AD//v38AP/+/fwA//79/AD//v38AP/+/fwA//79/AD//v38AP/+/fwA//79/AD//v38AP/+/fwA//79/AD//v38AP/+/fwA//79/AD//v38AP/+/fw="
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AAAAAAD///////7+/v7+/f39/f38/Pz8/AAAAAAA///////+/v7+/v39/f39/Pz8/PwAAAAAAP///////v7+/v79/f39/fz8/Pz8AAAAAAD///////7+/v7+/f39/f38/Pz8/AAAAAAA///////+/v7+/v39/f39/Pz8/Pw="
+      },
+      "z": {
+        "dtype": "i1",
+        "bdata": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP/////////////////////////////////+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/f39/f39/f39/f39/f39/f39/f39/f39/fz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pw="
+      },
+      "w": {
+        "dtype": "i1",
+        "bdata": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA="
+      },
+      "v": {
+        "dtype": "i1",
+        "bdata": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA="
+      },
+      "u": {
+        "dtype": "i1",
+        "bdata": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP/////////////////////////////////+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/f39/f39/f39/f39/f39/f39/f39/f39/fz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pw="
+      },
+      "scene": "scene"
+    },
+    {
+      "opacity": 0.3,
+      "coloraxis": "coloraxis",
+      "type": "cone",
+      "x": {
+        "dtype": "i1",
+        "bdata": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP/////////////////////////////////+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/f39/f39/f39/f39/f39/f39/f39/f39/fz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pw="
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AAAAAAD///////7+/v7+/f39/f38/Pz8/AAAAAAA///////+/v7+/v39/f39/Pz8/PwAAAAAAP///////v7+/v79/f39/fz8/Pz8AAAAAAD///////7+/v7+/f39/f38/Pz8/AAAAAAA///////+/v7+/v39/f39/Pz8/Pw="
+      },
+      "z": {
+        "dtype": "i1",
+        "bdata": "AP/+/fwA//79/AD//v38AP/+/fwA//79/AD//v38AP/+/fwA//79/AD//v38AP/+/fwA//79/AD//v38AP/+/fwA//79/AD//v38AP/+/fwA//79/AD//v38AP/+/fwA//79/AD//v38AP/+/fwA//79/AD//v38AP/+/fw="
+      },
+      "w": {
+        "dtype": "i1",
+        "bdata": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA="
+      },
+      "v": {
+        "dtype": "i1",
+        "bdata": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA="
+      },
+      "u": {
+        "dtype": "i1",
+        "bdata": "AP/+/fwA//79/AD//v38AP/+/fwA//79/AD//v38AP/+/fwA//79/AD//v38AP/+/fwA//79/AD//v38AP/+/fwA//79/AD//v38AP/+/fwA//79/AD//v38AP/+/fwA//79/AD//v38AP/+/fwA//79/AD//v38AP/+/fw="
+      },
+      "scene": "scene2"
+    },
+    {
+      "opacity": 0.3,
+      "coloraxis": "coloraxis",
+      "type": "cone",
+      "y": {
+        "dtype": "i1",
+        "bdata": "AP/+/fwA//79/AD//v38AP/+/fwA//79/AD//v38AP/+/fwA//79/AD//v38AP/+/fwA//79/AD//v38AP/+/fwA//79/AD//v38AP/+/fwA//79/AD//v38AP/+/fwA//79/AD//v38AP/+/fwA//79/AD//v38AP/+/fw="
+      },
+      "z": {
+        "dtype": "i1",
+        "bdata": "AAAAAAD///////7+/v7+/f39/f38/Pz8/AAAAAAA///////+/v7+/v39/f39/Pz8/PwAAAAAAP///////v7+/v79/f39/fz8/Pz8AAAAAAD///////7+/v7+/f39/f38/Pz8/AAAAAAA///////+/v7+/v39/f39/Pz8/Pw="
+      },
+      "x": {
+        "dtype": "i1",
+        "bdata": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP/////////////////////////////////+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/f39/f39/f39/f39/f39/f39/f39/f39/fz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pw="
+      },
+      "u": {
+        "dtype": "i1",
+        "bdata": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA="
+      },
+      "w": {
+        "dtype": "i1",
+        "bdata": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA="
+      },
+      "v": {
+        "dtype": "i1",
+        "bdata": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP/////////////////////////////////+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/f39/f39/f39/f39/f39/f39/f39/f39/fz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pw="
+      },
+      "scene": "scene3"
+    },
+    {
+      "opacity": 0.3,
+      "coloraxis": "coloraxis",
+      "type": "cone",
+      "y": {
+        "dtype": "i1",
+        "bdata": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP/////////////////////////////////+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/f39/f39/f39/f39/f39/f39/f39/f39/fz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pw="
+      },
+      "z": {
+        "dtype": "i1",
+        "bdata": "AAAAAAD///////7+/v7+/f39/f38/Pz8/AAAAAAA///////+/v7+/v39/f39/Pz8/PwAAAAAAP///////v7+/v79/f39/fz8/Pz8AAAAAAD///////7+/v7+/f39/f38/Pz8/AAAAAAA///////+/v7+/v39/f39/Pz8/Pw="
+      },
+      "x": {
+        "dtype": "i1",
+        "bdata": "AP/+/fwA//79/AD//v38AP/+/fwA//79/AD//v38AP/+/fwA//79/AD//v38AP/+/fwA//79/AD//v38AP/+/fwA//79/AD//v38AP/+/fwA//79/AD//v38AP/+/fwA//79/AD//v38AP/+/fwA//79/AD//v38AP/+/fw="
+      },
+      "u": {
+        "dtype": "i1",
+        "bdata": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA="
+      },
+      "w": {
+        "dtype": "i1",
+        "bdata": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA="
+      },
+      "v": {
+        "dtype": "i1",
+        "bdata": "AP/+/fwA//79/AD//v38AP/+/fwA//79/AD//v38AP/+/fwA//79/AD//v38AP/+/fwA//79/AD//v38AP/+/fwA//79/AD//v38AP/+/fwA//79/AD//v38AP/+/fwA//79/AD//v38AP/+/fwA//79/AD//v38AP/+/fw="
+      },
+      "scene": "scene4"
+    },
+    {
+      "opacity": 0.3,
+      "coloraxis": "coloraxis",
+      "type": "cone",
+      "z": {
+        "dtype": "i1",
+        "bdata": "AP/+/fwA//79/AD//v38AP/+/fwA//79/AD//v38AP/+/fwA//79/AD//v38AP/+/fwA//79/AD//v38AP/+/fwA//79/AD//v38AP/+/fwA//79/AD//v38AP/+/fwA//79/AD//v38AP/+/fwA//79/AD//v38AP/+/fw="
+      },
+      "x": {
+        "dtype": "i1",
+        "bdata": "AAAAAAD///////7+/v7+/f39/f38/Pz8/AAAAAAA///////+/v7+/v39/f39/Pz8/PwAAAAAAP///////v7+/v79/f39/fz8/Pz8AAAAAAD///////7+/v7+/f39/f38/Pz8/AAAAAAA///////+/v7+/v39/f39/Pz8/Pw="
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP/////////////////////////////////+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/f39/f39/f39/f39/f39/f39/f39/f39/fz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pw="
+      },
+      "v": {
+        "dtype": "i1",
+        "bdata": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA="
+      },
+      "u": {
+        "dtype": "i1",
+        "bdata": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA="
+      },
+      "w": {
+        "dtype": "i1",
+        "bdata": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP/////////////////////////////////+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/f39/f39/f39/f39/f39/f39/f39/f39/fz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pw="
+      },
+      "scene": "scene5"
+    },
+    {
+      "opacity": 0.3,
+      "coloraxis": "coloraxis",
+      "type": "cone",
+      "z": {
+        "dtype": "i1",
+        "bdata": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP/////////////////////////////////+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/f39/f39/f39/f39/f39/f39/f39/f39/fz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pw="
+      },
+      "x": {
+        "dtype": "i1",
+        "bdata": "AAAAAAD///////7+/v7+/f39/f38/Pz8/AAAAAAA///////+/v7+/v39/f39/Pz8/PwAAAAAAP///////v7+/v79/f39/fz8/Pz8AAAAAAD///////7+/v7+/f39/f38/Pz8/AAAAAAA///////+/v7+/v39/f39/Pz8/Pw="
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AP/+/fwA//79/AD//v38AP/+/fwA//79/AD//v38AP/+/fwA//79/AD//v38AP/+/fwA//79/AD//v38AP/+/fwA//79/AD//v38AP/+/fwA//79/AD//v38AP/+/fwA//79/AD//v38AP/+/fwA//79/AD//v38AP/+/fw="
+      },
+      "v": {
+        "dtype": "i1",
+        "bdata": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA="
+      },
+      "u": {
+        "dtype": "i1",
+        "bdata": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA="
+      },
+      "w": {
+        "dtype": "i1",
+        "bdata": "AP/+/fwA//79/AD//v38AP/+/fwA//79/AD//v38AP/+/fwA//79/AD//v38AP/+/fwA//79/AD//v38AP/+/fwA//79/AD//v38AP/+/fwA//79/AD//v38AP/+/fwA//79/AD//v38AP/+/fwA//79/AD//v38AP/+/fw="
+      },
+      "scene": "scene6"
+    }
+  ],
+  "layout": {
+    "width": 700,
+    "height": 800,
+    "margin": {
+      "t": 0,
+      "b": 0
+    },
+    "scene": {
+      "camera": {
+        "projection": {
+          "type": "orthographic"
+        },
+        "eye": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        }
+      },
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAAAADNzMzMzMzcPw=="
+        },
+        "y": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAAAAAzMzMzMzPTPw=="
+        }
+      }
+    },
+    "scene2": {
+      "camera": {
+        "projection": {
+          "type": "orthographic"
+        },
+        "eye": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        }
+      },
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAA4D9mZmZmZmbuPw=="
+        },
+        "y": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAAAAAzMzMzMzPTPw=="
+        }
+      }
+    },
+    "scene3": {
+      "camera": {
+        "projection": {
+          "type": "orthographic"
+        },
+        "eye": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        }
+      },
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAAAADNzMzMzMzcPw=="
+        },
+        "y": {
+          "dtype": "f8",
+          "bdata": "ZmZmZmZm1j/NzMzMzMzkPw=="
+        }
+      }
+    },
+    "scene4": {
+      "camera": {
+        "projection": {
+          "type": "orthographic"
+        },
+        "eye": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        }
+      },
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAA4D9mZmZmZmbuPw=="
+        },
+        "y": {
+          "dtype": "f8",
+          "bdata": "ZmZmZmZm1j/NzMzMzMzkPw=="
+        }
+      }
+    },
+    "scene5": {
+      "camera": {
+        "projection": {
+          "type": "orthographic"
+        },
+        "eye": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        }
+      },
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAAAADNzMzMzMzcPw=="
+        },
+        "y": {
+          "dtype": "f8",
+          "bdata": "ZmZmZmZm5j8AAAAAAADwPw=="
+        }
+      }
+    },
+    "scene6": {
+      "camera": {
+        "projection": {
+          "type": "orthographic"
+        },
+        "eye": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        }
+      },
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAA4D9mZmZmZmbuPw=="
+        },
+        "y": {
+          "dtype": "f8",
+          "bdata": "ZmZmZmZm5j8AAAAAAADwPw=="
+        }
+      }
+    }
+  }
+}

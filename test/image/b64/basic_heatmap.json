@@ -1,0 +1,12 @@
+{
+  "data": [
+    {
+      "z": {
+        "dtype": "i1",
+        "bdata": "ARQeFAE8HjwB",
+        "shape": "3, 3"
+      },
+      "type": "heatmap"
+    }
+  ]
+}

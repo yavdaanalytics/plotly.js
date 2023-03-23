@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AgMEBQ=="
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "EAULCQ=="
+      },
+      "line": {
+        "dash": "dashdot"
+      },
+      "type": "scatter"
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQIDBA=="
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "DAkPDA=="
+      },
+      "line": {
+        "dash": "dash"
+      },
+      "type": "scatter"
+    }
+  ],
+  "layout": {
+    "legend": {
+      "itemwidth": 60
+    }
+  }
+}

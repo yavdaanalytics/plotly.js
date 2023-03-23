@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "type": "table",
+      "header": {
+        "values": [
+          "z",
+          [
+            "a",
+            "b"
+          ],
+          [
+            "c"
+          ],
+          []
+        ],
+        "line": {
+          "width": 4
+        }
+      },
+      "cells": {
+        "values": [
+          [
+            1
+          ],
+          [
+            2,
+            3
+          ],
+          4,
+          [],
+          [
+            5
+          ]
+        ],
+        "fill": {
+          "color": "#eee"
+        },
+        "line": {
+          "width": {
+            "dtype": "i1",
+            "bdata": "AQkDBwUFBwMJAQ==",
+            "shape": "5, 2"
+          }
+        }
+      }
+    }
+  ],
+  "layout": {
+    "width": 400,
+    "height": 400
+  }
+}

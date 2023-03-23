@@ -1,0 +1,87 @@
+{
+  "data": [
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "FBQ="
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "KB4="
+      },
+      "type": "scattergl",
+      "mode": "lines+markers",
+      "name": "Same X-points scattergl"
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "FRU="
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "KB4="
+      },
+      "type": "scatter",
+      "mode": "lines+markers",
+      "name": "Same X-points scatter"
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "GR4="
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "GR4="
+      },
+      "type": "scattergl",
+      "mode": "lines+markers",
+      "name": "All Different scattergl"
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "GR4="
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "HiM="
+      },
+      "type": "scatter",
+      "mode": "lines+markers",
+      "name": "All Different scatter"
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "DxQ="
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "Fxc="
+      },
+      "type": "scattergl",
+      "mode": "lines+markers",
+      "name": "Same Y-points scattergl"
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "DxQ="
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "GRk="
+      },
+      "type": "scatter",
+      "mode": "lines+markers",
+      "name": "Same Y-points scatter"
+    }
+  ],
+  "layout": {
+    "showlegend": false,
+    "width": 800,
+    "height": 500
+  }
+}

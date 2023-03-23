@@ -1,0 +1,30 @@
+{
+  "data": [
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQEBAgI="
+      },
+      "text": "Blues",
+      "textposition": "inside",
+      "texttemplate": "%{value}<br>%{text}",
+      "type": "histogram"
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQIDBA=="
+      },
+      "text": "Orange",
+      "textposition": "outside",
+      "cliponaxis": false,
+      "texttemplate": "%{value}<br>%{text}",
+      "type": "histogram"
+    }
+  ],
+  "layout": {
+    "height": 300,
+    "width": 400,
+    "barmode": "stack"
+  }
+}

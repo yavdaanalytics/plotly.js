@@ -1,0 +1,55 @@
+{
+  "data": [
+    {
+      "type": "scatter3d",
+      "mode": "lines",
+      "x": {
+        "dtype": "f8",
+        "bdata": "SK+8mvLXej4AAAAAAADwPwAAAAAAAFlAAAAAAACIw0AAAAAAgIQuQQ=="
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AQIDBAU="
+      },
+      "z": {
+        "dtype": "i1",
+        "bdata": "AwMDAwM="
+      },
+      "line": {
+        "width": 6
+      }
+    },
+    {
+      "type": "scatter3d",
+      "mode": "lines",
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQIDBAU="
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AwIBAP8="
+      },
+      "z": {
+        "dtype": "i1",
+        "bdata": "AwMDAwM="
+      },
+      "line": {
+        "width": 20
+      }
+    }
+  ],
+  "layout": {
+    "title": {
+      "text": "test"
+    },
+    "scene": {
+      "xaxis": {
+        "title": {
+          "text": "foo<sup>bar</sup>"
+        },
+        "type": "log"
+      }
+    }
+  }
+}

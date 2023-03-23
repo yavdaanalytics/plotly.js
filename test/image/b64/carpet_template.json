@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "type": "carpet",
+      "a": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAEEAAAAAAAAAQQAAAAAAAABBAAAAAAAAAEkAAAAAAAAASQAAAAAAAABJAAAAAAAAAFEAAAAAAAAAUQAAAAAAAABRAAAAAAAAAGEAAAAAAAAAYQAAAAAAAABhA"
+      },
+      "b": {
+        "dtype": "i1",
+        "bdata": "AQIDAQIDAQIDAQID"
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAEAAAAAAAAAMQAAAAAAAABBAAAAAAAAACEAAAAAAAAASQAAAAAAAABRAAAAAAAAAFkAAAAAAAAAaQAAAAAAAAB5AAAAAAAAAIEAAAAAAAAAhQAAAAAAAACRA"
+      }
+    }
+  ],
+  "layout": {
+    "template": {
+      "data": {
+        "carpet": [
+          {
+            "aaxis": {
+              "gridcolor": "cyan",
+              "linecolor": "cyan",
+              "tickcolor": "cyan",
+              "minorgridcolor": "cyan",
+              "startlinecolor": "cyan",
+              "endlinecolor": "cyan"
+            },
+            "baxis": {
+              "gridcolor": "cyan",
+              "linecolor": "cyan",
+              "tickcolor": "cyan",
+              "minorgridcolor": "cyan",
+              "startlinecolor": "cyan",
+              "endlinecolor": "cyan"
+            }
+          }
+        ]
+      },
+      "layout": {
+        "plot_bgcolor": "black"
+      }
+    }
+  }
+}

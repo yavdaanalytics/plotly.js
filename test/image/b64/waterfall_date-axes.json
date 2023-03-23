@@ -1,0 +1,27 @@
+{
+  "data": [
+    {
+      "type": "waterfall",
+      "x": [
+        "2010-01-01",
+        "2010-07-01",
+        "2011-01-01",
+        "2012-01-01"
+      ],
+      "y": {
+        "dtype": "i1",
+        "bdata": "Af4DAA=="
+      },
+      "measure": [
+        "absolute",
+        "relative",
+        "relative",
+        "total"
+      ]
+    }
+  ],
+  "layout": {
+    "width": 500,
+    "height": 250
+  }
+}

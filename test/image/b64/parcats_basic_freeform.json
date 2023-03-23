@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "type": "parcats",
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAAwD8AAAAAAADkPw=="
+        },
+        "y": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAA0D8AAAAAAADoPw=="
+        }
+      },
+      "arrangement": "freeform",
+      "dimensions": [
+        {
+          "label": "One",
+          "values": {
+            "dtype": "i1",
+            "bdata": "AQECAQIBAQIB"
+          }
+        },
+        {
+          "label": "Two",
+          "values": [
+            "A",
+            "B",
+            "A",
+            "B",
+            "C",
+            "C",
+            "A",
+            "B",
+            "C"
+          ]
+        },
+        {
+          "label": "Three",
+          "values": {
+            "dtype": "i1",
+            "bdata": "CwsLCwsLCwsL"
+          }
+        }
+      ]
+    }
+  ],
+  "layout": {
+    "height": 602,
+    "width": 592,
+    "margin": {
+      "l": 40,
+      "r": 40,
+      "t": 50,
+      "b": 40
+    }
+  }
+}

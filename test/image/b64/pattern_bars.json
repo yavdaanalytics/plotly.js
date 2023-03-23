@@ -1,0 +1,356 @@
+{
+  "data": [
+    {
+      "x": [
+        "a",
+        "b",
+        "c",
+        "d",
+        "e"
+      ],
+      "y": {
+        "dtype": "i1",
+        "bdata": "AQIDBAU="
+      },
+      "name": "Bar 1",
+      "type": "bar",
+      "textposition": "outside",
+      "text": "bgcolor",
+      "marker": {
+        "pattern": {
+          "shape": "/",
+          "bgcolor": [
+            "",
+            "lightblue",
+            "blue",
+            "darkblue",
+            "black"
+          ]
+        }
+      }
+    },
+    {
+      "x": [
+        "a",
+        "b",
+        "c",
+        "d",
+        "e"
+      ],
+      "y": {
+        "dtype": "i1",
+        "bdata": "AgMEBQY="
+      },
+      "name": "Bar 2",
+      "type": "bar",
+      "textposition": "outside",
+      "text": "shape",
+      "marker": {
+        "pattern": {
+          "shape": [
+            "|",
+            "/",
+            "-",
+            "\\",
+            "|"
+          ]
+        }
+      }
+    },
+    {
+      "x": [
+        "a",
+        "b",
+        "c",
+        "d",
+        "e"
+      ],
+      "y": {
+        "dtype": "i1",
+        "bdata": "AwQFBgc="
+      },
+      "name": "Bar 3",
+      "type": "bar",
+      "textposition": "outside",
+      "text": "size",
+      "marker": {
+        "pattern": {
+          "shape": "x",
+          "size": {
+            "dtype": "i1",
+            "bdata": "BAYICgw="
+          }
+        }
+      }
+    },
+    {
+      "x": [
+        "a",
+        "b",
+        "c",
+        "d",
+        "e"
+      ],
+      "y": {
+        "dtype": "i1",
+        "bdata": "BgcICQo="
+      },
+      "name": "Bar 4",
+      "type": "bar",
+      "textposition": "outside",
+      "text": "solidity",
+      "marker": {
+        "pattern": {
+          "shape": ".",
+          "bgcolor": "yellow",
+          "solidity": {
+            "dtype": "f8",
+            "bdata": "mpmZmZmZuT8zMzMzMzPTPwAAAAAAAOA/ZmZmZmZm5j/NzMzMzMzsPw=="
+          }
+        }
+      }
+    },
+    {
+      "t": [
+        "M",
+        "N",
+        "O",
+        "P"
+      ],
+      "r": {
+        "dtype": "i1",
+        "bdata": "AQIDBA=="
+      },
+      "type": "barpolar",
+      "name": "Barpolar 1",
+      "marker": {
+        "color": "red",
+        "pattern": {
+          "shape": "+",
+          "size": {
+            "dtype": "i1",
+            "bdata": "AQIDBA=="
+          }
+        }
+      }
+    },
+    {
+      "t": [
+        "M",
+        "N",
+        "O",
+        "P"
+      ],
+      "r": {
+        "dtype": "i1",
+        "bdata": "AgMEAQ=="
+      },
+      "type": "barpolar",
+      "name": "Barpolar 2",
+      "marker": {
+        "color": "rgba(0,127,0,0.5)",
+        "pattern": {
+          "shape": "x",
+          "solidity": 0.75
+        }
+      }
+    },
+    {
+      "t": [
+        "M",
+        "N",
+        "O",
+        "P"
+      ],
+      "r": {
+        "dtype": "i1",
+        "bdata": "AwQBAg=="
+      },
+      "type": "barpolar",
+      "name": "Barpolar 3",
+      "marker": {
+        "color": "blue",
+        "pattern": {
+          "shape": [
+            "|",
+            "-",
+            "|",
+            "-"
+          ],
+          "solidity": 0.5
+        }
+      }
+    },
+    {
+      "t": [
+        "M",
+        "N",
+        "O",
+        "P"
+      ],
+      "r": {
+        "dtype": "i1",
+        "bdata": "BAECAw=="
+      },
+      "type": "barpolar",
+      "name": "Barpolar 4",
+      "marker": {
+        "color": "orange",
+        "pattern": {
+          "shape": ".",
+          "bgcolor": "yellow",
+          "solidity": {
+            "dtype": "f8",
+            "bdata": "mpmZmZmZyT+amZmZmZnpPzMzMzMzM+M/mpmZmZmZ2T8="
+          }
+        }
+      }
+    },
+    {
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "y": [
+        "A",
+        "A",
+        "A",
+        "A",
+        "B",
+        "B",
+        "C"
+      ],
+      "name": "Histogram 1",
+      "type": "histogram",
+      "marker": {
+        "color": "yellow",
+        "line": {
+          "color": "black",
+          "width": 2
+        },
+        "pattern": {
+          "bgcolor": "blue",
+          "shape": "."
+        }
+      }
+    },
+    {
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "y": [
+        "C",
+        "C",
+        "C",
+        "C",
+        "B",
+        "B",
+        "A"
+      ],
+      "name": "Histogram 2",
+      "type": "histogram",
+      "marker": {
+        "color": "yellow",
+        "line": {
+          "color": "red",
+          "width": 4
+        },
+        "pattern": {
+          "bgcolor": "rgba(255, 127,0,0.5)",
+          "shape": "x"
+        }
+      }
+    },
+    {
+      "xaxis": "x3",
+      "yaxis": "y3",
+      "x": {
+        "dtype": "i1",
+        "bdata": "AwIB"
+      },
+      "y": [
+        "U",
+        "V",
+        "W"
+      ],
+      "name": "Funnel",
+      "type": "funnel",
+      "marker": {
+        "pattern": {
+          "solidity": {
+            "dtype": "f8",
+            "bdata": "AAAAAAAA0D8AAAAAAADgPwAAAAAAAOg/"
+          },
+          "shape": [
+            "|",
+            "",
+            "-"
+          ],
+          "bgcolor": "black"
+        }
+      }
+    }
+  ],
+  "layout": {
+    "title": {
+      "text": "pattern options"
+    },
+    "width": 1000,
+    "height": 600,
+    "xaxis": {
+      "domain": {
+        "dtype": "i1",
+        "bdata": "AAE="
+      }
+    },
+    "yaxis": {
+      "range": [
+        0,
+        11
+      ],
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAABmZmZmZmbePw=="
+      }
+    },
+    "polar": {
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "ZmZmZmZm1j/NzMzMzMzkPw=="
+        },
+        "y": {
+          "dtype": "f8",
+          "bdata": "zczMzMzM4D8AAAAAAADwPw=="
+        }
+      }
+    },
+    "xaxis2": {
+      "anchor": "y2",
+      "gridcolor": "black",
+      "gridwidth": 2,
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAAAzMzMzMzPTPw=="
+      }
+    },
+    "yaxis2": {
+      "anchor": "x2",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "zczMzMzM4D8AAAAAAADwPw=="
+      }
+    },
+    "xaxis3": {
+      "anchor": "y3",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "ZmZmZmZm5j8AAAAAAADwPw=="
+      }
+    },
+    "yaxis3": {
+      "anchor": "x3",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "zczMzMzM4D8AAAAAAADwPw=="
+      }
+    }
+  }
+}

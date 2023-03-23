@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "mode": "markers+lines+text",
+      "texttemplate": "x:%{x}",
+      "textposition": "bottom center",
+      "textfont": {
+        "size": 16
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AQMC"
+      }
+    },
+    {
+      "mode": "markers+lines+text",
+      "texttemplate": "x:%{x}",
+      "textposition": "bottom center",
+      "textfont": {
+        "size": 16
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AgED"
+      }
+    }
+  ],
+  "layout": {
+    "width": 600,
+    "height": 400,
+    "scattermode": "group"
+  }
+}

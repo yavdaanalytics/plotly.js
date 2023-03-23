@@ -1,0 +1,21 @@
+{
+  "data": [
+    {
+      "x": {
+        "dtype": "i2",
+        "bdata": "6APQB7gLoA8="
+      },
+      "y": {
+        "dtype": "i2",
+        "bdata": "6APcBdAHECc="
+      },
+      "type": "scatter"
+    }
+  ],
+  "layout": {
+    "yaxis": {
+      "exponentformat": "none",
+      "separatethousands": true
+    }
+  }
+}

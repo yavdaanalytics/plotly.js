@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AAECAwQ="
+      },
+      "y": {
+        "dtype": "i2",
+        "bdata": "AABkAPQBWAIAAA=="
+      },
+      "type": "scattergl",
+      "mode": "markers+lines",
+      "error_y": {
+        "type": "sqrt"
+      }
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AAECAwQ="
+      },
+      "y": {
+        "dtype": "i2",
+        "bdata": "ZADIAFgCvAJkAA=="
+      },
+      "type": "scattergl",
+      "mode": "markers+lines",
+      "marker": {
+        "line": {
+          "width": 2,
+          "color": "gray"
+        }
+      },
+      "error_y": {
+        "type": "sqrt"
+      }
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AAECAwQ="
+      },
+      "y": {
+        "dtype": "i2",
+        "bdata": "yAAsAbwCIAPIAA=="
+      },
+      "type": "scattergl",
+      "mode": "markers+lines",
+      "marker": {
+        "color": "red"
+      },
+      "error_y": {
+        "type": "sqrt"
+      }
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AAECAwQ="
+      },
+      "y": {
+        "dtype": "i2",
+        "bdata": "LAGQASADhAMsAQ=="
+      },
+      "type": "scattergl",
+      "mode": "markers+lines",
+      "line": {
+        "color": "green"
+      },
+      "error_y": {
+        "type": "sqrt"
+      }
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AAECAwQ="
+      },
+      "y": {
+        "dtype": "i2",
+        "bdata": "kAH0AYQD6AOQAQ=="
+      },
+      "type": "scattergl",
+      "mode": "markers+lines",
+      "line": {
+        "color": "blue"
+      },
+      "marker": {
+        "color": "black"
+      },
+      "error_y": {
+        "type": "sqrt"
+      }
+    }
+  ],
+  "layout": {
+    "width": 600,
+    "title": {
+      "text": "Scatter-gl error bars inherit color from line or marker"
+    }
+  }
+}

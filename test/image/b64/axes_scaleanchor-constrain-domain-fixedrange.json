@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "y": {
+        "dtype": "i1",
+        "bdata": "AgMEBQY="
+      },
+      "x": {
+        "dtype": "i1",
+        "bdata": "AgMEBQY="
+      },
+      "z": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAA4D+amZmZmZnpPzMzMzMzM+M/mpmZmZmZ6T+amZmZmZnJP5qZmZmZmdk/MzMzMzMz0z9mZmZmZmbmP5qZmZmZmck/mpmZmZmZuT9mZmZmZmbmPwAAAAAAAOA/zczMzMzM7D8AAAAAAADgPzMzMzMzM9M/AAAAAAAA4D+amZmZmZnpPzMzMzMzM+M/mpmZmZmZ6T+amZmZmZnJP5qZmZmZmdk/MzMzMzMz0z9mZmZmZmbmP5qZmZmZmck/mpmZmZmZuT8=",
+        "shape": "5, 5"
+      },
+      "type": "heatmap"
+    }
+  ],
+  "layout": {
+    "xaxis": {
+      "constrain": "domain",
+      "fixedrange": true
+    },
+    "yaxis": {
+      "constrain": "domain",
+      "scaleanchor": "x",
+      "scaleratio": 1,
+      "fixedrange": true
+    }
+  }
+}

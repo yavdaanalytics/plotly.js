@@ -1,0 +1,99 @@
+{
+  "data": [
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQIDBAU="
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "mpmZmZmZuT8zMzMzMzPTP5qZmZmZmck/mpmZmZmZ6T9mZmZmZmbmPw=="
+      },
+      "stackgroup": "one",
+      "fillpattern": {
+        "fillmode": "overlay",
+        "shape": "/"
+      }
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQIDBAU="
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "MzMzMzMz0z+amZmZmZnJP5qZmZmZmbk/mpmZmZmZuT+amZmZmZnJPw=="
+      },
+      "stackgroup": "one",
+      "fillpattern": {
+        "fillmode": "overlay",
+        "shape": "\\"
+      }
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQIDBAU="
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "mpmZmZmZ6T+amZmZmZnpPzMzMzMzM+M/ZmZmZmZm5j+amZmZmZnZPw=="
+      },
+      "stackgroup": "one",
+      "fillpattern": {
+        "fillmode": "overlay",
+        "shape": "."
+      }
+    },
+    {
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQIDBAUG"
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "mpmZmZmZuT8zMzMzMzPTP5qZmZmZmdk/mpmZmZmZ8T+amZmZmZnpPzMzMzMzM9M/"
+      },
+      "fill": "tozeroy",
+      "fillpattern": {
+        "fillmode": "replace",
+        "solidity": 0.4,
+        "size": 12,
+        "shape": "-"
+      }
+    },
+    {
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQIDBAUG"
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "mpmZmZmZ6T9mZmZmZmbmP5qZmZmZmbk/MzMzMzMz4z9mZmZmZmbmP5qZmZmZmek/"
+      },
+      "fill": "tonexty",
+      "fillpattern": {
+        "fillmode": "replace",
+        "solidity": 0.4,
+        "size": 12,
+        "shape": "|"
+      }
+    }
+  ],
+  "layout": {
+    "title": {
+      "text": "Pattern fill for scatter"
+    },
+    "width": 800,
+    "height": 400,
+    "grid": {
+      "rows": 1,
+      "columns": 2,
+      "pattern": "independent"
+    }
+  }
+}

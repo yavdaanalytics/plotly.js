@@ -1,0 +1,156 @@
+{
+  "data": [
+    {
+      "name": "candlestick",
+      "type": "candlestick",
+      "x": [
+        "2017-01-09 00:00",
+        "2017-01-16 00:00"
+      ],
+      "high": {
+        "dtype": "i1",
+        "bdata": "AwQ="
+      },
+      "open": {
+        "dtype": "i1",
+        "bdata": "AgM="
+      },
+      "close": {
+        "dtype": "i1",
+        "bdata": "AQI="
+      },
+      "low": {
+        "dtype": "i1",
+        "bdata": "AAE="
+      }
+    },
+    {
+      "name": "box",
+      "type": "box",
+      "yaxis": "y2",
+      "x": [
+        "2017-01-09 00:00",
+        "2017-01-16 00:00"
+      ],
+      "upperfence": {
+        "dtype": "i1",
+        "bdata": "BAU="
+      },
+      "q3": {
+        "dtype": "i1",
+        "bdata": "AwQ="
+      },
+      "median": {
+        "dtype": "i1",
+        "bdata": "AgM="
+      },
+      "q1": {
+        "dtype": "i1",
+        "bdata": "AQI="
+      },
+      "lowerfence": {
+        "dtype": "i1",
+        "bdata": "AAE="
+      }
+    },
+    {
+      "name": "box",
+      "type": "box",
+      "yaxis": "y3",
+      "whiskerwidth": 1,
+      "x": [
+        "2017-01-09 00:00",
+        "2017-01-16 00:00"
+      ],
+      "upperfence": {
+        "dtype": "i1",
+        "bdata": "BAU="
+      },
+      "q3": {
+        "dtype": "i1",
+        "bdata": "AwQ="
+      },
+      "median": {
+        "dtype": "i1",
+        "bdata": "AgM="
+      },
+      "q1": {
+        "dtype": "i1",
+        "bdata": "AQI="
+      },
+      "lowerfence": {
+        "dtype": "i1",
+        "bdata": "AAE="
+      }
+    },
+    {
+      "name": "ohlc",
+      "type": "ohlc",
+      "yaxis": "y4",
+      "x": [
+        "2017-01-09 00:00",
+        "2017-01-16 00:00"
+      ],
+      "high": {
+        "dtype": "i1",
+        "bdata": "AwQ="
+      },
+      "open": {
+        "dtype": "i1",
+        "bdata": "AgM="
+      },
+      "close": {
+        "dtype": "i1",
+        "bdata": "AQI="
+      },
+      "low": {
+        "dtype": "i1",
+        "bdata": "AAE="
+      }
+    }
+  ],
+  "layout": {
+    "width": 600,
+    "height": 800,
+    "showlegend": false,
+    "xaxis": {
+      "rangebreaks": [
+        {
+          "pattern": "day of week",
+          "bounds": {
+            "dtype": "i1",
+            "bdata": "BgE="
+          }
+        }
+      ]
+    },
+    "yaxis": {
+      "anchor": "x",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "zczMzMzMzD8AAAAAAADYPw=="
+      }
+    },
+    "yaxis2": {
+      "anchor": "x",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "MzMzMzMz2z9mZmZmZmbiPw=="
+      }
+    },
+    "yaxis3": {
+      "anchor": "x",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAA5D/NzMzMzMzoPw=="
+      }
+    },
+    "yaxis4": {
+      "anchor": "x",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "ZmZmZmZm6j8AAAAAAADwPw=="
+      }
+    }
+  }
+}

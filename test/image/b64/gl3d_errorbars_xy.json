@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "type": "scatter3d",
+      "mode": "markers",
+      "x": {
+        "dtype": "i1",
+        "bdata": "BQo="
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "BQo="
+      },
+      "z": {
+        "dtype": "i1",
+        "bdata": "BQo="
+      },
+      "error_x": {
+        "type": "sqrt",
+        "color": "red"
+      },
+      "error_y": {
+        "type": "sqrt"
+      }
+    }
+  ],
+  "layout": {}
+}

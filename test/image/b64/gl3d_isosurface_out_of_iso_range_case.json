@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "type": "isosurface",
+      "colorscale": "Portland",
+      "reversescale": false,
+      "surface": {
+        "show": true,
+        "fill": 0.8
+      },
+      "spaceframe": {
+        "show": false
+      },
+      "slices": {
+        "x": {
+          "show": true,
+          "fill": 1,
+          "locations": {
+            "dtype": "i1",
+            "bdata": "9g=="
+          }
+        },
+        "y": {
+          "show": true,
+          "fill": 1,
+          "locations": {
+            "dtype": "i1",
+            "bdata": "9g=="
+          }
+        },
+        "z": {
+          "show": true,
+          "fill": 1,
+          "locations": {
+            "dtype": "i1",
+            "bdata": "9g=="
+          }
+        }
+      },
+      "caps": {
+        "x": {
+          "show": false
+        },
+        "y": {
+          "show": false
+        },
+        "z": {
+          "show": false
+        }
+      },
+      "contour": {
+        "show": true,
+        "width": 4
+      },
+      "isomin": -1010,
+      "isomax": 1010,
+      "value": {
+        "dtype": "i2",
+        "bdata": "GPwY/Bj8GPwY/Bj8GPwY/Bj8GPwY/Bj8GPwY/Bj8GPwY/Bj8GPwY/Bj8GPwY/Bj8GPwY/Bj8GPwY/Bj8GPwY/Bj8GPwY/Bj8GPwY/Bj8GPwY/Bj8GPwY/Bj8GPwY/Bj8GPwY/Bj8GPwY/Bj8GPwY/Bj8GPwY/Bj8GPwY/Bj8GPwY/Bj8GPwY/Bj8GPwY/Bj8GPwY/Bj8GPwY/Bj8GPwY/Bj8GPwY/Bj8GPwY/Bj8GPwY/Bj8GPwY/Bj8GPwY/Bj86APoA+gD6APoA+gD6APoA+gD6APoA+gD6APoA+gD6APoA+gD6APoA+gD6APoA+gD6APoA+gD6APoA+gD6APoA+gD6APoA+gD6APoA+gD6APoA+gD6APoA+gD6APoA+gD6APoA+gD6APoA+gD6APoA+gD6APoA+gD6APoA+gD6APoA+gD6APoA+gD6APoA+gD6APoA+gD6APoA+gD6APoA+gD6APoA+gD6APoA+gD6APoA+gD6APoA+gD6APoA+gD"
+      },
+      "x": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAJMAAAAAAAAAkwAAAAAAAACTAAAAAAAAAJMAAAAAAAAAkwAAAAAAAACTAAAAAAAAAJMAAAAAAAAAkwAAAAAAAACTAAAAAAAAAJMAAAAAAAAAkwAAAAAAAACTAAAAAAAAAJMAAAAAAAAAkwAAAAAAAACTAAAAAAAAAJMAAAAAAAAAkwAAAAAAAACTAAAAAAAAAJMAAAAAAAAAkwAAAAAAAACTAAAAAAAAAJMAAAAAAAAAkwAAAAAAAACTA30+Nl26SHMDfT42XbpIcwN9PjZdukhzA30+Nl26SHMDfT42XbpIcwN9PjZdukhzA30+Nl26SHMDfT42XbpIcwN9PjZdukhzA30+Nl26SHMDfT42XbpIcwN9PjZdukhzA30+Nl26SHMDfT42XbpIcwN9PjZdukhzA30+Nl26SHMDfT42XbpIcwN9PjZdukhzA30+Nl26SHMDfT42XbpIcwN9PjZdukhzA30+Nl26SHMDfT42XbpIcwN9PjZdukhzAvp8aL90kEcC+nxov3SQRwL6fGi/dJBHAvp8aL90kEcC+nxov3SQRwL6fGi/dJBHAvp8aL90kEcC+nxov3SQRwL6fGi/dJBHAvp8aL90kEcC+nxov3SQRwL6fGi/dJBHAvp8aL90kEcC+nxov3SQRwL6fGi/dJBHAvp8aL90kEcC+nxov3SQRwL6fGi/dJBHAvp8aL90kEcC+nxov3SQRwL6fGi/dJBHAvp8aL90kEcC+nxov3SQRwL6fGi/dJBHAd76fGi/d9r93vp8aL932v3e+nxov3fa/d76fGi/d9r93vp8aL932v3e+nxov3fa/d76fGi/d9r93vp8aL932v3e+nxov3fa/d76fGi/d9r93vp8aL932v3e+nxov3fa/d76fGi/d9r93vp8aL932v3e+nxov3fa/d76fGi/d9r93vp8aL932v3e+nxov3fa/d76fGi/d9r93vp8aL932v3e+nxov3fa/d76fGi/d9r93vp8aL932v3e+nxov3fa/d76fGi/d9j93vp8aL932P3e+nxov3fY/d76fGi/d9j93vp8aL932P3e+nxov3fY/d76fGi/d9j93vp8aL932P3e+nxov3fY/d76fGi/d9j93vp8aL932P3e+nxov3fY/d76fGi/d9j93vp8aL932P3e+nxov3fY/d76fGi/d9j93vp8aL932P3e+nxov3fY/d76fGi/d9j93vp8aL932P3e+nxov3fY/d76fGi/d9j93vp8aL932P3e+nxov3fY/vp8aL90kEUC+nxov3SQRQL6fGi/dJBFAvp8aL90kEUC+nxov3SQRQL6fGi/dJBFAvp8aL90kEUC+nxov3SQRQL6fGi/dJBFAvp8aL90kEUC+nxov3SQRQL6fGi/dJBFAvp8aL90kEUC+nxov3SQRQL6fGi/dJBFAvp8aL90kEUC+nxov3SQRQL6fGi/dJBFAvp8aL90kEUC+nxov3SQRQL6fGi/dJBFAvp8aL90kEUC+nxov3SQRQL6fGi/dJBFA30+Nl26SHEDfT42XbpIcQN9PjZdukhxA30+Nl26SHEDfT42XbpIcQN9PjZdukhxA30+Nl26SHEDfT42XbpIcQN9PjZdukhxA30+Nl26SHEDfT42XbpIcQN9PjZdukhxA30+Nl26SHEDfT42XbpIcQN9PjZdukhxA30+Nl26SHEDfT42XbpIcQN9PjZdukhxA30+Nl26SHEDfT42XbpIcQN9PjZdukhxA30+Nl26SHEDfT42XbpIcQN9PjZdukhxAAAAAAAAAJEAAAAAAAAAkQAAAAAAAACRAAAAAAAAAJEAAAAAAAAAkQAAAAAAAACRAAAAAAAAAJEAAAAAAAAAkQAAAAAAAACRAAAAAAAAAJEAAAAAAAAAkQAAAAAAAACRAAAAAAAAAJEAAAAAAAAAkQAAAAAAAACRAAAAAAAAAJEAAAAAAAAAkQAAAAAAAACRAAAAAAAAAJEAAAAAAAAAkQAAAAAAAACRAAAAAAAAAJEAAAAAAAAAkQAAAAAAAACRA"
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "9vb29vr6+vr+/v7+AgICAgYGBgYKCgoK9vb29vr6+vr+/v7+AgICAgYGBgYKCgoK9vb29vr6+vr+/v7+AgICAgYGBgYKCgoK9vb29vr6+vr+/v7+AgICAgYGBgYKCgoK9vb29vr6+vr+/v7+AgICAgYGBgYKCgoK9vb29vr6+vr+/v7+AgICAgYGBgYKCgoK9vb29vr6+vr+/v7+AgICAgYGBgYKCgoK9vb29vr6+vr+/v7+AgICAgYGBgYKCgoK"
+      },
+      "z": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAJMBEi2zn+6kKwESLbOf7qQpAAAAAAAAAJEAAAAAAAAAkwESLbOf7qQrARIts5/upCkAAAAAAAAAkQAAAAAAAACTARIts5/upCsBEi2zn+6kKQAAAAAAAACRAAAAAAAAAJMBEi2zn+6kKwESLbOf7qQpAAAAAAAAAJEAAAAAAAAAkwESLbOf7qQrARIts5/upCkAAAAAAAAAkQAAAAAAAACTARIts5/upCsBEi2zn+6kKQAAAAAAAACRAAAAAAAAAJMBEi2zn+6kKwESLbOf7qQpAAAAAAAAAJEAAAAAAAAAkwESLbOf7qQrARIts5/upCkAAAAAAAAAkQAAAAAAAACTARIts5/upCsBEi2zn+6kKQAAAAAAAACRAAAAAAAAAJMBEi2zn+6kKwESLbOf7qQpAAAAAAAAAJEAAAAAAAAAkwESLbOf7qQrARIts5/upCkAAAAAAAAAkQAAAAAAAACTARIts5/upCsBEi2zn+6kKQAAAAAAAACRAAAAAAAAAJMBEi2zn+6kKwESLbOf7qQpAAAAAAAAAJEAAAAAAAAAkwESLbOf7qQrARIts5/upCkAAAAAAAAAkQAAAAAAAACTARIts5/upCsBEi2zn+6kKQAAAAAAAACRAAAAAAAAAJMBEi2zn+6kKwESLbOf7qQpAAAAAAAAAJEAAAAAAAAAkwESLbOf7qQrARIts5/upCkAAAAAAAAAkQAAAAAAAACTARIts5/upCsBEi2zn+6kKQAAAAAAAACRAAAAAAAAAJMBEi2zn+6kKwESLbOf7qQpAAAAAAAAAJEAAAAAAAAAkwESLbOf7qQrARIts5/upCkAAAAAAAAAkQAAAAAAAACTARIts5/upCsBEi2zn+6kKQAAAAAAAACRAAAAAAAAAJMBEi2zn+6kKwESLbOf7qQpAAAAAAAAAJEAAAAAAAAAkwESLbOf7qQrARIts5/upCkAAAAAAAAAkQAAAAAAAACTARIts5/upCsBEi2zn+6kKQAAAAAAAACRAAAAAAAAAJMBEi2zn+6kKwESLbOf7qQpAAAAAAAAAJEAAAAAAAAAkwESLbOf7qQrARIts5/upCkAAAAAAAAAkQAAAAAAAACTARIts5/upCsBEi2zn+6kKQAAAAAAAACRAAAAAAAAAJMBEi2zn+6kKwESLbOf7qQpAAAAAAAAAJEAAAAAAAAAkwESLbOf7qQrARIts5/upCkAAAAAAAAAkQAAAAAAAACTARIts5/upCsBEi2zn+6kKQAAAAAAAACRAAAAAAAAAJMBEi2zn+6kKwESLbOf7qQpAAAAAAAAAJEAAAAAAAAAkwESLbOf7qQrARIts5/upCkAAAAAAAAAkQAAAAAAAACTARIts5/upCsBEi2zn+6kKQAAAAAAAACRAAAAAAAAAJMBEi2zn+6kKwESLbOf7qQpAAAAAAAAAJEAAAAAAAAAkwESLbOf7qQrARIts5/upCkAAAAAAAAAkQAAAAAAAACTARIts5/upCsBEi2zn+6kKQAAAAAAAACRAAAAAAAAAJMBEi2zn+6kKwESLbOf7qQpAAAAAAAAAJEAAAAAAAAAkwESLbOf7qQrARIts5/upCkAAAAAAAAAkQAAAAAAAACTARIts5/upCsBEi2zn+6kKQAAAAAAAACRAAAAAAAAAJMBEi2zn+6kKwESLbOf7qQpAAAAAAAAAJEAAAAAAAAAkwESLbOf7qQrARIts5/upCkAAAAAAAAAkQAAAAAAAACTARIts5/upCsBEi2zn+6kKQAAAAAAAACRAAAAAAAAAJMBEi2zn+6kKwESLbOf7qQpAAAAAAAAAJEAAAAAAAAAkwESLbOf7qQrARIts5/upCkAAAAAAAAAkQAAAAAAAACTARIts5/upCsBEi2zn+6kKQAAAAAAAACRAAAAAAAAAJMBEi2zn+6kKwESLbOf7qQpAAAAAAAAAJEAAAAAAAAAkwESLbOf7qQrARIts5/upCkAAAAAAAAAkQAAAAAAAACTARIts5/upCsBEi2zn+6kKQAAAAAAAACRA"
+      },
+      "lighting": {
+        "ambient": 0.5,
+        "diffuse": 1.0,
+        "specular": 0.75,
+        "roughness": 1.0,
+        "fresnel": 0.25
+      },
+      "lightposition": {
+        "x": 10000,
+        "y": 10000,
+        "z": 0
+      }
+    }
+  ],
+  "layout": {
+    "title": {
+      "text": "No iso-surface would be created when one tries plotting data that cross from <i>isomax</i> to <i>isomin</i> with no values between.<br>In this example the slices are provided to illustrate the changes in <b>value</b> data array."
+    },
+    "width": 1200,
+    "height": 900,
+    "scene": {
+      "xaxis": {
+        "nticks": 12
+      },
+      "yaxis": {
+        "nticks": 12
+      },
+      "zaxis": {
+        "nticks": 12
+      },
+      "camera": {
+        "eye": {
+          "x": 1.4,
+          "y": 1.0,
+          "z": 1.2
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,183 @@
+{
+  "data": [
+    {
+      "type": "bar",
+      "name": "not clipped",
+      "x": [
+        "apple",
+        "banana",
+        "clementine"
+      ],
+      "y": {
+        "dtype": "f8",
+        "bdata": "ZmZmZmZm/j8AAAAAAAAAQM3MzMzMzABA"
+      },
+      "text": [
+        "apple",
+        "banana",
+        "x"
+      ],
+      "textposition": "outside",
+      "cliponaxis": false,
+      "textfont": {
+        "size": {
+          "dtype": "i1",
+          "bdata": "PCgU"
+        }
+      }
+    },
+    {
+      "type": "bar",
+      "name": "same but clipped",
+      "x": [
+        "apple",
+        "banana",
+        "clementine"
+      ],
+      "y": {
+        "dtype": "f8",
+        "bdata": "ZmZmZmZm/j8AAAAAAAAAQM3MzMzMzABA"
+      },
+      "text": [
+        "apple",
+        "banana",
+        "clementine"
+      ],
+      "textposition": "outside",
+      "cliponaxis": true,
+      "textfont": {
+        "size": {
+          "dtype": "i1",
+          "bdata": "PCgU"
+        }
+      },
+      "xaxis": "x2",
+      "yaxis": "y2"
+    },
+    {
+      "type": "bar",
+      "name": "should <b>not</b> see text",
+      "x": [
+        "banana"
+      ],
+      "y": {
+        "dtype": "i1",
+        "bdata": "Ag=="
+      },
+      "text": [
+        "X"
+      ],
+      "textposition": "outside",
+      "cliponaxis": true,
+      "textfont": {
+        "size": {
+          "dtype": "i1",
+          "bdata": "FA=="
+        }
+      },
+      "marker": {
+        "opacity": 0.3
+      }
+    },
+    {
+      "type": "bar",
+      "name": "should see text",
+      "x": [
+        "banana"
+      ],
+      "y": {
+        "dtype": "i1",
+        "bdata": "AQ=="
+      },
+      "text": [
+        "banana"
+      ],
+      "textposition": "outside",
+      "cliponaxis": false,
+      "textfont": {
+        "size": {
+          "dtype": "i1",
+          "bdata": "FA=="
+        }
+      },
+      "xaxis": "x3",
+      "yaxis": "y3"
+    }
+  ],
+  "layout": {
+    "barmode": "overlay",
+    "legend": {
+      "x": 0.5,
+      "xanchor": "center",
+      "y": -0.05,
+      "yanchor": "top"
+    },
+    "xaxis": {
+      "showline": true,
+      "showticklabels": false,
+      "mirror": true,
+      "layer": "below traces",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAABSuB6F61HYPw=="
+      }
+    },
+    "xaxis2": {
+      "anchor": "y2",
+      "showline": true,
+      "showticklabels": false,
+      "mirror": true,
+      "layer": "below traces",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "4XoUrkfh2j+amZmZmZnpPw=="
+      }
+    },
+    "xaxis3": {
+      "anchor": "y3",
+      "showline": true,
+      "showticklabels": false,
+      "mirror": true,
+      "layer": "below traces",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "4XoUrkfh6j8AAAAAAADwPw=="
+      }
+    },
+    "yaxis": {
+      "showline": true,
+      "mirror": true,
+      "layer": "below traces",
+      "range": [
+        0,
+        2
+      ]
+    },
+    "yaxis2": {
+      "anchor": "x2",
+      "showline": true,
+      "mirror": true,
+      "layer": "below traces",
+      "range": [
+        0,
+        2
+      ]
+    },
+    "yaxis3": {
+      "anchor": "x3",
+      "showline": true,
+      "mirror": true,
+      "layer": "below traces",
+      "range": [
+        2,
+        0
+      ]
+    },
+    "width": 800,
+    "height": 400,
+    "margin": {
+      "t": 40
+    },
+    "dragmode": "pan"
+  }
+}

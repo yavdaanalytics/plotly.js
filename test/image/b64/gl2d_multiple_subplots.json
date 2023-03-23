@@ -1,0 +1,110 @@
+{
+  "data": [
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "BAUG"
+      },
+      "type": "scattergl"
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "FB4o"
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "MjxG"
+      },
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "type": "scattergl"
+    },
+    {
+      "x": {
+        "dtype": "i2",
+        "bdata": "LAGQAfQB"
+      },
+      "y": {
+        "dtype": "i2",
+        "bdata": "WAK8AiAD"
+      },
+      "xaxis": "x3",
+      "yaxis": "y3",
+      "type": "scattergl"
+    },
+    {
+      "x": {
+        "dtype": "i2",
+        "bdata": "oA+IE3AX"
+      },
+      "y": {
+        "dtype": "i2",
+        "bdata": "WBtAHygj"
+      },
+      "xaxis": "x4",
+      "yaxis": "y4",
+      "type": "scattergl"
+    }
+  ],
+  "layout": {
+    "width": 700,
+    "height": 500,
+    "xaxis": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAADNzMzMzMzcPw=="
+      }
+    },
+    "yaxis": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAADNzMzMzMzcPw=="
+      }
+    },
+    "xaxis4": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "mpmZmZmZ4T8AAAAAAADwPw=="
+      },
+      "anchor": "y4"
+    },
+    "xaxis3": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAADNzMzMzMzcPw=="
+      },
+      "anchor": "y3"
+    },
+    "xaxis2": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "mpmZmZmZ4T8AAAAAAADwPw=="
+      }
+    },
+    "yaxis2": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAADNzMzMzMzcPw=="
+      },
+      "anchor": "x2"
+    },
+    "yaxis3": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "mpmZmZmZ4T8AAAAAAADwPw=="
+      }
+    },
+    "yaxis4": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "mpmZmZmZ4T8AAAAAAADwPw=="
+      },
+      "anchor": "x4"
+    }
+  }
+}

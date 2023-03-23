@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "KDI8"
+      },
+      "name": "yaxis data",
+      "type": "scatter"
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AgME"
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "BAUG"
+      },
+      "name": "yaxis2 data",
+      "yaxis": "y2",
+      "type": "scatter"
+    }
+  ],
+  "layout": {
+    "title": {
+      "text": "Double Y Axis Example"
+    },
+    "yaxis": {
+      "title": {
+        "text": "yaxis title"
+      }
+    },
+    "yaxis2": {
+      "title": {
+        "text": "yaxis2 title",
+        "font": {
+          "color": "rgb(148, 103, 189)"
+        }
+      },
+      "tickfont": {
+        "color": "rgb(148, 103, 189)"
+      },
+      "side": "right",
+      "overlaying": "y"
+    }
+  }
+}

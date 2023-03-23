@@ -1,0 +1,285 @@
+{
+  "data": [
+    {
+      "type": "cone",
+      "name": "base",
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQEB"
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "z": {
+        "dtype": "i1",
+        "bdata": "AQEB"
+      },
+      "u": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "v": {
+        "dtype": "i1",
+        "bdata": "AQEC"
+      },
+      "w": {
+        "dtype": "i1",
+        "bdata": "BAQB"
+      },
+      "hoverinfo": "u+v+w+name",
+      "showscale": false
+    },
+    {
+      "type": "cone",
+      "name": "opacity:0.3",
+      "x": {
+        "dtype": "i1",
+        "bdata": "AgIC"
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "z": {
+        "dtype": "i1",
+        "bdata": "AQEB"
+      },
+      "u": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "v": {
+        "dtype": "i1",
+        "bdata": "AQEC"
+      },
+      "w": {
+        "dtype": "i1",
+        "bdata": "BAQB"
+      },
+      "hoverinfo": "u+v+w+name",
+      "showscale": false,
+      "opacity": 0.3
+    },
+    {
+      "type": "cone",
+      "name": "lighting.ambient:0.3",
+      "x": {
+        "dtype": "i1",
+        "bdata": "AwMD"
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "z": {
+        "dtype": "i1",
+        "bdata": "AQEB"
+      },
+      "u": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "v": {
+        "dtype": "i1",
+        "bdata": "AQEC"
+      },
+      "w": {
+        "dtype": "i1",
+        "bdata": "BAQB"
+      },
+      "hoverinfo": "u+v+w+name",
+      "showscale": false,
+      "lighting": {
+        "ambient": 0.3
+      }
+    },
+    {
+      "type": "cone",
+      "name": "lighting.diffuse:0.3",
+      "x": {
+        "dtype": "i1",
+        "bdata": "BAQE"
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "z": {
+        "dtype": "i1",
+        "bdata": "AQEB"
+      },
+      "u": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "v": {
+        "dtype": "i1",
+        "bdata": "AQEC"
+      },
+      "w": {
+        "dtype": "i1",
+        "bdata": "BAQB"
+      },
+      "hoverinfo": "u+v+w+name",
+      "showscale": false,
+      "lighting": {
+        "diffuse": 0.3
+      }
+    },
+    {
+      "type": "cone",
+      "name": "lighting.specular:2",
+      "x": {
+        "dtype": "i1",
+        "bdata": "BQUF"
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "z": {
+        "dtype": "i1",
+        "bdata": "AQEB"
+      },
+      "u": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "v": {
+        "dtype": "i1",
+        "bdata": "AQEC"
+      },
+      "w": {
+        "dtype": "i1",
+        "bdata": "BAQB"
+      },
+      "hoverinfo": "u+v+w+name",
+      "showscale": false,
+      "lighting": {
+        "specular": 2
+      }
+    },
+    {
+      "type": "cone",
+      "name": "lighting.roughness:1",
+      "x": {
+        "dtype": "i1",
+        "bdata": "BgYG"
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "z": {
+        "dtype": "i1",
+        "bdata": "AQEB"
+      },
+      "u": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "v": {
+        "dtype": "i1",
+        "bdata": "AQEC"
+      },
+      "w": {
+        "dtype": "i1",
+        "bdata": "BAQB"
+      },
+      "hoverinfo": "u+v+w+name",
+      "showscale": false,
+      "lighting": {
+        "roughness": 1
+      }
+    },
+    {
+      "type": "cone",
+      "name": "lighting.fresnel:2",
+      "x": {
+        "dtype": "i1",
+        "bdata": "BwcH"
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "z": {
+        "dtype": "i1",
+        "bdata": "AQEB"
+      },
+      "u": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "v": {
+        "dtype": "i1",
+        "bdata": "AQEC"
+      },
+      "w": {
+        "dtype": "i1",
+        "bdata": "BAQB"
+      },
+      "hoverinfo": "u+v+w+name",
+      "showscale": false,
+      "lighting": {
+        "fresnel": 2
+      }
+    },
+    {
+      "type": "cone",
+      "name": "lighting.position x:0,y:0,z:1e5",
+      "x": {
+        "dtype": "i1",
+        "bdata": "CAgI"
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "z": {
+        "dtype": "i1",
+        "bdata": "AQEB"
+      },
+      "u": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "v": {
+        "dtype": "i1",
+        "bdata": "AQEC"
+      },
+      "w": {
+        "dtype": "i1",
+        "bdata": "BAQB"
+      },
+      "hoverinfo": "u+v+w+name",
+      "showscale": false,
+      "lightposition": {
+        "x": 0,
+        "y": 0,
+        "z": 100000.0
+      }
+    }
+  ],
+  "layout": {
+    "scene": {
+      "aspectmode": "data",
+      "camera": {
+        "eye": {
+          "x": 0.05,
+          "y": -2.6,
+          "z": 2
+        }
+      }
+    },
+    "width": 500,
+    "height": 500,
+    "margin": {
+      "t": 0,
+      "b": 0,
+      "l": 0,
+      "r": 0
+    }
+  }
+}

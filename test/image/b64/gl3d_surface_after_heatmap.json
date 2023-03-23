@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "type": "heatmap",
+      "x": {
+        "dtype": "i1",
+        "bdata": "AAEC"
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AAEC"
+      },
+      "z": {
+        "dtype": "i1",
+        "bdata": "AAEAAQABAAEA",
+        "shape": "3, 3"
+      }
+    },
+    {
+      "type": "surface",
+      "x": {
+        "dtype": "i1",
+        "bdata": "AAEC"
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AAEC"
+      },
+      "z": {
+        "dtype": "i1",
+        "bdata": "AAEAAQABAAEA",
+        "shape": "3, 3"
+      }
+    }
+  ],
+  "layout": {
+    "title": {
+      "text": "Surface 3d plot on top of 2d heatmap!"
+    },
+    "width": 600,
+    "height": 400
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "data": [
+    {
+      "line": {
+        "shape": "linear"
+      },
+      "mode": "lines+markers",
+      "name": "'linear'",
+      "type": "scatter",
+      "marker": {
+        "angleref": "previous",
+        "symbol": "arrow-wide",
+        "size": 10
+      },
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQIDBAU="
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AQMCAwE="
+      }
+    },
+    {
+      "line": {
+        "shape": "spline"
+      },
+      "mode": "lines+markers",
+      "name": "'spline'",
+      "type": "scatter",
+      "marker": {
+        "angleref": "previous",
+        "symbol": "arrow-wide",
+        "size": 10
+      },
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQIDBAU="
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "BggHCAY="
+      }
+    },
+    {
+      "line": {
+        "shape": "vhv"
+      },
+      "mode": "lines+markers",
+      "name": "'vhv'",
+      "type": "scatter",
+      "marker": {
+        "angleref": "previous",
+        "symbol": "arrow-wide",
+        "size": 10
+      },
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQIDBAU="
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "Cw0MDQs="
+      }
+    },
+    {
+      "line": {
+        "shape": "hvh"
+      },
+      "mode": "lines+markers",
+      "name": "'hvh'",
+      "type": "scatter",
+      "marker": {
+        "angleref": "previous",
+        "symbol": "arrow-wide",
+        "size": 10
+      },
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQIDBAU="
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "EBIREhA="
+      }
+    },
+    {
+      "line": {
+        "shape": "vh"
+      },
+      "mode": "lines+markers",
+      "name": "'vh'",
+      "type": "scatter",
+      "marker": {
+        "angleref": "previous",
+        "symbol": "arrow-wide",
+        "size": 10
+      },
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQIDBAU="
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "FRcWFxU="
+      }
+    },
+    {
+      "line": {
+        "shape": "hv"
+      },
+      "mode": "lines+markers",
+      "name": "'hv'",
+      "type": "scatter",
+      "marker": {
+        "angleref": "previous",
+        "symbol": "arrow-wide",
+        "size": 10
+      },
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQIDBAU="
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "GhwbHBo="
+      }
+    }
+  ],
+  "layout": {
+    "title": {
+      "text": "line shape and arrows"
+    },
+    "legend": {
+      "orientation": "h"
+    },
+    "height": 700,
+    "width": 700
+  }
+}

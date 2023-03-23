@@ -1,0 +1,222 @@
+{
+  "data": [
+    {
+      "showlegend": true,
+      "showscale": false,
+      "colorscale": [
+        [
+          0,
+          "blue"
+        ],
+        [
+          1,
+          "red"
+        ]
+      ],
+      "x": {
+        "dtype": "i1",
+        "bdata": "AAoM"
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "CgwA"
+      },
+      "z": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "contours": {
+        "coloring": "heatmap"
+      },
+      "line": {
+        "color": "#fff"
+      },
+      "type": "contour",
+      "name": "blue-red"
+    },
+    {
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "showlegend": true,
+      "showscale": false,
+      "reversescale": true,
+      "colorscale": [
+        [
+          0,
+          "blue"
+        ],
+        [
+          1,
+          "red"
+        ]
+      ],
+      "x": {
+        "dtype": "i1",
+        "bdata": "AAoM"
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "CgwA"
+      },
+      "z": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "contours": {
+        "coloring": "heatmap"
+      },
+      "line": {
+        "color": "#fff"
+      },
+      "type": "contour",
+      "name": "reversed blue-red"
+    },
+    {
+      "xaxis": "x3",
+      "yaxis": "y3",
+      "showlegend": true,
+      "showscale": false,
+      "colorscale": [
+        [
+          0,
+          "red"
+        ],
+        [
+          1,
+          "blue"
+        ]
+      ],
+      "x": {
+        "dtype": "i1",
+        "bdata": "AAoM"
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "CgwA"
+      },
+      "z": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "contours": {
+        "coloring": "heatmap"
+      },
+      "line": {
+        "color": "#fff"
+      },
+      "type": "contour",
+      "name": "red-blue"
+    },
+    {
+      "xaxis": "x4",
+      "yaxis": "y4",
+      "showlegend": true,
+      "showscale": false,
+      "reversescale": true,
+      "colorscale": [
+        [
+          0,
+          "red"
+        ],
+        [
+          1,
+          "blue"
+        ]
+      ],
+      "x": {
+        "dtype": "i1",
+        "bdata": "AAoM"
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "CgwA"
+      },
+      "z": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "contours": {
+        "coloring": "heatmap"
+      },
+      "line": {
+        "color": "#fff"
+      },
+      "type": "contour",
+      "name": "reversed blue-red"
+    }
+  ],
+  "layout": {
+    "template": {
+      "data": {
+        "contour": [
+          {
+            "texttemplate": "%{z:.2s}"
+          }
+        ]
+      }
+    },
+    "title": {
+      "text": "<b>contour legends with heatmap coloring</b><br>red-blue should be equal to reversed blue-red.<br>i.e. display identical legends for identical graphs"
+    },
+    "margin": {
+      "t": 125,
+      "b": 25
+    },
+    "width": 800,
+    "height": 600,
+    "xaxis": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAADNzMzMzMzcPw=="
+      }
+    },
+    "xaxis2": {
+      "anchor": "y2",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "mpmZmZmZ4T8AAAAAAADwPw=="
+      }
+    },
+    "xaxis3": {
+      "anchor": "y3",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAADNzMzMzMzcPw=="
+      }
+    },
+    "xaxis4": {
+      "anchor": "y4",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "mpmZmZmZ4T8AAAAAAADwPw=="
+      }
+    },
+    "yaxis": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAADNzMzMzMzcPw=="
+      }
+    },
+    "yaxis2": {
+      "anchor": "x2",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "mpmZmZmZ4T8AAAAAAADwPw=="
+      }
+    },
+    "yaxis3": {
+      "anchor": "x3",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "mpmZmZmZ4T8AAAAAAADwPw=="
+      }
+    },
+    "yaxis4": {
+      "anchor": "x4",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAADNzMzMzMzcPw=="
+      }
+    }
+  }
+}

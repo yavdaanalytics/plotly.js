@@ -1,0 +1,17 @@
+{
+  "data": [
+    {
+      "type": "heatmapgl",
+      "z": {
+        "dtype": "i1",
+        "bdata": "fWpZSj0yKSIdGnRhUEE0KSAZFBFtWkk6LSIZEg0KaFVENSgdFA0IBWVSQTIlGhEKBQJkUUAxJBkQCQQBZVJBMiUaEQoFAmhVRDUoHRQNCAVtWkk6LSIZEg0KdGFQQTQpIBkUEQ==",
+        "shape": "10, 10"
+      },
+      "colorscale": "Viridis"
+    }
+  ],
+  "layout": {
+    "height": 450,
+    "width": 550
+  }
+}

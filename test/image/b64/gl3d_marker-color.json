@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "type": "scatter3d",
+      "y": {
+        "dtype": "f8",
+        "bdata": "uB6F61GoWcBSuB6F66FbwK5H4XoUPljAexSuR+FyZMA="
+      },
+      "x": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAwWUApXI/C9bBjQNejcD0Kl2FAKVyPwvXAYEA="
+      },
+      "z": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAwWUApXI/C9bBjQNejcD0Kl2FAKVyPwvXAYEA="
+      },
+      "marker": {
+        "color": [
+          "blue",
+          "orange",
+          "black"
+        ],
+        "size": {
+          "dtype": "i1",
+          "bdata": "ChQeKA=="
+        }
+      }
+    }
+  ],
+  "layout": {
+    "title": {
+      "text": "Scatter3d with under-defined marker color array"
+    }
+  }
+}

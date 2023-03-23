@@ -1,0 +1,167 @@
+{
+  "data": [
+    {
+      "legendgroup": "heatmap",
+      "showlegend": true,
+      "showscale": false,
+      "x": {
+        "dtype": "i1",
+        "bdata": "AAoM"
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "CgwA"
+      },
+      "z": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "zsmooth": "best",
+      "type": "heatmap",
+      "name": "heatmap"
+    },
+    {
+      "legendgroup": "heatmap",
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "showlegend": true,
+      "showscale": false,
+      "reversescale": true,
+      "x": {
+        "dtype": "i1",
+        "bdata": "AAoM"
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "CgwA"
+      },
+      "z": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "zsmooth": "best",
+      "type": "heatmap",
+      "name": "heatmap reversed scale"
+    },
+    {
+      "legendgroup": "contour",
+      "xaxis": "x3",
+      "yaxis": "y3",
+      "showlegend": true,
+      "showscale": false,
+      "x": {
+        "dtype": "i1",
+        "bdata": "AAoM"
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "CgwA"
+      },
+      "z": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "contours": {
+        "coloring": "heatmap"
+      },
+      "line": {
+        "color": "#fff"
+      },
+      "type": "contour",
+      "name": "contour"
+    },
+    {
+      "legendgroup": "contour",
+      "xaxis": "x4",
+      "yaxis": "y4",
+      "showlegend": true,
+      "showscale": false,
+      "reversescale": true,
+      "x": {
+        "dtype": "i1",
+        "bdata": "AAoM"
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "CgwA"
+      },
+      "z": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "contours": {
+        "coloring": "heatmap"
+      },
+      "line": {
+        "color": "#fff"
+      },
+      "type": "contour",
+      "name": "contour reversed scale"
+    }
+  ],
+  "layout": {
+    "legend": {
+      "orientation": "h",
+      "title": {
+        "side": "top left",
+        "text": "<i>heatmap and contour legends<i>"
+      }
+    },
+    "height": 800,
+    "width": 800,
+    "xaxis": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAAC4HoXrUbjePw=="
+      }
+    },
+    "xaxis2": {
+      "anchor": "y2",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "pHA9Ctej4D8AAAAAAADwPw=="
+      }
+    },
+    "xaxis3": {
+      "anchor": "y3",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAAC4HoXrUbjePw=="
+      }
+    },
+    "xaxis4": {
+      "anchor": "y4",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "pHA9Ctej4D8AAAAAAADwPw=="
+      }
+    },
+    "yaxis": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAAC4HoXrUbjePw=="
+      }
+    },
+    "yaxis2": {
+      "anchor": "x2",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "pHA9Ctej4D8AAAAAAADwPw=="
+      }
+    },
+    "yaxis3": {
+      "anchor": "x3",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "pHA9Ctej4D8AAAAAAADwPw=="
+      }
+    },
+    "yaxis4": {
+      "anchor": "x4",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAAC4HoXrUbjePw=="
+      }
+    }
+  }
+}

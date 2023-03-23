@@ -1,0 +1,91 @@
+{
+  "data": [
+    {
+      "type": "scattermapbox",
+      "mode": "markers",
+      "lon": {
+        "dtype": "f8",
+        "bdata": "ZmZmZmZmUsAzMzMzM2NSwBSuR+F6ZFLA"
+      },
+      "lat": {
+        "dtype": "f8",
+        "bdata": "AAAAAADARkAfhetRuL5GQOF6FK5HwUZA"
+      },
+      "marker": {
+        "size": 15,
+        "symbol": [
+          "monument",
+          "harbor",
+          "music"
+        ]
+      }
+    },
+    {
+      "type": "scattermapbox",
+      "mode": "markers",
+      "lon": {
+        "dtype": "f8",
+        "bdata": "ZmZmZmZmUsAzMzMzM2NSwBSuR+F6ZFLA"
+      },
+      "lat": {
+        "dtype": "f8",
+        "bdata": "AAAAAADARkAfhetRuL5GQOF6FK5HwUZA"
+      },
+      "marker": {
+        "size": 12,
+        "symbol": [
+          "monument",
+          "harbor",
+          "music"
+        ],
+        "angle": {
+          "dtype": "i1",
+          "bdata": "0y0A"
+        },
+        "allowoverlap": true
+      },
+      "subplot": "mapbox2"
+    }
+  ],
+  "layout": {
+    "mapbox": {
+      "domain": {
+        "x": {
+          "dtype": "i1",
+          "bdata": "AAE="
+        },
+        "y": {
+          "dtype": "i1",
+          "bdata": "AAE="
+        }
+      },
+      "center": {
+        "lon": -73.58432898976686,
+        "lat": 45.51514448108094
+      },
+      "zoom": 10.8,
+      "pitch": 60,
+      "bearing": -60
+    },
+    "mapbox2": {
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "MzMzMzMz4z8AAAAAAADwPw=="
+        },
+        "y": {
+          "dtype": "f8",
+          "bdata": "MzMzMzMz4z8AAAAAAADwPw=="
+        }
+      },
+      "center": {
+        "lon": -73.61356140239891,
+        "lat": 45.49896198405253
+      },
+      "zoom": 9.8
+    },
+    "showlegend": false,
+    "width": 700,
+    "height": 450
+  }
+}

@@ -1,0 +1,302 @@
+{
+  "data": [
+    {
+      "baseratio": 0,
+      "aspectratio": 2,
+      "type": "funnelarea",
+      "values": {
+        "dtype": "i1",
+        "bdata": "BgUEAwIB"
+      },
+      "textinfo": "value",
+      "title": {
+        "position": "top right",
+        "text": "1 - 6 no group"
+      },
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "ZmZmZmZm5j8AAAAAAADwPw=="
+        },
+        "y": {
+          "dtype": "f8",
+          "bdata": "ZmZmZmZm5j8AAAAAAADwPw=="
+        }
+      }
+    },
+    {
+      "baseratio": 0.5,
+      "aspectratio": 2,
+      "type": "funnelarea",
+      "values": {
+        "dtype": "i1",
+        "bdata": "EA8ODQwL"
+      },
+      "textinfo": "value",
+      "title": {
+        "position": "top right",
+        "text": "11 - 16 no group"
+      },
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "ZmZmZmZm5j8AAAAAAADwPw=="
+        },
+        "y": {
+          "dtype": "f8",
+          "bdata": "ZmZmZmZm1j/NzMzMzMzkPw=="
+        }
+      }
+    },
+    {
+      "baseratio": 1,
+      "aspectratio": 2,
+      "type": "funnelarea",
+      "values": {
+        "dtype": "i1",
+        "bdata": "PDIoHhQK"
+      },
+      "textinfo": "value",
+      "title": {
+        "position": "top right",
+        "text": "10 - 60 no group"
+      },
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "ZmZmZmZm5j8AAAAAAADwPw=="
+        },
+        "y": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAAAAAzMzMzMzPTPw=="
+        }
+      }
+    },
+    {
+      "baseratio": 0,
+      "aspectratio": 1,
+      "type": "funnelarea",
+      "values": {
+        "dtype": "i1",
+        "bdata": "BgUEAwIB"
+      },
+      "textinfo": "value",
+      "title": {
+        "position": "top center",
+        "text": "1 - 6 no group"
+      },
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "ZmZmZmZm1j/NzMzMzMzkPw=="
+        },
+        "y": {
+          "dtype": "f8",
+          "bdata": "ZmZmZmZm5j8AAAAAAADwPw=="
+        }
+      }
+    },
+    {
+      "baseratio": 0.5,
+      "aspectratio": 1,
+      "type": "funnelarea",
+      "title": {
+        "position": "top center",
+        "text": "11 - 16 no group"
+      },
+      "values": {
+        "dtype": "i1",
+        "bdata": "EA8ODQwL"
+      },
+      "textinfo": "value",
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "ZmZmZmZm1j/NzMzMzMzkPw=="
+        },
+        "y": {
+          "dtype": "f8",
+          "bdata": "ZmZmZmZm1j/NzMzMzMzkPw=="
+        }
+      }
+    },
+    {
+      "baseratio": 1,
+      "aspectratio": 1,
+      "type": "funnelarea",
+      "values": {
+        "dtype": "i1",
+        "bdata": "PDIoHhQK"
+      },
+      "textinfo": "value",
+      "title": {
+        "position": "top center",
+        "text": "10 - 60 no group"
+      },
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "ZmZmZmZm1j/NzMzMzMzkPw=="
+        },
+        "y": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAAAAAzMzMzMzPTPw=="
+        }
+      }
+    },
+    {
+      "baseratio": 0,
+      "aspectratio": 0.5,
+      "type": "funnelarea",
+      "values": {
+        "dtype": "i1",
+        "bdata": "BgUEAwIB"
+      },
+      "textinfo": "value",
+      "title": {
+        "position": "top left",
+        "text": "1 - 6 no group"
+      },
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAAAAAzMzMzMzPTPw=="
+        },
+        "y": {
+          "dtype": "f8",
+          "bdata": "ZmZmZmZm5j8AAAAAAADwPw=="
+        }
+      }
+    },
+    {
+      "baseratio": 0.5,
+      "aspectratio": 0.5,
+      "type": "funnelarea",
+      "values": {
+        "dtype": "i1",
+        "bdata": "EA8ODQwL"
+      },
+      "textinfo": "value",
+      "title": {
+        "position": "top left",
+        "text": "11 - 16 no group"
+      },
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAAAAAzMzMzMzPTPw=="
+        },
+        "y": {
+          "dtype": "f8",
+          "bdata": "ZmZmZmZm1j/NzMzMzMzkPw=="
+        }
+      }
+    },
+    {
+      "baseratio": 1,
+      "aspectratio": 0.5,
+      "type": "funnelarea",
+      "values": {
+        "dtype": "i1",
+        "bdata": "PDIoHhQK"
+      },
+      "textinfo": "value",
+      "title": {
+        "position": "top left",
+        "text": "10 - 60 no group"
+      },
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAAAAAzMzMzMzPTPw=="
+        },
+        "y": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAAAAAzMzMzMzPTPw=="
+        }
+      }
+    }
+  ],
+  "layout": {
+    "hiddenlabels": [
+      "1",
+      "4"
+    ],
+    "width": 800,
+    "height": 800,
+    "shapes": [
+      {
+        "type": "rect",
+        "layer": "below",
+        "x0": 0,
+        "x1": 0.3,
+        "y0": 0,
+        "y1": 0.3
+      },
+      {
+        "type": "rect",
+        "layer": "below",
+        "x0": 0,
+        "x1": 0.3,
+        "y0": 0.35,
+        "y1": 0.65
+      },
+      {
+        "type": "rect",
+        "layer": "below",
+        "x0": 0,
+        "x1": 0.3,
+        "y0": 0.7,
+        "y1": 1
+      },
+      {
+        "type": "rect",
+        "layer": "below",
+        "x0": 0.35,
+        "x1": 0.65,
+        "y0": 0,
+        "y1": 0.3
+      },
+      {
+        "type": "rect",
+        "layer": "below",
+        "x0": 0.35,
+        "x1": 0.65,
+        "y0": 0.35,
+        "y1": 0.65
+      },
+      {
+        "type": "rect",
+        "layer": "below",
+        "x0": 0.35,
+        "x1": 0.65,
+        "y0": 0.7,
+        "y1": 1
+      },
+      {
+        "type": "rect",
+        "layer": "below",
+        "x0": 0.7,
+        "x1": 1,
+        "y0": 0,
+        "y1": 0.3
+      },
+      {
+        "type": "rect",
+        "layer": "below",
+        "x0": 0.7,
+        "x1": 1,
+        "y0": 0.35,
+        "y1": 0.65
+      },
+      {
+        "type": "rect",
+        "layer": "below",
+        "x0": 0.7,
+        "x1": 1,
+        "y0": 0.7,
+        "y1": 1
+      }
+    ]
+  }
+}

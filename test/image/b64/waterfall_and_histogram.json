@@ -1,0 +1,65 @@
+{
+  "data": [
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQEBAQECAgIDAw=="
+      },
+      "type": "histogram"
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "Af4D"
+      },
+      "type": "waterfall",
+      "connector": {
+        "mode": "spanning"
+      }
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "Af4D"
+      },
+      "type": "waterfall",
+      "yaxis": "y2",
+      "connector": {
+        "mode": "spanning"
+      }
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQEBAQECAgIDAw=="
+      },
+      "type": "histogram",
+      "yaxis": "y2"
+    }
+  ],
+  "layout": {
+    "yaxis": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAABcj8L1KFzfPw=="
+      }
+    },
+    "yaxis2": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "UrgehetR4D8AAAAAAADwPw=="
+      }
+    },
+    "showlegend": false,
+    "bargap": 0.4,
+    "waterfallgap": 0
+  }
+}

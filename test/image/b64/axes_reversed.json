@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQI="
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AQI="
+      },
+      "type": "scatter"
+    }
+  ],
+  "layout": {
+    "xaxis": {
+      "autorange": "reversed"
+    }
+  }
+}

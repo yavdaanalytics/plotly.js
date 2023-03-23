@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "type": "image",
+      "colormodel": "rgb",
+      "hoverinfo": "all",
+      "dy": 1,
+      "dx": 0.5,
+      "z": {
+        "dtype": "i2",
+        "bdata": "/wAAAAAAAAD/AAAAAAAAAP8A",
+        "shape": "1, 3, 3"
+      }
+    },
+    {
+      "type": "image",
+      "colormodel": "hsl",
+      "hoverinfo": "all",
+      "z": {
+        "dtype": "i2",
+        "bdata": "AAAhADIAAABCADIAAABkADIAWgAhADIAWgBCADIAWgBkADIAtAAhADIAtABCADIAtABkADIADgEhADIADgFCADIADgFkADIA",
+        "shape": "4, 3, 3"
+      },
+      "xaxis": "x2",
+      "yaxis": "y2"
+    }
+  ],
+  "layout": {
+    "grid": {
+      "rows": 1,
+      "columns": 2,
+      "pattern": "independent"
+    },
+    "width": 600,
+    "height": 400
+  }
+}

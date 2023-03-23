@@ -1,0 +1,49 @@
+{
+  "data": [
+    {
+      "a": {
+        "dtype": "i1",
+        "bdata": "AgEB"
+      },
+      "b": {
+        "dtype": "i1",
+        "bdata": "AQIB"
+      },
+      "c": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAA8D8AAAAAAADwP5SHhVrT/ABA"
+      },
+      "type": "scatterternary"
+    }
+  ],
+  "layout": {
+    "ternary": {
+      "aaxis": {
+        "showline": true,
+        "ticks": "outside",
+        "showgrid": true,
+        "color": "#ccc",
+        "min": 0.231
+      },
+      "baxis": {
+        "showline": true,
+        "ticks": "outside",
+        "showgrid": true,
+        "color": "#0f0",
+        "title": {
+          "text": "chocolate"
+        },
+        "min": 0.2
+      },
+      "caxis": {
+        "showline": true,
+        "ticks": "outside",
+        "showgrid": true,
+        "min": 0.11
+      },
+      "bgcolor": "#eee"
+    },
+    "height": 450,
+    "width": 700
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "showlegend": true,
+      "coloraxis": "coloraxis",
+      "x": {
+        "dtype": "i1",
+        "bdata": "AAoM"
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "CgwA"
+      },
+      "z": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "contours": {
+        "coloring": "heatmap"
+      },
+      "line": {
+        "color": "#fff"
+      },
+      "type": "contour",
+      "name": "contour"
+    }
+  ],
+  "layout": {
+    "coloraxis": {
+      "colorscale": [
+        [
+          0,
+          "blue"
+        ],
+        [
+          1,
+          "red"
+        ]
+      ],
+      "reversescale": true,
+      "showscale": false
+    },
+    "title": {
+      "text": "<i>contour</i> legend with <b>coloraxis</b>"
+    },
+    "margin": {
+      "t": 125,
+      "b": 25
+    },
+    "width": 600,
+    "height": 400
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "type": "contour",
+      "colorscale": [
+        [
+          0,
+          "rgb(0,32,255)"
+        ],
+        [
+          1,
+          "rgb(0,32,255)"
+        ]
+      ],
+      "contours": {
+        "coloring": "lines",
+        "start": 3545.44829464,
+        "end": 9774,
+        "size": 100,
+        "showlabels": true,
+        "labelfont": {
+          "color": "black",
+          "family": "Raleway",
+          "size": 14
+        }
+      },
+      "showscale": false,
+      "y": {
+        "dtype": "f8",
+        "bdata": "AAAAAABM3UDFmKqqquzuQAAAAAAATN1AxZiqqqrs7kA="
+      },
+      "x": {
+        "dtype": "i2",
+        "bdata": "ECcQJ6hhqGE="
+      },
+      "line": {
+        "dash": "solid"
+      },
+      "z": {
+        "dtype": "f8",
+        "bdata": "iwPghuWyq0DfWZJuTBm1QBHOnx0Tv7BAg5jXUw5uuEA="
+      }
+    }
+  ],
+  "layout": {
+    "title": {
+      "text": "in_Fz_tar = f(in_Fy_tar)"
+    },
+    "margin": {
+      "r": 80
+    }
+  }
+}

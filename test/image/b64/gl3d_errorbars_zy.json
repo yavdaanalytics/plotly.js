@@ -1,0 +1,49 @@
+{
+  "data": [
+    {
+      "type": "scatter3d",
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "z": {
+        "dtype": "i2",
+        "bdata": "yABkAMgA"
+      },
+      "error_z": {
+        "type": "percent",
+        "value": 20,
+        "color": "red",
+        "width": 5
+      },
+      "error_y": {
+        "type": "constant",
+        "value": 0.25,
+        "valueminus": 0.1
+      }
+    }
+  ],
+  "layout": {
+    "scene": {
+      "camera": {
+        "eye": {
+          "x": 3,
+          "y": 0.2,
+          "z": 0.2
+        }
+      },
+      "aspectratio": {
+        "x": 2,
+        "y": 2,
+        "z": 1
+      }
+    },
+    "height": 450,
+    "width": 1000,
+    "autosize": true
+  }
+}

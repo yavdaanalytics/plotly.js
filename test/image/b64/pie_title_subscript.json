@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "values": {
+        "dtype": "i1",
+        "bdata": "AgMFBwk="
+      },
+      "labels": [
+        "2",
+        "3",
+        "5",
+        "7",
+        "9"
+      ],
+      "type": "pie",
+      "name": "Prime numbers",
+      "textinfo": "none",
+      "title": {
+        "text": "CO<sub>2</sub><BR>H<sub>2</sub>O",
+        "font": {
+          "size": 14
+        },
+        "position": "top center"
+      }
+    }
+  ],
+  "layout": {
+    "height": 400,
+    "width": 400
+  }
+}

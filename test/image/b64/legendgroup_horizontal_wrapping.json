@@ -1,0 +1,120 @@
+{
+  "data": [
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQIDBA=="
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "uB6F61HYT0BmZmZmZkZPQFK4HoXr0U5AUrgeheuxTkA="
+      },
+      "legendgroup": 1,
+      "name": "Trace A-1"
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQIDBA=="
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "H4XrUbgeTUDXo3A9CndLQK5H4XoUDkVAAAAAAABgSUA="
+      },
+      "legendgroup": 1,
+      "name": "Trace A-2"
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQIDBA=="
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "H4XrUbi+SUDsUbgehctIQI/C9Shcj0JAMzMzMzNzP0A="
+      },
+      "legendgroup": 2,
+      "name": "Trace B-1"
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQIDBA=="
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "7FG4HoWLSECF61G4HkVNQBSuR+F69EpAj8L1KFyPRUA="
+      },
+      "legendgroup": 2,
+      "name": "Trace B-2"
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQIDBA=="
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "UrgeheuhUUBxPQrXoyBSQFK4HoXrEVJAmpmZmZmpU0A="
+      },
+      "name": "Trace C-1"
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQIDBA=="
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "uB6F61FYT0DsUbgehYtNQClcj8L16E9AAAAAAAAAT0A="
+      },
+      "legendgroup": 3,
+      "name": "Trace D-1"
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQIDBA=="
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "4XoUrkcRU0DsUbgehdtRQArXo3A96k1A9ihcj8IVUEA="
+      },
+      "legendgroup": 3,
+      "name": "Trace D-2"
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQIDBA=="
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "mpmZmZnJUUAUrkfhenRUQD0K16NwHVZAw/UoXI+SUkA="
+      },
+      "name": "Trace E-1"
+    }
+  ],
+  "layout": {
+    "width": 600,
+    "legend": {
+      "orientation": "h"
+    },
+    "xaxis": {
+      "type": "linear",
+      "range": [
+        0.7840236686390533,
+        4.215976331360947
+      ],
+      "autorange": true
+    },
+    "yaxis": {
+      "type": "linear",
+      "range": [
+        27.274108280254776,
+        92.63589171974522
+      ],
+      "autorange": true
+    }
+  }
+}

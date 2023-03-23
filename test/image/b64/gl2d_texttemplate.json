@@ -1,0 +1,95 @@
+{
+  "data": [
+    {
+      "type": "scattergl",
+      "mode": "markers+text",
+      "x": {
+        "dtype": "i1",
+        "bdata": "AAECAw=="
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AAEECQ=="
+      },
+      "text": [
+        "a",
+        "b",
+        "c",
+        "d"
+      ],
+      "texttemplate": "%{text}: (%{x}, %{y})",
+      "textposition": "top center",
+      "xaxis": "x2",
+      "yaxis": "y2"
+    },
+    {
+      "type": "scattergl",
+      "mode": "markers+text",
+      "x": {
+        "dtype": "i1",
+        "bdata": "AwIBAA=="
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AAEECQ=="
+      },
+      "texttemplate": [
+        "1",
+        "2",
+        "3"
+      ],
+      "textposition": "top center",
+      "xaxis": "x2",
+      "yaxis": "y2"
+    },
+    {
+      "type": "scatterpolargl",
+      "mode": "markers+text",
+      "text": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "texttemplate": "%{text}: (%{r:0.2f},%{theta:0.2f})",
+      "textposition": "top center",
+      "r": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAA8D8AAAAAAADgPwAAAAAAAPA/AAAAAAAA+D8="
+      },
+      "theta": {
+        "dtype": "i2",
+        "bdata": "AABaALQADgE="
+      },
+      "showgrid": false,
+      "subplot": "polar"
+    }
+  ],
+  "layout": {
+    "showlegend": false,
+    "width": 600,
+    "height": 300,
+    "margin": {
+      "t": 50,
+      "b": 50,
+      "l": 50,
+      "r": 50
+    },
+    "polar": {
+      "radialaxis": {
+        "showline": false,
+        "linewidth": 0,
+        "tickwidth": 2,
+        "gridcolor": "white",
+        "gridwidth": 0
+      }
+    },
+    "grid": {
+      "rows": 1,
+      "columns": 2,
+      "pattern": "independent",
+      "xgap": 5,
+      "ygap": 5
+    }
+  }
+}

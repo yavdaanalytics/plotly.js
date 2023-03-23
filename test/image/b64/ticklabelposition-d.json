@@ -1,0 +1,195 @@
+{
+  "data": [
+    {
+      "xaxis": "x",
+      "yaxis": "y",
+      "x": {
+        "dtype": "i2",
+        "bdata": "eOwQJw=="
+      },
+      "y": {
+        "dtype": "i2",
+        "bdata": "eOwQJw=="
+      }
+    },
+    {
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "x": {
+        "dtype": "i2",
+        "bdata": "eOwQJw=="
+      },
+      "y": {
+        "dtype": "i2",
+        "bdata": "eOwQJw=="
+      }
+    },
+    {
+      "xaxis": "x3",
+      "yaxis": "y3",
+      "x": {
+        "dtype": "i2",
+        "bdata": "eOwQJw=="
+      },
+      "y": {
+        "dtype": "i2",
+        "bdata": "eOwQJw=="
+      }
+    },
+    {
+      "xaxis": "x4",
+      "yaxis": "y4",
+      "x": {
+        "dtype": "i2",
+        "bdata": "eOwQJw=="
+      },
+      "y": {
+        "dtype": "i2",
+        "bdata": "eOwQJw=="
+      }
+    }
+  ],
+  "layout": {
+    "xaxis": {
+      "anchor": "y",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAABmZmZmZmbePw=="
+      },
+      "side": "bottom",
+      "ticks": "inside",
+      "ticklabelposition": "inside",
+      "tickfont": {
+        "size": 16
+      },
+      "ticklen": 0,
+      "tickangle": 90,
+      "gridcolor": "white"
+    },
+    "yaxis": {
+      "anchor": "x",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAABmZmZmZmbePw=="
+      },
+      "side": "left",
+      "ticks": "inside",
+      "ticklabelposition": "inside",
+      "tickfont": {
+        "size": 16
+      },
+      "ticklen": 0,
+      "tickangle": 90,
+      "gridcolor": "white"
+    },
+    "xaxis2": {
+      "anchor": "y2",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "zczMzMzM4D8AAAAAAADwPw=="
+      },
+      "side": "bottom",
+      "ticks": "inside",
+      "ticklabelposition": "inside",
+      "tickfont": {
+        "size": 16
+      },
+      "ticklen": 0,
+      "tickangle": -90,
+      "gridcolor": "white"
+    },
+    "yaxis2": {
+      "anchor": "x2",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAABmZmZmZmbePw=="
+      },
+      "side": "right",
+      "ticks": "inside",
+      "ticklabelposition": "inside",
+      "tickfont": {
+        "size": 16
+      },
+      "ticklen": 0,
+      "tickangle": -90,
+      "gridcolor": "white"
+    },
+    "xaxis3": {
+      "anchor": "y3",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "zczMzMzM4D8AAAAAAADwPw=="
+      },
+      "side": "top",
+      "ticks": "inside",
+      "ticklabelposition": "inside",
+      "tickfont": {
+        "size": 16
+      },
+      "ticklen": 0,
+      "tickangle": -90,
+      "gridcolor": "white"
+    },
+    "yaxis3": {
+      "anchor": "x3",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "zczMzMzM4D8AAAAAAADwPw=="
+      },
+      "side": "right",
+      "ticks": "inside",
+      "ticklabelposition": "inside",
+      "tickfont": {
+        "size": 16
+      },
+      "ticklen": 0,
+      "tickangle": 90,
+      "gridcolor": "white"
+    },
+    "xaxis4": {
+      "anchor": "y4",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAABmZmZmZmbePw=="
+      },
+      "side": "top",
+      "ticks": "inside",
+      "ticklabelposition": "inside",
+      "tickfont": {
+        "size": 16
+      },
+      "ticklen": 0,
+      "tickangle": 90,
+      "gridcolor": "white"
+    },
+    "yaxis4": {
+      "anchor": "x4",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "zczMzMzM4D8AAAAAAADwPw=="
+      },
+      "side": "left",
+      "ticks": "inside",
+      "ticklabelposition": "inside",
+      "tickfont": {
+        "size": 16
+      },
+      "ticklen": 0,
+      "tickangle": -90,
+      "gridcolor": "white"
+    },
+    "font": {
+      "family": "Raleway"
+    },
+    "plot_bgcolor": "lightblue",
+    "showlegend": false,
+    "width": 800,
+    "height": 800,
+    "margin": {
+      "t": 40,
+      "b": 40,
+      "l": 40,
+      "r": 40
+    }
+  }
+}

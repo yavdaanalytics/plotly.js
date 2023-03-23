@@ -1,0 +1,49 @@
+{
+  "data": [
+    {
+      "x": [
+        "Trial 1",
+        "Trial 2",
+        "Trial 3"
+      ],
+      "y": {
+        "dtype": "i1",
+        "bdata": "AwYE"
+      },
+      "name": "Control",
+      "error_y": {
+        "type": "data",
+        "array": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAA8D8AAAAAAADgPwAAAAAAAPg/"
+        },
+        "visible": true
+      },
+      "type": "bar"
+    },
+    {
+      "x": [
+        "Trial 1",
+        "Trial 2",
+        "Trial 3"
+      ],
+      "y": {
+        "dtype": "i1",
+        "bdata": "BAcD"
+      },
+      "name": "Experimental",
+      "error_y": {
+        "type": "data",
+        "array": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAA4D8AAAAAAADwPwAAAAAAAABA"
+        },
+        "visible": true
+      },
+      "type": "bar"
+    }
+  ],
+  "layout": {
+    "barmode": "group"
+  }
+}

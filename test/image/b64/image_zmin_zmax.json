@@ -1,0 +1,116 @@
+{
+  "data": [
+    {
+      "type": "image",
+      "z": {
+        "dtype": "i2",
+        "bdata": "/wAAAAAAAAD/AAAAAAAAAP8A",
+        "shape": "1, 3, 3"
+      }
+    },
+    {
+      "type": "image",
+      "z": {
+        "dtype": "i1",
+        "bdata": "AQAAAAEAAAAB",
+        "shape": "1, 3, 3"
+      },
+      "zmax": {
+        "dtype": "i1",
+        "bdata": "AQEB"
+      },
+      "yaxis": "y2",
+      "xaxis": "x2"
+    },
+    {
+      "type": "image",
+      "colormodel": "rgba",
+      "z": {
+        "dtype": "f8",
+        "bdata": "AAAAAADgb0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA4D8AAAAAAAAAAAAAAAAA4G9AAAAAAAAAAAAAAAAAAADgPwAAAAAAAAAAAAAAAAAAAAAAAAAAAOBvQAAAAAAAAOA/",
+        "shape": "1, 3, 4"
+      },
+      "yaxis": "y3",
+      "xaxis": "x3"
+    },
+    {
+      "type": "image",
+      "colormodel": "rgba",
+      "z": {
+        "dtype": "i1",
+        "bdata": "AQAAMgABADIAAAEy",
+        "shape": "1, 3, 4"
+      },
+      "zmax": {
+        "dtype": "i1",
+        "bdata": "AQEBZA=="
+      },
+      "yaxis": "y4",
+      "xaxis": "x4"
+    },
+    {
+      "type": "image",
+      "colormodel": "hsl",
+      "z": {
+        "dtype": "i2",
+        "bdata": "WgAyADIAtAAyADIADgEyADIA",
+        "shape": "1, 3, 3"
+      },
+      "yaxis": "y5",
+      "xaxis": "x5"
+    },
+    {
+      "type": "image",
+      "colormodel": "hsl",
+      "z": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAA0D8AAAAAAADwPwAAAAAAAPA/AAAAAAAA4D8AAAAAAADwPwAAAAAAAPA/AAAAAAAA6D8AAAAAAADwPwAAAAAAAPA/",
+        "shape": "1, 3, 3"
+      },
+      "zmax": {
+        "dtype": "i1",
+        "bdata": "AQIC"
+      },
+      "yaxis": "y6",
+      "xaxis": "x6"
+    },
+    {
+      "type": "image",
+      "colormodel": "hsla",
+      "z": {
+        "dtype": "f8",
+        "bdata": "AAAAAACAVkAAAAAAAABJQAAAAAAAAElAAAAAAAAA4D8AAAAAAIBmQAAAAAAAAElAAAAAAAAASUAAAAAAAADgPwAAAAAA4HBAAAAAAAAASUAAAAAAAABJQAAAAAAAAOA/",
+        "shape": "1, 3, 4"
+      },
+      "yaxis": "y7",
+      "xaxis": "x7"
+    },
+    {
+      "type": "image",
+      "colormodel": "hsla",
+      "z": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAA0D8AAAAAAADwPwAAAAAAAPA/AAAAAAAASUAAAAAAAADgPwAAAAAAAPA/AAAAAAAA8D8AAAAAAABJQAAAAAAAAOg/AAAAAAAA8D8AAAAAAADwPwAAAAAAAElA",
+        "shape": "1, 3, 4"
+      },
+      "zmax": {
+        "dtype": "i1",
+        "bdata": "AQICZA=="
+      },
+      "yaxis": "y8",
+      "xaxis": "x8"
+    }
+  ],
+  "layout": {
+    "width": 400,
+    "height": 800,
+    "grid": {
+      "rows": 4,
+      "columns": 2,
+      "pattern": "independent"
+    },
+    "title": {
+      "text": "zmin zmax"
+    }
+  }
+}

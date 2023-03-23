@@ -1,0 +1,56 @@
+{
+  "data": [
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AAECAwQFBgcICQoLDA0ODxAREhMUFRYXGBkaGxwdHh8gISIjJCUmJygpKissLS4vMDE="
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "3J4fLaTFTkC8GWkS6IFKQJYntg8RI0tAEarP3GbGSkABV7PHkL5TQEyoxcdd4j9AGoYdSKdjTECIPy6N2PASQAzeehX7j09A35nYb6aMRUD4S/L9xtxFQCv/5MEk2DhAwq4WHjNyQUA093Rm5AVCQD9gWc6tNzxABM0G2wJGPUB+mqapFLlRQPrDeykY4k1AuxZtb/qwUEB4Feb15Y8mQGqzOyzHl1NAQnRu7VeFUEB3aceMcwxJQOn1BpkDBk1AGhNHoxHfTUCiEeB6ou5EQNeQjhHIHEhARtXM2rHaQkAW6mEsth41QH4qnlOGxlJA4sO4n+m9S0DvBMlhF95NQJiNm/bLNU5AAH19IZAAvD+eVzq2JVhTQOz2fzyELC5ATgrD2AfqQUARxQOodLA3QAAc/1Be5gJAnKiQ+hW0SkAoimnczEQuQLzuFa21Xx1A4jEFVB1DS0BXPHDgQeZBQBS1yKniIUNARDWUk4nrMUCgBm8FJIZCQPr8lvaL6kZAJk3dsuX+RUBkOmGMqltRQA=="
+      },
+      "line": {
+        "shape": "spline",
+        "smoothing": 1
+      },
+      "fill": "tozeroy",
+      "name": "Bird 1"
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AAECAwQFBgcICQoLDA0ODxAREhMUFRYXGBkaGxwdHh8gISIjJCUmJygpKissLS4vMDE="
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "mNFKfE1ORUD0hq2UFnZTQMTKiae0sktA4FQTgbkXEEBgN8rfw0ZBQK4G8MGBTi5Atn1HKSxjU0Af8KSAOOlSQNgYEabLD09AQue4znsBUUBEbAa4e2hBQI5S1sd89ClAWP09R8MqOUDqs6rxGqNDQHysqKGA/kRArch1INZxQEAKq7RnAxlQQCYA3FT0Jj9AVgCG7helSkCoD2UVcepHQH68YBAGO0hAEpXB+B8KKkCKuqwDUHpGQHImNJQbEU9Agies58vLNkCaREz7dPFKQOKB/XGtwSJAmmWzcVlwS0BeWN2n9z4lQMbdpzS7bT9AuhRT36/oT0BJWerFmzZRQHOwM/6paT5A7NOytzkpPUDdVKr0KCAzQGCUND0+dvw/j8bWC7ifP0C2WLLoidxAQLLlzow9sUFAzonyB6SuREC5S6+mYP44QL6LeXmnikNA6NoQ0sLJTUAsduyWbc9AQMKyy0afcSdAyuevRd3iJUBbpQR3nmI0QOTKfGk00ENABN+XaQcNUkDRAJqsWT5DQA=="
+      },
+      "name": "Bird 2"
+    }
+  ],
+  "layout": {
+    "title": {
+      "text": "Seagull Positions"
+    },
+    "xaxis": {
+      "rangeslider": {
+        "visible": true,
+        "thickness": 0.2,
+        "bgcolor": "#fafafa",
+        "bordercolor": "black",
+        "borderwidth": 2
+      },
+      "title": {
+        "text": "Time (Hours)"
+      }
+    },
+    "yaxis": {
+      "title": {
+        "text": "Height (ft)"
+      }
+    },
+    "paper_bgcolor": "#eee",
+    "height": 500,
+    "width": 800
+  }
+}

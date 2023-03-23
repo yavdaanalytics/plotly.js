@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "type": "pie",
+      "domain": {
+        "y": {
+          "dtype": "f8",
+          "bdata": "mpmZmZmZ6T8AAAAAAADwPw=="
+        }
+      },
+      "labels": {
+        "dtype": "i1",
+        "bdata": "AA=="
+      },
+      "legendgroup": "G1"
+    },
+    {
+      "type": "pie",
+      "domain": {
+        "y": {
+          "dtype": "f8",
+          "bdata": "MzMzMzMz4z+amZmZmZnpPw=="
+        }
+      },
+      "labels": {
+        "dtype": "i1",
+        "bdata": "AQ=="
+      },
+      "legendgroup": "G1"
+    },
+    {
+      "type": "pie",
+      "domain": {
+        "y": {
+          "dtype": "f8",
+          "bdata": "mpmZmZmZ2T8zMzMzMzPjPw=="
+        }
+      },
+      "labels": {
+        "dtype": "i1",
+        "bdata": "Ag=="
+      },
+      "legendgroup": "G1",
+      "legendgrouptitle": {
+        "text": "First group"
+      }
+    },
+    {
+      "type": "pie",
+      "domain": {
+        "y": {
+          "dtype": "f8",
+          "bdata": "mpmZmZmZyT+amZmZmZnZPw=="
+        }
+      },
+      "labels": {
+        "dtype": "i1",
+        "bdata": "Aw=="
+      },
+      "legendgroup": "G2",
+      "legendgrouptitle": {
+        "text": "Second group"
+      }
+    },
+    {
+      "domain": {
+        "y": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAAAACamZmZmZnJPw=="
+        }
+      },
+      "type": "pie",
+      "labels": {
+        "dtype": "i1",
+        "bdata": "BAU="
+      },
+      "legendgroup": "G3",
+      "legendgrouptitle": {
+        "text": "Third group"
+      }
+    }
+  ],
+  "layout": {
+    "title": {
+      "text": "legend group titles"
+    },
+    "margin": {
+      "t": 50,
+      "b": 25,
+      "l": 25,
+      "r": 25
+    },
+    "width": 300,
+    "height": 300,
+    "legend": {
+      "bgcolor": "lightblue",
+      "title": {
+        "text": ""
+      }
+    },
+    "hovermode": "x unified"
+  }
+}

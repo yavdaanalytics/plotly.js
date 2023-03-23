@@ -1,0 +1,540 @@
+{
+  "data": [
+    {
+      "carpet": "c1",
+      "type": "carpet",
+      "a": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "b": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAA8D9mZmZmZmYCQAAAAAAAAAhAZmZmZmZmAkAAAAAAAAAIQJqZmZmZmQ1AAAAAAAAACECamZmZmZkNQAAAAAAAABRA",
+        "shape": "3, 3"
+      },
+      "xaxis": "x",
+      "yaxis": "y",
+      "aaxis": {
+        "smoothing": 1,
+        "title": {
+          "text": "a"
+        },
+        "type": "linear"
+      },
+      "baxis": {
+        "smoothing": 1,
+        "title": {
+          "text": "b"
+        },
+        "type": "linear"
+      }
+    },
+    {
+      "carpet": "c2",
+      "type": "carpet",
+      "a": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "b": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAA8D9mZmZmZmYCQAAAAAAAAAhAZmZmZmZmAkAAAAAAAAAIQJqZmZmZmQ1AAAAAAAAACECamZmZmZkNQAAAAAAAABRA",
+        "shape": "3, 3"
+      },
+      "xaxis": "x2",
+      "yaxis": "y",
+      "aaxis": {
+        "smoothing": 0,
+        "title": {
+          "text": "a"
+        },
+        "type": "linear"
+      },
+      "baxis": {
+        "smoothing": 0,
+        "title": {
+          "text": "b"
+        },
+        "type": "linear"
+      }
+    },
+    {
+      "carpet": "c3",
+      "type": "carpet",
+      "a": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "b": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAA8D8zMzMzMzP7PwAAAAAAAAhAMzMzMzMz+z8AAAAAAAAIQDMzMzMzMxFAAAAAAAAACEAzMzMzMzMRQAAAAAAAABRA",
+        "shape": "3, 3"
+      },
+      "xaxis": "x",
+      "yaxis": "y2",
+      "aaxis": {
+        "smoothing": 1,
+        "title": {
+          "text": "a"
+        },
+        "type": "linear"
+      },
+      "baxis": {
+        "smoothing": 1,
+        "title": {
+          "text": "b"
+        },
+        "type": "linear"
+      }
+    },
+    {
+      "carpet": "c4",
+      "type": "carpet",
+      "a": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "b": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAA8D8zMzMzMzP7PwAAAAAAAAhAMzMzMzMz+z8AAAAAAAAIQDMzMzMzMxFAAAAAAAAACEAzMzMzMzMRQAAAAAAAABRA",
+        "shape": "3, 3"
+      },
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "aaxis": {
+        "smoothing": 0,
+        "title": {
+          "text": "a"
+        },
+        "type": "linear"
+      },
+      "baxis": {
+        "smoothing": 0,
+        "title": {
+          "text": "b"
+        },
+        "type": "linear"
+      }
+    },
+    {
+      "carpet": "c1",
+      "type": "contourcarpet",
+      "name": "1A",
+      "z": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAA8D9mZmZmZmYCQAAAAAAAAAhAZmZmZmZmAkAAAAAAAAAIQJqZmZmZmQ1AAAAAAAAACECamZmZmZkNQAAAAAAAABRA",
+        "shape": "3, 3"
+      },
+      "contours": {
+        "type": "constraint",
+        "operation": "[]",
+        "value": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAABEAAAAAAAAAMQA=="
+        }
+      },
+      "line": {
+        "dash": "dashdot",
+        "width": 2,
+        "smoothing": 1
+      }
+    },
+    {
+      "carpet": "c1",
+      "type": "contourcarpet",
+      "name": "1B",
+      "z": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAA8D9mZmZmZmYCQAAAAAAAAAhAZmZmZmZmAkAAAAAAAAAIQJqZmZmZmQ1AAAAAAAAACECamZmZmZkNQAAAAAAAABRA",
+        "shape": "3, 3"
+      },
+      "contours": {
+        "type": "constraint",
+        "operation": "][",
+        "value": {
+          "dtype": "f8",
+          "bdata": "MzMzMzMzB0DNzMzMzMwIQA=="
+        }
+      },
+      "line": {
+        "dash": "dash",
+        "width": 2,
+        "smoothing": 1
+      }
+    },
+    {
+      "carpet": "c1",
+      "type": "contourcarpet",
+      "name": "1C",
+      "z": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAAAAAAAAAADgPwAAAAAAAPA/AAAAAAAA4L8AAAAAAAAAAAAAAAAAAOA/AAAAAAAA8L8AAAAAAADgvwAAAAAAAAAA",
+        "shape": "3, 3"
+      },
+      "contours": {
+        "type": "constraint",
+        "operation": "<",
+        "value": 0.25
+      },
+      "line": {
+        "width": 2,
+        "smoothing": 1
+      }
+    },
+    {
+      "carpet": "c1",
+      "type": "contourcarpet",
+      "name": "1D",
+      "z": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAAAAAAAAAADgPwAAAAAAAPA/AAAAAAAA4L8AAAAAAAAAAAAAAAAAAOA/AAAAAAAA8L8AAAAAAADgvwAAAAAAAAAA",
+        "shape": "3, 3"
+      },
+      "contours": {
+        "type": "constraint",
+        "operation": ">",
+        "value": -0.25
+      },
+      "line": {
+        "dash": "dot",
+        "width": 2,
+        "smoothing": 1
+      }
+    },
+    {
+      "carpet": "c2",
+      "xaxis": "x2",
+      "yaxis": "y",
+      "type": "contourcarpet",
+      "name": "2A",
+      "z": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAA8D9mZmZmZmYCQAAAAAAAAAhAZmZmZmZmAkAAAAAAAAAIQJqZmZmZmQ1AAAAAAAAACECamZmZmZkNQAAAAAAAABRA",
+        "shape": "3, 3"
+      },
+      "contours": {
+        "type": "constraint",
+        "operation": "[]",
+        "value": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAABEAAAAAAAAAMQA=="
+        }
+      },
+      "line": {
+        "dash": "dashdot",
+        "smoothing": 1,
+        "width": 2
+      }
+    },
+    {
+      "carpet": "c2",
+      "xaxis": "x2",
+      "yaxis": "y",
+      "type": "contourcarpet",
+      "name": "2B",
+      "z": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAA8D9mZmZmZmYCQAAAAAAAAAhAZmZmZmZmAkAAAAAAAAAIQJqZmZmZmQ1AAAAAAAAACECamZmZmZkNQAAAAAAAABRA",
+        "shape": "3, 3"
+      },
+      "contours": {
+        "type": "constraint",
+        "operation": "][",
+        "value": {
+          "dtype": "f8",
+          "bdata": "MzMzMzMzB0DNzMzMzMwIQA=="
+        }
+      },
+      "line": {
+        "dash": "dash",
+        "width": 2,
+        "smoothing": 1
+      }
+    },
+    {
+      "carpet": "c2",
+      "xaxis": "x2",
+      "yaxis": "y",
+      "type": "contourcarpet",
+      "name": "2C",
+      "z": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAAAAAAAAAADgPwAAAAAAAPA/AAAAAAAA4L8AAAAAAAAAAAAAAAAAAOA/AAAAAAAA8L8AAAAAAADgvwAAAAAAAAAA",
+        "shape": "3, 3"
+      },
+      "contours": {
+        "type": "constraint",
+        "operation": "<",
+        "value": 0.25
+      },
+      "line": {
+        "smoothing": 1,
+        "width": 2
+      }
+    },
+    {
+      "carpet": "c2",
+      "xaxis": "x2",
+      "yaxis": "y",
+      "type": "contourcarpet",
+      "name": "2D",
+      "z": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAAAAAAAAAADgPwAAAAAAAPA/AAAAAAAA4L8AAAAAAAAAAAAAAAAAAOA/AAAAAAAA8L8AAAAAAADgvwAAAAAAAAAA",
+        "shape": "3, 3"
+      },
+      "contours": {
+        "type": "constraint",
+        "operation": ">",
+        "value": -0.25
+      },
+      "line": {
+        "dash": "dot",
+        "smoothing": 1,
+        "width": 2
+      }
+    },
+    {
+      "carpet": "c3",
+      "xaxis": "x",
+      "yaxis": "y2",
+      "type": "contourcarpet",
+      "name": "3A",
+      "z": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAA8D9mZmZmZmYCQAAAAAAAAAhAZmZmZmZmAkAAAAAAAAAIQJqZmZmZmQ1AAAAAAAAACECamZmZmZkNQAAAAAAAABRA",
+        "shape": "3, 3"
+      },
+      "contours": {
+        "type": "constraint",
+        "operation": "[]",
+        "value": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAABEAAAAAAAAAMQA=="
+        }
+      },
+      "line": {
+        "dash": "dashdot",
+        "smoothing": 1,
+        "width": 2
+      }
+    },
+    {
+      "carpet": "c3",
+      "xaxis": "x",
+      "yaxis": "y2",
+      "type": "contourcarpet",
+      "name": "3B",
+      "z": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAA8D9mZmZmZmYCQAAAAAAAAAhAZmZmZmZmAkAAAAAAAAAIQJqZmZmZmQ1AAAAAAAAACECamZmZmZkNQAAAAAAAABRA",
+        "shape": "3, 3"
+      },
+      "contours": {
+        "type": "constraint",
+        "operation": "][",
+        "value": {
+          "dtype": "f8",
+          "bdata": "MzMzMzMzB0DNzMzMzMwIQA=="
+        }
+      },
+      "line": {
+        "dash": "dash",
+        "width": 2,
+        "smoothing": 1
+      }
+    },
+    {
+      "carpet": "c3",
+      "xaxis": "x",
+      "yaxis": "y2",
+      "type": "contourcarpet",
+      "name": "3C",
+      "z": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAAAAAAAAAADgPwAAAAAAAPA/AAAAAAAA4L8AAAAAAAAAAAAAAAAAAOA/AAAAAAAA8L8AAAAAAADgvwAAAAAAAAAA",
+        "shape": "3, 3"
+      },
+      "contours": {
+        "type": "constraint",
+        "operation": "<",
+        "value": 0.25
+      },
+      "line": {
+        "smoothing": 1,
+        "width": 2
+      }
+    },
+    {
+      "carpet": "c3",
+      "xaxis": "x",
+      "yaxis": "y2",
+      "type": "contourcarpet",
+      "name": "3D",
+      "z": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAAAAAAAAAADgPwAAAAAAAPA/AAAAAAAA4L8AAAAAAAAAAAAAAAAAAOA/AAAAAAAA8L8AAAAAAADgvwAAAAAAAAAA",
+        "shape": "3, 3"
+      },
+      "contours": {
+        "type": "constraint",
+        "operation": ">",
+        "value": -0.25
+      },
+      "line": {
+        "dash": "dot",
+        "smoothing": 1,
+        "width": 2
+      }
+    },
+    {
+      "carpet": "c4",
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "type": "contourcarpet",
+      "name": "4A",
+      "z": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAA8D9mZmZmZmYCQAAAAAAAAAhAZmZmZmZmAkAAAAAAAAAIQJqZmZmZmQ1AAAAAAAAACECamZmZmZkNQAAAAAAAABRA",
+        "shape": "3, 3"
+      },
+      "contours": {
+        "type": "constraint",
+        "operation": "[]",
+        "value": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAABEAAAAAAAAAMQA=="
+        }
+      },
+      "line": {
+        "dash": "dashdot",
+        "smoothing": 1,
+        "width": 2
+      }
+    },
+    {
+      "carpet": "c4",
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "type": "contourcarpet",
+      "name": "4B",
+      "z": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAA8D9mZmZmZmYCQAAAAAAAAAhAZmZmZmZmAkAAAAAAAAAIQJqZmZmZmQ1AAAAAAAAACECamZmZmZkNQAAAAAAAABRA",
+        "shape": "3, 3"
+      },
+      "contours": {
+        "type": "constraint",
+        "operation": "][",
+        "value": {
+          "dtype": "f8",
+          "bdata": "MzMzMzMzB0DNzMzMzMwIQA=="
+        }
+      },
+      "line": {
+        "dash": "dash",
+        "width": 2,
+        "smoothing": 1
+      }
+    },
+    {
+      "carpet": "c4",
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "type": "contourcarpet",
+      "name": "4C",
+      "z": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAAAAAAAAAADgPwAAAAAAAPA/AAAAAAAA4L8AAAAAAAAAAAAAAAAAAOA/AAAAAAAA8L8AAAAAAADgvwAAAAAAAAAA",
+        "shape": "3, 3"
+      },
+      "contours": {
+        "type": "constraint",
+        "operation": "<",
+        "value": 0.25
+      },
+      "line": {
+        "smoothing": 1,
+        "width": 2
+      }
+    },
+    {
+      "carpet": "c4",
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "type": "contourcarpet",
+      "name": "4D",
+      "z": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAAAAAAAAAADgPwAAAAAAAPA/AAAAAAAA4L8AAAAAAAAAAAAAAAAAAOA/AAAAAAAA8L8AAAAAAADgvwAAAAAAAAAA",
+        "shape": "3, 3"
+      },
+      "opacity": 1.0,
+      "contours": {
+        "type": "constraint",
+        "operation": ">",
+        "value": -0.25
+      },
+      "line": {
+        "dash": "dot",
+        "smoothing": 1,
+        "width": 2
+      }
+    }
+  ],
+  "layout": {
+    "width": 800,
+    "height": 600,
+    "margin": {
+      "t": 30,
+      "r": 30,
+      "b": 30,
+      "l": 30
+    },
+    "dragmode": "pan",
+    "xaxis": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAABcj8L1KFzfPw=="
+      },
+      "autorange": true
+    },
+    "yaxis": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAABcj8L1KFzfPw=="
+      },
+      "autorange": true
+    },
+    "xaxis2": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "UrgehetR4D8AAAAAAADwPw=="
+      },
+      "autorange": true
+    },
+    "yaxis2": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "UrgehetR4D8AAAAAAADwPw=="
+      },
+      "autorange": true
+    }
+  }
+}

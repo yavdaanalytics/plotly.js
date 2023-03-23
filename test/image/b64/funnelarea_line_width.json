@@ -1,0 +1,39 @@
+{
+  "data": [
+    {
+      "marker": {
+        "line": {
+          "color": [
+            "#F00",
+            "#FF0",
+            "#0F0",
+            "#0FF",
+            "#00F"
+          ],
+          "width": {
+            "dtype": "i1",
+            "bdata": "AAAIAAg="
+          }
+        }
+      },
+      "values": {
+        "dtype": "f8",
+        "bdata": "KVyPwvUoAECgGi/dJAYIQHGsi9toABBAmpmZmZmZ8T8AAAAAAAAAAA=="
+      },
+      "labels": [
+        "1st",
+        "2nd",
+        "3rd",
+        "4th",
+        "include 0!"
+      ],
+      "textposition": "none",
+      "type": "funnelarea"
+    }
+  ],
+  "layout": {
+    "showlegend": true,
+    "height": 400,
+    "width": 600
+  }
+}

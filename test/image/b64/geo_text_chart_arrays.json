@@ -1,0 +1,123 @@
+{
+  "data": [
+    {
+      "type": "scattergeo",
+      "mode": "markers+text",
+      "lon": {
+        "dtype": "f8",
+        "bdata": "FK5H4XpkUsCPwvUoXM9TwKRwPQrXw17AZmZmZmaGXMBSuB6F61FcwOxRuB6F21LAKVyPwvXIT8A9CtejcM1ewLgehetRSFjAZmZmZmYmWsA="
+      },
+      "lat": {
+        "dtype": "f8",
+        "bdata": "AAAAAADARkAzMzMzM7NFQHE9CtejkEhAzczMzMyMSUDsUbgehatKQB+F61G4nkZAUrgehetRRkAAAAAAACBIQFK4HoXr8UhAmpmZmZk5SUA="
+      },
+      "text": [
+        "Montreal",
+        "Toronto",
+        "Vancouver",
+        "Calgary",
+        "Edmonton",
+        "Ottawa",
+        "Halifax",
+        "Victoria",
+        "Winnepeg",
+        "Regina"
+      ],
+      "marker": {
+        "symbol": "arrow",
+        "angleref": "north",
+        "size": 20,
+        "color": [
+          "#bebada",
+          "#fdb462",
+          "#fb8072",
+          "#d9d9d9",
+          "#bc80bd",
+          "#b3de69",
+          "#8dd3c7",
+          "#80b1d3",
+          "#fccde5",
+          "#ffffb3"
+        ],
+        "line": {
+          "width": 1
+        }
+      },
+      "name": "",
+      "textposition": [
+        "top center",
+        "middle left",
+        "top center",
+        "bottom center",
+        "top right",
+        "middle left",
+        "bottom right",
+        "bottom left",
+        "top right",
+        "top right"
+      ],
+      "textfont": {
+        "size": {
+          "dtype": "i1",
+          "bdata": "FhUUExIREA8ODQ=="
+        },
+        "color": [
+          "#bebada",
+          "#fdb462",
+          "#fb8072",
+          "#d9d9d9",
+          "#bc80bd",
+          "#b3de69",
+          "#8dd3c7",
+          "#80b1d3",
+          "#fccde5",
+          "#ffffb3"
+        ],
+        "family": [
+          "Arial, sans-serif",
+          "Roboto, sans-serif",
+          "Courier New, monospace",
+          "Noto Sans, sans-serif",
+          "Noto Serif, serif",
+          "Noto Sans Mono, sans-serif",
+          "Gravitas One, cursive",
+          "Old Standard TT, serif",
+          "Open Sans, sans-serif",
+          "PT Sans Narrow, sans-serif",
+          "Raleway, sans-serif",
+          "Times New Roman, Times, serif"
+        ]
+      }
+    }
+  ],
+  "layout": {
+    "title": {
+      "text": "Canadian cities",
+      "font": {
+        "size": 28
+      }
+    },
+    "font": {},
+    "geo": {
+      "scope": "north america",
+      "lonaxis": {
+        "range": [
+          -130,
+          -55
+        ]
+      },
+      "lataxis": {
+        "range": [
+          40,
+          70
+        ]
+      },
+      "center": {
+        "lat": 57
+      }
+    },
+    "width": 800,
+    "height": 600,
+    "showlegend": false
+  }
+}

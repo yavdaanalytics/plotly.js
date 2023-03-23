@@ -1,0 +1,164 @@
+{
+  "data": [
+    {
+      "type": "scatterpolargl",
+      "r": {
+        "dtype": "f8",
+        "bdata": "CuuVMU44G0CyxmGD5B0LQIQHAKCghhVAQGk+DnweIED5VPnh3UUVQJiUNhN84QdAVV+/7iN3/z/80qhPuhMbQOjdCd4pSxBA4Ts6DHoEGkCEWIQCuTkeQDAbkFSYMBBAbdfcQPGLHUAzlTg+jacVQDcTrIMD4h1Aj0z7TK7tH0A7D8KIhfMSQBctLm1o0xBAqbC9YBfqFUAg+2ELT0wTQIe6yLP9ZRZAVMBWKpl3G0CdUiJ4dK8IQJd4n5tVFh9AmgBpXpqADUDiJMdXAXEVQEx+IEXRjxRA71oFUIkuGEAyQ/Ze71UbQOi33/pV9wxA7uvqlFrqD0C6xu3rTj8VQOAnu4PPbhJADrqYcPWPGkAuw6jaBnEIQIzzeb1i+B1A/3F2VbjwFUBw9qckry4PQPiNlsys5xdA76B9gcrJFUBms0Q7FYIVQGDAqJdiwxJAiYLwSLjYEkBSyTYlEwoNQMK6sfCm1BdAa6S0M7FtFUDXkTLeO8sOQNWiV/GEABlAM3PUXC19HEBb0NHY+jELQOI7kbyeFQxAusZy6mtnEEB8HUH9sWIQQBHVzGYw7xhAEo6LjxKED0Diaq2/T2cPQCR2+bn3eBhAkZ7G1AqGD0Bx19AIAlUeQFrH87kJGwxA"
+      },
+      "theta": {
+        "dtype": "f8",
+        "bdata": "CKvLj1paPsD55A2iiJw5wHBqpWm32SjA8qc9ETrsK0Dpeq1Wwc0TwMbHoeE4sTnAvDcv2wHwKEBbzy/HsacTwPsSFHhM7yXApGSGBW/QPkBvYr2Ht8wDQAhgQDy9+TFAaertEBqt6D/+bRXIyYwYQGagAsVn5yzA4earoD0vPEBJ9KTfzRMpQBrRfPdp9yHA1caqBNbsFEADu0rRSx9QwFEsjn4ItyZAqsnb9vGhC0Ch3ZL1Q9krQN2u9jwvXTnABsrT3WjRMMCqb59oJYUkwJeiF9icbCrAOx8+anyiBEAVgmX8ZW8hQGTo1vfaWSXA0jF/lTJpB8AkyLs9JTI5QCkSRemPS0RA6Zl8jCw+IsCDvubwH0w4wNopieFhagnAA4dfh3SzJUCpZhveAVU/wCvARwP1ZRNAHgXGwbcYLkCtvUHaX1wKQFmatXPSyRjAhV/lRKGOIcDyodKslow9QFctWWC/jBTAyRU1VOAGN0AoO2xbDYoawC060ExFCgZAOSGKR7a7NUBXoOqUJtE4wL5r3e16Uh/AQfhjYWdTPEBaEfq3GZooQD1OqBIrkDXASzIqZeRVM8D9TrVMfSU6QB6HQlERTPu/j1/se1wSMEC0wSXiFm0AQIZsE/FCZBTA"
+      },
+      "mode": "markers",
+      "name": "Trial 1",
+      "marker": {
+        "color": "rgb(27,158,119)",
+        "size": 15,
+        "line": {
+          "color": "white"
+        },
+        "opacity": 0.7
+      },
+      "cliponaxis": false
+    },
+    {
+      "type": "scatterpolargl",
+      "r": {
+        "dtype": "f8",
+        "bdata": "SLeCkoPnC0C8V7xLC1kHQGQJ2tSrzhBAXv4P5GN0IEDCckC8VBsTQIpCGR7WVQhAW/4LDugoE0BNWwBd0KcWQC1qcKy43Q5ADP1snzqFIED34oayeHkbQDOkDFz29RZAXdq/P0JhGkAN6aQjVMUWQAVUcM0GWhVAsrZYkTSRIkBFbEPq8A4XQBVGTKuOHRBAvLSjsz2mFkAQCsfjww/bP5NxwcsYzhhAMiO8yM7BGUAlz+SpFGMUQO+N2XpAhxJAzCn73fBfC0Dggf85RXoRQE/esrIDHRBA2H5GCRs5F0DKWhXmi2QbQGeEAe1veQ5A6PQmvoOKEUAUqos77e4bQE8fWaPIlR1AHSeUukncFEC0aGvFbrAIQBjVUKdxVxlADNy/rJVcGEB4S0NjnpUDQACxmSxpxRdAvBO/whV+GUCAJXg0G9EVQKylnRjHkhFAeDKFKePSEECduz96Rp8YQHwFxvzxeRRA6fExzLx6G0DVbdE5HGsQQMN1kaJA0RdA4Gg/QUYvIEDKh7lQtLEHQP193ObGyg9AOw66aFh+GUCAq7EDYakVQKLJ+2LfAw9ApXZGf3EXCkBKKMrUTpUYQEAqE8aCAhZAJBxdREVJFkC4CNm+hWkbQJzHoj25jxBA"
+      },
+      "theta": {
+        "dtype": "f8",
+        "bdata": "5CbqDf6cLUCIPXPhZ8BTQEMgLQvTgkhADidjjnvZSEAIRsxOmRFLQKpk1SfWmlVAkDNO/fM8WED0HluVU7tEQF4F0vDPyFBAxVH3EegDUUDYEil+SVdFQOyHAZeDGVNAYUkU/u4YRUAgUBNE+MlNQA+boyrIgjtAywhZ4XBgTkDLGn65uxdRQMGldbHfb1BA9FRLnjlETUBHu1i4zxdmwIn/pj1Glk5AHs+PCMu5R0Cy7ylJThtVQCKyO+ls9ShAe3DyeMUeUkCQ0bYoF0pJQDH6GI+1x0lAeYTdqws4SkAyOf0tHctJQOxtxVPed1JA2ay9QuSNUUDa0cwTt61RQCzwelEAj1RAjG3J37p3Q0BpWHZDZi1VQNXBv905FUNApNkcbh7aTkBdppDumoxRQLeldEImOktA2G5O624VUEBunz3uDiNNQMxJGi76P05A2CPrqN6TTUD2SQBLZvdUQP9zQOXL70dAsNXgJBZSUUDlGxJ+J8xRQN7p9NoxhklAedBEBbu2TUAbWtW0UaZTQGs/jxVg8FJAcBzDZxz+U0DW6g+yM3lSQIEs+dTAuz9AzWAzkGwFUUAnCGYiTxpUQOED5NhNdkhApN5Qyp0pU0AzIXUZaBdFQEQq4CwiAlNA"
+      },
+      "mode": "markers",
+      "name": "Trial 2",
+      "marker": {
+        "color": "rgb(217,95,2)",
+        "size": 20,
+        "line": {
+          "color": "white"
+        },
+        "opacity": 0.7
+      },
+      "cliponaxis": false
+    },
+    {
+      "type": "scatterpolargl",
+      "r": {
+        "dtype": "f8",
+        "bdata": "b93gnaWx/T87nv5h2SUVQEeacTCOFg9A+Eqa66YhGUCpQVr7S9ARQHuYtS6FwBZA1+UkFs5SHUBtwCHx85oOQOAcIMxa9RNA4kB0RviWH0Cjt88odKASQFU6rFYqqxpA94tOtlm5EUDE6j+Da2IVQNVI3cTt1gNA2Yv5sxk6IEB+N6FeQ1MYQFagAkB03xNAd/DpIFL6FEB4fnpDV7AVQJOe4xvNKxdAYF7ahnsmE0BYU8FsJCMbQN2z+KA0vvE/Yjp4tj6OFEAtW4jA9SsQQDdCGwJxFxBADfcWo09QE0Bb4I48ZasVQFLE2/K4gxVAmicUGTSvFUAEYXGZdHscQAQrppHYsiBAf4IKq6xIC0CnwleldYMWQCRhM3rKUQ9ARrwrW0YOF0D6dfoVuA4TQC+ZVeEQThRAereZFYipGEDFlxJAHGwUQDfstx5NCxNAh15aPY9iEkDwFIf3SQQeQJJx3qSZbRBAiGLpLoOuG0DDyTEPgmUVQOVa0yM4MRNA1j3rP88XHED4l1RDfSIVQLIik5a6RhZAAKhQiAGJHUD5WOfesRMZQChhUZ2SQAVAwu01bj1gE0BmO6q18f0cQFzoRhHpfRFAvU28Q69IGkD+GqRR8GgSQPa68x8irhZA"
+      },
+      "theta": {
+        "dtype": "f8",
+        "bdata": "W2LXiWrpYkDdQhBNBGZiQOwXtNwOUl9AeeImnE7EVUC9IZd8L+hdQHhu19S0d2JACAUhMBFyYUBnZNxJDllZQKpKlQft0WBAQyKGgJABWkBtpAZBKVlWQGpZrQJrzF5A6vxRmFveVkC8i/qbRVVcQNEYaGGYCVhANlvujfdRV0DK9BbSy41dQFClxIBVimBAQjLYZTw8XEDZXFEk4XdmwAtzIsRsk1tAbYMisw1wWECl+5l3dXNgQIF5UYbN31xA/0ZUC5mSYUCxKoPpYtleQMLm87zxCmBA/Dfjv/bmWkCdlf5v5nlYQJl77T4cJGFAaDMhwsxNYEC/1FiNiA5cQOMbzTtVqF1AyDXT97mDWkBoDhY8D11iQNyBXBjAkVZAKRXWi1bgW0DDJb0r3+JiQMv1ZVIr7lpAAT1RNUHTW0Dd03esiatcQK1cr7ZwpF9A4QMdqAEHYECe0fP6tVZfQGCIWKHBGlxAbyUd4AfzW0AgBCGvYK1gQBnCAZLIS1pA/Yq5S8lOWECKNriOYFViQGI3WnioB2FAmh1Ek61yXkAB2I0yU/peQExpw4KXO2BAzoU2pQGrYUByDh2JV9FeQK6+yVVdHVtAAkm8YmQaX0CQBa4uvEFWQIFEj+8N3GBA"
+      },
+      "mode": "markers",
+      "name": "Trial 3",
+      "marker": {
+        "color": "rgb(117,112,179)",
+        "size": 12,
+        "line": {
+          "color": "white"
+        },
+        "opacity": 0.7
+      },
+      "cliponaxis": false
+    },
+    {
+      "type": "scatterpolargl",
+      "r": {
+        "dtype": "f8",
+        "bdata": "QqmaBGl9FUD0y/oIq2IcQBSrHiIJiRNAcSFg+G9cB0Am1ZKRVuUSQI4Hu9PcsR1AyRXne5AuIEDsG+fvanQKQMyDuGEMNBhARwosKPUeFkAHGRreSMcDQEojkWBJGhlA00Yh+VrtBEAsZ0KTOZ0SQDkTiyz7rgpAYVuZHPwuE0CjUXZxDuQVQOPmX8kYhxdApxUVH05JEkC1V+muaBQiQHGur15WkhJADoX4DNRhCUAlkFRiTy0cQOMhtFGH3RFAeQufyrQ6GkALtz/BjEgTQNSlXtwUhxRA4cuWxpXCD0Dqhv2yJkALQFyHjhAq6BlAbTNUBK4TGEAaAiMXc6gWQA5BGZiRohxAe1OhcELODEDvRhb+50sdQFxXzAhvbARA08FYx5XoEkAlOQrME+MbQPqB0Y5qThBARUXvye7IE0DLTLIykZESQDOaiYk6cRVAkB+ezR6RFUBMR7rPQ0ocQDNmnsqJZxBAaoZn5GPxFUB/rFT4J8UYQKAfgChSJg5AubOSY0cpEUC4weDaoz0cQCKvkvqkKBpAzg3u6g64GkAvibkAST4YQCm1VqpzJRNALXem36+qGUB1MFv7KNAaQP0PqT1cHA9AfjHmTP87GUD8OS9UEX8DQEcEggBiCBpA"
+      },
+      "theta": {
+        "dtype": "f8",
+        "bdata": "+A74qIGGYcBRcnojsgJlwGBZteAfyWTAS6Zot/ZHYUCN79ySlM1lwNzIVka8PmXAEYPuAr0fZkA3seNm2DxlwEJ+H9aHlGXAGRgoEnTeYUBENlPLTY1lQE02LZeeEGVAJ2mMQ046ZkDqmSa4XZtlQBPcNvZ2QGLAcnxrYqwFYEBMTgSpWCVlQDbhspjVsmXA+ow0hkO3ZUBE6QhpmOZiwBMONNRVyGRA91c5+z2QZUA6Muy2X75lQBY5FqTReWDAygTJKVRUZcBnj/l7dxJlwHrFBwF/2GTAI86ubkECZkB5jdwhhUlkQKTmfazIwWXAR+UrI/NBZsD0S2miFI9jQNl7bQ2nZ2NAeaDtTwRgZMDmBXUdvENlwLkck+t0VGXAwmyQtkLsZEDT+WKCKWNkwLSkX/8unGVAPEbILFpsZECXq0Vi1wVmQAevb72M0mXAAhfEPb+KZcACnkIb0apkQHk12z3SkGXAaNciQV+xY0Dhb8BWNfxlwPIRdUKv7WVAkhR8xjrCYUCrhwdL5wplwEnsWV7J+WXA/zvVMwpiZEApKyg6EndlQOtRRsns7GLAQNY6Dq8IZcBtM3NTc6FkQPPs6jwXKmbAZbFKcltBZUBfel6eLLNlQPDSS2EFKGbA"
+      },
+      "mode": "markers",
+      "name": "Trial 4",
+      "marker": {
+        "color": "rgb(231,41,138)",
+        "size": 22,
+        "line": {
+          "color": "white"
+        },
+        "opacity": 0.7
+      },
+      "cliponaxis": false
+    },
+    {
+      "type": "scatterpolargl",
+      "r": {
+        "dtype": "f8",
+        "bdata": "57yuKw/AH0CDOiAtAzYdQGS9ZACbtxdARYrF6eZBA0DyxRKMbBUVQBLBCt81mh1AXcDQr0c+G0BC+Gw5/N4TQCJJ83zLwhhAxpsdbqVEAUAk9AyUOQQQQMGhN5JBGxNATAX8D9PtEEBmogLhCTsRQKyJVu8UzRhAbOZaH8tH5z8lHjA3FIMRQO8VcocVBRhAKAcmWCNeEUA6PTjm2HkkQDJMiUfSag5ADwpzfBbBD0Bm4ygXMgkXQIVqdv9bsh5Ajf1znsDMGkCShvgP7+8WQBrbYKpWLRhAUHepJXRAEUAmrgV2NgULQNnOZaB9eBlAtLGDI/DyFkAcWQ9SuisLQMLexKap3RBA7Nlc0QrcFUAldChTmj4dQPxB21ZK+xJA1z4idO1UD0DNWmfAcWkeQPf73rE1gBBA+8F2eBNqDUAMUJAndzQSQF5dww+HbRZA8lQtp+stF0DYLtnFQh8UQBKTJGA3cBRAhF+Nb1c+C0An8DD+7xoYQK20gHdq4hBAfB5xjXiO/j/UtrgNyAQdQJY1VDJUExlAEHq7HhVAEkChliVjF6wTQN+03G+jWBtAZzPdulwlG0DW2NXmCQETQPORWl804RJAfwYBkhK2E0DJSBR1nDwQQERPcUtrgxhA"
+      },
+      "theta": {
+        "dtype": "f8",
+        "bdata": "j/IDv1x1WcAon7b3nd5fwC5Bil2iD1zAwE1FuduUVMAX9+I1FqxcwDawOS02UWDA2wY3F1QgYsCa7JsT7a9YwHbP2JxFHF/ARaQiJYgOY8ClWozF1FJWwOMJyXGjemHAttB0Q8riVsCXaw5mTNxdwCbcW3UsHVfAxGGZGR41YMCYU8q3o2FgwIfHFjOW9l7A7V3AIY2FXcAi2Vt+q35ewODa2tmPel7A7xa+gijXWMByrC1q965hwD6H9ac9ZFfA5Rzpyo+VX8C4n7S5bzVcwGPnTxa8mFzAzW1Y2fJyW8Dlkyemka9ZwF9RBTTlB2DAlUVXpbHyX8ADJpH5J89hwHjJLR3LMmTAaSmO9zL8WMCXktNBOEVgwICKINukjlbAyJ3mpaGpXsBrjkvTItFewLYTS+jT/1vAn+xK8c/hX8Al6MJXmntdwDKRFIkQGV7A2oOXgMLYXcDCHAAbl7ViwIM8+uBu9lrALNx9hK1fYcDRtxkvHOZfwKiMXpGI1FrALP/EQrlkXcB2VIaI095fwMuaLWAvPWDAXHElxtiPYsDSxFzOnOpgwGceMHf8GlrAS/ZgNgf4XsD+WZNxI1piwNrXpTm+w1rAtYG6z+FcYcDSZvCFZjlWwG19uZgkWGDA"
+      },
+      "mode": "markers",
+      "name": "Trial 5",
+      "marker": {
+        "color": "rgb(102,166,30)",
+        "size": 19,
+        "line": {
+          "color": "white"
+        },
+        "opacity": 0.7
+      },
+      "cliponaxis": false
+    },
+    {
+      "type": "scatterpolargl",
+      "r": {
+        "dtype": "f8",
+        "bdata": "RmoebjjwIECb+/S6uUkXQJRy7ORMkBhAIdnph69TF0BiUn5n4C8WQLSfViOMghZALteOgC2WD0BfAqP08vUZQD+uNSZQSBVAndyV6ODyCUDiEx9OvsYZQItXKn4E6QpAHnkNSzvaGUDnm53TfOwSQBqrQUCyLx9A8y4Al89HEkAXa4Ae32gPQAwputZzBBVA9PjtcIhaE0D+z0ummGMhQILdc94emRFAoTHpHQptF0DKz/ph/fgMQB6WXvQxyiFAH73tb2n6FUBKmdKGPOAXQNlq+JUMMRhA5nlyTOeJFUCD/1qKXoYVQGftLp5AchRAkzVn+A0VE0BMqaizYckIQMyiiUAupPo/+PI8VQb2GkC0tVRHw2AWQHk5c/G9hBtApk+Pv/qHEUAyYWIwtKQZQIXllrznnRRAHpr3toUPEEAqAq09sMETQHDg6Nl0MRVAbJah6y/2FUDfAd9Mcf0EQBPWzot50BdAKoVWBG5pCkBwIxxsztETQAPhtBEOABZApQv/G1PNEUDZR3zlgCUXQBfmCDSZoBNAmJFvby0KBUDtgIFdWigOQCDpLONBlh1AVDX9V9QOF0DYhbF7T1sGQBsLWVTNIBdAjtSpLwDiC0BaykJWqwAaQKvZmaub/hJA"
+      },
+      "theta": {
+        "dtype": "f8",
+        "bdata": "yXBzJEuiUMDNZhdN7CBVwEpv8Kd8q0/AmvkehZUlOMAehR9owtlNwLip5BAvBFbATPbb2G2cWMAO1c5YRpRIwIp/++G3aFLAhDAKDYPsMcCXMl2ByTRDwKJ3SH/IlVDAFCTCd8VxRMBkM24H9jpKwCxiG6MjTkrAAONSpEsoHMBqR6uCI55MwN6dt9wZ6VHAXjkR8TUsSsDjiz1OHTJXwEofgPX0l0fAupTdBQ/8RMC1HiAJO4lUwNWiF5Q2uE3AOJQu+XfMU8DPcyNnYyZPwP9mEAVtYlDA/ub5n/lzSMAQufWnyN9CwJfLvNBpg1PAxCToKOH3UcBqeGhUD/JEwOMuzz7HjkrAs7wJR7J/SsAEPMErZsVVwJmY0uVSzkXA9CfPzyRmSMDmwL+ARqRUwASN3ap59EfA+dnxqwVJR8D55IXVD0BLwHgOZIOleVDAA0zubuS3UMC/3MeLxd5SwFFR/niLY0vAcxBXOpZMRcDArdDLhaBSwNboUKMbjkfAyRd7ClxbNsCJlRPlWQxVwPfC35VWoFPAOpta6lNCUMBhAjwD4aBQwHudFGptw0/AoW5n8cdzU8Dss+zIpiBRwDPARtD/pUnALV2SIsEVUcA1ShKh3FBDwH+J7a+EdlPA"
+      },
+      "mode": "markers",
+      "name": "Trial 6",
+      "marker": {
+        "color": "rgb(230,171,2)",
+        "size": 10,
+        "line": {
+          "color": "white"
+        },
+        "opacity": 0.7
+      },
+      "cliponaxis": false
+    }
+  ],
+  "layout": {
+    "title": {
+      "text": "Hobbs-Pearson Trials"
+    },
+    "font": {
+      "size": 15
+    },
+    "showlegend": false,
+    "polar": {
+      "bgcolor": "rgb(223, 223, 223)",
+      "angularaxis": {
+        "tickwidth": 2,
+        "linewidth": 3,
+        "layer": "below traces"
+      },
+      "radialaxis": {
+        "side": "counterclockwise",
+        "showline": true,
+        "linewidth": 2,
+        "tickwidth": 2,
+        "gridcolor": "white",
+        "gridwidth": 2
+      }
+    },
+    "paper_bgcolor": "rgb(223, 223, 223)",
+    "width": 450,
+    "height": 450
+  }
+}

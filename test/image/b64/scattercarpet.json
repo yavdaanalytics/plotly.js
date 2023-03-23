@@ -1,0 +1,169 @@
+{
+  "data": [
+    {
+      "type": "carpet",
+      "a": {
+        "dtype": "f8",
+        "bdata": "mpmZmZmZuT+amZmZmZnJPzMzMzMzM9M/"
+      },
+      "b": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAA8D+amZmZmZkBQAAAAAAAAAhAAAAAAAAA+D+amZmZmZkFQAAAAAAAAAxAMzMzMzMz+z8zMzMzMzMHQJqZmZmZmQ1A",
+        "shape": "3, 3"
+      },
+      "cheaterslope": 1,
+      "aaxis": {
+        "title": {
+          "text": "a"
+        },
+        "tickmode": "linear",
+        "dtick": 0.05
+      },
+      "baxis": {
+        "title": {
+          "text": "b"
+        },
+        "tickmode": "linear",
+        "dtick": 0.5
+      }
+    },
+    {
+      "type": "scattercarpet",
+      "name": "b = 1.5",
+      "a": {
+        "dtype": "f8",
+        "bdata": "mpmZmZmZqT8zMzMzMzPDPwAAAAAAANA/ZmZmZmZm1j8="
+      },
+      "b": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAA+D8AAAAAAAD4PwAAAAAAAPg/AAAAAAAA+D8="
+      }
+    },
+    {
+      "type": "scattercarpet",
+      "name": "b = 2",
+      "a": {
+        "dtype": "f8",
+        "bdata": "mpmZmZmZqT8zMzMzMzPDPwAAAAAAANA/ZmZmZmZm1j8="
+      },
+      "b": {
+        "dtype": "i1",
+        "bdata": "AgICAg=="
+      }
+    },
+    {
+      "type": "scattercarpet",
+      "name": "b = 2.5",
+      "a": {
+        "dtype": "f8",
+        "bdata": "mpmZmZmZqT8zMzMzMzPDPwAAAAAAANA/ZmZmZmZm1j8="
+      },
+      "b": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAABEAAAAAAAAAEQAAAAAAAAARAAAAAAAAABEA="
+      }
+    },
+    {
+      "type": "scattercarpet",
+      "name": "a = 0.15",
+      "a": {
+        "dtype": "f8",
+        "bdata": "MzMzMzMzwz8zMzMzMzPDPzMzMzMzM8M/MzMzMzMzwz8="
+      },
+      "b": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAA4D8AAAAAAAD4PwAAAAAAAARAAAAAAAAADEA="
+      },
+      "line": {
+        "smoothing": 1,
+        "shape": "spline"
+      }
+    },
+    {
+      "type": "scattercarpet",
+      "name": "a = 0.2",
+      "a": {
+        "dtype": "f8",
+        "bdata": "mpmZmZmZyT+amZmZmZnJP5qZmZmZmck/mpmZmZmZyT8="
+      },
+      "b": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAA4D8AAAAAAAD4PwAAAAAAAARAAAAAAAAADEA="
+      },
+      "line": {
+        "smoothing": 1,
+        "shape": "spline"
+      },
+      "marker": {
+        "size": {
+          "dtype": "i1",
+          "bdata": "ChQeKA=="
+        },
+        "color": [
+          "#000",
+          "#f00",
+          "#ff0",
+          "#fff"
+        ],
+        "gradient": {
+          "type": [
+            "horizontal",
+            "radial",
+            "horizontal",
+            "vertical"
+          ],
+          "color": [
+            "#0ff",
+            "#fff",
+            "#88f",
+            "#00f"
+          ]
+        }
+      }
+    },
+    {
+      "type": "scattercarpet",
+      "name": "a = 0.25",
+      "a": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAA0D8AAAAAAADQPwAAAAAAANA/AAAAAAAA0D8="
+      },
+      "b": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAA4D8AAAAAAAD4PwAAAAAAAARAAAAAAAAADEA="
+      },
+      "line": {
+        "smoothing": 1,
+        "shape": "spline"
+      },
+      "selectedpoints": {
+        "dtype": "i1",
+        "bdata": "AQ=="
+      },
+      "selected": {
+        "marker": {
+          "size": 20,
+          "color": "green",
+          "opacity": 1
+        }
+      },
+      "unselected": {
+        "marker": {
+          "size": 20,
+          "color": "red",
+          "opacity": 0.5
+        }
+      }
+    }
+  ],
+  "layout": {
+    "title": {
+      "text": "scattercarpet extrapolation, clipping, and smoothing"
+    },
+    "hovermode": "closest"
+  }
+}

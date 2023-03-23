@@ -1,0 +1,204 @@
+{
+  "data": [
+    {
+      "texttemplate": "%{z:.1f}",
+      "textfont": {
+        "size": 8
+      },
+      "z": {
+        "dtype": "f8",
+        "bdata": "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",
+        "shape": "20, 20"
+      },
+      "name": "trace 0",
+      "zauto": true,
+      "zmin": -0.25987153430497417,
+      "zmax": 1,
+      "scl": [
+        [
+          0,
+          "rgb(0,0,255)"
+        ],
+        [
+          0.1,
+          "rgb(51,153,255)"
+        ],
+        [
+          0.2,
+          "rgb(102,204,255)"
+        ],
+        [
+          0.3,
+          "rgb(153,204,255)"
+        ],
+        [
+          0.4,
+          "rgb(204,204,255)"
+        ],
+        [
+          0.5,
+          "rgb(255,255,255)"
+        ],
+        [
+          0.6,
+          "rgb(255,204,255)"
+        ],
+        [
+          0.7,
+          "rgb(255,153,255)"
+        ],
+        [
+          0.8,
+          "rgb(255,102,204)"
+        ],
+        [
+          0.9,
+          "rgb(255,102,102)"
+        ],
+        [
+          1,
+          "rgb(255,0,0)"
+        ]
+      ],
+      "x0": 0,
+      "dx": 1,
+      "y0": 0,
+      "dy": 1,
+      "type": "heatmap"
+    }
+  ],
+  "layout": {
+    "title": {
+      "text": "Correlation Matrix"
+    },
+    "font": {
+      "family": "Arial, sans-serif",
+      "size": 12,
+      "color": "#000"
+    },
+    "autosize": false,
+    "width": 600,
+    "height": 440,
+    "xaxis": {
+      "title": {
+        "text": ""
+      },
+      "range": [
+        -0.5,
+        19.5
+      ],
+      "domain": {
+        "dtype": "i1",
+        "bdata": "AAE="
+      },
+      "type": "linear",
+      "rangemode": "normal",
+      "showgrid": true,
+      "zeroline": true,
+      "showline": true,
+      "autotick": true,
+      "nticks": 13,
+      "ticks": "",
+      "showticklabels": true,
+      "tick0": 0,
+      "dtick": 2,
+      "ticklen": 5,
+      "tickwidth": 1,
+      "tickcolor": "#000",
+      "tickangle": 0,
+      "tickfont": {
+        "family": "",
+        "size": 0,
+        "color": ""
+      },
+      "exponentformat": "e",
+      "showexponent": "all",
+      "gridcolor": "#ddd",
+      "gridwidth": 1,
+      "zerolinecolor": "#000",
+      "zerolinewidth": 1,
+      "linecolor": "rgb(207, 226, 243)",
+      "linewidth": 8,
+      "anchor": "y",
+      "position": 0,
+      "mirror": true,
+      "overlaying": false,
+      "autorange": true
+    },
+    "yaxis": {
+      "title": {
+        "text": ""
+      },
+      "range": [
+        -0.5,
+        19.5
+      ],
+      "domain": {
+        "dtype": "i1",
+        "bdata": "AAE="
+      },
+      "type": "linear",
+      "rangemode": "normal",
+      "showgrid": true,
+      "zeroline": true,
+      "showline": true,
+      "autotick": true,
+      "nticks": 13,
+      "ticks": "",
+      "showticklabels": true,
+      "tick0": 0,
+      "dtick": 2,
+      "ticklen": 5,
+      "tickwidth": 1,
+      "tickcolor": "#000",
+      "tickangle": 0,
+      "tickfont": {
+        "family": "",
+        "size": 0,
+        "color": ""
+      },
+      "exponentformat": "e",
+      "showexponent": "all",
+      "gridcolor": "#ddd",
+      "gridwidth": 1,
+      "zerolinecolor": "#000",
+      "zerolinewidth": 1,
+      "linecolor": "rgb(207, 226, 243)",
+      "linewidth": 8,
+      "anchor": "x",
+      "position": 0,
+      "mirror": true,
+      "overlaying": false,
+      "autorange": true
+    },
+    "legend": {
+      "traceorder": "normal",
+      "font": {
+        "family": "",
+        "size": 0,
+        "color": ""
+      },
+      "bgcolor": "#fff",
+      "bordercolor": "#000",
+      "borderwidth": 1
+    },
+    "margin": {
+      "l": 70,
+      "r": 200,
+      "b": 60,
+      "t": 60,
+      "pad": 2,
+      "autoexpand": true
+    },
+    "paper_bgcolor": "#fff",
+    "plot_bgcolor": "#fff",
+    "hovermode": "x",
+    "dragmode": "zoom",
+    "barmode": "stack",
+    "bargap": 0.2,
+    "bargroupgap": 0,
+    "boxmode": "overlay",
+    "separators": ".,",
+    "hidesources": false
+  }
+}

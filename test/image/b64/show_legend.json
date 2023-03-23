@@ -1,0 +1,30 @@
+{
+  "data": [
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AAEC"
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "name": "First Trace",
+      "showlegend": false,
+      "type": "scatter"
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AAECAw=="
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "CAQCAA=="
+      },
+      "name": "Second Trace",
+      "showlegend": true,
+      "type": "scatter"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "data": [
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "BAUG"
+      },
+      "marker": {
+        "color": "rgb(54,144,192)",
+        "size": 12,
+        "symbol": "square",
+        "line": {
+          "color": "darkblue",
+          "width": 3
+        },
+        "opacity": 1
+      },
+      "line": {
+        "color": "rgb(3,78,123)",
+        "width": 6,
+        "dash": "dot"
+      },
+      "type": "scattergl"
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AgoM"
+      },
+      "marker": {
+        "color": "fuchsia",
+        "size": 16,
+        "symbol": "cross",
+        "line": {
+          "width": 0
+        },
+        "opacity": 0.9
+      },
+      "line": {
+        "color": "purple",
+        "width": 4,
+        "dash": "dashdot"
+      },
+      "type": "scattergl"
+    }
+  ],
+  "layout": {
+    "showlegend": false,
+    "width": 800,
+    "height": 506
+  }
+}

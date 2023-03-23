@@ -1,0 +1,81 @@
+{
+  "data": [
+    {
+      "type": "densitymapbox",
+      "name": "Montreal",
+      "lon": {
+        "dtype": "f8",
+        "bdata": "AAAAAABgUsA="
+      },
+      "lat": {
+        "dtype": "f8",
+        "bdata": "AAAAAADARkA="
+      },
+      "z": {
+        "dtype": "i1",
+        "bdata": "AQ=="
+      },
+      "colorscale": [
+        [
+          0,
+          "blue"
+        ],
+        [
+          1,
+          "blue"
+        ]
+      ],
+      "showscale": false,
+      "showlegend": true
+    },
+    {
+      "type": "densitymapbox",
+      "name": "Boston",
+      "lon": {
+        "dtype": "f8",
+        "bdata": "AAAAAADAUcA="
+      },
+      "lat": {
+        "dtype": "f8",
+        "bdata": "ZmZmZmYmRUA="
+      },
+      "z": {
+        "dtype": "i1",
+        "bdata": "AQ=="
+      },
+      "colorscale": [
+        [
+          0,
+          "red"
+        ],
+        [
+          1,
+          "red"
+        ]
+      ],
+      "showscale": false,
+      "showlegend": true
+    }
+  ],
+  "layout": {
+    "mapbox": {
+      "style": "open-street-map",
+      "center": {
+        "lon": -72.25,
+        "lat": 43.9
+      },
+      "zoom": 4
+    },
+    "title": {
+      "text": "densitymapbox with legends"
+    },
+    "width": 500,
+    "height": 250,
+    "margin": {
+      "t": 50,
+      "b": 0,
+      "l": 0,
+      "r": 0
+    }
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "data": [
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "BAUG"
+      },
+      "name": "yaxis1 data",
+      "type": "scatter"
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AgME"
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "KDI8"
+      },
+      "name": "yaxis2 data",
+      "yaxis": "y2",
+      "xaxis": "x2",
+      "type": "scatter"
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AwQF"
+      },
+      "y": {
+        "dtype": "i2",
+        "bdata": "kAH0AVgC"
+      },
+      "name": "yaxis3 data",
+      "yaxis": "y3",
+      "type": "scatter"
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "BAUG"
+      },
+      "y": {
+        "dtype": "i2",
+        "bdata": "6APQB7gL"
+      },
+      "name": "yaxis4 data",
+      "yaxis": "y4",
+      "xaxis": "x2",
+      "type": "scatter"
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "BQYH"
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAA4D8AAAAAAADwPwAAAAAAAPg/"
+      },
+      "name": "yaxis5 data",
+      "yaxis": "y5",
+      "type": "scatter"
+    }
+  ],
+  "layout": {
+    "title": {
+      "text": "multiple y-axes example - stacked subplots"
+    },
+    "grid": {
+      "rows": 2,
+      "columns": 1,
+      "pattern": "independent"
+    },
+    "width": 800,
+    "yaxis": {
+      "showline": true,
+      "title": {
+        "text": "yaxis title"
+      }
+    },
+    "yaxis2": {
+      "title": {
+        "text": "yaxis2 title"
+      },
+      "showline": true
+    },
+    "yaxis3": {
+      "title": {
+        "text": "yaxis3 title"
+      },
+      "anchor": "free",
+      "overlaying": "y",
+      "showline": true,
+      "autoshift": true
+    },
+    "yaxis4": {
+      "title": {
+        "text": "yaxis4 title"
+      },
+      "anchor": "free",
+      "overlaying": "y2",
+      "showline": true,
+      "autoshift": true
+    },
+    "yaxis5": {
+      "title": {
+        "text": "yaxis5 title"
+      },
+      "anchor": "free",
+      "overlaying": "y",
+      "showline": true,
+      "autoshift": true
+    }
+  }
+}

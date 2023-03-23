@@ -1,0 +1,178 @@
+{
+  "data": [
+    {
+      "z": {
+        "dtype": "f8",
+        "bdata": "wOyePCwkU0DA7J48LCRTQGaIY13cdkhAOUVHcvkPOkBVMCqpE7AyQGsr9pfdAzBAC7WmeccJLEAawFsgQbEqQOcdp+hILi1A+MJkqmDUNkB+jLlrCVk6QH6MuWsJWTpAfoy5awlZOkBrmnecolNQQO7rwDkjokhAl24Sg8DKP0A9m1Wfq302QNZW7C+79zJA/yH99nVgMUAW+8vuycMvQDbNO07RUS1A54wo7Q2+K0D/snvysFAtQPT91HjpxixAWMoyxLEOOEB+jLlrCVk6QAg9m1Wf+05AiPTb14HTREDfT42XbqI7QBWMSuoEFDZA8fRKWYZYM0DCFyZTBQMyQE9AE2HDszBAbVZ9rrYiL0CxUGuad1wtQLx0kxgEtipA3EYDeAukLECYTBWMSuo6QNO84xQdWTpAVHQkl/+4TEBa9bnaikVEQJduEoPA6jtA8IXJVMGYNkCOdXEbDSA0QJF++zpw7jJAak3zjlPEMUA9CtejcL0wQO0NvjCZyi9AfGEyVTBqLUBzaJHtfB8sQPAWSFD8GDRAC7WmecdZOkDbiv1l9+RIQFwgQfFjvEJAJuSDns3KO0CX/5B++5o3QDLmriXkozVAqz5XW7GvNEBv8IXJVMEzQGaIY13c5jJAF0hQ/BgjMkB90LNZ9dkwQJLLf0i/PS5AGARWDi1yLUDecYqO5II1QDlFR3L5f0ZATYQNT6+8QUBSJ6CJsIE7QMIXJlMF8zdA4L4OnDNCNkDl0CLb+W41QOPHmLuWoDRAVcGopE7gM0A7cM6I0i4zQPhT46Wb9DFA6Nms+lwNMECQMXctIf8qQHh6pSxDnC5ANjy9UpahRUAawFsgQSlBQN5xio7kIjtAW9O84xT9N0Abnl4py4A2QJ0Rpb3BxzVAwMqhRbYTNUDu68A5I2o0QF8pyxDHyjNA1XjpJjGoMkAUrkfhesQwQPOOU3QklypAtvP91HjJJ0CP5PIf0gdEQM3MzMzMbEBAgQTFjzGnOkCF61G4HuU3QNQrZRnimDZAufyH9Nv3NUAkKH6MuVs1QEp7gy9MxjRA1sVtNIA3NEDoaiv2ly0zQLu4jQbwZjFAs3vysFDLLECsrdhfdg8xQIxs5/upcUNAaCJseHodQEC3Yn/ZPWk6QNuK/WX31DdA4zYawFugNkAkl/+Qfgs2QEGC4seYezVAqDXNO07xNEBbsb/snmw0QE5iEFg5dDNAnKIjufzHMUAc6+I2GuAtQF1txf6yazFAeVioNc1TQkC+wRcmU5U+QC6QoPgxljlAWRe30QBuN0A9LNSa5m02QFD8GHPX8jVAB1+YTBV8NUC2hHzQswk1QM/3U+OlmzRA6gQ0ETbMM0Ct+lxtxV4yQMRCrWneES9AHThnRGlPLkDF/rJ78oBBQP2H9NvXgT1AryXkg54dOUCSXP5D+j03QI51cRsNYDZAaCJseHr1NUDmriXkg441QAkbnl4pKzVAs3vysFDLNEDZzvdT4xU0QBgEVg4t0jJAcRsN4C0gMEC6SQwCK2ctQLByaJHt9EBAWmQ730/dPEDUeOkmMeg4QJhuEoPAOjdA3NeBc0Z0NkD35GGh1hQ2QNUJaCJsuDVAArwFEhRfNUDwhclUwQg1QKK0N/jCZDRA6Gor9pc9M0DMXUvIB60wQMRCrWnekS1AKe0NvjBRQED+ZffkYUE8QE2EDU+v5DhAYHZPHhZ6N0D7OnDOiNI2QIv9ZffkgTZAwaikTkAzNkDXEvJBz+Y1QD9XW7G/nDVAj8L1KFwPNUBZhjjWxQ00QIhjXdxGszFA8x/Sb1/nLkA=",
+        "shape": "13, 13"
+      },
+      "x": [
+        "1W",
+        "1M",
+        "2M",
+        "3M",
+        "6M",
+        "9M",
+        "1Y",
+        "18M",
+        "2Y",
+        "3Y",
+        "4Y",
+        "5Y",
+        "7Y",
+        "10Y"
+      ],
+      "y": [
+        "40",
+        "60",
+        "80",
+        "90",
+        "95",
+        "97.5",
+        "100",
+        "102.5",
+        "105",
+        "110",
+        "120",
+        "150",
+        "200"
+      ],
+      "colorscale": [
+        [
+          0,
+          "rgb(84,48,5)"
+        ],
+        [
+          0.1,
+          "rgb(140,81,10)"
+        ],
+        [
+          0.2,
+          "rgb(191,129,45)"
+        ],
+        [
+          0.3,
+          "rgb(223,194,125)"
+        ],
+        [
+          0.4,
+          "rgb(246,232,195)"
+        ],
+        [
+          0.5,
+          "rgb(245,245,245)"
+        ],
+        [
+          0.6,
+          "rgb(199,234,229)"
+        ],
+        [
+          0.7,
+          "rgb(128,205,193)"
+        ],
+        [
+          0.8,
+          "rgb(53,151,143)"
+        ],
+        [
+          0.9,
+          "rgb(1,102,94)"
+        ],
+        [
+          1,
+          "rgb(0,60,48)"
+        ]
+      ],
+      "type": "surface"
+    }
+  ],
+  "layout": {
+    "title": {
+      "text": "IBM Volatility",
+      "font": {
+        "size": 24,
+        "color": "#D9D9D9"
+      }
+    },
+    "showlegend": false,
+    "autosize": false,
+    "width": 800,
+    "height": 500,
+    "legend": {
+      "font": {
+        "color": "#D9D9D9"
+      },
+      "bgcolor": "#151516"
+    },
+    "margin": {
+      "l": 0,
+      "r": 0,
+      "b": 0
+    },
+    "paper_bgcolor": "#151516",
+    "plot_bgcolor": "#151516",
+    "scene": {
+      "xaxis": {
+        "title": {
+          "font": {
+            "color": "#D9D9D9"
+          },
+          "text": "Term"
+        },
+        "type": "category",
+        "tickfont": {
+          "color": "#C2C2C2"
+        },
+        "gridcolor": "rgb(255, 255, 255)",
+        "gridwidth": 0.7000000000000001,
+        "zerolinecolor": "rgb(255, 255, 255)",
+        "zerolinewidth": 0.7000000000000001
+      },
+      "yaxis": {
+        "title": {
+          "font": {
+            "color": "#D9D9D9"
+          },
+          "text": "Moneyness"
+        },
+        "type": "linear",
+        "tickfont": {
+          "color": "#C2C2C2"
+        },
+        "gridcolor": "rgb(255, 255, 255)",
+        "gridwidth": 0.7000000000000001,
+        "zerolinecolor": "rgb(255, 255, 255)",
+        "zerolinewidth": 0.7000000000000001
+      },
+      "zaxis": {
+        "title": {
+          "font": {
+            "color": "#D9D9D9"
+          },
+          "text": "Volatilty"
+        },
+        "tickfont": {
+          "color": "#C2C2C2"
+        },
+        "gridcolor": "rgb(255, 255, 255)",
+        "gridwidth": 0.7000000000000001,
+        "zerolinecolor": "rgb(255, 255, 255)",
+        "zerolinewidth": 0.7000000000000001
+      },
+      "cameraposition": [
+        [
+          0.29286395317284275,
+          0.5148424663837641,
+          0.6900510261325995,
+          -0.4159297068895228
+        ],
+        [
+          0.0634642139736937,
+          0.08533175793925227,
+          -0.12431759394236179
+        ],
+        2.0737597910908456
+      ]
+    }
+  }
+}

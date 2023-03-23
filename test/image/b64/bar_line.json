@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AAECAwQF"
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAA+D8AAAAAAADwP83MzMzMzPQ/ZmZmZmZm5j+amZmZmZnpP83MzMzMzOw/"
+      },
+      "type": "scatter"
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AAECAwQF"
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAA8D8AAAAAAADgP2ZmZmZmZuY/MzMzMzMz878zMzMzMzPTP5qZmZmZmdk/"
+      },
+      "type": "bar"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "type": "parcats",
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAAwD8AAAAAAADkPw=="
+        },
+        "y": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAA0D8AAAAAAADoPw=="
+        }
+      },
+      "hoveron": "dimension",
+      "hoverinfo": "probability+count",
+      "dimensions": [
+        {
+          "label": "One",
+          "values": {
+            "dtype": "i1",
+            "bdata": "AQECAQIBAQIB"
+          }
+        },
+        {
+          "label": "Two",
+          "values": [
+            "A",
+            "A",
+            "A",
+            "B",
+            "A",
+            "A",
+            "A",
+            "A",
+            "C"
+          ],
+          "categoryorder": "category descending"
+        },
+        {
+          "label": "Three",
+          "values": {
+            "dtype": "i1",
+            "bdata": "CwsLCwsLCwsL"
+          }
+        }
+      ],
+      "counts": {
+        "dtype": "i1",
+        "bdata": "CwMFAgEUBQkB"
+      }
+    }
+  ],
+  "layout": {
+    "height": 602,
+    "width": 592,
+    "margin": {
+      "l": 40,
+      "r": 40,
+      "t": 50,
+      "b": 40
+    }
+  }
+}

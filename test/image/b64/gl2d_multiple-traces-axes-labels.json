@@ -1,0 +1,88 @@
+{
+  "data": [
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AAEC"
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AAEC"
+      },
+      "mode": "lines+markers",
+      "type": "scattergl"
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AAEC"
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AgEA"
+      },
+      "mode": "lines+markers",
+      "type": "scattergl",
+      "yaxis": "y2",
+      "xaxis": "x2"
+    }
+  ],
+  "layout": {
+    "width": 700,
+    "height": 500,
+    "showlegend": false,
+    "yaxis": {
+      "side": "right",
+      "tickmode": "array",
+      "ticktext": [
+        "RightZero",
+        "RightOne",
+        "RightTwo"
+      ],
+      "tickvals": {
+        "dtype": "i1",
+        "bdata": "AAEC"
+      }
+    },
+    "yaxis2": {
+      "side": "left",
+      "tickmode": "array",
+      "ticktext": [
+        "LeftZero",
+        "LeftOne",
+        "LeftTwo"
+      ],
+      "tickvals": {
+        "dtype": "i1",
+        "bdata": "AAEC"
+      },
+      "overlaying": "y"
+    },
+    "xaxis": {
+      "side": "top",
+      "tickmode": "array",
+      "ticktext": [
+        "TopZero",
+        "TopOne",
+        "TopTwo"
+      ],
+      "tickvals": {
+        "dtype": "i1",
+        "bdata": "AAEC"
+      }
+    },
+    "xaxis2": {
+      "side": "bottom",
+      "tickmode": "array",
+      "ticktext": [
+        "BottomZero",
+        "BottomOne",
+        "BottomTwo"
+      ],
+      "tickvals": {
+        "dtype": "i1",
+        "bdata": "AAEC"
+      }
+    }
+  }
+}

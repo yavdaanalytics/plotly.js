@@ -1,0 +1,213 @@
+{
+  "data": [
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "y": {
+        "dtype": "i2",
+        "bdata": "LABYAIQA"
+      },
+      "name": "trace0"
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "y": {
+        "dtype": "i2",
+        "bdata": "WACwAAgB"
+      },
+      "name": "trace1",
+      "yaxis": "y2"
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "AAAAAACAYEAAAAAAAIBwQAEAAAAAwHhA"
+      },
+      "name": "trace2"
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "y": {
+        "dtype": "i2",
+        "bdata": "sABgARAC"
+      },
+      "name": "trace3",
+      "yaxis": "y2",
+      "visible": "legendonly"
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "y": {
+        "dtype": "i2",
+        "bdata": "3AC4AZQC"
+      },
+      "name": "trace4",
+      "visible": "legendonly"
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "y": {
+        "dtype": "i2",
+        "bdata": "CAEQAhgD"
+      },
+      "name": "trace5",
+      "yaxis": "y2",
+      "visible": "legendonly"
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "AAAAAABAc0AAAAAAAECDQP//////34xA"
+      },
+      "name": "trace6",
+      "visible": "legendonly"
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "////////dUD///////+FQP//////f5BA"
+      },
+      "name": "trace7",
+      "yaxis": "y2",
+      "visible": "legendonly"
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "//////+/eED//////7+IQP//////j5JA"
+      },
+      "name": "trace8",
+      "visible": "legendonly"
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "//////9/e0D//////3+LQP//////n5RA"
+      },
+      "name": "trace9",
+      "yaxis": "y2",
+      "visible": "legendonly"
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "/v////8/fkD+/////z+OQP//////r5ZA"
+      },
+      "name": "trace10",
+      "visible": "legendonly"
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "//////9/gED//////3+QQP//////v5hA"
+      },
+      "name": "trace11",
+      "yaxis": "y2",
+      "visible": "legendonly"
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "///////fgUD//////9+RQP7/////z5pA"
+      },
+      "name": "trace12",
+      "visible": "legendonly"
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "//////8/g0D//////z+TQP7/////35xA"
+      },
+      "name": "trace13",
+      "yaxis": "y2",
+      "visible": "legendonly"
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "//////+fhED//////5+UQP7/////755A"
+      },
+      "name": "trace14",
+      "visible": "legendonly"
+    }
+  ],
+  "layout": {
+    "legend": {
+      "xanchor": "right",
+      "yanchor": "top",
+      "x": -0.5,
+      "y": 1
+    },
+    "xaxis": {
+      "rangeslider": {
+        "visible": true
+      }
+    },
+    "yaxis": {
+      "title": {
+        "text": "Count#"
+      }
+    },
+    "yaxis2": {
+      "title": {
+        "text": "Y-2Axis"
+      },
+      "overlaying": "y",
+      "side": "right"
+    }
+  }
+}

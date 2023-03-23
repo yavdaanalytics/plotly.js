@@ -1,0 +1,54 @@
+{
+  "data": [
+    {
+      "type": "splom",
+      "dimensions": [
+        {
+          "values": {
+            "dtype": "i1",
+            "bdata": "AQID"
+          },
+          "label": "A"
+        },
+        {
+          "values": {
+            "dtype": "i1",
+            "bdata": "AgUG"
+          },
+          "label": "B"
+        }
+      ],
+      "marker": {
+        "symbol": [
+          "diamond",
+          "cross",
+          "square"
+        ],
+        "color": [
+          "green",
+          "blue",
+          "red"
+        ],
+        "size": {
+          "dtype": "i1",
+          "bdata": "FCgK"
+        },
+        "line": {
+          "width": {
+            "dtype": "i1",
+            "bdata": "AgAD"
+          },
+          "color": [
+            "red",
+            "",
+            "blue"
+          ]
+        },
+        "opacity": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAA8D+amZmZmZnpPzMzMzMzM+M/"
+        }
+      }
+    }
+  ]
+}

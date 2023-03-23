@@ -1,0 +1,23 @@
+{
+  "data": [
+    {
+      "type": "densitymapbox",
+      "lon": {
+        "dtype": "i1",
+        "bdata": "ChQe"
+      },
+      "lat": {
+        "dtype": "i1",
+        "bdata": "Dxkj"
+      },
+      "z": {
+        "dtype": "i1",
+        "bdata": "AQMC"
+      }
+    }
+  ],
+  "layout": {
+    "width": 600,
+    "height": 400
+  }
+}

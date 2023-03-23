@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "type": "splom",
+      "dimensions": [
+        {
+          "values": {
+            "dtype": "f8",
+            "bdata": "AAAAAAAAJEAAAAAAAABZQAAAAAAAQI9A"
+          },
+          "label": "A"
+        },
+        {
+          "values": {
+            "dtype": "f8",
+            "bdata": "AAAAAAAAWUAAAAAAAGr4QAAAAACAhC5B"
+          },
+          "label": "B"
+        }
+      ],
+      "marker": {
+        "symbol": "arrow",
+        "angle": 180,
+        "size": 20,
+        "line": {
+          "width": 2,
+          "color": "#444"
+        },
+        "color": {
+          "dtype": "i1",
+          "bdata": "Cihk"
+        },
+        "colorscale": "Reds",
+        "showscale": true
+      }
+    }
+  ],
+  "layout": {
+    "xaxis": {
+      "type": "log"
+    },
+    "yaxis": {
+      "type": "log"
+    },
+    "xaxis2": {
+      "type": "log"
+    },
+    "yaxis2": {
+      "type": "log"
+    }
+  }
+}

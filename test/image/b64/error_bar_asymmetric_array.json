@@ -1,0 +1,27 @@
+{
+  "data": [
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQIDBA=="
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AgEDBA=="
+      },
+      "error_y": {
+        "type": "data",
+        "symmetric": false,
+        "array": {
+          "dtype": "f8",
+          "bdata": "mpmZmZmZuT+amZmZmZnJP5qZmZmZmbk/mpmZmZmZuT8="
+        },
+        "arrayminus": {
+          "dtype": "f8",
+          "bdata": "mpmZmZmZyT+amZmZmZnZPwAAAAAAAPA/mpmZmZmZyT8="
+        }
+      },
+      "type": "scatter"
+    }
+  ]
+}

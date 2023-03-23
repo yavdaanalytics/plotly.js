@@ -1,0 +1,73 @@
+{
+  "data": [
+    {
+      "type": "carpet",
+      "a": {
+        "dtype": "i1",
+        "bdata": "AwIBAwIBAwIB"
+      },
+      "aaxis": {
+        "title": {
+          "text": "a"
+        }
+      },
+      "b": {
+        "dtype": "i1",
+        "bdata": "AwMDAgICAQEB"
+      },
+      "baxis": {
+        "title": {
+          "text": "b"
+        }
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "CgcEBwUDBAMC"
+      }
+    },
+    {
+      "type": "carpet",
+      "a": {
+        "dtype": "i1",
+        "bdata": "AQIDAQIDAQID"
+      },
+      "aaxis": {
+        "title": {
+          "text": "a"
+        }
+      },
+      "b": {
+        "dtype": "i1",
+        "bdata": "AQEBAgICAwMD"
+      },
+      "baxis": {
+        "title": {
+          "text": "b"
+        }
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AgMEAwUHBAcK"
+      },
+      "yaxis": "y2"
+    }
+  ],
+  "layout": {
+    "grid": {
+      "rows": 2,
+      "columns": 1
+    },
+    "yaxis": {
+      "title": {
+        "text": "decreaing a/b ordering"
+      }
+    },
+    "yaxis2": {
+      "title": {
+        "text": "increaing a/b ordering"
+      }
+    },
+    "width": 600,
+    "height": 800
+  }
+}

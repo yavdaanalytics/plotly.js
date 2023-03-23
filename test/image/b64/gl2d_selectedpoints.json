@@ -1,0 +1,60 @@
+{
+  "data": [
+    {
+      "name": "array marker opacity edge case",
+      "type": "scattergl",
+      "mode": "markers",
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQIDBAUG"
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AQMCBAUH"
+      },
+      "marker": {
+        "size": 20,
+        "opacity": {
+          "dtype": "f8",
+          "bdata": "zczMzMzM7D+amZmZmZnpP2ZmZmZmZuY/AAAAAAAA8D8zMzMzMzPjP5qZmZmZmek/"
+        }
+      },
+      "selectedpoints": {
+        "dtype": "i1",
+        "bdata": "AQQC"
+      }
+    },
+    {
+      "name": "array marker opacity + set unselected.marker.opacity",
+      "type": "scattergl",
+      "mode": "markers",
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQIDBAUG"
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AwUEBgcJ"
+      },
+      "marker": {
+        "size": 20,
+        "opacity": {
+          "dtype": "f8",
+          "bdata": "zczMzMzM7D+amZmZmZnpP2ZmZmZmZuY/AAAAAAAA8D8zMzMzMzPjP5qZmZmZmek/"
+        }
+      },
+      "unselected": {
+        "marker": {
+          "opacity": 0
+        }
+      },
+      "selectedpoints": {
+        "dtype": "i1",
+        "bdata": "AQQC"
+      }
+    }
+  ],
+  "layout": {
+    "showlegend": false
+  }
+}

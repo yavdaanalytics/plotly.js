@@ -1,0 +1,41 @@
+{
+  "data": [
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AAECAwQFBgcI"
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "CAcGBQQDAgEA"
+      },
+      "type": "scatter"
+    },
+    {
+      "x": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAAAAAAAAAADwPwAAAAAAAABAAAAAAAAACEAAAAAAioQuQX3DlCWtSbLUAAAAAAAACEAAAAAAAAAQQAAAAAAAABBAAAAAAAAAFEAAAAAAAAAYQAAAAAAAABxAAAAAAAAAIEA="
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAAAAAAAAAADwPwAAAAAAAABAAAAAAAAACEAAAAAAYONGwTslX7iDbstUAAAAopQabUIAAADodkg3wgAAAAAAABBAAAAAAAAAFEAAAAAAAAAYQAAAAAAAABxAAAAAAAAAIEA="
+      },
+      "type": "scatter",
+      "mode": "lines"
+    }
+  ],
+  "layout": {
+    "xaxis": {
+      "range": [
+        2,
+        5
+      ]
+    },
+    "yaxis": {
+      "range": [
+        2,
+        5
+      ]
+    }
+  }
+}

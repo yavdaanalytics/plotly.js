@@ -1,0 +1,338 @@
+{
+  "data": [
+    {
+      "carpet": "c",
+      "type": "contourcarpet",
+      "autocontour": false,
+      "contours": {
+        "start": 1,
+        "end": 14,
+        "size": 1,
+        "showlabels": true,
+        "labelfont": {
+          "size": 9,
+          "color": "#ff0"
+        }
+      },
+      "line": {
+        "width": 2,
+        "smoothing": 0
+      },
+      "colorbar": {
+        "len": 0.4,
+        "y": 0.25,
+        "x": 0.45
+      },
+      "z": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAA8D9cj8L1KFz/P3sUrkfhegRAAAAAAACACEAAAAAAAAAQQAAAAAAAQBRAAAAAAAAA8D8AAAAAAEAeQAAAAAAAACJAAAAAAACAKEDsUbgehWsuQAAAAAAAICxA"
+      },
+      "a": {
+        "dtype": "i1",
+        "bdata": "AAECAwABAgMAAQID"
+      },
+      "b": {
+        "dtype": "i1",
+        "bdata": "BAQEBAUFBQUGBgYG"
+      },
+      "xaxis": "x",
+      "yaxis": "y"
+    },
+    {
+      "carpet": "c",
+      "a": {
+        "dtype": "i1",
+        "bdata": "AAECAwABAgMAAQID"
+      },
+      "b": {
+        "dtype": "i1",
+        "bdata": "BAQEBAUFBQUGBgYG"
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAA8D9mZmZmZmb2P5qZmZmZmfk/AAAAAAAA/D8AAAAAAAAAQAAAAAAAAARAmpmZmZmZBUAAAAAAAAAGQAAAAAAAAAhAAAAAAAAADECamZmZmZkNQAAAAAAAAA5A"
+      },
+      "x": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAEAAAAAAAAAIQAAAAAAAABBAAAAAAAAAFECamZmZmZkBQM3MzMzMzAhAZmZmZmZmEEBmZmZmZmYUQAAAAAAAAPg/AAAAAAAABEAAAAAAAAAMQAAAAAAAABJA"
+      },
+      "type": "carpet",
+      "aaxis": {
+        "tickprefix": "a = ",
+        "smoothing": 0,
+        "minorgridcount": 9,
+        "type": "linear"
+      },
+      "baxis": {
+        "tickprefix": "b = ",
+        "smoothing": 0,
+        "minorgridcount": 9,
+        "type": "linear"
+      },
+      "xaxis": "x",
+      "yaxis": "y"
+    },
+    {
+      "carpet": "c2",
+      "type": "contourcarpet",
+      "autocontour": false,
+      "contours": {
+        "start": 1,
+        "end": 14,
+        "size": 1,
+        "coloring": "lines",
+        "showlabels": true
+      },
+      "line": {
+        "width": 2
+      },
+      "colorbar": {
+        "len": 0.4,
+        "y": 0.75,
+        "x": 0.45
+      },
+      "z": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAA8D9cj8L1KFz/P3sUrkfhegRAAAAAAACACEAAAAAAAAAQQAAAAAAAQBRAAAAAAAAA8D8AAAAAAEAeQAAAAAAAACJAAAAAAACAKEDsUbgehWsuQAAAAAAAICxA"
+      },
+      "a": {
+        "dtype": "i1",
+        "bdata": "AAECAwABAgMAAQID"
+      },
+      "b": {
+        "dtype": "i1",
+        "bdata": "BAQEBAUFBQUGBgYG"
+      },
+      "xaxis": "x",
+      "yaxis": "y2",
+      "zmin": 1,
+      "zmax": 15.21,
+      "zauto": true
+    },
+    {
+      "carpet": "c2",
+      "a": {
+        "dtype": "i1",
+        "bdata": "AAECAwABAgMAAQID"
+      },
+      "b": {
+        "dtype": "i1",
+        "bdata": "BAQEBAUFBQUGBgYG"
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAA8D9mZmZmZmb2P5qZmZmZmfk/AAAAAAAA/D8AAAAAAAAAQAAAAAAAAARAmpmZmZmZBUAAAAAAAAAGQAAAAAAAAAhAAAAAAAAADECamZmZmZkNQAAAAAAAAA5A"
+      },
+      "x": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAEAAAAAAAAAIQAAAAAAAABBAAAAAAAAAFECamZmZmZkBQM3MzMzMzAhAZmZmZmZmEEBmZmZmZmYUQAAAAAAAAPg/AAAAAAAABEAAAAAAAAAMQAAAAAAAABJA"
+      },
+      "type": "carpet",
+      "aaxis": {
+        "tickprefix": "a = ",
+        "smoothing": 1,
+        "minorgridcount": 9,
+        "type": "linear"
+      },
+      "baxis": {
+        "tickprefix": "b = ",
+        "smoothing": 1,
+        "minorgridcount": 9,
+        "type": "linear"
+      },
+      "xaxis": "x",
+      "yaxis": "y2"
+    },
+    {
+      "carpet": "c3",
+      "type": "contourcarpet",
+      "autocontour": false,
+      "contours": {
+        "start": -5,
+        "end": 20,
+        "size": 1,
+        "coloring": "lines"
+      },
+      "line": {
+        "width": 2,
+        "smoothing": 0
+      },
+      "colorbar": {
+        "len": 0.4,
+        "y": 0.25
+      },
+      "z": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAA8D9cj8L1KFz/P3sUrkfhegRAAAAAAACACEAAAAAAAAAQQAAAAAAAQBRAAAAAAAAA8D8AAAAAAEAeQAAAAAAAACJAAAAAAACAKEDsUbgehWsuQAAAAAAAICxA"
+      },
+      "a": {
+        "dtype": "i1",
+        "bdata": "AAECAwABAgMAAQID"
+      },
+      "b": {
+        "dtype": "i1",
+        "bdata": "BAQEBAUFBQUGBgYG"
+      },
+      "xaxis": "x2",
+      "yaxis": "y"
+    },
+    {
+      "carpet": "c3",
+      "a": {
+        "dtype": "i1",
+        "bdata": "AAECAwABAgMAAQID"
+      },
+      "b": {
+        "dtype": "i1",
+        "bdata": "BAQEBAUFBQUGBgYG"
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAA8D9mZmZmZmb2P5qZmZmZmfk/AAAAAAAA/D8AAAAAAAAAQAAAAAAAAARAmpmZmZmZBUAAAAAAAAAGQAAAAAAAAAhAAAAAAAAADECamZmZmZkNQAAAAAAAAA5A"
+      },
+      "x": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAEAAAAAAAAAIQAAAAAAAABBAAAAAAAAAFECamZmZmZkBQM3MzMzMzAhAZmZmZmZmEEBmZmZmZmYUQAAAAAAAAPg/AAAAAAAABEAAAAAAAAAMQAAAAAAAABJA"
+      },
+      "type": "carpet",
+      "aaxis": {
+        "tickprefix": "a = ",
+        "smoothing": 0,
+        "minorgridcount": 9,
+        "type": "linear"
+      },
+      "baxis": {
+        "tickprefix": "b = ",
+        "smoothing": 0,
+        "minorgridcount": 9,
+        "type": "linear"
+      },
+      "xaxis": "x2",
+      "yaxis": "y"
+    },
+    {
+      "carpet": "c4",
+      "type": "contourcarpet",
+      "autocontour": false,
+      "contours": {
+        "start": -5,
+        "end": 20,
+        "size": 1,
+        "showlabels": true
+      },
+      "line": {
+        "width": 2,
+        "color": "#fff"
+      },
+      "colorbar": {
+        "len": 0.4,
+        "y": 0.75
+      },
+      "z": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAA8D9cj8L1KFz/P3sUrkfhegRAAAAAAACACEAAAAAAAAAQQAAAAAAAQBRAAAAAAAAA8D8AAAAAAEAeQAAAAAAAACJAAAAAAACAKEDsUbgehWsuQAAAAAAAICxA"
+      },
+      "a": {
+        "dtype": "i1",
+        "bdata": "AAECAwABAgMAAQID"
+      },
+      "b": {
+        "dtype": "i1",
+        "bdata": "BAQEBAUFBQUGBgYG"
+      },
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "zmin": 1,
+      "zmax": 15.21,
+      "zauto": true
+    },
+    {
+      "carpet": "c4",
+      "a": {
+        "dtype": "i1",
+        "bdata": "AAECAwABAgMAAQID"
+      },
+      "b": {
+        "dtype": "i1",
+        "bdata": "BAQEBAUFBQUGBgYG"
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAA8D9mZmZmZmb2P5qZmZmZmfk/AAAAAAAA/D8AAAAAAAAAQAAAAAAAAARAmpmZmZmZBUAAAAAAAAAGQAAAAAAAAAhAAAAAAAAADECamZmZmZkNQAAAAAAAAA5A"
+      },
+      "x": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAEAAAAAAAAAIQAAAAAAAABBAAAAAAAAAFECamZmZmZkBQM3MzMzMzAhAZmZmZmZmEEBmZmZmZmYUQAAAAAAAAPg/AAAAAAAABEAAAAAAAAAMQAAAAAAAABJA"
+      },
+      "type": "carpet",
+      "aaxis": {
+        "tickprefix": "a = ",
+        "smoothing": 1,
+        "minorgridcount": 9,
+        "type": "linear"
+      },
+      "baxis": {
+        "tickprefix": "b = ",
+        "smoothing": 1,
+        "minorgridcount": 9,
+        "type": "linear"
+      },
+      "xaxis": "x2",
+      "yaxis": "y2"
+    }
+  ],
+  "layout": {
+    "width": 1000,
+    "height": 600,
+    "title": {
+      "text": "Cheater plot with 1D input"
+    },
+    "margin": {
+      "t": 40,
+      "r": 30,
+      "b": 30,
+      "l": 30
+    },
+    "dragmode": "pan",
+    "yaxis": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAAC4HoXrUbjePw=="
+      },
+      "range": [
+        0.38830491032049386,
+        4.361695089679506
+      ]
+    },
+    "yaxis2": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "pHA9Ctej4D8AAAAAAADwPw=="
+      },
+      "range": [
+        0.38830491032049386,
+        4.361695089679506
+      ]
+    },
+    "xaxis": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAAC4HoXrUbjePw=="
+      },
+      "range": [
+        0.6676731793960924,
+        5.932326820603907
+      ]
+    },
+    "xaxis2": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "pHA9Ctej4D8AAAAAAADwPw=="
+      },
+      "range": [
+        0.6676731793960924,
+        5.932326820603907
+      ]
+    }
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "data": [
+    {
+      "type": "scatterternary",
+      "mode": "markers+lines+text",
+      "a": {
+        "dtype": "i1",
+        "bdata": "S0ZLBQoKFAoPChQ="
+      },
+      "b": {
+        "dtype": "i1",
+        "bdata": "GQoUPFBaRhQFCgo="
+      },
+      "c": {
+        "dtype": "i1",
+        "bdata": "ABQFIwoACkZQUEY="
+      },
+      "text": [
+        "point 1",
+        "point 2",
+        "point 3",
+        "point 4",
+        "point 5",
+        "point 6",
+        "point 7",
+        "point 8",
+        "point 9",
+        "point 10",
+        "point 11"
+      ],
+      "textposition": [
+        "left",
+        "right",
+        "top right",
+        "top",
+        "bottom right",
+        "left",
+        "top",
+        "left",
+        "right",
+        "bottom",
+        "top"
+      ],
+      "textfont": {
+        "color": "#DB7365"
+      },
+      "marker": {
+        "symbol": "arrow",
+        "angleref": "previous",
+        "color": "#DB7365",
+        "size": 10,
+        "line": {
+          "width": 2
+        }
+      },
+      "cliponaxis": false
+    }
+  ],
+  "layout": {
+    "ternary": {
+      "sum": 100,
+      "aaxis": {
+        "tickfont": {
+          "size": 15
+        },
+        "tickcolor": "rgba(0, 0, 0, 0)",
+        "ticklen": 5,
+        "showline": true,
+        "showgrid": true,
+        "title": {
+          "font": {
+            "size": 20
+          },
+          "text": "Journalist"
+        },
+        "tickangle": 0
+      },
+      "baxis": {
+        "min": 20,
+        "tickfont": {
+          "size": 15
+        },
+        "tickcolor": "rgba(0, 0, 0, 0)",
+        "ticklen": 5,
+        "showline": true,
+        "showgrid": true,
+        "title": {
+          "font": {
+            "size": 20
+          },
+          "text": "<br>Developer"
+        },
+        "tickangle": 45
+      },
+      "caxis": {
+        "tickfont": {
+          "size": 15
+        },
+        "tickcolor": "rgba(0, 0, 0, 0)",
+        "ticklen": 5,
+        "showline": true,
+        "showgrid": true,
+        "title": {
+          "font": {
+            "size": 20
+          },
+          "text": "<br>Designer"
+        },
+        "tickangle": -45
+      },
+      "bgcolor": "#fff1e0"
+    },
+    "paper_bgcolor": "#fff1e0",
+    "height": 450,
+    "width": 700,
+    "autosize": false
+  }
+}

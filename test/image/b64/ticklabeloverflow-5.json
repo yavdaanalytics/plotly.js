@@ -1,0 +1,39 @@
+{
+  "data": [
+    {
+      "colorbar": {
+        "dtick": 2,
+        "ticklen": 4,
+        "tickangle": 90,
+        "tickformat": ".4f",
+        "ticklabeloverflow": "hide past domain"
+      },
+      "type": "heatmap",
+      "x": {
+        "dtype": "i1",
+        "bdata": "nABk"
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "nABk"
+      },
+      "z": {
+        "dtype": "i1",
+        "bdata": "AAUKBQoACgUA",
+        "shape": "3, 3"
+      }
+    }
+  ],
+  "layout": {
+    "plot_bgcolor": "lightblue",
+    "showlegend": false,
+    "width": 200,
+    "height": 300,
+    "margin": {
+      "t": 30,
+      "b": 30,
+      "l": 45,
+      "r": 45
+    }
+  }
+}

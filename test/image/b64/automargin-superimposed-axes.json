@@ -1,0 +1,65 @@
+{
+  "data": [
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQI="
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AQI="
+      }
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQI="
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AQI="
+      },
+      "xaxis": "x2",
+      "yaxis": "y2"
+    }
+  ],
+  "layout": {
+    "showlegend": false,
+    "margin": {
+      "b": 0
+    },
+    "title": {
+      "text": "automargin:true on superimposed x axes"
+    },
+    "xaxis": {
+      "title": {
+        "text": "x"
+      },
+      "automargin": true
+    },
+    "xaxis2": {
+      "title": {
+        "text": "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; x2"
+      },
+      "automargin": true
+    },
+    "yaxis": {
+      "title": {
+        "text": "hi"
+      },
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAAAAAAAAAADgPw=="
+      }
+    },
+    "yaxis2": {
+      "title": {
+        "text": "hi"
+      },
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAA4D8AAAAAAADwPw=="
+      }
+    }
+  }
+}

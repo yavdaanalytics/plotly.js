@@ -1,0 +1,214 @@
+{
+  "data": [
+    {
+      "type": "scattermapbox",
+      "subplot": "mapbox",
+      "name": "20 (20)",
+      "mode": "markers",
+      "marker": {
+        "size": 20,
+        "color": "lightgray",
+        "opacity": 0.5
+      },
+      "cluster": {
+        "size": 20,
+        "color": "yellow"
+      },
+      "lon": {
+        "dtype": "f8",
+        "bdata": "pHA9CtdjUsC4HoXrUdhTwEjhehSux17AFK5H4XqEXMCPwvUoXF9cwFyPwvUo7FLAKVyPwvXIT8DXo3A9CtdewLgehetRSFjA16NwPQonWsA="
+      },
+      "lat": {
+        "dtype": "f8",
+        "bdata": "AAAAAADARkAzMzMzM9NFQKRwPQrXo0hAhetRuB6FSUCF61G4HsVKQPYoXI/CtUZAUrgehetRRkD2KFyPwjVIQFK4HoXr8UhAuB6F61E4SUA="
+      },
+      "text": [
+        "Montreal",
+        "Toronto",
+        "Vancouver",
+        "Calgary",
+        "Edmonton",
+        "Ottawa",
+        "Halifax",
+        "Victoria",
+        "Winnepeg",
+        "Regina"
+      ]
+    },
+    {
+      "type": "scattermapbox",
+      "subplot": "mapbox2",
+      "name": "20 (10)",
+      "mode": "markers",
+      "marker": {
+        "size": 20
+      },
+      "cluster": {
+        "size": 10
+      },
+      "lon": {
+        "dtype": "f8",
+        "bdata": "pHA9CtdjUsC4HoXrUdhTwEjhehSux17AFK5H4XqEXMCPwvUoXF9cwFyPwvUo7FLAKVyPwvXIT8DXo3A9CtdewLgehetRSFjA16NwPQonWsA="
+      },
+      "lat": {
+        "dtype": "f8",
+        "bdata": "AAAAAADARkAzMzMzM9NFQKRwPQrXo0hAhetRuB6FSUCF61G4HsVKQPYoXI/CtUZAUrgehetRRkD2KFyPwjVIQFK4HoXr8UhAuB6F61E4SUA="
+      },
+      "text": [
+        "Montreal",
+        "Toronto",
+        "Vancouver",
+        "Calgary",
+        "Edmonton",
+        "Ottawa",
+        "Halifax",
+        "Victoria",
+        "Winnepeg",
+        "Regina"
+      ]
+    },
+    {
+      "type": "scattermapbox",
+      "subplot": "mapbox3",
+      "name": "10 (20)",
+      "mode": "markers",
+      "marker": {
+        "size": 10
+      },
+      "cluster": {
+        "size": 20
+      },
+      "lon": {
+        "dtype": "f8",
+        "bdata": "pHA9CtdjUsC4HoXrUdhTwEjhehSux17AFK5H4XqEXMCPwvUoXF9cwFyPwvUo7FLAKVyPwvXIT8DXo3A9CtdewLgehetRSFjA16NwPQonWsA="
+      },
+      "lat": {
+        "dtype": "f8",
+        "bdata": "AAAAAADARkAzMzMzM9NFQKRwPQrXo0hAhetRuB6FSUCF61G4HsVKQPYoXI/CtUZAUrgehetRRkD2KFyPwjVIQFK4HoXr8UhAuB6F61E4SUA="
+      },
+      "text": [
+        "Montreal",
+        "Toronto",
+        "Vancouver",
+        "Calgary",
+        "Edmonton",
+        "Ottawa",
+        "Halifax",
+        "Victoria",
+        "Winnepeg",
+        "Regina"
+      ]
+    },
+    {
+      "type": "scattermapbox",
+      "subplot": "mapbox4",
+      "name": "10 (10)",
+      "mode": "markers",
+      "marker": {
+        "size": 10
+      },
+      "cluster": {
+        "size": 10
+      },
+      "lon": {
+        "dtype": "f8",
+        "bdata": "pHA9CtdjUsC4HoXrUdhTwEjhehSux17AFK5H4XqEXMCPwvUoXF9cwFyPwvUo7FLAKVyPwvXIT8DXo3A9CtdewLgehetRSFjA16NwPQonWsA="
+      },
+      "lat": {
+        "dtype": "f8",
+        "bdata": "AAAAAADARkAzMzMzM9NFQKRwPQrXo0hAhetRuB6FSUCF61G4HsVKQPYoXI/CtUZAUrgehetRRkD2KFyPwjVIQFK4HoXr8UhAuB6F61E4SUA="
+      },
+      "text": [
+        "Montreal",
+        "Toronto",
+        "Vancouver",
+        "Calgary",
+        "Edmonton",
+        "Ottawa",
+        "Halifax",
+        "Victoria",
+        "Winnepeg",
+        "Regina"
+      ]
+    }
+  ],
+  "layout": {
+    "title": {
+      "text": "Clustering points over Canadian cities"
+    },
+    "mapbox": {
+      "zoom": 2,
+      "style": "dark",
+      "center": {
+        "lon": -90,
+        "lat": 45
+      },
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "mpmZmZmZ4T8AAAAAAADwPw=="
+        },
+        "y": {
+          "dtype": "f8",
+          "bdata": "mpmZmZmZ4T8AAAAAAADwPw=="
+        }
+      }
+    },
+    "mapbox2": {
+      "zoom": 2,
+      "style": "light",
+      "center": {
+        "lon": -90,
+        "lat": 45
+      },
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "mpmZmZmZ4T8AAAAAAADwPw=="
+        },
+        "y": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAAAADNzMzMzMzcPw=="
+        }
+      }
+    },
+    "mapbox3": {
+      "zoom": 2,
+      "style": "light",
+      "center": {
+        "lon": -90,
+        "lat": 45
+      },
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAAAADNzMzMzMzcPw=="
+        },
+        "y": {
+          "dtype": "f8",
+          "bdata": "mpmZmZmZ4T8AAAAAAADwPw=="
+        }
+      }
+    },
+    "mapbox4": {
+      "zoom": 2,
+      "style": "dark",
+      "center": {
+        "lon": -90,
+        "lat": 45
+      },
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAAAADNzMzMzMzcPw=="
+        },
+        "y": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAAAADNzMzMzMzcPw=="
+        }
+      }
+    },
+    "height": 800,
+    "width": 1200
+  }
+}

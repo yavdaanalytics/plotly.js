@@ -1,0 +1,224 @@
+{
+  "data": [
+    {
+      "x": [
+        "2017-01-01",
+        "2023-01-01"
+      ],
+      "y": {
+        "dtype": "i1",
+        "bdata": "AAE="
+      }
+    },
+    {
+      "x": [
+        "2017-01-01",
+        "2023-01-01"
+      ],
+      "y": {
+        "dtype": "i1",
+        "bdata": "AAE="
+      },
+      "xaxis": "x2",
+      "yaxis": "y2"
+    },
+    {
+      "x": [
+        "2017-01-01",
+        "2023-01-01"
+      ],
+      "y": {
+        "dtype": "i1",
+        "bdata": "AAE="
+      },
+      "xaxis": "x3",
+      "yaxis": "y3"
+    },
+    {
+      "x": [
+        "2017-01-01",
+        "2023-01-01"
+      ],
+      "y": {
+        "dtype": "i1",
+        "bdata": "AAE="
+      },
+      "xaxis": "x4",
+      "yaxis": "y4"
+    },
+    {
+      "x": [
+        "2017-01-01",
+        "2023-01-01"
+      ],
+      "y": {
+        "dtype": "i1",
+        "bdata": "AAE="
+      },
+      "xaxis": "x5",
+      "yaxis": "y5"
+    },
+    {
+      "x": [
+        "2017-01-01",
+        "2023-01-01"
+      ],
+      "y": {
+        "dtype": "i1",
+        "bdata": "AAE="
+      },
+      "xaxis": "x6",
+      "yaxis": "y6"
+    },
+    {
+      "x": [
+        "2017-01-01",
+        "2023-01-01"
+      ],
+      "y": {
+        "dtype": "i1",
+        "bdata": "AAE="
+      },
+      "xaxis": "x7",
+      "yaxis": "y7"
+    }
+  ],
+  "layout": {
+    "showlegend": false,
+    "width": 600,
+    "height": 500,
+    "yaxis": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAAB7FK5H4XqkPw=="
+      }
+    },
+    "yaxis2": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "exSuR+F6xD+amZmZmZnJPw=="
+      }
+    },
+    "yaxis3": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "exSuR+F61D8K16NwPQrXPw=="
+      }
+    },
+    "yaxis4": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "uB6F61G43j+kcD0K16PgPw=="
+      }
+    },
+    "yaxis5": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "exSuR+F65D/D9Shcj8LlPw=="
+      }
+    },
+    "yaxis6": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "mpmZmZmZ6T/hehSuR+HqPw=="
+      }
+    },
+    "yaxis7": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "uB6F61G47j8AAAAAAADwPw=="
+      }
+    },
+    "xaxis": {
+      "minor": {
+        "ticks": "inside"
+      },
+      "tickcolor": "black",
+      "gridcolor": "orange",
+      "range": [
+        "2019-12-24",
+        "2020-01-06"
+      ],
+      "ticklabelmode": "period",
+      "tickformat": "%b %d, %Y"
+    },
+    "xaxis2": {
+      "minor": {
+        "ticks": "inside"
+      },
+      "tickcolor": "black",
+      "gridcolor": "orange",
+      "range": [
+        "2019-12-29",
+        "2020-01-04"
+      ],
+      "ticklabelmode": "period",
+      "anchor": "y2"
+    },
+    "xaxis3": {
+      "minor": {
+        "ticks": "inside"
+      },
+      "tickcolor": "black",
+      "gridcolor": "orange",
+      "range": [
+        "2020-01-03",
+        "2019-12-28"
+      ],
+      "ticklabelmode": "period",
+      "anchor": "y3"
+    },
+    "xaxis4": {
+      "minor": {
+        "ticks": "inside"
+      },
+      "tickcolor": "black",
+      "gridcolor": "orange",
+      "range": [
+        "2020-03-01",
+        "2020-11-01"
+      ],
+      "ticklabelmode": "period",
+      "anchor": "y4"
+    },
+    "xaxis5": {
+      "minor": {
+        "ticks": "inside"
+      },
+      "tickcolor": "black",
+      "gridcolor": "orange",
+      "range": [
+        "2016-09-01",
+        "2017-06-01"
+      ],
+      "ticklabelmode": "period",
+      "anchor": "y5"
+    },
+    "xaxis6": {
+      "minor": {
+        "ticks": "inside"
+      },
+      "tickcolor": "black",
+      "gridcolor": "orange",
+      "range": [
+        "2016-05-01",
+        "2019-09-01"
+      ],
+      "ticklabelmode": "period",
+      "anchor": "y6"
+    },
+    "xaxis7": {
+      "minor": {
+        "ticks": "inside"
+      },
+      "tickcolor": "black",
+      "gridcolor": "orange",
+      "range": [
+        "2016-05-01",
+        "2021-09-01"
+      ],
+      "ticklabelmode": "period",
+      "anchor": "y7"
+    }
+  }
+}

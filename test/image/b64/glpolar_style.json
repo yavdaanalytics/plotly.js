@@ -1,0 +1,157 @@
+{
+  "data": [
+    {
+      "type": "scatterpolargl",
+      "r": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "theta": {
+        "dtype": "i2",
+        "bdata": "MgBkAMgA"
+      },
+      "marker": {
+        "symbol": "square"
+      }
+    },
+    {
+      "type": "scatterpolargl",
+      "r": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "theta": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "thetaunit": "radians"
+    },
+    {
+      "type": "scatterpolargl",
+      "r": [
+        "a",
+        "b",
+        "c",
+        "b"
+      ],
+      "theta": [
+        "D",
+        "C",
+        "B",
+        "A"
+      ],
+      "subplot": "polar2"
+    },
+    {
+      "type": "scatterpolargl",
+      "r": {
+        "dtype": "i2",
+        "bdata": "MgAsAYQD"
+      },
+      "theta": {
+        "dtype": "i2",
+        "bdata": "AABaALQA"
+      },
+      "marker": {
+        "size": 20,
+        "color": {
+          "dtype": "i1",
+          "bdata": "AQID"
+        },
+        "showscale": true
+      },
+      "subplot": "polar3"
+    },
+    {
+      "type": "scatterpolargl",
+      "mode": "lines",
+      "r": {
+        "dtype": "i1",
+        "bdata": "AwMEAw=="
+      },
+      "theta": {
+        "dtype": "i2",
+        "bdata": "AAAtAFoADgE="
+      },
+      "fill": "toself",
+      "subplot": "polar4"
+    }
+  ],
+  "layout": {
+    "polar": {
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAAAABxPQrXo3DdPw=="
+        },
+        "y": {
+          "dtype": "f8",
+          "bdata": "7FG4HoXr4T8AAAAAAADwPw=="
+        }
+      },
+      "radialaxis": {
+        "range": [
+          1,
+          4
+        ]
+      },
+      "angularaxis": {
+        "thetaunit": "radians"
+      }
+    },
+    "polar2": {
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAAAABxPQrXo3DdPw=="
+        },
+        "y": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAAAADhehSuR+HaPw=="
+        }
+      }
+    },
+    "polar3": {
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "SOF6FK5H4T8AAAAAAADwPw=="
+        },
+        "y": {
+          "dtype": "f8",
+          "bdata": "7FG4HoXr4T8AAAAAAADwPw=="
+        }
+      },
+      "radialaxis": {
+        "type": "log",
+        "tickangle": 45
+      },
+      "sector": {
+        "dtype": "i2",
+        "bdata": "AAC0AA=="
+      }
+    },
+    "polar4": {
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "SOF6FK5H4T8AAAAAAADwPw=="
+        },
+        "y": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAAAAApXI/C9SjcPw=="
+        }
+      },
+      "radialaxis": {
+        "visible": false,
+        "range": [
+          0,
+          6
+        ]
+      }
+    },
+    "showlegend": false,
+    "width": 600,
+    "height": 500
+  }
+}

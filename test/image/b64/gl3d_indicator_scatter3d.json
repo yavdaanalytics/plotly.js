@@ -1,0 +1,73 @@
+{
+  "data": [
+    {
+      "domain": {
+        "y": {
+          "dtype": "i1",
+          "bdata": "AAE="
+        },
+        "x": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAA0D8AAAAAAADoPw=="
+        }
+      },
+      "title": {
+        "text": "Sensor"
+      },
+      "type": "indicator",
+      "mode": "number+delta",
+      "delta": {
+        "reference": 9
+      },
+      "value": 10
+    },
+    {
+      "type": "scatter3d",
+      "name": "Sensor",
+      "z": {
+        "dtype": "i1",
+        "bdata": "AAECAwQFBgcICQo="
+      },
+      "x": {
+        "dtype": "i1",
+        "bdata": "AAEDBQcJDA8NDw=="
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "MiAMTkE2RRcgZA=="
+      },
+      "marker": {
+        "opacity": 1,
+        "color": "rgba(125, 125, 125, 0.1)"
+      }
+    }
+  ],
+  "layout": {
+    "width": 400,
+    "height": 300,
+    "scene": {
+      "camera": {
+        "eye": {
+          "x": -1.172852145187388,
+          "y": 1.8080244316159928,
+          "z": 0.20728121045818126
+        }
+      }
+    },
+    "font": {
+      "color": "white",
+      "family": "Raleway"
+    },
+    "paper_bgcolor": "black",
+    "margin": {
+      "t": 25,
+      "r": 25,
+      "l": 25,
+      "b": 25
+    },
+    "autosize": true
+  },
+  "config": {
+    "responsive": true
+  }
+}

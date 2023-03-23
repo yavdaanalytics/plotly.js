@@ -1,0 +1,121 @@
+{
+  "data": [
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQEBAQEB"
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AAECAwQF"
+      },
+      "z": {
+        "dtype": "i1",
+        "bdata": "AwQCBQMB"
+      },
+      "type": "heatmap",
+      "showlegend": false,
+      "showscale": false,
+      "zmax": 5,
+      "zmin": 1
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AgICAgI="
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "mpmZmZmZyT8zMzMzMzPzP5qZmZmZmQFAmpmZmZmZCUDNzMzMzMwQQA=="
+      },
+      "z": {
+        "dtype": "i1",
+        "bdata": "BgEDAgQ="
+      },
+      "type": "heatmap",
+      "showlegend": false,
+      "showscale": false,
+      "zmax": 6,
+      "zmin": 1
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AwMDAwMDAwMDAwM="
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAAAAAAAAAADgPwAAAAAAAPA/AAAAAAAA+D8AAAAAAAAAQAAAAAAAAARAAAAAAAAACEAAAAAAAAAMQAAAAAAAABBAAAAAAAAAEkAAAAAAAAAUQA=="
+      },
+      "z": {
+        "dtype": "i1",
+        "bdata": "BgEDAgQCBwQDAgU="
+      },
+      "type": "heatmap",
+      "showlegend": false,
+      "showscale": false,
+      "zmax": 7,
+      "zmin": 1
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "BAQEBAQE"
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAACamZmZmZnJPwAAAAAAAOA/MzMzMzMz8z8AAAAAAAAMQAAAAAAAABBA"
+      },
+      "z": {
+        "dtype": "i1",
+        "bdata": "AgQHAwIB"
+      },
+      "type": "heatmap",
+      "showlegend": false,
+      "showscale": false,
+      "zmax": 7,
+      "zmin": 1
+    },
+    {
+      "x": {
+        "dtype": "f8",
+        "bdata": "zczMzMzMFEDNzMzMzMwUQM3MzMzMzBRAzczMzMzMFEDNzMzMzMwUQM3MzMzMzBRA"
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAACamZmZmZnJPwAAAAAAAOA/MzMzMzMz8z8AAAAAAAAMQAAAAAAAABBA"
+      },
+      "z": {
+        "dtype": "i1",
+        "bdata": "AgQHAwIB"
+      },
+      "type": "heatmap",
+      "showlegend": false,
+      "showscale": true,
+      "zmax": 10,
+      "zmin": 0
+    }
+  ],
+  "layout": {
+    "hovermode": "closest",
+    "xaxis": {
+      "type": "linear",
+      "range": [
+        0.5,
+        5.7
+      ],
+      "autorange": true
+    },
+    "yaxis": {
+      "type": "linear",
+      "range": [
+        -0.5,
+        5.5
+      ],
+      "autorange": true
+    },
+    "height": 450,
+    "width": 1100,
+    "autosize": true
+  }
+}

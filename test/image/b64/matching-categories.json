@@ -1,0 +1,160 @@
+{
+  "data": [
+    {
+      "x": [
+        "a",
+        "b",
+        "c"
+      ],
+      "y": {
+        "dtype": "i1",
+        "bdata": "AQIB"
+      }
+    },
+    {
+      "x": [
+        "b",
+        "c",
+        "d",
+        "e"
+      ],
+      "y": {
+        "dtype": "i1",
+        "bdata": "AgECAw=="
+      },
+      "xaxis": "x2",
+      "yaxis": "y2"
+    },
+    {
+      "x": [
+        [
+          2018,
+          2019,
+          2019
+        ],
+        [
+          "q1",
+          "q1",
+          "q2"
+        ]
+      ],
+      "y": {
+        "dtype": "i1",
+        "bdata": "AQIB"
+      },
+      "xaxis": "x3",
+      "yaxis": "y3"
+    },
+    {
+      "x": [
+        [
+          2018,
+          2018,
+          2019,
+          2019
+        ],
+        [
+          "q1",
+          "q2",
+          "q1",
+          "q2"
+        ]
+      ],
+      "y": {
+        "dtype": "i1",
+        "bdata": "AgECAw=="
+      },
+      "xaxis": "x4",
+      "yaxis": "y4"
+    }
+  ],
+  "layout": {
+    "xaxis": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAACamZmZmZnJPw=="
+      }
+    },
+    "yaxis": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "zczMzMzM5D8AAAAAAADwPw=="
+      }
+    },
+    "xaxis2": {
+      "matches": "x",
+      "anchor": "y2",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "MzMzMzMz0z8AAAAAAADwPw=="
+      }
+    },
+    "yaxis2": {
+      "anchor": "x2",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "zczMzMzM5D8AAAAAAADwPw=="
+      }
+    },
+    "xaxis3": {
+      "anchor": "y3",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAACamZmZmZnJPw=="
+      }
+    },
+    "yaxis3": {
+      "anchor": "x3",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAAAAAAAAAADgPw=="
+      }
+    },
+    "xaxis4": {
+      "matches": "x3",
+      "anchor": "y4",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "MzMzMzMz0z8AAAAAAADwPw=="
+      }
+    },
+    "yaxis4": {
+      "anchor": "x4",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAAAAAAAAAADgPw=="
+      }
+    },
+    "showlegend": false,
+    "margin": {
+      "t": 40,
+      "b": 40,
+      "l": 20,
+      "r": 20
+    },
+    "annotations": [
+      {
+        "text": "matching category x-axes",
+        "showarrow": false,
+        "xref": "paper",
+        "yref": "paper",
+        "x": 0,
+        "xanchor": "left",
+        "y": 1,
+        "yanchor": "bottom",
+        "bgcolor": "#d3d3d3"
+      },
+      {
+        "text": "matching multicategory x-axes",
+        "showarrow": false,
+        "xref": "paper",
+        "yref": "paper",
+        "x": 0,
+        "xanchor": "left",
+        "y": 0.5,
+        "yanchor": "bottom",
+        "bgcolor": "#d3d3d3"
+      }
+    ]
+  }
+}

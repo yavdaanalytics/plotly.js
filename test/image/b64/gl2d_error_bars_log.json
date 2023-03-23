@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "name": "array error bars",
+      "type": "scattergl",
+      "y": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAJEAAAAAAAIjTQAAAAADQElNB"
+      },
+      "error_y": {
+        "array": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAAFEAAAAAAAIjDQAAAAACAhE5B"
+        }
+      }
+    },
+    {
+      "name": "50% percent error bars",
+      "type": "scattergl",
+      "x0": 0.2,
+      "y": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAJEAAAAAAAIjTQAAAAADQElNB"
+      },
+      "error_y": {
+        "type": "percent",
+        "value": 50
+      }
+    }
+  ],
+  "layout": {
+    "yaxis": {
+      "type": "log"
+    },
+    "showlegend": false
+  }
+}

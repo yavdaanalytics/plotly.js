@@ -1,0 +1,56 @@
+{
+  "data": [
+    {
+      "type": "splom",
+      "dimensions": [
+        {
+          "values": {
+            "dtype": "i1",
+            "bdata": "AQID"
+          },
+          "label": "A"
+        },
+        {
+          "values": {
+            "dtype": "i1",
+            "bdata": "BAUG"
+          },
+          "label": "B"
+        }
+      ]
+    },
+    {
+      "type": "splom",
+      "dimensions": [
+        {
+          "values": {
+            "dtype": "i1",
+            "bdata": "AQID"
+          },
+          "label": "C"
+        },
+        {
+          "values": {
+            "dtype": "i1",
+            "bdata": "BAUG"
+          },
+          "label": "D"
+        }
+      ],
+      "xaxes": [
+        "x3",
+        "x4"
+      ],
+      "yaxes": [
+        "y3",
+        "y4"
+      ]
+    }
+  ],
+  "layout": {
+    "title": {
+      "text": "ragged sploms using trace xaxes yaxes"
+    },
+    "showlegend": false
+  }
+}

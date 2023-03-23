@@ -1,0 +1,93 @@
+{
+  "data": [
+    {
+      "type": "surface",
+      "contours": {
+        "x": {
+          "show": false
+        },
+        "y": {
+          "show": false
+        },
+        "z": {
+          "show": true
+        }
+      },
+      "x": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAAA1XrpJDALDPwAAAAAAAOA/SgwCK4cW7T8AAAAAAADwPw=="
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAAAAAAAAAADgPwAAAAAAAPA/"
+      },
+      "z": {
+        "dtype": "f8",
+        "bdata": "sVBrmj+G6kCxUGuaX4bqQLFQa5o/hupAsVBrml+G6kCxUGuaP4bqQLFQa5pfhupAsVBrmj+G6kCxUGuaX4bqQLFQa5o/hupAsVBrml+G6kCxUGuaP4bqQLFQa5pfhupAsVBrmj+G6kCxUGuaX4bqQLFQa5o/hupA",
+        "shape": "3, 5"
+      }
+    },
+    {
+      "type": "surface",
+      "contours": {
+        "x": {
+          "show": false
+        },
+        "y": {
+          "show": false
+        },
+        "z": {
+          "show": true
+        }
+      },
+      "x": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAAA1XrpJDALDPwAAAAAAAOA/SgwCK4cW7T8AAAAAAADwPw=="
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAAAAAAAAAADgPwAAAAAAAPA/"
+      },
+      "z": {
+        "dtype": "f8",
+        "bdata": "sVBrmn+G6kCxUGuaX4bqQLFQa5p/hupAsVBrml+G6kCxUGuaf4bqQLFQa5pfhupAsVBrmn+G6kCxUGuaX4bqQLFQa5p/hupAsVBrml+G6kCxUGuaf4bqQLFQa5pfhupAsVBrmn+G6kCxUGuaX4bqQLFQa5p/hupA",
+        "shape": "3, 5"
+      }
+    }
+  ],
+  "layout": {
+    "title": {
+      "text": "Big numbers and surface contour precision"
+    },
+    "width": 800,
+    "height": 600,
+    "scene": {
+      "xaxis": {
+        "nticks": 4
+      },
+      "yaxis": {
+        "nticks": 4
+      },
+      "zaxis": {
+        "nticks": 48
+      },
+      "camera": {
+        "eye": {
+          "x": 1,
+          "y": 1,
+          "z": 0
+        },
+        "center": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "up": {
+          "x": 0,
+          "y": 0,
+          "z": 1
+        }
+      }
+    }
+  }
+}

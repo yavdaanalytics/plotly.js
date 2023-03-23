@@ -1,0 +1,198 @@
+{
+  "data": [
+    {
+      "y": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAEEAAAAAAAADwPwAAAAAAAOA/"
+      },
+      "text": [
+        "very <br>L<br>O<br>N<br>G<br> text",
+        "text",
+        "invisible"
+      ],
+      "type": "bar",
+      "textangle": -45,
+      "xaxis": "x",
+      "yaxis": "y"
+    },
+    {
+      "y": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAEEAAAAAAAADwPwAAAAAAAOA/"
+      },
+      "text": [
+        "very L O N G text",
+        "text",
+        "visible"
+      ],
+      "type": "bar",
+      "textangle": -45,
+      "xaxis": "x",
+      "yaxis": "y"
+    },
+    {
+      "y": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAEEAAAAAAAADwPwAAAAAAAOA/"
+      },
+      "text": [
+        "very <br>L<br>O<br>N<br>G<br> text",
+        "text",
+        "invisible"
+      ],
+      "type": "bar",
+      "textposition": "inside",
+      "textangle": -45,
+      "xaxis": "x2",
+      "yaxis": "y2"
+    },
+    {
+      "y": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAEEAAAAAAAADwPwAAAAAAAOA/"
+      },
+      "text": [
+        "very L O N G text",
+        "text",
+        "invisible"
+      ],
+      "type": "bar",
+      "textposition": "inside",
+      "textangle": -45,
+      "xaxis": "x2",
+      "yaxis": "y2"
+    },
+    {
+      "y": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAFEAAAAAAAADwPwAAAAAAAOA/"
+      },
+      "text": [
+        "very <br>L<br>O<br>N<br>G<br> text",
+        "text",
+        "invisible"
+      ],
+      "type": "funnel",
+      "textinfo": "text",
+      "textposition": "inside",
+      "textangle": -45,
+      "xaxis": "x3",
+      "yaxis": "y3"
+    },
+    {
+      "y": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAACEAAAAAAAADwPwAAAAAAAOA/"
+      },
+      "text": [
+        "very L O N G text",
+        "text",
+        "invisible"
+      ],
+      "type": "funnel",
+      "textinfo": "text",
+      "textposition": "inside",
+      "textangle": -45,
+      "xaxis": "x3",
+      "yaxis": "y3"
+    },
+    {
+      "y": [
+        4,
+        -0.5,
+        0.25,
+        null
+      ],
+      "measure": [
+        "",
+        "",
+        "",
+        "total"
+      ],
+      "text": [
+        "very L O N G text",
+        "text",
+        "invisible",
+        "very <br>L<br>O<br>N<br>G<br> text"
+      ],
+      "type": "waterfall",
+      "textinfo": "text",
+      "textposition": "inside",
+      "insidetextanchor": "middle",
+      "textangle": -45,
+      "xaxis": "x4",
+      "yaxis": "y4"
+    }
+  ],
+  "layout": {
+    "width": 800,
+    "height": 500,
+    "margin": {
+      "t": 20,
+      "b": 20,
+      "l": 20,
+      "r": 20
+    },
+    "legend": {
+      "orientation": "h",
+      "title": {
+        "text": "bar, funnel & waterfall<br>textangle:-45"
+      }
+    },
+    "barmode": "stack",
+    "xaxis": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAAC4HoXrUbjePw=="
+      }
+    },
+    "xaxis2": {
+      "anchor": "y2",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAAC4HoXrUbjePw=="
+      }
+    },
+    "xaxis3": {
+      "anchor": "y3",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "pHA9Ctej4D8AAAAAAADwPw=="
+      }
+    },
+    "xaxis4": {
+      "anchor": "y4",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "pHA9Ctej4D8AAAAAAADwPw=="
+      }
+    },
+    "yaxis": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAAC4HoXrUbjePw=="
+      }
+    },
+    "yaxis2": {
+      "anchor": "x2",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "pHA9Ctej4D8AAAAAAADwPw=="
+      }
+    },
+    "yaxis3": {
+      "anchor": "x3",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "pHA9Ctej4D8AAAAAAADwPw=="
+      }
+    },
+    "yaxis4": {
+      "anchor": "x4",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAAC4HoXrUbjePw=="
+      }
+    }
+  }
+}

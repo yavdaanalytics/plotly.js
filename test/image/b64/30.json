@@ -1,0 +1,154 @@
+{
+  "data": [
+    {
+      "x": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAABWXrFmYjlwP9QWLHnYIKA/QRFO9eHyuj/NWT5o4n/PP3pKf7l5N94/ZKCDQL6K6T8TR1Aho8LzP/pzdpZ8n/w/8ajHXxOxA0Abuhv6Wv4JQGuizlZQkxBAJ/rrTbGHFEBEk2GGrcoYQIg32b3NRh1AUvrLzbvxIEAmDbFJ3kIjQOFUwIufiCVAo9BGBZO0J0BeNJjvirgpQFaWkE8ThytALcXAFucTLUAf0/RAW1QuQHl53Ca8Py9AfnX0upnPL0AAAAAAAAAwQH519LqZzy9AfHncJrw/L0Ai0/RAW1QuQC3FwBbnEy1AWZaQTxOHK0BgNJjvirgpQKHQRgWTtCdA3FTAi5+IJUAkDbFJ3kIjQFT6y8278SBAizfZvc1GHUBEk2GGrcoYQC36602xhxRAcKLOVlCTEEAfuhv6Wv4JQPuox18TsQNA9HN2lnyf/D8cR1Aho8LzP3Ggg0C+iuk/g0p/uXk33j/9WT5o4n/PPzoRTvXh8ro/8hYsedggoD+DXrFmYjlwP9KjPed0eUU2TF6xZmI5cL/aFix52CCgv1URTvXh8rq/tlk+aOJ/z79xSn+5eTfev2Sgg0C+ium/BEdQIaPC87/9c3aWfJ/8v+qox18TsQPACrob+lr+CcBros5WUJMQwCH6602xhxTARJNhhq3KGMCPN9m9zUYdwFL6y8278SDAKw2xSd5CI8DeVMCLn4glwKjQRgWTtCfAYDSY74q4KcBWlpBPE4crwC/FwBbnEy3AItP0QFtULsB5edwmvD8vwH519LqZzy/AAAAAAAAAMMB+dfS6mc8vwHx53Ca8Py/AItP0QFtULsAtxcAW5xMtwFmWkE8ThyvAYzSY74q4KcCq0EYFk7QnwNpUwIufiCXAJg2xSd5CI8BW+svNu/EgwJY32b3NRh3AV5Nhhq3KGMAv+utNsYcUwGuizlZQkxDAH7ob+lr+CcD+qMdfE7EDwCF0dpZ8n/y/IEdQIaPC879doINAvorpv4xKf7l5N96/CVo+aOJ/z79LEU714fK6vwEXLHnYIKC/PV6xZmI5cL8="
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAFEB+IFcUjVIUQJQ+22VdRhVAyzSz1BrQFkCEZrF1ed0YQAe8f2kUVhtAJA6tXJIcHkCkbp0VAYggQH6I26KuBiJAh+Tr0o14I0AzePg6YswkQF/ygIgz8iVAlh0j0/TbJkDgKui7Dn4nQLOEhhrGzydAzN9gEHvLJ0Cv6ryivm4nQN8eu1Y/uiZA+N6Fjo+xJUDEHxp2ylokQIdyxAgeviJA8942BkLlIEBktkr6yLUdQLt9eK8pVBlAZlkoJWy7FEABAAAAAAAQQFFcafpYaAZAOOPshM+d+T9w07yiLGPaP23CjMoRNOi/g8HD1xFj/r8HvJdwExsIwB9EWZgkZBDAaFcz6aGdFMDwIxWoELwYwJnQXbfCwRzAMw4AV0pYIMA7hCoHpUQiwPmNwLKEJSTAJZKLpID5JcCGcsQIHr4nwM788GHSbynAd0vYCx4KK8Dic6aRvIcswGy8KRnn4i3Ag9Vx6aMVL8BxaLaZDg0wwBzFxGZ8dTDAUfVzR9XBMMDeDU+xXfAwwAAAAAAAADHA3w1PsV3wMMBR9XNH1cEwwBrFxGZ8dTDAc2i2mQ4NMMCD1XHpoxUvwG+8KRnn4i3A6XOmkbyHLMB2S9gLHgorwNP88GHSbynAjHLECB6+J8AnkoukgPklwACOwLKEJSTAOYQqB6VEIsAzDgBXSlggwJzQXbfCwRzA5iMVqBC8GMBmVzPpoZ0UwBNEWZgkZBDABryXcBMbCMCnwcPXEWP+vxbCjMoRNOi/fNO8oixj2j8U4+yEz535P1pcafpYaAZA+P//////D0BWWSglbLsUQLR9eK8pVBlAWLZK+si1HUD13jYGQuUgQIVyxAgeviJAwB8adspaJEDz3oWOj7ElQOEeu1Y/uiZAruq8or5uJ0DM32AQe8snQLSEhhrGzydA5Crouw5+J0CZHSPT9NsmQGDygIgz8iVANnj4OmLMJECK5OvSjXgjQISI26KuBiJApm6dFQGIIEAlDq1ckhweQAi8f2kUVhtAjmaxdXndGEDONLPUGtAWQJc+22VdRhVAfiBXFI1SFEA="
+      },
+      "name": "trace 0",
+      "line": {
+        "color": "red",
+        "width": 6
+      },
+      "type": "scatter"
+    }
+  ],
+  "layout": {
+    "title": {
+      "text": "Click to enter Plot title"
+    },
+    "font": {
+      "family": "'Open sans', verdana, arial, sans-serif",
+      "size": 12,
+      "color": "#444"
+    },
+    "autosize": true,
+    "width": 1366,
+    "height": 713,
+    "xaxis": {
+      "title": {
+        "text": "Click to enter X axis title"
+      },
+      "range": [
+        -16,
+        16
+      ],
+      "domain": {
+        "dtype": "i1",
+        "bdata": "AAE="
+      },
+      "type": "linear",
+      "rangemode": "normal",
+      "showgrid": true,
+      "zeroline": false,
+      "showline": false,
+      "autotick": true,
+      "nticks": 0,
+      "ticks": "",
+      "showticklabels": true,
+      "tick0": 0,
+      "dtick": 5,
+      "ticklen": 5,
+      "tickwidth": 1,
+      "tickcolor": "#444",
+      "tickangle": "auto",
+      "tickfont": {
+        "family": "",
+        "size": 0,
+        "color": ""
+      },
+      "exponentformat": "B",
+      "showexponent": "all",
+      "gridcolor": "#eee",
+      "gridwidth": 1,
+      "zerolinecolor": "#444",
+      "zerolinewidth": 1,
+      "linecolor": "#444",
+      "linewidth": 1,
+      "anchor": "y",
+      "position": 0,
+      "mirror": false,
+      "overlaying": false,
+      "autorange": true
+    },
+    "yaxis": {
+      "title": {
+        "text": "Click to enter Y axis title"
+      },
+      "range": [
+        -18.605878238090977,
+        13.511686523728546
+      ],
+      "domain": {
+        "dtype": "i1",
+        "bdata": "AAE="
+      },
+      "type": "linear",
+      "rangemode": "normal",
+      "showgrid": true,
+      "zeroline": false,
+      "showline": false,
+      "autotick": true,
+      "nticks": 0,
+      "ticks": "",
+      "showticklabels": true,
+      "tick0": 0,
+      "dtick": 5,
+      "ticklen": 5,
+      "tickwidth": 1,
+      "tickcolor": "#444",
+      "tickangle": "auto",
+      "tickfont": {
+        "family": "",
+        "size": 0,
+        "color": ""
+      },
+      "exponentformat": "B",
+      "showexponent": "all",
+      "gridcolor": "#eee",
+      "gridwidth": 1,
+      "zerolinecolor": "#444",
+      "zerolinewidth": 1,
+      "linecolor": "#444",
+      "linewidth": 1,
+      "anchor": "x",
+      "position": 0,
+      "mirror": false,
+      "overlaying": false,
+      "autorange": true
+    },
+    "legend": {
+      "traceorder": "normal",
+      "font": {
+        "family": "",
+        "size": 0,
+        "color": ""
+      },
+      "bgcolor": "#fff",
+      "bordercolor": "#444",
+      "borderwidth": 0
+    },
+    "margin": {
+      "l": 80,
+      "r": 80,
+      "b": 80,
+      "t": 100,
+      "pad": 0,
+      "autoexpand": true
+    },
+    "paper_bgcolor": "#fff",
+    "plot_bgcolor": "#fff",
+    "hovermode": "x",
+    "dragmode": "zoom",
+    "barmode": "group",
+    "bargap": 0.2,
+    "bargroupgap": 0,
+    "boxmode": "overlay",
+    "separators": ".,",
+    "hidesources": false
+  }
+}

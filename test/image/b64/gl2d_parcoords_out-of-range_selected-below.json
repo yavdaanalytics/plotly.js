@@ -1,0 +1,123 @@
+{
+  "data": [
+    {
+      "type": "parcoords",
+      "dimensions": [
+        {
+          "label": "A+1",
+          "range": [
+            1,
+            2
+          ],
+          "constraintrange": {
+            "dtype": "f8",
+            "bdata": "AAAAAAAA9D8AAAAAAAD8Pw=="
+          },
+          "values": {
+            "dtype": "f8",
+            "bdata": "AAAAAAAA8D8AAAAAAAD0PwAAAAAAAPg/AAAAAAAA/D8AAAAAAAAAQA=="
+          }
+        },
+        {
+          "label": "2A",
+          "range": [
+            0,
+            2
+          ],
+          "constraintrange": {
+            "dtype": "f8",
+            "bdata": "AAAAAAAA4D8AAAAAAAD4Pw=="
+          },
+          "values": {
+            "dtype": "f8",
+            "bdata": "AAAAAAAAAAAAAAAAAADgPwAAAAAAAPA/AAAAAAAA+D8AAAAAAAAAQA=="
+          }
+        },
+        {
+          "label": "A",
+          "range": [
+            0,
+            1
+          ],
+          "constraintrange": {
+            "dtype": "f8",
+            "bdata": "AAAAAAAA0D8AAAAAAADoPw=="
+          },
+          "values": {
+            "dtype": "f8",
+            "bdata": "AAAAAAAAAAAAAAAAAADQPwAAAAAAAOA/AAAAAAAA6D8AAAAAAADwPw=="
+          }
+        },
+        {
+          "label": "Above",
+          "range": [
+            0,
+            1
+          ],
+          "constraintrange": {
+            "dtype": "f8",
+            "bdata": "AAAAAAAA0D8AAAAAAAD0Pw=="
+          },
+          "values": {
+            "dtype": "f8",
+            "bdata": "AAAAAAAAAAAAAAAAAADQPwAAAAAAAOA/AAAAAAAA6D8AAAAAAADwPw=="
+          }
+        },
+        {
+          "label": "Below",
+          "range": [
+            0,
+            1
+          ],
+          "constraintrange": {
+            "dtype": "f8",
+            "bdata": "AAAAAAAA0L8AAAAAAADoPw=="
+          },
+          "values": {
+            "dtype": "f8",
+            "bdata": "AAAAAAAAAAAAAAAAAADQPwAAAAAAAOA/AAAAAAAA6D8AAAAAAADwPw=="
+          }
+        },
+        {
+          "label": "2/above",
+          "range": [
+            0,
+            1
+          ],
+          "constraintrange": {
+            "dtype": "f8",
+            "bdata": "AAAAAAAA0D8AAAAAAADgPwAAAAAAAOg/AAAAAAAA9D8=",
+            "shape": "2, 2"
+          },
+          "values": {
+            "dtype": "f8",
+            "bdata": "AAAAAAAAAAAAAAAAAADQPwAAAAAAAOA/AAAAAAAA6D8AAAAAAADwPw=="
+          }
+        },
+        {
+          "label": "2/below",
+          "range": [
+            0,
+            1
+          ],
+          "constraintrange": {
+            "dtype": "f8",
+            "bdata": "AAAAAAAA0L8AAAAAAADQPwAAAAAAAOA/AAAAAAAA6D8=",
+            "shape": "2, 2"
+          },
+          "values": {
+            "dtype": "f8",
+            "bdata": "AAAAAAAAAAAAAAAAAADQPwAAAAAAAOA/AAAAAAAA6D8AAAAAAADwPw=="
+          }
+        }
+      ]
+    }
+  ],
+  "layout": {
+    "width": 600,
+    "height": 400,
+    "title": {
+      "text": "Should display & select constraintrange below/above ranges"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "y": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      }
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "BAUG"
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AwEC"
+      },
+      "xaxis": "x2",
+      "yaxis": "y2"
+    }
+  ],
+  "layout": {
+    "xaxis": {
+      "showline": true
+    },
+    "yaxis": {
+      "showline": true
+    },
+    "xaxis2": {
+      "showline": true,
+      "overlaying": "x",
+      "side": "top"
+    },
+    "yaxis2": {
+      "showline": true,
+      "overlaying": "y",
+      "side": "right"
+    }
+  }
+}

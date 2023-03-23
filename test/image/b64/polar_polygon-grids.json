@@ -1,0 +1,285 @@
+{
+  "data": [
+    {
+      "type": "scatterpolar",
+      "r": {
+        "dtype": "i1",
+        "bdata": "BQQCBAU="
+      },
+      "theta": [
+        "a",
+        "b",
+        "c",
+        "d",
+        "a"
+      ],
+      "fill": "toself"
+    },
+    {
+      "type": "scatterpolar",
+      "r": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAA8D+amZmZmZkBQAAAAAAAAABAAAAAAAAA+D8AAAAAAAD4PwAAAAAAAABAAAAAAAAACEAAAAAAAADwPw=="
+      },
+      "theta": [
+        "a",
+        "b",
+        "c",
+        "d",
+        "e",
+        "f",
+        "g",
+        "a"
+      ],
+      "fill": "toself",
+      "subplot": "polar2"
+    },
+    {
+      "type": "scatterpolar",
+      "r": {
+        "dtype": "i1",
+        "bdata": "BQQCBAU="
+      },
+      "theta": [
+        "a",
+        "b",
+        "c",
+        "d",
+        "a"
+      ],
+      "fill": "toself",
+      "subplot": "polar3"
+    },
+    {
+      "type": "scatterpolar",
+      "r": {
+        "dtype": "i2",
+        "bdata": "LQBaALQAyAAsAQ8AFAAtAA=="
+      },
+      "theta": [
+        "a",
+        "b",
+        "c",
+        "d",
+        "b",
+        "f",
+        "a",
+        "a"
+      ],
+      "subplot": "polar4"
+    },
+    {
+      "type": "scatterpolar",
+      "r": {
+        "dtype": "i1",
+        "bdata": "BQQCBAUF"
+      },
+      "theta": [
+        "b",
+        "c",
+        "d",
+        "e",
+        "a",
+        "b"
+      ],
+      "fill": "toself"
+    },
+    {
+      "type": "scatterpolar",
+      "r": {
+        "dtype": "i2",
+        "bdata": "9AE="
+      },
+      "theta": [
+        "b"
+      ],
+      "name": "out-of-polygon (should not see it)",
+      "subplot": "polar4"
+    },
+    {
+      "type": "scatterpolar",
+      "r": {
+        "dtype": "i1",
+        "bdata": "BQQCBAUF"
+      },
+      "theta": [
+        "b",
+        "c",
+        "d",
+        "e",
+        "a",
+        "b"
+      ],
+      "fill": "toself",
+      "subplot": "polar5"
+    },
+    {
+      "type": "scatterpolar",
+      "r": {
+        "dtype": "i1",
+        "bdata": "BQQCBAUF"
+      },
+      "theta": [
+        "b",
+        "c",
+        "d",
+        "e",
+        "a",
+        "b"
+      ],
+      "fill": "toself",
+      "subplot": "polar6"
+    }
+  ],
+  "layout": {
+    "polar": {
+      "gridshape": "linear",
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAAAABxPQrXo3DdPw=="
+        },
+        "y": {
+          "dtype": "f8",
+          "bdata": "7FG4HoXr4T8AAAAAAADwPw=="
+        }
+      },
+      "radialaxis": {
+        "angle": 45,
+        "title": {
+          "text": "angular period > _categories"
+        }
+      },
+      "angularaxis": {
+        "direction": "clockwise",
+        "period": 6
+      }
+    },
+    "polar2": {
+      "gridshape": "linear",
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAAAABxPQrXo3DdPw=="
+        },
+        "y": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAAAAApXI/C9SjcPw=="
+        }
+      },
+      "angularaxis": {
+        "direction": "clockwise"
+      }
+    },
+    "polar3": {
+      "gridshape": "linear",
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "SOF6FK5H4T8AAAAAAADwPw=="
+        },
+        "y": {
+          "dtype": "f8",
+          "bdata": "7FG4HoXr4T8AAAAAAADwPw=="
+        }
+      },
+      "sector": {
+        "dtype": "i2",
+        "bdata": "7P/IAA=="
+      },
+      "radialaxis": {
+        "angle": 60,
+        "title": {
+          "text": "snapped to 90"
+        }
+      },
+      "angularaxis": {
+        "categoryarray": [
+          "d",
+          "a",
+          "c",
+          "b"
+        ],
+        "direction": "clockwise"
+      }
+    },
+    "polar4": {
+      "gridshape": "linear",
+      "bgcolor": "#d3d3d3",
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "SOF6FK5H4T8AAAAAAADwPw=="
+        },
+        "y": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAAAAApXI/C9SjcPw=="
+        }
+      },
+      "angularaxis": {
+        "direction": "clockwise"
+      },
+      "radialaxis": {
+        "range": [
+          0,
+          400
+        ]
+      }
+    },
+    "polar5": {
+      "gridshape": "linear",
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "mpmZmZmZ2T8zMzMzMzPjPw=="
+        },
+        "y": {
+          "dtype": "f8",
+          "bdata": "mpmZmZmZ2T8zMzMzMzPjPw=="
+        }
+      },
+      "angularaxis": {
+        "direction": "clockwise",
+        "tickfont": {
+          "color": "red"
+        }
+      },
+      "sector": {
+        "dtype": "i1",
+        "bdata": "plo="
+      }
+    },
+    "polar6": {
+      "gridshape": "linear",
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "mpmZmZmZ6T8AAAAAAADwPw=="
+        },
+        "y": {
+          "dtype": "f8",
+          "bdata": "zczMzMzM3D/NzMzMzMzkPw=="
+        }
+      },
+      "angularaxis": {
+        "tickfont": {
+          "color": "blue"
+        }
+      },
+      "sector": {
+        "dtype": "i2",
+        "bdata": "AAC0AA=="
+      }
+    },
+    "width": 550,
+    "height": 550,
+    "margin": {
+      "l": 40,
+      "r": 40,
+      "b": 60,
+      "t": 20,
+      "pad": 0
+    },
+    "showlegend": false
+  }
+}

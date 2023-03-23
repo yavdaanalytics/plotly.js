@@ -1,0 +1,123 @@
+{
+  "data": [
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AAEBAAABAQICAwMCAgM="
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AAABAQMDAgIDAwEBAAA="
+      }
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AAECAw=="
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AQIECA=="
+      },
+      "yaxis": "y2"
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQpkCgE="
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AAECAwQ="
+      },
+      "xaxis": "x2",
+      "yaxis": "y3"
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AWQeUAE="
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAA8D8AAAAAAAD4PwAAAAAAAABAAAAAAAAABEAAAAAAAAAIQA=="
+      },
+      "xaxis": "x2",
+      "yaxis": "y4"
+    }
+  ],
+  "layout": {
+    "width": 800,
+    "height": 500,
+    "title": {
+      "text": "fixed-ratio axes"
+    },
+    "xaxis": {
+      "constrain": "domain",
+      "nticks": 10,
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAADNzMzMzMzcPw=="
+      },
+      "title": {
+        "text": "shared X axis"
+      }
+    },
+    "yaxis": {
+      "scaleanchor": "x",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAADNzMzMzMzcPw=="
+      },
+      "title": {
+        "text": "1:1"
+      }
+    },
+    "yaxis2": {
+      "constrain": "domain",
+      "constraintoward": "bottom",
+      "scaleanchor": "x",
+      "scaleratio": 0.2,
+      "domain": {
+        "dtype": "f8",
+        "bdata": "mpmZmZmZ4T8AAAAAAADwPw=="
+      },
+      "title": {
+        "text": "1:5"
+      }
+    },
+    "xaxis2": {
+      "type": "log",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "mpmZmZmZ4T8AAAAAAADwPw=="
+      },
+      "anchor": "y3",
+      "title": {
+        "text": "unconstrained log X"
+      }
+    },
+    "yaxis3": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAADNzMzMzMzcPw=="
+      },
+      "anchor": "x2",
+      "title": {
+        "text": "Scale matches ->"
+      }
+    },
+    "yaxis4": {
+      "scaleanchor": "y3",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "mpmZmZmZ4T8AAAAAAADwPw=="
+      },
+      "anchor": "x2",
+      "title": {
+        "text": "Scale matches <-"
+      }
+    },
+    "showlegend": false
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "layout": {
+    "width": 284,
+    "height": 400
+  },
+  "data": [
+    {
+      "type": "parcoords",
+      "line": {
+        "showscale": true,
+        "reversescale": true,
+        "colorscale": "Jet",
+        "cmin": -4000,
+        "cmax": -100,
+        "color": {
+          "dtype": "i2",
+          "bdata": "1//b+lz/wPix/138Qf9Z9Kv++vA="
+        }
+      },
+      "dimensions": [
+        {
+          "constraintrange": {
+            "dtype": "i2",
+            "bdata": "yAC8Ag=="
+          },
+          "label": "Block height",
+          "values": {
+            "dtype": "i2",
+            "bdata": "QQEWAh4CogIfAKICfAD2AMgB5wI="
+          }
+        }
+      ]
+    }
+  ]
+}

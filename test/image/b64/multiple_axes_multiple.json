@@ -1,0 +1,122 @@
+{
+  "data": [
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "BAUG"
+      },
+      "name": "yaxis1 data",
+      "type": "scatter"
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AgME"
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "KDI8"
+      },
+      "name": "yaxis2 data",
+      "yaxis": "y2",
+      "type": "scatter"
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "BAUG"
+      },
+      "y": {
+        "dtype": "i4",
+        "bdata": "QJwAAFDDAABg6gAA"
+      },
+      "name": "yaxis3 data",
+      "yaxis": "y3",
+      "type": "scatter"
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "BQYH"
+      },
+      "y": {
+        "dtype": "i4",
+        "bdata": "gBoGACChBwDAJwkA"
+      },
+      "name": "yaxis4 data",
+      "yaxis": "y4",
+      "type": "scatter"
+    }
+  ],
+  "layout": {
+    "title": {
+      "text": "multiple y-axes example"
+    },
+    "width": 800,
+    "xaxis": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "MzMzMzMz0z9mZmZmZmbmPw=="
+      }
+    },
+    "yaxis": {
+      "tickfont": {
+        "color": "#1f77b4"
+      },
+      "title": {
+        "font": {
+          "color": "#1f77b4"
+        },
+        "text": "yaxis title"
+      }
+    },
+    "yaxis2": {
+      "title": {
+        "text": "yaxis2 title",
+        "font": {
+          "color": "#ff7f0e"
+        }
+      },
+      "tickfont": {
+        "color": "#ff7f0e"
+      },
+      "anchor": "free",
+      "side": "left",
+      "position": 0.15,
+      "overlaying": "y"
+    },
+    "yaxis3": {
+      "title": {
+        "text": "yaxis3 title",
+        "font": {
+          "color": "#d62728"
+        }
+      },
+      "tickfont": {
+        "color": "#d62728"
+      },
+      "anchor": "x",
+      "side": "right",
+      "overlaying": "y"
+    },
+    "yaxis4": {
+      "title": {
+        "text": "yaxis4 title",
+        "font": {
+          "color": "#9467bd"
+        }
+      },
+      "tickfont": {
+        "color": "#9467bd"
+      },
+      "anchor": "free",
+      "side": "right",
+      "position": 0.85,
+      "overlaying": "y"
+    }
+  }
+}

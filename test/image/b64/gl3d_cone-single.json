@@ -1,0 +1,42 @@
+{
+  "data": [
+    {
+      "type": "cone",
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQ=="
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AQ=="
+      },
+      "z": {
+        "dtype": "i1",
+        "bdata": "AQ=="
+      },
+      "u": {
+        "dtype": "i1",
+        "bdata": "AQ=="
+      },
+      "v": {
+        "dtype": "i1",
+        "bdata": "AQ=="
+      },
+      "w": {
+        "dtype": "i1",
+        "bdata": "AA=="
+      }
+    }
+  ],
+  "layout": {
+    "scene": {
+      "camera": {
+        "eye": {
+          "x": -0.76,
+          "y": 1.8,
+          "z": 0.92
+        }
+      }
+    }
+  }
+}

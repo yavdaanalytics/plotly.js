@@ -1,0 +1,51 @@
+{
+  "data": [
+    {
+      "x": [
+        "giraffes",
+        "orangutans",
+        "monkeys"
+      ],
+      "y": {
+        "dtype": "i1",
+        "bdata": "Mg4X"
+      },
+      "name": "SF Zoo",
+      "type": "bar",
+      "text": "SF Zoo",
+      "textposition": [
+        "none",
+        "auto",
+        "none"
+      ]
+    },
+    {
+      "x": [
+        "giraffes",
+        "orangutans",
+        "monkeys"
+      ],
+      "y": {
+        "dtype": "i2",
+        "bdata": "DAC0AB0A"
+      },
+      "name": "LA Zoo",
+      "type": "bar",
+      "text": "LA Zoo",
+      "textposition": [
+        "inside",
+        "none",
+        "none"
+      ]
+    }
+  ],
+  "layout": {
+    "barmode": "stack",
+    "font": {
+      "size": 16
+    },
+    "yaxis": {
+      "type": "log"
+    }
+  }
+}

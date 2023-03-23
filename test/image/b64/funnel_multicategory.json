@@ -1,0 +1,168 @@
+{
+  "data": [
+    {
+      "type": "funnel",
+      "opacity": 0.8,
+      "offset": -0.5,
+      "width": 0.5,
+      "orientation": "v",
+      "cliponaxis": false,
+      "textposition": "inside",
+      "textinfo": "label+value+percent initial",
+      "text": [
+        "winter",
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "x": [
+        [
+          "2017",
+          "2017",
+          "2017",
+          "2017",
+          "2018",
+          "2018",
+          "2018",
+          "2018"
+        ],
+        [
+          "q1",
+          "q2",
+          "q3",
+          "q4",
+          "q1",
+          "q2",
+          "q3",
+          "q4"
+        ]
+      ],
+      "y": {
+        "dtype": "f8",
+        "bdata": "XrpJDAJAr0DHSzeJAXCnQF66SQwCQJ9AXrpJDAJAj0BeukkMAkCvQF66SQwCQJ9AXrpJDAJAj0BeukkMAkB/QA=="
+      }
+    },
+    {
+      "type": "funnel",
+      "opacity": 0.8,
+      "offset": -0.5,
+      "width": 0.5,
+      "orientation": "v",
+      "cliponaxis": false,
+      "textposition": "outside",
+      "textinfo": "label+text+value+percent initial",
+      "text": [
+        "winter",
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "x": [
+        [
+          "2017",
+          "2017",
+          "2017",
+          "2017",
+          "2018",
+          "2018",
+          "2018",
+          "2018"
+        ],
+        [
+          "q1",
+          "q2",
+          "q3",
+          "q4",
+          "q1",
+          "q2",
+          "q3",
+          "q4"
+        ]
+      ],
+      "y": {
+        "dtype": "f8",
+        "bdata": "exSuRwGIs0BeukkMAkCvQMdLN4kBcKdAXrpJDAJAn0BeukkMAkC/QF66SQwCQK9AXrpJDAJAn0BeukkMAkCPQA=="
+      }
+    },
+    {
+      "type": "waterfall",
+      "opacity": 0.8,
+      "offset": 0.0,
+      "width": 0.5,
+      "cliponaxis": false,
+      "textposition": "inside",
+      "textinfo": "label+text+final",
+      "text": [
+        "winter",
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "x": [
+        [
+          "2017",
+          "2017",
+          "2017",
+          "2017",
+          "2018",
+          "2018",
+          "2018",
+          "2018"
+        ],
+        [
+          "q1",
+          "q2",
+          "q3",
+          "q4",
+          "q1",
+          "q2",
+          "q3",
+          "q4"
+        ]
+      ],
+      "y": {
+        "dtype": "f8",
+        "bdata": "exSuRwGIs0BeukkMAkCvwMdLN4kBcKfAXrpJDAJAn8BeukkMAkC/QF66SQwCQK/AXrpJDAJAn8BeukkMAkCPwA=="
+      }
+    }
+  ],
+  "layout": {
+    "hovermode": "closest",
+    "width": 1800,
+    "height": 600,
+    "margin": {
+      "l": 50,
+      "r": 50,
+      "t": 50,
+      "b": 50
+    },
+    "xaxis": {
+      "title": {
+        "text": "MULTI-CATEGORY two stacked funnels with arrayOK text and one waterfall with textinfo"
+      },
+      "tickfont": {
+        "size": 16
+      },
+      "ticks": "outside",
+      "tickprefix": "[",
+      "ticksuffix": "]"
+    },
+    "yaxis": {
+      "visible": false,
+      "tickprefix": "$",
+      "ticksuffix": " m"
+    }
+  }
+}

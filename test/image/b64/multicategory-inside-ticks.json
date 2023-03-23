@@ -1,0 +1,169 @@
+{
+  "data": [
+    {
+      "type": "bar",
+      "x": [
+        [
+          "2017",
+          "2017",
+          "2017",
+          "2017",
+          "2018",
+          "2018",
+          "2018"
+        ],
+        [
+          "q1",
+          "q2",
+          "q3",
+          "q4",
+          "q1",
+          "q2",
+          "q3"
+        ]
+      ],
+      "y": {
+        "dtype": "i1",
+        "bdata": "AQIDAQMCAwE="
+      }
+    },
+    {
+      "type": "bar",
+      "x": [
+        [
+          "2017",
+          "2017",
+          "2017",
+          "2017",
+          "2018",
+          "2018",
+          "2018"
+        ],
+        [
+          "q1",
+          "q2",
+          "q3",
+          "q4",
+          "q1",
+          "q2",
+          "q3"
+        ]
+      ],
+      "y": {
+        "dtype": "f8",
+        "bdata": "7FG4HoXr8T8zMzMzMzMBQI/C9ShcjwhArkfhehSu9z89CtejcD0GQDMzMzMzM/8/UrgehetRBEB7FK5H4XrkPw=="
+      }
+    },
+    {
+      "type": "bar",
+      "x": [
+        [
+          "2017",
+          "2017",
+          "2017",
+          "2017",
+          "2018",
+          "2018",
+          "2018"
+        ],
+        [
+          "q1",
+          "q2",
+          "q3",
+          "q4",
+          "q1",
+          "q2",
+          "q3"
+        ]
+      ],
+      "y": {
+        "dtype": "f8",
+        "bdata": "7FG4HoXr8T8zMzMzMzMBQI/C9ShcjwhArkfhehSu9z89CtejcD0GQDMzMzMzM/8/UrgehetRBEB7FK5H4XrkPw=="
+      },
+      "xaxis": "x2",
+      "yaxis": "y2"
+    },
+    {
+      "type": "bar",
+      "x": [
+        [
+          "2017",
+          "2017",
+          "2017",
+          "2017",
+          "2018",
+          "2018",
+          "2018"
+        ],
+        [
+          "q1",
+          "q2",
+          "q3",
+          "q4",
+          "q1",
+          "q2",
+          "q3"
+        ]
+      ],
+      "y": {
+        "dtype": "i1",
+        "bdata": "AQIDAQMCAwE="
+      },
+      "xaxis": "x2",
+      "yaxis": "y2"
+    }
+  ],
+  "layout": {
+    "grid": {
+      "rows": 2,
+      "columns": 1,
+      "pattern": "independent"
+    },
+    "xaxis": {
+      "side": "top",
+      "title": {
+        "text": "MULTI-CATEGORY"
+      },
+      "range": [
+        -0.5,
+        7
+      ],
+      "showline": true,
+      "tickfont": {
+        "size": 16
+      },
+      "ticks": "inside",
+      "ticklen": 10,
+      "tickcolor": "red",
+      "tickwidth": 2,
+      "dividercolor": "blue",
+      "dividerwidth": 2
+    },
+    "xaxis2": {
+      "title": {
+        "text": "MULTI-CATEGORY"
+      },
+      "range": [
+        -1,
+        6.5
+      ],
+      "showline": true,
+      "tickfont": {
+        "size": 16
+      },
+      "ticks": "inside",
+      "ticklen": 10,
+      "tickcolor": "red",
+      "tickwidth": 2,
+      "dividercolor": "blue",
+      "dividerwidth": 2
+    },
+    "yaxis": {
+      "zeroline": false
+    },
+    "yaxis2": {
+      "zeroline": false
+    },
+    "showlegend": false
+  }
+}

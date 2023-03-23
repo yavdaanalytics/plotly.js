@@ -1,0 +1,66 @@
+{
+  "data": [
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AAECAwQFBgcI"
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "CAcGBQQDAgEA"
+      },
+      "type": "scattergl"
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AAECAwQFBgcI"
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AAECAwQFBgcI"
+      },
+      "type": "scattergl"
+    }
+  ],
+  "layout": {
+    "xaxis": {
+      "tickfont": {
+        "color": "black",
+        "family": "Old Standard TT, serif",
+        "size": 14
+      },
+      "showexponent": "All",
+      "showticklabels": true,
+      "title": {
+        "text": "AXIS TITLE",
+        "font": {
+          "color": "lightgrey",
+          "family": "Arial, sans-serif",
+          "size": 18
+        }
+      },
+      "tickangle": 45,
+      "exponentformat": "e"
+    },
+    "yaxis": {
+      "tickfont": {
+        "color": "black",
+        "family": "Old Standard TT, serif",
+        "size": 14
+      },
+      "showexponent": "All",
+      "showticklabels": true,
+      "title": {
+        "text": "AXIS TITLE",
+        "font": {
+          "color": "lightgrey",
+          "family": "Arial, sans-serif",
+          "size": 18
+        }
+      },
+      "tickangle": 45,
+      "exponentformat": "e"
+    }
+  }
+}

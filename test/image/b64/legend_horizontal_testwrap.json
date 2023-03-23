@@ -1,0 +1,54 @@
+{
+  "data": [
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "ABQoPFA="
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "JBEP4f4iWEDhg/2WU75XQB4Bk64rQVlAg2pvuoAAWkCthZk6v91eQA=="
+      },
+      "type": "scatter",
+      "name": "test1 test test test test te"
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "ABQoPFA="
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "hkVgg61dWUD77LS4mX9YQI4w0vWHMVlAd+J4Ud5OWUCSKoZ6kYdaQA=="
+      },
+      "type": "scatter",
+      "name": "test2"
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "ABQoPFA="
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "DAkPDA8="
+      },
+      "type": "scatter",
+      "name": "test3"
+    }
+  ],
+  "layout": {
+    "title": {
+      "text": "Testplot"
+    },
+    "width": 400,
+    "height": 300,
+    "legend": {
+      "orientation": "h"
+    },
+    "margin": {
+      "l": 30,
+      "r": 20
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "data": [
+    {
+      "mode": "lines",
+      "hoverinfo": "x",
+      "showlegend": false,
+      "line": {
+        "color": "blue"
+      },
+      "x": {
+        "dtype": "i1",
+        "bdata": "/wABAgMEBQYHCAkKCw=="
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AAoUHigyPEZQWmRueA=="
+      }
+    }
+  ],
+  "layout": {
+    "xaxis": {
+      "autorange": "reversed",
+      "zeroline": false,
+      "rangeslider": {
+        "yaxis": {
+          "rangemode": "match"
+        }
+      }
+    },
+    "yaxis": {
+      "visible": false
+    }
+  }
+}

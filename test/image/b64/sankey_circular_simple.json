@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "type": "sankey",
+      "node": {
+        "pad": 5,
+        "label": [
+          "0",
+          "1",
+          "2",
+          "3",
+          "sink",
+          "source"
+        ]
+      },
+      "link": {
+        "source": {
+          "dtype": "i1",
+          "bdata": "AAECAwABAgMF"
+        },
+        "target": {
+          "dtype": "i1",
+          "bdata": "AQIDAAQEBAQA"
+        },
+        "value": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAA8D8zMzMzMzPrP2ZmZmZmZuY/mpmZmZmZ4T8AAAAAAAAAADMzMzMzM8M/MzMzMzMzwz8zMzMzMzPDP83MzMzMzNw/"
+        }
+      }
+    }
+  ],
+  "layout": {
+    "width": 800,
+    "height": 800
+  }
+}

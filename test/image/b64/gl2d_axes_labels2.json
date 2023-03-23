@@ -1,0 +1,24 @@
+{
+  "data": [
+    {
+      "x": [
+        "apples",
+        "oranges",
+        "bananananananas",
+        "cantaloupeeeeww",
+        "khljh"
+      ],
+      "y": {
+        "dtype": "i1",
+        "bdata": "CAcGBQQDAgEA"
+      },
+      "type": "scattergl",
+      "fill": "tozeroy"
+    }
+  ],
+  "layout": {
+    "width": 400,
+    "height": 300,
+    "showlegend": false
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AAECAwQFBgcI"
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AAECAwQFBgcI"
+      },
+      "type": "scatter"
+    }
+  ],
+  "layout": {
+    "title": {
+      "text": "Global Font"
+    },
+    "font": {
+      "family": "Courier New, monospace",
+      "size": 18,
+      "color": "#7f7f7f"
+    }
+  }
+}

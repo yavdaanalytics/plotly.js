@@ -1,0 +1,153 @@
+{
+  "data": [
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AAIE"
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "BgEG"
+      },
+      "line": {
+        "color": "#000"
+      },
+      "name": "bottom",
+      "legendgroup": "l"
+    },
+    {
+      "x0": -0.5,
+      "y": {
+        "dtype": "i1",
+        "bdata": "AQIDBAU="
+      },
+      "name": "a 1",
+      "stackgroup": "a",
+      "legendgroup": "a",
+      "line": {
+        "color": "#f00"
+      },
+      "fillcolor": "rgba(255,0,0,0.8)"
+    },
+    {
+      "x0": 0.5,
+      "y": {
+        "dtype": "i1",
+        "bdata": "BQQDAgE="
+      },
+      "name": "b 1",
+      "stackgroup": "b",
+      "legendgroup": "b",
+      "line": {
+        "color": "#00f"
+      },
+      "fillcolor": "rgba(0,0,255,0.8)"
+    },
+    {
+      "x0": -0.5,
+      "y": {
+        "dtype": "i1",
+        "bdata": "AQEBAQE="
+      },
+      "name": "a 2",
+      "stackgroup": "a",
+      "legendgroup": "a",
+      "line": {
+        "color": "#f80"
+      },
+      "fillcolor": "rgba(255,136,0,0.8)"
+    },
+    {
+      "x0": 1,
+      "y": {
+        "dtype": "i1",
+        "bdata": "AQIB"
+      },
+      "name": "unstacked 1",
+      "fill": "tozeroy",
+      "legendgroup": "u",
+      "line": {
+        "color": "#888"
+      },
+      "fillcolor": "rgba(136,136,136,0.8)"
+    },
+    {
+      "x0": -0.5,
+      "y": {
+        "dtype": "i1",
+        "bdata": "AQEBAQE="
+      },
+      "name": "a 3",
+      "stackgroup": "a",
+      "legendgroup": "a",
+      "line": {
+        "color": "#ff0"
+      },
+      "fillcolor": "rgba(255,255,0,0.8)"
+    },
+    {
+      "x0": 0.5,
+      "y": {
+        "dtype": "i1",
+        "bdata": "AQEBAQE="
+      },
+      "name": "b 2",
+      "stackgroup": "b",
+      "legendgroup": "b",
+      "line": {
+        "color": "#80f"
+      },
+      "fillcolor": "rgba(136,0,255,0.8)"
+    },
+    {
+      "x0": 1,
+      "y": {
+        "dtype": "i1",
+        "bdata": "BQgF"
+      },
+      "name": "unstacked 2",
+      "fill": "tonexty",
+      "legendgroup": "u",
+      "line": {
+        "color": "#ccc"
+      },
+      "fillcolor": "rgba(204,204,204,0.8)"
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AAIE"
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "BwMH"
+      },
+      "line": {
+        "color": "#0c0"
+      },
+      "name": "top",
+      "legendgroup": "l"
+    },
+    {
+      "x0": 0.5,
+      "y": {
+        "dtype": "i1",
+        "bdata": "AQEBAQE="
+      },
+      "name": "b 3",
+      "stackgroup": "b",
+      "legendgroup": "b",
+      "line": {
+        "color": "#f0f"
+      },
+      "fillcolor": "rgba(255,0,255,0.8)"
+    }
+  ],
+  "layout": {
+    "width": 500,
+    "height": 450,
+    "title": {
+      "text": "Stack groups and unstacked filled traces"
+    }
+  }
+}

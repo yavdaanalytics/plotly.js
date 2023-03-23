@@ -1,0 +1,55 @@
+{
+  "data": [
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AAEC"
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AQEB"
+      },
+      "mode": "lines+markers+text",
+      "name": "Lines, Markers and Text",
+      "text": [
+        "Text A",
+        "Text B",
+        "Text C"
+      ],
+      "textfont": {
+        "family": "Arial, sans-serif",
+        "size": 18,
+        "color": "#1f77b4"
+      },
+      "textposition": "top right",
+      "type": "scattergl"
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AAEC"
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AgIC"
+      },
+      "mode": "lines+markers+text",
+      "name": "Lines and Text",
+      "text": [
+        "Text G",
+        "Text H",
+        "Text I"
+      ],
+      "textfont": {
+        "family": "Arial, sans-serif",
+        "size": 18,
+        "color": "#ff7f0e"
+      },
+      "textposition": "bottom",
+      "type": "scattergl"
+    }
+  ],
+  "layout": {
+    "showlegend": false
+  }
+}

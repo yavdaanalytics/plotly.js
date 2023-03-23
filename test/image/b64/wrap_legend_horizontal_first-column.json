@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "legendgroup": "A",
+      "name": "trace A1",
+      "x": {
+        "dtype": "i1",
+        "bdata": "AAo="
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AQE="
+      }
+    },
+    {
+      "legendgroup": "A",
+      "name": "trace A2",
+      "x": {
+        "dtype": "i1",
+        "bdata": "ChQ="
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AgI="
+      }
+    },
+    {
+      "legendgroup": "B",
+      "name": "trace B1",
+      "x": {
+        "dtype": "i1",
+        "bdata": "FB4="
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AwM="
+      }
+    }
+  ],
+  "layout": {
+    "showlegend": true,
+    "legend": {
+      "orientation": "h",
+      "xanchor": "left",
+      "yanchor": "top",
+      "bgcolor": "yellow"
+    },
+    "paper_bgcolor": "lightblue",
+    "width": 250,
+    "height": 250
+  }
+}

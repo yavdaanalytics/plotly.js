@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "name": 10000,
+      "fill": "toself",
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQoKAQ=="
+      },
+      "y": {
+        "dtype": "i2",
+        "bdata": "ECcQJ/DY8Ng="
+      }
+    },
+    {
+      "fill": "toself",
+      "name": 100,
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQoKAQ=="
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "ZGScnA=="
+      }
+    }
+  ],
+  "layout": {
+    "yaxis": {
+      "range": [
+        -0.5,
+        0.5
+      ]
+    }
+  }
+}

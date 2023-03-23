@@ -1,0 +1,39 @@
+{
+  "data": [
+    {
+      "type": "scatter",
+      "y": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "marker": {
+        "size": 20,
+        "color": {
+          "dtype": "i1",
+          "bdata": "AQID"
+        },
+        "showscale": true
+      },
+      "mode": "markers"
+    }
+  ],
+  "layout": {
+    "template": {
+      "data": {
+        "scatter": [
+          {
+            "marker": {
+              "symbol": "square",
+              "colorscale": "Viridis",
+              "colorbar": {
+                "ticks": "inside",
+                "ticklen": 10,
+                "tickcolor": "white"
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

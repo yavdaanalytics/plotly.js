@@ -1,0 +1,44 @@
+{
+  "data": [
+    {
+      "legendgroup": "A",
+      "name": "Long label in group A",
+      "y": {
+        "dtype": "i1",
+        "bdata": "AQIDBA=="
+      }
+    },
+    {
+      "legendgroup": "B",
+      "name": "b1",
+      "y": {
+        "dtype": "i1",
+        "bdata": "AgMEAQ=="
+      }
+    },
+    {
+      "legendgroup": "B",
+      "name": "Very long label in another group",
+      "y": {
+        "dtype": "i1",
+        "bdata": "AwQBAg=="
+      }
+    },
+    {
+      "legendgroup": "B",
+      "name": "b3",
+      "y": {
+        "dtype": "i1",
+        "bdata": "BAECAw=="
+      }
+    }
+  ],
+  "layout": {
+    "paper_bgcolor": "lightblue",
+    "height": 350,
+    "width": 350,
+    "legend": {
+      "orientation": "h"
+    }
+  }
+}

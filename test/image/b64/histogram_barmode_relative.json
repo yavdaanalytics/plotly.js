@@ -1,0 +1,24 @@
+{
+  "data": [
+    {
+      "type": "histogram",
+      "texttemplate": "%{value}",
+      "x": {
+        "dtype": "i1",
+        "bdata": "CQkDAgUBAwAGCAUHAgkJCAUEAQkCCAAHAgMFAAMIAgEHBwcDCQcIAQcJBAYCBAIJAwEFAQYHBgEGCAYHCAMHAwEAAgYBAgcCCQYCCAAACQgFBQgDBQcHCAMJAwEFAwUACAkEAw=="
+      }
+    },
+    {
+      "type": "histogram",
+      "texttemplate": "%{value}",
+      "x": {
+        "dtype": "i1",
+        "bdata": "BgcIAAgBBQQEAwQHBQMJBQIFBQQDBQIGAwkIBQMIBwICBwMHAAEBAQIBBAkDBQQBAQIAAggBAAMBAgMFAwgGAQEAAAAIBgAIBggACQQEAAcHCQIIAAkABQcCCQYFAAAEBgAJCA=="
+      }
+    }
+  ],
+  "layout": {
+    "width": 600,
+    "barmode": "relative"
+  }
+}

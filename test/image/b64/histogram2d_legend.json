@@ -1,0 +1,213 @@
+{
+  "data": [
+    {
+      "x": [
+        "apples",
+        "apples",
+        "apples",
+        "apples",
+        "lemons",
+        "lemons"
+      ],
+      "y": [
+        "red",
+        "red",
+        "yellow",
+        "green",
+        "yellow",
+        "yellow"
+      ],
+      "z": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "histfunc": "sum",
+      "showlegend": true,
+      "showscale": false,
+      "texttemplate": "%{z}",
+      "type": "histogram2d",
+      "name": "histogram2d"
+    },
+    {
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "x": [
+        "apples",
+        "apples",
+        "apples",
+        "apples",
+        "lemons",
+        "lemons"
+      ],
+      "y": [
+        "red",
+        "red",
+        "yellow",
+        "green",
+        "yellow",
+        "yellow"
+      ],
+      "z": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "histfunc": "sum",
+      "showlegend": true,
+      "showscale": false,
+      "reversescale": true,
+      "texttemplate": "%{z}",
+      "type": "histogram2d",
+      "name": "histogram2d reversed scale"
+    },
+    {
+      "xaxis": "x3",
+      "yaxis": "y3",
+      "x": [
+        "apples",
+        "apples",
+        "apples",
+        "apples",
+        "lemons",
+        "lemons"
+      ],
+      "y": [
+        "red",
+        "red",
+        "yellow",
+        "green",
+        "yellow",
+        "yellow"
+      ],
+      "z": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "histfunc": "sum",
+      "showlegend": true,
+      "showscale": false,
+      "texttemplate": "%{z}",
+      "contours": {
+        "coloring": "heatmap"
+      },
+      "type": "histogram2dcontour",
+      "name": "histogram2dcontour"
+    },
+    {
+      "xaxis": "x4",
+      "yaxis": "y4",
+      "x": [
+        "apples",
+        "apples",
+        "apples",
+        "apples",
+        "lemons",
+        "lemons"
+      ],
+      "y": [
+        "red",
+        "red",
+        "yellow",
+        "green",
+        "yellow",
+        "yellow"
+      ],
+      "z": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "histfunc": "sum",
+      "showlegend": true,
+      "showscale": false,
+      "reversescale": true,
+      "texttemplate": "%{z}",
+      "contours": {
+        "coloring": "heatmap"
+      },
+      "type": "histogram2dcontour",
+      "name": "histogram2dcontour reversed scale"
+    }
+  ],
+  "layout": {
+    "legend": {
+      "title": {
+        "text": "<i>histogram2d</i> &<br><b>histogram2dcontour</b> legends:",
+        "font": {
+          "family": "Times New Roman",
+          "size": 16
+        }
+      }
+    },
+    "height": 800,
+    "width": 800,
+    "xaxis": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAADNzMzMzMzcPw=="
+      }
+    },
+    "xaxis2": {
+      "anchor": "y2",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "mpmZmZmZ4T8AAAAAAADwPw=="
+      }
+    },
+    "xaxis3": {
+      "anchor": "y3",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAADNzMzMzMzcPw=="
+      }
+    },
+    "xaxis4": {
+      "anchor": "y4",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "mpmZmZmZ4T8AAAAAAADwPw=="
+      }
+    },
+    "yaxis": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAADNzMzMzMzcPw=="
+      }
+    },
+    "yaxis2": {
+      "anchor": "x2",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "mpmZmZmZ4T8AAAAAAADwPw=="
+      }
+    },
+    "yaxis3": {
+      "anchor": "x3",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "mpmZmZmZ4T8AAAAAAADwPw=="
+      }
+    },
+    "yaxis4": {
+      "anchor": "x4",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAADNzMzMzMzcPw=="
+      }
+    }
+  }
+}

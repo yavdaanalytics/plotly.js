@@ -1,0 +1,56 @@
+{
+  "data": [
+    {
+      "type": "scattergeo",
+      "mode": "markers+text",
+      "name": "some marker trace",
+      "lon": {
+        "dtype": "i1",
+        "bdata": "ALVk"
+      },
+      "lat": {
+        "dtype": "i1",
+        "bdata": "AC3i"
+      },
+      "marker": {
+        "size": {
+          "dtype": "i1",
+          "bdata": "FB4P"
+        },
+        "symbol": [
+          "square",
+          "cross",
+          "diamond"
+        ]
+      },
+      "text": [
+        "A",
+        "B",
+        "C"
+      ],
+      "textfont": {
+        "size": 20
+      },
+      "textposition": "top right"
+    }
+  ],
+  "layout": {
+    "title": {
+      "text": "Big frame / up-side down map"
+    },
+    "geo": {
+      "projection": {
+        "rotation": {
+          "lon": -75,
+          "roll": 180
+        }
+      },
+      "framewidth": 5,
+      "framecolor": "blue"
+    },
+    "height": 450,
+    "width": 1000,
+    "autosize": true,
+    "showlegend": false
+  }
+}

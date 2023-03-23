@@ -1,0 +1,111 @@
+{
+  "data": [
+    {
+      "type": "scatterternary",
+      "mode": "markers",
+      "a": {
+        "dtype": "f8",
+        "bdata": "mpmZmZmZuT+amZmZmZnJPzMzMzMzM9M/"
+      },
+      "b": {
+        "dtype": "f8",
+        "bdata": "MzMzMzMz0z+amZmZmZnJP5qZmZmZmbk/"
+      },
+      "name": "c missing",
+      "marker": {
+        "size": 15,
+        "gradient": {
+          "type": "radial",
+          "color": "#fff"
+        }
+      }
+    },
+    {
+      "type": "scatterternary",
+      "mode": "markers",
+      "a": {
+        "dtype": "f8",
+        "bdata": "mpmZmZmZuT+amZmZmZnJPzMzMzMzM9M/"
+      },
+      "c": {
+        "dtype": "f8",
+        "bdata": "MzMzMzMz0z+amZmZmZnJP5qZmZmZmbk/"
+      },
+      "subplot": "ternary2",
+      "name": "b missing",
+      "marker": {
+        "size": 15,
+        "gradient": {
+          "type": "horizontal",
+          "color": "#000"
+        }
+      }
+    },
+    {
+      "type": "scatterternary",
+      "mode": "markers",
+      "b": {
+        "dtype": "f8",
+        "bdata": "mpmZmZmZuT+amZmZmZnJPzMzMzMzM9M/"
+      },
+      "c": {
+        "dtype": "f8",
+        "bdata": "MzMzMzMz0z+amZmZmZnJP5qZmZmZmbk/"
+      },
+      "subplot": "ternary3",
+      "name": "a missing",
+      "marker": {
+        "size": 15,
+        "gradient": {
+          "type": "vertical",
+          "color": [
+            "#f00",
+            "#00f",
+            "#ff0"
+          ]
+        }
+      }
+    }
+  ],
+  "layout": {
+    "ternary": {
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAAAAAAAAAAAADgPw=="
+        },
+        "y": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAAAACamZmZmZnZPw=="
+        }
+      }
+    },
+    "ternary2": {
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAAAAAAAAAAAADgPw=="
+        },
+        "y": {
+          "dtype": "f8",
+          "bdata": "MzMzMzMz4z8AAAAAAADwPw=="
+        }
+      }
+    },
+    "ternary3": {
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAA4D8AAAAAAADwPw=="
+        },
+        "y": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAA0D8AAAAAAADoPw=="
+        }
+      }
+    },
+    "height": 450,
+    "width": 700,
+    "autosize": false
+  }
+}

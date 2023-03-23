@@ -1,0 +1,192 @@
+{
+  "data": [
+    {
+      "type": "scatterpolar",
+      "name": "angular categories",
+      "r": {
+        "dtype": "i1",
+        "bdata": "BQQCBAU="
+      },
+      "theta": [
+        "a",
+        "b",
+        "c",
+        "d",
+        "a"
+      ],
+      "fill": "toself"
+    },
+    {
+      "type": "scatterpolar",
+      "name": "radial categories",
+      "r": [
+        "a",
+        "b",
+        "c",
+        "d",
+        "b",
+        "f",
+        "a"
+      ],
+      "theta": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAA8D8AAAAAAAAQQAAAAAAAAABAAAAAAAAA+D8AAAAAAAD4PwAAAAAAABhAAAAAAAAAFEA="
+      },
+      "thetaunit": "radians",
+      "fill": "toself",
+      "subplot": "polar2"
+    },
+    {
+      "type": "scatterpolar",
+      "name": "angular categories (w/ categoryarray)",
+      "r": {
+        "dtype": "i1",
+        "bdata": "BQQCBAU="
+      },
+      "theta": [
+        "a",
+        "b",
+        "c",
+        "d",
+        "a"
+      ],
+      "fill": "toself",
+      "subplot": "polar3"
+    },
+    {
+      "type": "scatterpolar",
+      "name": "radial categories (w/ category descending)",
+      "r": [
+        "a",
+        "b",
+        "c",
+        "d",
+        "b",
+        "f",
+        "a",
+        "a"
+      ],
+      "theta": {
+        "dtype": "i2",
+        "bdata": "LQBaALQAyAAsAQ8AFAAtAA=="
+      },
+      "fill": "toself",
+      "subplot": "polar4"
+    },
+    {
+      "type": "scatterpolar",
+      "name": "angular categories (w/ extra category)",
+      "r": {
+        "dtype": "i1",
+        "bdata": "BQQCBAUF"
+      },
+      "theta": [
+        "b",
+        "c",
+        "d",
+        "e",
+        "a",
+        "b"
+      ],
+      "fill": "toself"
+    }
+  ],
+  "layout": {
+    "polar": {
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAAAABxPQrXo3DdPw=="
+        },
+        "y": {
+          "dtype": "f8",
+          "bdata": "7FG4HoXr4T8AAAAAAADwPw=="
+        }
+      },
+      "radialaxis": {
+        "angle": 45
+      },
+      "angularaxis": {
+        "direction": "clockwise",
+        "period": 6
+      }
+    },
+    "polar2": {
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAAAABxPQrXo3DdPw=="
+        },
+        "y": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAAAAApXI/C9SjcPw=="
+        }
+      },
+      "radialaxis": {
+        "angle": 180,
+        "tickangle": -180
+      }
+    },
+    "polar3": {
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "SOF6FK5H4T8AAAAAAADwPw=="
+        },
+        "y": {
+          "dtype": "f8",
+          "bdata": "7FG4HoXr4T8AAAAAAADwPw=="
+        }
+      },
+      "sector": {
+        "dtype": "i2",
+        "bdata": "lgCQAQ=="
+      },
+      "radialaxis": {
+        "angle": -45
+      },
+      "angularaxis": {
+        "categoryarray": [
+          "d",
+          "a",
+          "c",
+          "b"
+        ]
+      }
+    },
+    "polar4": {
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "SOF6FK5H4T8AAAAAAADwPw=="
+        },
+        "y": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAAAAApXI/C9SjcPw=="
+        }
+      },
+      "radialaxis": {
+        "categoryorder": "category descending"
+      },
+      "angularaxis": {
+        "thetaunit": "radians",
+        "dtick": 0.3141592653589793
+      }
+    },
+    "legend": {
+      "x": 0.5,
+      "y": -0.05,
+      "xanchor": "center",
+      "yanchor": "top"
+    },
+    "width": 550,
+    "height": 550,
+    "margin": {
+      "l": 40,
+      "r": 40,
+      "b": 60,
+      "t": 20,
+      "pad": 0
+    }
+  }
+}

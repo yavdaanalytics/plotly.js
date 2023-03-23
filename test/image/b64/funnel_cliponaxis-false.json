@@ -1,0 +1,182 @@
+{
+  "data": [
+    {
+      "type": "funnel",
+      "orientation": "v",
+      "name": "not clipped",
+      "x": [
+        "apple",
+        "banana",
+        "clementine"
+      ],
+      "y": {
+        "dtype": "f8",
+        "bdata": "ZmZmZmZmDkAAAAAAAAAQQM3MzMzMzBBA"
+      },
+      "text": [
+        "apple",
+        "banana",
+        "x"
+      ],
+      "textinfo": "text",
+      "textposition": "outside",
+      "cliponaxis": false,
+      "textfont": {
+        "size": {
+          "dtype": "i1",
+          "bdata": "PCgU"
+        }
+      }
+    },
+    {
+      "type": "funnel",
+      "orientation": "v",
+      "name": "same but clipped",
+      "x": [
+        "apple",
+        "banana",
+        "clementine"
+      ],
+      "y": {
+        "dtype": "f8",
+        "bdata": "ZmZmZmZmDkAAAAAAAAAQQM3MzMzMzBBA"
+      },
+      "text": [
+        "apple",
+        "banana",
+        "clementine"
+      ],
+      "textinfo": "text",
+      "textposition": "outside",
+      "cliponaxis": true,
+      "textfont": {
+        "size": {
+          "dtype": "i1",
+          "bdata": "PCgU"
+        }
+      },
+      "xaxis": "x2",
+      "yaxis": "y2"
+    },
+    {
+      "type": "funnel",
+      "orientation": "v",
+      "name": "should <b>not</b> see text",
+      "x": [
+        "banana"
+      ],
+      "y": {
+        "dtype": "i1",
+        "bdata": "BA=="
+      },
+      "text": [
+        "X"
+      ],
+      "textinfo": "text",
+      "textposition": "outside",
+      "cliponaxis": true,
+      "textfont": {
+        "size": {
+          "dtype": "i1",
+          "bdata": "FA=="
+        }
+      }
+    },
+    {
+      "type": "funnel",
+      "orientation": "v",
+      "name": "should see text",
+      "x": [
+        "banana"
+      ],
+      "y": {
+        "dtype": "i1",
+        "bdata": "Ag=="
+      },
+      "text": [
+        "banana"
+      ],
+      "textinfo": "text",
+      "textposition": "outside",
+      "cliponaxis": false,
+      "textfont": {
+        "size": {
+          "dtype": "i1",
+          "bdata": "FA=="
+        }
+      },
+      "xaxis": "x3",
+      "yaxis": "y3"
+    }
+  ],
+  "layout": {
+    "funnelmode": "overlay",
+    "legend": {
+      "x": 0.5,
+      "xanchor": "center",
+      "y": -0.05,
+      "yanchor": "top"
+    },
+    "xaxis": {
+      "showline": true,
+      "showticklabels": false,
+      "mirror": true,
+      "layer": "below traces",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAABSuB6F61HYPw=="
+      }
+    },
+    "xaxis2": {
+      "anchor": "y2",
+      "showline": true,
+      "showticklabels": false,
+      "mirror": true,
+      "layer": "below traces",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "4XoUrkfh2j+amZmZmZnpPw=="
+      }
+    },
+    "xaxis3": {
+      "anchor": "y3",
+      "showline": true,
+      "showticklabels": false,
+      "mirror": true,
+      "layer": "below traces",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "4XoUrkfh6j8AAAAAAADwPw=="
+      }
+    },
+    "yaxis": {
+      "layer": "below traces",
+      "range": [
+        0,
+        2
+      ]
+    },
+    "yaxis2": {
+      "anchor": "x2",
+      "layer": "below traces",
+      "range": [
+        0,
+        2
+      ]
+    },
+    "yaxis3": {
+      "anchor": "x3",
+      "layer": "below traces",
+      "range": [
+        2,
+        0
+      ]
+    },
+    "width": 800,
+    "height": 400,
+    "margin": {
+      "t": 40
+    },
+    "dragmode": "pan"
+  }
+}

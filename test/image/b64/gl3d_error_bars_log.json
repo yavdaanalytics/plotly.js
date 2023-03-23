@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AAECAwQFBgcICQ=="
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AAAAAAAAAAAAAA=="
+      },
+      "z": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAA8D8AAAAAAAAkQAAAAAAAAFlAAAAAAABAj0AAAAAAAIjDQAAAAAAAavhAAAAAAICELkEAAAAA0BJjQQAAAACE15dBAAAAAGXNzUE="
+      },
+      "type": "scatter3d",
+      "error_z": {
+        "array": {
+          "dtype": "f8",
+          "bdata": "mpmZmZmZuT8AAAAAAADwPwAAAAAAAFlAAAAAAACUwUAAAAAAAIizQAAAAAAA+fVAAAAAAABq+EAAAAAA0BJjQQAAAIB00spBAAAAAGXN3UE="
+        },
+        "type": "data",
+        "visible": true
+      }
+    }
+  ],
+  "layout": {
+    "scene": {
+      "zaxis": {
+        "type": "log"
+      }
+    },
+    "width": 800,
+    "height": 800
+  }
+}

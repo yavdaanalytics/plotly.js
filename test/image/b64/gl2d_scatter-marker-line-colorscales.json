@@ -1,0 +1,131 @@
+{
+  "data": [
+    {
+      "type": "scattergl",
+      "mode": "markers",
+      "y": {
+        "dtype": "i1",
+        "bdata": "BQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQ=="
+      },
+      "marker": {
+        "color": {
+          "dtype": "i1",
+          "bdata": "AAECAwQFBgcICQoLDA0ODxAREhMUFRYXGBkaGxwdHh8gISIjJCUmJw=="
+        },
+        "size": 30,
+        "cmin": 0,
+        "cmax": 45,
+        "colorscale": [
+          [
+            0,
+            "rgb(5, 10, 172)"
+          ],
+          [
+            0.35,
+            "rgb(106, 137, 247)"
+          ],
+          [
+            0.5,
+            "rgb(190,190,190)"
+          ],
+          [
+            0.6,
+            "rgb(220, 170, 132)"
+          ],
+          [
+            0.7,
+            "rgb(230, 145, 90)"
+          ],
+          [
+            1,
+            "rgb(178, 10, 28)"
+          ]
+        ],
+        "line": {
+          "color": {
+            "dtype": "i1",
+            "bdata": "JyYlJCMiISAfHh0cGxoZGBcWFRQTEhEQDw4NDAsKCQgHBgUEAwIBAA=="
+          },
+          "width": 5,
+          "cmin": 0,
+          "cmax": 43,
+          "colorscale": [
+            [
+              0,
+              "rgb(220, 170, 132)"
+            ],
+            [
+              1,
+              "rgb(190,190,190)"
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "type": "scattergl",
+      "x": [],
+      "y": []
+    },
+    {
+      "type": "scattergl",
+      "y": []
+    },
+    {
+      "type": "scattergl",
+      "x": []
+    },
+    {
+      "type": "scattergl"
+    },
+    {
+      "type": "scattergl",
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AgEC"
+      },
+      "visible": false
+    },
+    {
+      "type": "scattergl",
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AgEC"
+      },
+      "visible": "legendonly"
+    }
+  ],
+  "layout": {
+    "title": {
+      "text": "scatter trace with colorscales for both marker color and marker line color"
+    },
+    "xaxis": {
+      "type": "linear",
+      "range": [
+        -3.19449715370019,
+        42.19449715370019
+      ],
+      "autorange": true
+    },
+    "yaxis": {
+      "type": "linear",
+      "range": [
+        4,
+        6
+      ],
+      "autorange": true
+    },
+    "height": 598,
+    "width": 1080,
+    "autosize": true,
+    "showlegend": false
+  }
+}

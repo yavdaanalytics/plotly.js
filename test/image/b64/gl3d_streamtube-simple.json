@@ -1,0 +1,45 @@
+{
+  "data": [
+    {
+      "type": "streamtube",
+      "x": {
+        "dtype": "i1",
+        "bdata": "AAAAAAAAAAAAAQEBAQEBAQEBAgICAgICAgIC"
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AAAAAQEBAgICAAAAAQEBAgICAAAAAQEBAgIC"
+      },
+      "z": {
+        "dtype": "i1",
+        "bdata": "AAECAAECAAECAAECAAECAAECAAECAAECAAEC"
+      },
+      "u": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAA8D8AAAAAAADwPwAAAAAAAPA/AAAAAAAA8D8AAAAAAADwPwAAAAAAAPA/AAAAAAAA8D8AAAAAAADwPwAAAAAAAPA/d4aER6p2/T93hoRHqnb9P3eGhEeqdv0/d4aER6p2/T93hoRHqnb9P3eGhEeqdv0/d4aER6p2/T93hoRHqnb9P3eGhEeqdv0/I9podXuM/j8j2mh1e4z+PyPaaHV7jP4/I9podXuM/j8j2mh1e4z+PyPaaHV7jP4/I9podXuM/j8j2mh1e4z+PyPaaHV7jP4/"
+      },
+      "v": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAA8D8AAAAAAADwPwAAAAAAAPA/jAa1DyhK4T+MBrUPKErhP4wGtQ8oSuE/BXJTVyai2r8FclNXJqLavwVyU1cmotq/AAAAAAAA8D8AAAAAAADwPwAAAAAAAPA/jAa1DyhK4T+MBrUPKErhP4wGtQ8oSuE/BXJTVyai2r8FclNXJqLavwVyU1cmotq/AAAAAAAA8D8AAAAAAADwPwAAAAAAAPA/jAa1DyhK4T+MBrUPKErhP4wGtQ8oSuE/BXJTVyai2r8FclNXJqLavwVyU1cmotq/"
+      },
+      "w": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAACjEuDmKbK2Pzcbk0+prsU/AAAAAAAAAACjEuDmKbK2Pzcbk0+prsU/AAAAAAAAAACjEuDmKbK2Pzcbk0+prsU/AAAAAAAAAACjEuDmKbK2Pzcbk0+prsU/AAAAAAAAAACjEuDmKbK2Pzcbk0+prsU/AAAAAAAAAACjEuDmKbK2Pzcbk0+prsU/AAAAAAAAAACjEuDmKbK2Pzcbk0+prsU/AAAAAAAAAACjEuDmKbK2Pzcbk0+prsU/AAAAAAAAAACjEuDmKbK2Pzcbk0+prsU/"
+      },
+      "sizeref": 0.5,
+      "cmin": 0,
+      "cmax": 3
+    }
+  ],
+  "layout": {
+    "scene": {
+      "camera": {
+        "eye": {
+          "x": -0.7243612458865182,
+          "y": 1.9269804254717962,
+          "z": 0.6704828299861716
+        }
+      }
+    }
+  }
+}

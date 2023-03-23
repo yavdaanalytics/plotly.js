@@ -1,0 +1,113 @@
+{
+  "data": [
+    {
+      "values": {
+        "dtype": "f8",
+        "bdata": "mpmZmZmZuT8AAAAAAAAAQAAAAAAAABRA"
+      },
+      "labels": [
+        "a",
+        "b",
+        "x"
+      ],
+      "type": "pie",
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAAAACamZmZmZnZPw=="
+        },
+        "y": {
+          "dtype": "f8",
+          "bdata": "MzMzMzMz4z8AAAAAAADwPw=="
+        }
+      },
+      "scalegroup": 1,
+      "textposition": "auto"
+    },
+    {
+      "values": {
+        "dtype": "f8",
+        "bdata": "MzMzMzMz0z8AAAAAAAAQQAAAAAAAABhA"
+      },
+      "labels": [
+        "a",
+        "b",
+        "x"
+      ],
+      "type": "pie",
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "MzMzMzMz4z8AAAAAAADwPw=="
+        },
+        "y": {
+          "dtype": "f8",
+          "bdata": "MzMzMzMz4z8AAAAAAADwPw=="
+        }
+      },
+      "scalegroup": 1,
+      "textposition": "inside"
+    },
+    {
+      "values": {
+        "dtype": "i1",
+        "bdata": "BQYK"
+      },
+      "labels": [
+        "c",
+        "d",
+        "x"
+      ],
+      "type": "pie",
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAAAACamZmZmZnZPw=="
+        },
+        "y": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAAAACamZmZmZnZPw=="
+        }
+      },
+      "scalegroup": 2,
+      "textposition": "outside"
+    },
+    {
+      "values": {
+        "dtype": "i1",
+        "bdata": "BwgUFg=="
+      },
+      "labels": [
+        "c",
+        "d",
+        "x",
+        "y"
+      ],
+      "type": "pie",
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "MzMzMzMz4z8AAAAAAADwPw=="
+        },
+        "y": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAAAACamZmZmZnZPw=="
+        }
+      },
+      "scalegroup": 2,
+      "textposition": "none"
+    }
+  ],
+  "layout": {
+    "height": 500,
+    "width": 600,
+    "showlegend": true,
+    "font": {
+      "size": 20
+    },
+    "hiddenlabels": [
+      "x",
+      "y"
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "x": [
+        "a",
+        "b",
+        "c",
+        "d",
+        "long category",
+        "another even longer",
+        "the longest one yet!!!!!!"
+      ],
+      "y": {
+        "dtype": "i1",
+        "bdata": "AAoUHigyPA=="
+      }
+    }
+  ],
+  "layout": {
+    "xaxis": {
+      "title": {
+        "text": "Top X Axis",
+        "font": {
+          "size": 24
+        }
+      },
+      "rangeslider": {
+        "visible": true
+      },
+      "side": "top",
+      "automargin": true
+    },
+    "width": 400,
+    "height": 400
+  }
+}

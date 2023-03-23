@@ -1,0 +1,261 @@
+{
+  "data": [
+    {
+      "y": {
+        "dtype": "f8",
+        "bdata": "6RXp8edn7j84R7goHH3FPwWdeDo8DPU/6g23UhmItL9LD+7/c27lPxouQyDh9+u/dc8XNvQa87/biZiT8tHYv1mFB7p5WdC/z0CQ+uhh0L8="
+      },
+      "name": "Trial 1",
+      "boxpoints": "all",
+      "pointpos": -1.5,
+      "jitter": 0,
+      "fillcolor": "rgba(255, 255, 255, 0)",
+      "marker": {
+        "color": "rgb(255, 255, 255)",
+        "size": 4,
+        "line": {
+          "color": "rgb(0, 0, 0)",
+          "width": 1
+        }
+      },
+      "line": {
+        "color": "rgb(0, 0, 255)",
+        "width": 1
+      },
+      "type": "box"
+    },
+    {
+      "y": {
+        "dtype": "f8",
+        "bdata": "Hyl2IHrQ/z+GXI6yCysBQFPSHgdZRf8/01L79NqsAUDqCR20X1ABQPlY8u1rYAJAPv+TWbRvAEDSm+PeRNH+P6rxD2hKygFA194+On9dAEA="
+      },
+      "name": "Trial 2",
+      "boxpoints": "all",
+      "pointpos": -1.5,
+      "jitter": 0,
+      "fillcolor": "rgba(255, 255, 255, 0)",
+      "marker": {
+        "color": "rgb(255, 255, 255)",
+        "size": 4,
+        "line": {
+          "color": "rgb(0, 0, 0)",
+          "width": 1
+        }
+      },
+      "line": {
+        "color": "rgb(0, 0, 255)",
+        "width": 1
+      },
+      "type": "box"
+    },
+    {
+      "y": {
+        "dtype": "f8",
+        "bdata": "stPTAi188T+tePteHyjpP9J1ArzXAem/VsoVBtjd+T/bpQg3GGP0PyJTGQYFj/M/yiXZ6trQ6j+YS0xMH6QPQDYzJDfu1PE/CB0aIid94j8="
+      },
+      "name": "Trial 3",
+      "boxpoints": "all",
+      "pointpos": -1.5,
+      "jitter": 0,
+      "fillcolor": "rgba(255, 255, 255, 0)",
+      "marker": {
+        "color": "rgb(255, 255, 255)",
+        "size": 4,
+        "line": {
+          "color": "rgb(0, 0, 0)",
+          "width": 1
+        }
+      },
+      "line": {
+        "color": "rgb(0, 0, 255)",
+        "width": 1
+      },
+      "type": "box"
+    },
+    {
+      "y": {
+        "dtype": "f8",
+        "bdata": "j9pBSCv0CUBgDf1fRUsAQDhvcUiCfgdAfMNSRFgxCkAZlr3jnfgIQDg92syRtA5Asfub9OkzDUC9H5/x8S4LQHkbDFpmGghA6wqK9SmrBkA="
+      },
+      "name": "Trial 4",
+      "boxpoints": "all",
+      "pointpos": -1.5,
+      "jitter": 0,
+      "fillcolor": "rgba(255, 255, 255, 0)",
+      "marker": {
+        "color": "rgb(255, 255, 255)",
+        "size": 4,
+        "line": {
+          "color": "rgb(0, 0, 0)",
+          "width": 1
+        }
+      },
+      "line": {
+        "color": "rgb(0, 0, 255)",
+        "width": 1
+      },
+      "type": "box"
+    },
+    {
+      "y": {
+        "dtype": "f8",
+        "bdata": "cWCF3U9UFkCWhYsxM6IXQJqhRO4VqRVAGiAW0WtqFkAnV0bry58WQIzyW/w6nRdA0xazZhjRF0DrHjBb6a0WQGslJGmzvxZA8BrqcfbfFkA="
+      },
+      "name": "Trial 5",
+      "boxpoints": "all",
+      "pointpos": -1.5,
+      "jitter": 0,
+      "fillcolor": "rgba(255, 255, 255, 0)",
+      "marker": {
+        "color": "rgb(255, 255, 255)",
+        "size": 4,
+        "line": {
+          "color": "rgb(0, 0, 0)",
+          "width": 1
+        }
+      },
+      "line": {
+        "color": "rgb(0, 0, 255)",
+        "width": 1
+      },
+      "type": "box"
+    },
+    {
+      "y": {
+        "dtype": "f8",
+        "bdata": "3z4h3tjRFECMjHEylWsRQOjjreeX9RZAuMjM0AVkFkAi9Ygc7C0ZQFQHB1gBMxNASDRml+V+GEBUUgVWhnwXQFNZZQjslRhAPQ42aqfnGkA="
+      },
+      "name": "Trial 6",
+      "boxpoints": "all",
+      "pointpos": -1.5,
+      "jitter": 0,
+      "fillcolor": "rgba(255, 255, 255, 0)",
+      "marker": {
+        "color": "rgb(255, 255, 255)",
+        "size": 4,
+        "line": {
+          "color": "rgb(0, 0, 0)",
+          "width": 1
+        }
+      },
+      "line": {
+        "color": "rgb(0, 0, 255)",
+        "width": 1
+      },
+      "type": "box"
+    },
+    {
+      "x": [
+        "Trial 1",
+        "Trial 2",
+        "Trial 3",
+        "Trial 4",
+        "Trial 5",
+        "Trial 6"
+      ],
+      "y": {
+        "dtype": "f8",
+        "bdata": "1Ei1DoB7xb/iLREGYM0AQHQD/JyNqPE/VLj/lWR2CUArIipizrYWQB6b2R4PORdA"
+      },
+      "mode": "lines+markers",
+      "name": "Medians",
+      "marker": {
+        "color": "rgb(255, 255, 255)",
+        "size": 4,
+        "line": {
+          "color": "rgb(255, 0, 0)",
+          "width": 1
+        }
+      },
+      "line": {
+        "color": "rgba(255, 0, 0, 0.5)",
+        "width": 2
+      },
+      "type": "scatter"
+    }
+  ],
+  "layout": {
+    "title": {
+      "text": "Math Score Box Plots",
+      "font": {
+        "size": 16
+      }
+    },
+    "font": {
+      "family": "Arial, sans-serif",
+      "size": 14,
+      "color": "rgb(67, 67, 67)"
+    },
+    "showlegend": false,
+    "autosize": false,
+    "width": 600,
+    "height": 440,
+    "xaxis": {
+      "title": {
+        "text": ""
+      },
+      "range": [
+        -0.6575,
+        5.5
+      ],
+      "domain": {
+        "dtype": "i1",
+        "bdata": "AAE="
+      },
+      "type": "category",
+      "showgrid": false,
+      "zeroline": false,
+      "showline": false,
+      "ticks": "",
+      "showticklabels": true,
+      "tick0": 0,
+      "dtick": 1,
+      "tickangle": 0,
+      "anchor": "y",
+      "autorange": true
+    },
+    "yaxis": {
+      "title": {
+        "text": "Score"
+      },
+      "range": [
+        -1.6340975059013805,
+        7.166241526218911
+      ],
+      "domain": {
+        "dtype": "i1",
+        "bdata": "AAE="
+      },
+      "type": "linear",
+      "rangemode": "normal",
+      "showgrid": true,
+      "zeroline": false,
+      "showline": false,
+      "ticks": "",
+      "showticklabels": true,
+      "tick0": 0,
+      "dtick": 2,
+      "tickangle": 0,
+      "exponentformat": "e",
+      "showexponent": "all",
+      "gridcolor": "rgb(204, 204, 204)",
+      "gridwidth": 1,
+      "anchor": "x",
+      "autorange": true
+    },
+    "margin": {
+      "l": 80,
+      "r": 40,
+      "b": 80,
+      "t": 80,
+      "pad": 2,
+      "autoexpand": true
+    },
+    "paper_bgcolor": "rgb(255, 255, 255)",
+    "plot_bgcolor": "rgb(255, 255, 255)",
+    "hovermode": "x",
+    "dragmode": "zoom",
+    "separators": ".,",
+    "hidesources": false
+  }
+}

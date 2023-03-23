@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AAECAwQFBgcI"
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "CAcGBQQDAgEA"
+      },
+      "type": "scattergl"
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AAECAwQFBgcI"
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AAECAwQFBgcI"
+      },
+      "type": "scattergl"
+    }
+  ],
+  "layout": {
+    "xaxis": {
+      "range": [
+        2,
+        5
+      ]
+    },
+    "yaxis": {
+      "range": [
+        2,
+        5
+      ]
+    }
+  }
+}

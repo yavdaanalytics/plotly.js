@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQIDBAU="
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AQIECBA="
+      },
+      "name": "Kinda long data name"
+    }
+  ],
+  "layout": {
+    "margin": {
+      "t": 0
+    },
+    "showlegend": true,
+    "legend": {
+      "x": 1,
+      "y": 0.5,
+      "xanchor": "left"
+    },
+    "width": 381,
+    "height": 250
+  }
+}

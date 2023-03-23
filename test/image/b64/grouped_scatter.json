@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "x": [
+        "giraffes",
+        "orangutans",
+        "monkeys"
+      ],
+      "y": {
+        "dtype": "i1",
+        "bdata": "FA4X"
+      },
+      "name": "SF Zoo"
+    },
+    {
+      "x": [
+        "giraffes",
+        "orangutans",
+        "monkeys"
+      ],
+      "y": {
+        "dtype": "i1",
+        "bdata": "DBId"
+      },
+      "name": "LA Zoo"
+    }
+  ],
+  "layout": {
+    "width": 600,
+    "height": 400,
+    "scattermode": "group"
+  }
+}

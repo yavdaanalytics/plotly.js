@@ -1,0 +1,421 @@
+{
+  "data": [
+    {
+      "x": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAA+D8="
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAA9D8="
+      },
+      "fill": "tozeroy",
+      "showlegend": false
+    },
+    {
+      "x": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAAAAAAAAAADgPwAAAAAAAPA/AAAAAAAAAEAAAAAAAAAIQA=="
+      },
+      "y": [
+        1,
+        null,
+        1,
+        1.1,
+        1
+      ],
+      "fill": "tozeroy",
+      "showlegend": false
+    },
+    {
+      "x": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAAAAAAAAAADgPwAAAAAAAPA/AAAAAAAA9D8AAAAAAAD4PwAAAAAAAPw/AAAAAAAAAEAAAAAAAAAEQAAAAAAAAAhA"
+      },
+      "y": [
+        0.75,
+        0.85,
+        0.75,
+        null,
+        0.85,
+        null,
+        0.75,
+        0.85,
+        0.75
+      ],
+      "fill": "tozeroy",
+      "showlegend": false
+    },
+    {
+      "x": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAAAAAAAAAADwPwAAAAAAAABAAAAAAAAABEAAAAAAAAAIQA=="
+      },
+      "y": [
+        0.5,
+        0.6,
+        0.5,
+        null,
+        0.5
+      ],
+      "line": {
+        "shape": "vh",
+        "color": "black",
+        "dash": "dot"
+      },
+      "fill": "tozeroy",
+      "showlegend": false
+    },
+    {
+      "x": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAAAAAAAAAADgPwAAAAAAAPA/AAAAAAAA+D8AAAAAAAAAQAAAAAAAAARAAAAAAAAACEA="
+      },
+      "y": [
+        0.25,
+        null,
+        0.35,
+        null,
+        0.15,
+        null,
+        0.25
+      ],
+      "fill": "tozeroy",
+      "showlegend": false
+    },
+    {
+      "x": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAA+D8="
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAA9D8="
+      },
+      "fill": "tozeroy",
+      "line": {
+        "shape": "spline"
+      },
+      "xaxis": "x2",
+      "showlegend": false
+    },
+    {
+      "x": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAAAAAAAAAADgPwAAAAAAAPA/AAAAAAAAAEAAAAAAAAAIQA=="
+      },
+      "y": [
+        1,
+        null,
+        1,
+        1.1,
+        1
+      ],
+      "fill": "tozeroy",
+      "line": {
+        "shape": "spline"
+      },
+      "xaxis": "x2",
+      "showlegend": false
+    },
+    {
+      "x": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAAAAAAAAAADgPwAAAAAAAPA/AAAAAAAA9D8AAAAAAAD4PwAAAAAAAPw/AAAAAAAAAEAAAAAAAAAEQAAAAAAAAAhA"
+      },
+      "y": [
+        0.75,
+        0.85,
+        0.75,
+        null,
+        0.85,
+        null,
+        0.75,
+        0.85,
+        0.75
+      ],
+      "fill": "tozeroy",
+      "line": {
+        "shape": "spline"
+      },
+      "xaxis": "x2",
+      "showlegend": false
+    },
+    {
+      "x": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAAAAAAAAAADwPwAAAAAAAABAAAAAAAAABEAAAAAAAAAIQA=="
+      },
+      "y": [
+        0.5,
+        0.6,
+        0.5,
+        null,
+        0.5
+      ],
+      "fill": "tozeroy",
+      "line": {
+        "shape": "vh",
+        "color": "black",
+        "dash": "dot"
+      },
+      "xaxis": "x2",
+      "showlegend": false
+    },
+    {
+      "x": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAAAAAAAAAADgPwAAAAAAAPA/AAAAAAAA+D8AAAAAAAAAQAAAAAAAAARAAAAAAAAACEA="
+      },
+      "y": [
+        0.25,
+        null,
+        0.35,
+        null,
+        0.15,
+        null,
+        0.25
+      ],
+      "fill": "tozeroy",
+      "line": {
+        "shape": "spline"
+      },
+      "xaxis": "x2",
+      "showlegend": false
+    },
+    {
+      "x": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAA+D8="
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAA9D8="
+      },
+      "showlegend": false,
+      "yaxis": "y2"
+    },
+    {
+      "x": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAAAAAAAAAADgPwAAAAAAAPA/AAAAAAAAAEAAAAAAAAAIQA=="
+      },
+      "y": [
+        1,
+        null,
+        1,
+        1.1,
+        1
+      ],
+      "fill": "tonexty",
+      "showlegend": false,
+      "yaxis": "y2"
+    },
+    {
+      "x": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAAAAAAAAAADgPwAAAAAAAPA/AAAAAAAA9D8AAAAAAAD4PwAAAAAAAPw/AAAAAAAAAEAAAAAAAAAEQAAAAAAAAAhA"
+      },
+      "y": [
+        0.75,
+        0.85,
+        0.75,
+        null,
+        0.85,
+        null,
+        0.75,
+        0.85,
+        0.75
+      ],
+      "fill": "tonexty",
+      "showlegend": false,
+      "yaxis": "y2"
+    },
+    {
+      "x": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAAAAAAAAAADwPwAAAAAAAABAAAAAAAAABEAAAAAAAAAIQA=="
+      },
+      "y": [
+        0.5,
+        0.6,
+        0.5,
+        null,
+        0.5
+      ],
+      "line": {
+        "shape": "vh",
+        "color": "black",
+        "dash": "dot"
+      },
+      "fill": "tonexty",
+      "showlegend": false,
+      "yaxis": "y2"
+    },
+    {
+      "x": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAAAAAAAAAADgPwAAAAAAAPA/AAAAAAAA+D8AAAAAAAAAQAAAAAAAAARAAAAAAAAACEA="
+      },
+      "y": [
+        0.25,
+        null,
+        0.35,
+        null,
+        0.15,
+        null,
+        0.25
+      ],
+      "fill": "tonexty",
+      "showlegend": false,
+      "yaxis": "y2"
+    },
+    {
+      "x": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAA+D8="
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAA9D8="
+      },
+      "line": {
+        "shape": "spline"
+      },
+      "xaxis": "x2",
+      "showlegend": false,
+      "yaxis": "y2"
+    },
+    {
+      "x": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAAAAAAAAAADgPwAAAAAAAPA/AAAAAAAAAEAAAAAAAAAIQA=="
+      },
+      "y": [
+        1,
+        null,
+        1,
+        1.1,
+        1
+      ],
+      "fill": "tonexty",
+      "line": {
+        "shape": "spline"
+      },
+      "xaxis": "x2",
+      "showlegend": false,
+      "yaxis": "y2"
+    },
+    {
+      "x": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAAAAAAAAAADgPwAAAAAAAPA/AAAAAAAA9D8AAAAAAAD4PwAAAAAAAPw/AAAAAAAAAEAAAAAAAAAEQAAAAAAAAAhA"
+      },
+      "y": [
+        0.75,
+        0.85,
+        0.75,
+        null,
+        0.85,
+        null,
+        0.75,
+        0.85,
+        0.75
+      ],
+      "fill": "tonexty",
+      "line": {
+        "shape": "spline"
+      },
+      "xaxis": "x2",
+      "showlegend": false,
+      "yaxis": "y2"
+    },
+    {
+      "name": "vh shape",
+      "x": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAAAAAAAAAADwPwAAAAAAAABAAAAAAAAABEAAAAAAAAAIQA=="
+      },
+      "y": [
+        0.5,
+        0.6,
+        0.5,
+        null,
+        0.5
+      ],
+      "fill": "tonexty",
+      "line": {
+        "shape": "vh",
+        "color": "black",
+        "dash": "dot"
+      },
+      "xaxis": "x2",
+      "yaxis": "y2"
+    },
+    {
+      "x": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAAAAAAAAAADgPwAAAAAAAPA/AAAAAAAA+D8AAAAAAAAAQAAAAAAAAARAAAAAAAAACEA="
+      },
+      "y": [
+        0.25,
+        null,
+        0.35,
+        null,
+        0.15,
+        null,
+        0.25
+      ],
+      "fill": "tonexty",
+      "line": {
+        "shape": "spline"
+      },
+      "xaxis": "x2",
+      "showlegend": false,
+      "yaxis": "y2"
+    }
+  ],
+  "layout": {
+    "xaxis": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAADNzMzMzMzcPw=="
+      },
+      "title": {
+        "text": "linear"
+      }
+    },
+    "xaxis2": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "mpmZmZmZ4T8AAAAAAADwPw=="
+      },
+      "title": {
+        "text": "spline"
+      }
+    },
+    "yaxis": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "mpmZmZmZqT9mZmZmZmbePw=="
+      },
+      "title": {
+        "text": "tozeroy"
+      }
+    },
+    "yaxis2": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "zczMzMzM4D8AAAAAAADwPw=="
+      },
+      "title": {
+        "text": "tonexty"
+      }
+    },
+    "legend": {
+      "orientation": "h"
+    },
+    "width": 600,
+    "height": 600
+  }
+}

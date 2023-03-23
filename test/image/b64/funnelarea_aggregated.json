@@ -1,0 +1,56 @@
+{
+  "data": [
+    {
+      "labels": [
+        "Alice",
+        "Bob",
+        "Charlie",
+        "Charlie",
+        "Charlie",
+        "Alice"
+      ],
+      "type": "funnelarea",
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAAAACamZmZmZnZPw=="
+        }
+      }
+    },
+    {
+      "labels": [
+        "Alice",
+        "Alice",
+        "Allison",
+        "Alys",
+        "Elise",
+        "Allison",
+        "Alys",
+        "Alys"
+      ],
+      "values": {
+        "dtype": "i1",
+        "bdata": "ChQeKDI8RlA="
+      },
+      "marker": {
+        "colors": [
+          "",
+          "",
+          "#ccc"
+        ]
+      },
+      "type": "funnelarea",
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAA4D8AAAAAAADwPw=="
+        }
+      },
+      "textinfo": "label+value+percent total"
+    }
+  ],
+  "layout": {
+    "height": 300,
+    "width": 500
+  }
+}

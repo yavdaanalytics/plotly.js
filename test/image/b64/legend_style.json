@@ -1,0 +1,41 @@
+{
+  "data": [
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AAECAwQFBgcI"
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AAMGBAUCAwUE"
+      },
+      "type": "scatter"
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AAECAwQFBgcI"
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AAQHCAMGAwME"
+      },
+      "type": "scatter"
+    }
+  ],
+  "layout": {
+    "legend": {
+      "x": 0,
+      "y": 1,
+      "traceorder": "normal",
+      "font": {
+        "family": "Arial, sans-serif",
+        "size": 12,
+        "color": "#000"
+      },
+      "bgcolor": "#E2E2E2",
+      "bordercolor": "#FFFFFF",
+      "borderwidth": 2
+    }
+  }
+}

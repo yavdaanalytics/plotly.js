@@ -1,0 +1,128 @@
+{
+  "data": [
+    {
+      "r": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAA8D/Xo3A9CtfvP7Kd76fGS+8/O99PjZdu7j9zaJHtfD/tP4PAyqFFtus/F9nO91Pj6T8tsp3vp8bnP5zEILByaOU/N4lBYOXQ4j8AAAAAAADgPz81XrpJDNo/LbKd76fG0z85tMh2vp/KP+F6FK5H4bo/AAAAAAAAAADhehSuR+G6Pzm0yHa+n8o/LbKd76fG0z8/NV66SQzaPwAAAAAAAOA/N4lBYOXQ4j+cxCCwcmjlPy2yne+nxuc/F9nO91Pj6T+DwMqhRbbrP3Noke18P+0/O99PjZdu7j+yne+nxkvvP9ejcD0K1+8/AAAAAAAA8D/Xo3A9CtfvP7Kd76fGS+8/O99PjZdu7j9zaJHtfD/tP4PAyqFFtus/F9nO91Pj6T8tsp3vp8bnP5zEILByaOU/N4lBYOXQ4j8AAAAAAADgPz81XrpJDNo/LbKd76fG0z85tMh2vp/KP+F6FK5H4bo/AAAAAAAAAADhehSuR+G6Pzm0yHa+n8o/LbKd76fG0z8/NV66SQzaPwAAAAAAAOA/N4lBYOXQ4j+cxCCwcmjlPy2yne+nxuc/F9nO91Pj6T+DwMqhRbbrP3Noke18P+0/O99PjZdu7j+yne+nxkvvP9ejcD0K1+8/AAAAAAAA8D8="
+      },
+      "theta": {
+        "dtype": "i2",
+        "bdata": "AAAGAAwAEgAYAB4AJAAqADAANgA8AEIASABOAFQAWgBgAGYAbAByAHgAfgCEAIoAkACWAJwAogCoAK4AtAC6AMAAxgDMANIA2ADeAOQA6gDwAPYA/AACAQgBDgEUARoBIAEmASwBMgE4AT4BRAFKAVABVgFcAWIBaAE="
+      },
+      "mode": "lines",
+      "name": "Figure8",
+      "line": {
+        "color": "peru",
+        "shape": "spline"
+      },
+      "type": "scatterpolar"
+    },
+    {
+      "r": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAA8D+BlUOLbOfvP9nO91Pjpe8/CKwcWmQ77z85tMh2vp/uP0Jg5dAi2+0/9ihcj8L17D+BlUOLbOfrP7gehetRuOo/nMQgsHJo6T8AAAAAAADoP+XQItv5fuY/9ihcj8L15D+HFtnO91PjP0SLbOf7qeE/AAAAAAAA4D956SYxCKzcP/LSTWIQWNk/FK5H4XoU1j81XrpJDALTPwAAAAAAANA/ke18PzVeyj8fhetRuB7FP/yp8dJNYsA/UrgehetRuD/0/dR46SaxP2q8dJMYBKY/+n5qvHSTmD+6SQwCK4eGP/p+arx0k2g/AAAAAAAAAAD6fmq8dJNoP7pJDAIrh4Y/+n5qvHSTmD9qvHSTGASmP/T91HjpJrE/UrgehetRuD/8qfHSTWLAPx+F61G4HsU/ke18PzVeyj8AAAAAAADQPzVeukkMAtM/FK5H4XoU1j/y0k1iEFjZP3npJjEIrNw/AAAAAAAA4D9Ei2zn+6nhP4cW2c73U+M/9ihcj8L15D/l0CLb+X7mPwAAAAAAAOg/nMQgsHJo6T+4HoXrUbjqP4GVQ4ts5+s/9ihcj8L17D9CYOXQItvtPzm0yHa+n+4/CKwcWmQ77z/ZzvdT46XvP4GVQ4ts5+8/AAAAAAAA8D8="
+      },
+      "theta": {
+        "dtype": "i2",
+        "bdata": "AAAGAAwAEgAYAB4AJAAqADAANgA8AEIASABOAFQAWgBgAGYAbAByAHgAfgCEAIoAkACWAJwAogCoAK4AtAC6AMAAxgDMANIA2ADeAOQA6gDwAPYA/AACAQgBDgEUARoBIAEmASwBMgE4AT4BRAFKAVABVgFcAWIBaAE="
+      },
+      "mode": "lines",
+      "name": "Cardioid",
+      "line": {
+        "color": "darkviolet",
+        "shape": "spline"
+      },
+      "type": "scatterpolar"
+    },
+    {
+      "r": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAA8D+sHFpkO9/vP7ByaJHtfO8/N4lBYOXQ7j/sUbgehevtP83MzMzMzOw/BoGVQ4ts6z9t5/up8dLpP6rx0k1iEOg/6SYxCKwc5j8AAAAAAADkP8P1KFyPwuE/DAIrhxbZ3j+WQ4ts5/vZP8uhRbbz/dQ/AAAAAAAA0D9qvHSTGATGP6rx0k1iELg/O99PjZdukj8pXI/C9SisPwAAAAAAAMA/ppvEILByyD9U46WbxCDQP9nO91PjpdM/DAIrhxbZ1j+amZmZmZnZP9ejcD0K19s/bxKDwMqh3T9g5dAi2/neP1g5tMh2vt8/AAAAAAAA4D9YObTIdr7fP2Dl0CLb+d4/bxKDwMqh3T/Xo3A9CtfbP5qZmZmZmdk/DAIrhxbZ1j/ZzvdT46XTP1TjpZvEINA/ppvEILByyD8AAAAAAADAPylcj8L1KKw/O99PjZdukj+q8dJNYhC4P2q8dJMYBMY/AAAAAAAA0D/LoUW28/3UP5ZDi2zn+9k/DAIrhxbZ3j/D9Shcj8LhPwAAAAAAAOQ/6SYxCKwc5j+q8dJNYhDoP23n+6nx0uk/BoGVQ4ts6z/NzMzMzMzsP+xRuB6F6+0/N4lBYOXQ7j+wcmiR7XzvP6wcWmQ73+8/AAAAAAAA8D8="
+      },
+      "theta": {
+        "dtype": "i2",
+        "bdata": "AAAGAAwAEgAYAB4AJAAqADAANgA8AEIASABOAFQAWgBgAGYAbAByAHgAfgCEAIoAkACWAJwAogCoAK4AtAC6AMAAxgDMANIA2ADeAOQA6gDwAPYA/AACAQgBDgEUARoBIAEmASwBMgE4AT4BRAFKAVABVgFcAWIBaAE="
+      },
+      "mode": "lines",
+      "name": "Hypercardioid",
+      "line": {
+        "color": "deepskyblue",
+        "shape": "spline"
+      },
+      "type": "scatterpolar"
+    },
+    {
+      "r": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAA8D9WDi2yne/vPy2yne+nxu8/hetRuB6F7z9eukkMAivvP7gehetRuO4/kxgEVg4t7j/wp8ZLN4ntP6JFtvP91Ow/1XjpJjEI7D8zMzMzMzPrP+f7qfHSTeo/x0s3iUFg6T/8qfHSTWLoPzEIrBxaZOc/ZmZmZmZm5j+cxCCwcmjlP9Ei2/l+auQ/BoGVQ4ts4z/l0CLb+X7iP5qZmZmZmeE/+FPjpZvE4D9WDi2yne/fP7pJDAIrh94/c2iR7Xw/3T8pXI/C9SjcP90kBoGVQ9s/j8L1KFyP2j8/NV66SQzaP+58PzVeutk/mpmZmZmZ2T/ufD81XrrZPz81XrpJDNo/j8L1KFyP2j/dJAaBlUPbPylcj8L1KNw/c2iR7Xw/3T+6SQwCK4feP1YOLbKd798/+FPjpZvE4D+amZmZmZnhP+XQItv5fuI/BoGVQ4ts4z/RItv5fmrkP5zEILByaOU/ZmZmZmZm5j8xCKwcWmTnP/yp8dJNYug/x0s3iUFg6T/n+6nx0k3qPzMzMzMzM+s/1XjpJjEI7D+iRbbz/dTsP/Cnxks3ie0/kxgEVg4t7j+4HoXrUbjuP166SQwCK+8/hetRuB6F7z8tsp3vp8bvP1YOLbKd7+8/AAAAAAAA8D8="
+      },
+      "theta": {
+        "dtype": "i2",
+        "bdata": "AAAGAAwAEgAYAB4AJAAqADAANgA8AEIASABOAFQAWgBgAGYAbAByAHgAfgCEAIoAkACWAJwAogCoAK4AtAC6AMAAxgDMANIA2ADeAOQA6gDwAPYA/AACAQgBDgEUARoBIAEmASwBMgE4AT4BRAFKAVABVgFcAWIBaAE="
+      },
+      "mode": "lines",
+      "name": "Subcardioid",
+      "line": {
+        "color": "orangered",
+        "shape": "spline"
+      },
+      "type": "scatterpolar"
+    },
+    {
+      "r": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAA8D+BlUOLbOfvP1pkO99Pje8/NV66SQwC7z8Sg8DKoUXuPx1aZDvfT+0/KVyPwvUo7D83iUFg5dDqP/LSTWIQWOk/rkfhehSu5z/sUbgehevlP9V46SYxCOQ/FK5H4XoU4j/VeOkmMQjgP4GVQ4ts59s/rkfhehSu1z/b+X5qvHTTP2Q730+Nl84/ZmZmZmZmxj/Jdr6fGi+9Pylcj8L1KKw/AAAAAAAAAAA5tMh2vp+qP0oMAiuHFrk/7FG4HoXrwT+6SQwCK4fGP5HtfD81Xso/HVpkO99PzT+wcmiR7XzPP6abxCCwctA/pHA9Ctej0D+mm8QgsHLQP7ByaJHtfM8/HVpkO99PzT+R7Xw/NV7KP7pJDAIrh8Y/7FG4HoXrwT9KDAIrhxa5Pzm0yHa+n6o/AAAAAAAAAAApXI/C9SisP8l2vp8aL70/ZmZmZmZmxj9kO99PjZfOP9v5fmq8dNM/rkfhehSu1z+BlUOLbOfbP9V46SYxCOA/FK5H4XoU4j/VeOkmMQjkP+xRuB6F6+U/rkfhehSu5z/y0k1iEFjpPzeJQWDl0Oo/KVyPwvUo7D8dWmQ730/tPxKDwMqhRe4/NV66SQwC7z9aZDvfT43vP4GVQ4ts5+8/AAAAAAAA8D8="
+      },
+      "theta": {
+        "dtype": "i2",
+        "bdata": "AAAGAAwAEgAYAB4AJAAqADAANgA8AEIASABOAFQAWgBgAGYAbAByAHgAfgCEAIoAkACWAJwAogCoAK4AtAC6AMAAxgDMANIA2ADeAOQA6gDwAPYA/AACAQgBDgEUARoBIAEmASwBMgE4AT4BRAFKAVABVgFcAWIBaAE="
+      },
+      "mode": "lines",
+      "name": "Supercardioid",
+      "line": {
+        "color": "green",
+        "shape": "spline"
+      },
+      "type": "scatterpolar"
+    }
+  ],
+  "layout": {
+    "title": {
+      "text": "Mic Patterns"
+    },
+    "font": {
+      "family": "Arial, sans-serif",
+      "size": 12,
+      "color": "#000"
+    },
+    "width": 500,
+    "height": 400,
+    "margin": {
+      "l": 40,
+      "r": 40,
+      "b": 30,
+      "t": 60,
+      "pad": 0
+    },
+    "polar": {
+      "bgcolor": "rgb(255, 255, 255)",
+      "radialaxis": {
+        "range": [
+          0,
+          1.1
+        ],
+        "tickangle": 45,
+        "tick0": 0,
+        "dtick": 0.1
+      },
+      "angularaxis": {
+        "thetaunit": "radians",
+        "showgrid": true,
+        "tickwidth": 2,
+        "ticklen": 5
+      }
+    },
+    "showlegend": false,
+    "paper_bgcolor": "rgb(255, 255, 255)"
+  }
+}

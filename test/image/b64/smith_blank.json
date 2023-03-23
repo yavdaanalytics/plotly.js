@@ -1,0 +1,190 @@
+{
+  "data": [
+    {
+      "type": "scattersmith",
+      "real": [],
+      "imag": []
+    },
+    {
+      "type": "scattersmith",
+      "real": [],
+      "imag": [],
+      "subplot": "smith2"
+    },
+    {
+      "type": "scattersmith",
+      "real": [],
+      "imag": [],
+      "subplot": "smith3"
+    },
+    {
+      "type": "scattersmith",
+      "mode": "markers+text",
+      "real": {
+        "dtype": "i1",
+        "bdata": "AAEBAA=="
+      },
+      "imag": {
+        "dtype": "i1",
+        "bdata": "AAABAQ=="
+      },
+      "marker": {
+        "size": 20,
+        "color": [
+          "red",
+          "green",
+          "blue",
+          "orange"
+        ]
+      },
+      "text": [
+        "red",
+        "green",
+        "blue",
+        "orange"
+      ],
+      "textposition": [
+        "right",
+        "bottom",
+        "left",
+        "top"
+      ],
+      "textfont": {
+        "color": [
+          "red",
+          "green",
+          "blue",
+          "orange"
+        ]
+      },
+      "cliponaxis": false,
+      "subplot": "smith4"
+    },
+    {
+      "type": "scattersmith",
+      "real": {
+        "dtype": "i1",
+        "bdata": "AQ=="
+      },
+      "imag": {
+        "dtype": "i1",
+        "bdata": "AA=="
+      },
+      "subplot": "smith5"
+    }
+  ],
+  "layout": {
+    "smith": {
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAAAABxPQrXo3DdPw=="
+        },
+        "y": {
+          "dtype": "f8",
+          "bdata": "7FG4HoXr4T8AAAAAAADwPw=="
+        }
+      },
+      "imaginaryaxis": {
+        "labelalias": {
+          "0": "ZERO<sup>2</sup>"
+        }
+      },
+      "realaxis": {
+        "side": "top"
+      }
+    },
+    "smith2": {
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAAAABxPQrXo3DdPw=="
+        },
+        "y": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAAAAApXI/C9SjcPw=="
+        }
+      },
+      "imaginaryaxis": {
+        "showline": true,
+        "showgrid": false,
+        "showticklabels": false,
+        "ticks": ""
+      },
+      "realaxis": {
+        "showline": false,
+        "showgrid": false,
+        "showticklabels": false,
+        "ticks": ""
+      }
+    },
+    "smith3": {
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "SOF6FK5H4T8AAAAAAADwPw=="
+        },
+        "y": {
+          "dtype": "f8",
+          "bdata": "7FG4HoXr4T8AAAAAAADwPw=="
+        }
+      },
+      "realaxis": {
+        "ticks": "top",
+        "side": "bottom"
+      },
+      "imaginaryaxis": {
+        "visible": false
+      }
+    },
+    "smith4": {
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "SOF6FK5H4T8AAAAAAADwPw=="
+        },
+        "y": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAAAAApXI/C9SjcPw=="
+        }
+      },
+      "realaxis": {
+        "visible": false
+      }
+    },
+    "smith5": {
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "uB6F61G4vj/D9Shcj8LVPw=="
+        },
+        "y": {
+          "dtype": "f8",
+          "bdata": "KVyPwvUovD/D9Shcj8LVPw=="
+        }
+      },
+      "realaxis": {
+        "ticks": "",
+        "tickvals": {
+          "dtype": "i1",
+          "bdata": "AAECAw=="
+        }
+      },
+      "imaginaryaxis": {
+        "tickvals": {
+          "dtype": "i1",
+          "bdata": "/f7/AAECAw=="
+        }
+      }
+    },
+    "showlegend": false,
+    "width": 500,
+    "height": 500,
+    "margin": {
+      "t": 30,
+      "b": 30,
+      "l": 30,
+      "r": 30
+    }
+  }
+}

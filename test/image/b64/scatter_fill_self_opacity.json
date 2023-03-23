@@ -1,0 +1,21 @@
+{
+  "data": [
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "BgcI"
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "BQYF"
+      },
+      "fill": "toself",
+      "opacity": 0.3
+    }
+  ],
+  "layout": {
+    "title": {
+      "text": "toself fill with opacity"
+    }
+  }
+}

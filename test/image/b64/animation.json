@@ -1,0 +1,195 @@
+{
+  "data": [
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AAEC"
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AAII"
+      },
+      "type": "scatter"
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AAEC"
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "BAID"
+      },
+      "type": "scatter"
+    }
+  ],
+  "layout": {
+    "title": {
+      "text": "Animation test"
+    },
+    "showlegend": true,
+    "autosize": false,
+    "xaxis": {
+      "range": [
+        0,
+        2
+      ],
+      "domain": {
+        "dtype": "i1",
+        "bdata": "AAE="
+      }
+    },
+    "yaxis": {
+      "range": [
+        0,
+        10
+      ],
+      "domain": {
+        "dtype": "i1",
+        "bdata": "AAE="
+      }
+    }
+  },
+  "frames": [
+    {
+      "name": "base",
+      "data": [
+        {
+          "y": {
+            "dtype": "i1",
+            "bdata": "AAII"
+          }
+        },
+        {
+          "y": {
+            "dtype": "i1",
+            "bdata": "BAID"
+          }
+        }
+      ],
+      "layout": {
+        "xaxis": {
+          "range": [
+            0,
+            2
+          ]
+        },
+        "yaxis": {
+          "range": [
+            0,
+            10
+          ]
+        }
+      }
+    },
+    {
+      "name": "frame0",
+      "group": "even-frames",
+      "data": [
+        {
+          "y": {
+            "dtype": "f8",
+            "bdata": "AAAAAAAA4D8AAAAAAAD4PwAAAAAAAB5A"
+          }
+        },
+        {
+          "y": {
+            "dtype": "f8",
+            "bdata": "AAAAAAAAEUAAAAAAAAACQGZmZmZmZghA"
+          }
+        }
+      ],
+      "baseframe": "base",
+      "traces": {
+        "dtype": "i1",
+        "bdata": "AAE="
+      },
+      "layout": {}
+    },
+    {
+      "name": "frame1",
+      "group": "odd-frames",
+      "data": [
+        {
+          "y": {
+            "dtype": "f8",
+            "bdata": "zczMzMzMAEAAAAAAAADwPwAAAAAAABxA"
+          }
+        },
+        {
+          "y": {
+            "dtype": "f8",
+            "bdata": "AAAAAAAAEkAAAAAAAAAEQM3MzMzMzAhA"
+          }
+        }
+      ],
+      "baseframe": "base",
+      "traces": {
+        "dtype": "i1",
+        "bdata": "AAE="
+      },
+      "layout": {}
+    },
+    {
+      "name": "frame2",
+      "group": "even-frames",
+      "data": [
+        {
+          "y": {
+            "dtype": "f8",
+            "bdata": "AAAAAAAADEAAAAAAAADgPwAAAAAAABhA"
+          }
+        },
+        {
+          "y": {
+            "dtype": "f8",
+            "bdata": "zczMzMzMFkCamZmZmZkFQDMzMzMzMw9A"
+          }
+        }
+      ],
+      "baseframe": "base",
+      "traces": {
+        "dtype": "i1",
+        "bdata": "AAE="
+      },
+      "layout": {}
+    },
+    {
+      "name": "frame3",
+      "group": "odd-frames",
+      "data": [
+        {
+          "y": {
+            "dtype": "f8",
+            "bdata": "ZmZmZmZmFEAAAAAAAADQPwAAAAAAABRA"
+          }
+        },
+        {
+          "y": {
+            "dtype": "f8",
+            "bdata": "AAAAAAAAHEAzMzMzMzMHQAAAAAAAABhA"
+          }
+        }
+      ],
+      "baseframe": "base",
+      "traces": {
+        "dtype": "i1",
+        "bdata": "AAE="
+      },
+      "layout": {
+        "xaxis": {
+          "range": [
+            -1,
+            4
+          ]
+        },
+        "yaxis": {
+          "range": [
+            -5,
+            15
+          ]
+        }
+      }
+    }
+  ]
+}

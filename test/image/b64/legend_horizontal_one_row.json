@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AAECAwQFBgcI"
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AAMGBAUCAwUE"
+      },
+      "type": "scatter",
+      "name": "title"
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AAECAwQFBgcI"
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AAQHCAMGAwME"
+      },
+      "type": "scatter",
+      "name": "this is a really long legend title"
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AAECAwQFBgcI"
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AgYFCQIEBgMH"
+      },
+      "type": "scatter",
+      "name": "this is a title"
+    }
+  ],
+  "layout": {
+    "title": {
+      "text": "Average Distribution per Month"
+    },
+    "legend": {
+      "orientation": "h"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "values": {
+        "dtype": "i1",
+        "bdata": "MjEwLy4tLCsqKQ=="
+      },
+      "pull": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAAAAAAAAAADgPwAAAAAAAAAAAAAAAAAA4D8AAAAAAAAAAAAAAAAAAOA/AAAAAAAAAAAAAAAAAADgPwAAAAAAAAAAAAAAAAAA4D8="
+      },
+      "sort": false,
+      "type": "pie",
+      "textposition": "inside",
+      "title": {
+        "text": "Withering<br>Flower",
+        "font": {
+          "size": 16
+        }
+      }
+    }
+  ],
+  "layout": {
+    "height": 600,
+    "width": 400,
+    "showlegend": false
+  }
+}

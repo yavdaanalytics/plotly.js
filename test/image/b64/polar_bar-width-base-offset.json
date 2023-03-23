@@ -1,0 +1,216 @@
+{
+  "data": [
+    {
+      "base": {
+        "dtype": "i1",
+        "bdata": "AAECAw=="
+      },
+      "width": 100,
+      "r": {
+        "dtype": "i1",
+        "bdata": "AQEBAQ=="
+      },
+      "type": "barpolar"
+    },
+    {
+      "base": {
+        "dtype": "i1",
+        "bdata": "BAMCAQ=="
+      },
+      "r": {
+        "dtype": "i1",
+        "bdata": "AQEBAQ=="
+      },
+      "type": "barpolar"
+    },
+    {
+      "base": {
+        "dtype": "i1",
+        "bdata": "AAEDAg=="
+      },
+      "width": 25,
+      "r": {
+        "dtype": "i1",
+        "bdata": "AQIBAg=="
+      },
+      "type": "barpolar"
+    },
+    {
+      "base": {
+        "dtype": "i1",
+        "bdata": "AQMCBA=="
+      },
+      "r": {
+        "dtype": "i1",
+        "bdata": "AQIBAg=="
+      },
+      "type": "barpolar"
+    },
+    {
+      "subplot": "polar2",
+      "base": {
+        "dtype": "i1",
+        "bdata": "ZCgZCg=="
+      },
+      "r": {
+        "dtype": "i1",
+        "bdata": "zgoZKA=="
+      },
+      "type": "barpolar"
+    },
+    {
+      "subplot": "polar2",
+      "base": {
+        "dtype": "i1",
+        "bdata": "ADxLWg=="
+      },
+      "r": {
+        "dtype": "i1",
+        "bdata": "Mvbn2A=="
+      },
+      "type": "barpolar"
+    },
+    {
+      "subplot": "polar3",
+      "base": {
+        "dtype": "i1",
+        "bdata": "AAECAw=="
+      },
+      "width": {
+        "dtype": "i1",
+        "bdata": "CggGBA=="
+      },
+      "offset": {
+        "dtype": "i1",
+        "bdata": "AAACBg=="
+      },
+      "r": {
+        "dtype": "i1",
+        "bdata": "AQEBAQ=="
+      },
+      "dtheta": 22.5,
+      "type": "barpolar"
+    },
+    {
+      "subplot": "polar3",
+      "base": {
+        "dtype": "i1",
+        "bdata": "BAMCAQ=="
+      },
+      "width": {
+        "dtype": "i1",
+        "bdata": "BAYICg=="
+      },
+      "offset": {
+        "dtype": "i1",
+        "bdata": "AggCBA=="
+      },
+      "r": {
+        "dtype": "i1",
+        "bdata": "/////w=="
+      },
+      "theta0": 90,
+      "dtheta": 22.5,
+      "type": "barpolar"
+    },
+    {
+      "subplot": "polar3",
+      "base": {
+        "dtype": "i1",
+        "bdata": "AAEDAg=="
+      },
+      "width": 10,
+      "offset": {
+        "dtype": "i1",
+        "bdata": "Hg=="
+      },
+      "r": {
+        "dtype": "i1",
+        "bdata": "AQL/Ag=="
+      },
+      "theta0": 180,
+      "dtheta": 22.5,
+      "type": "barpolar"
+    },
+    {
+      "subplot": "polar3",
+      "base": {
+        "dtype": "i1",
+        "bdata": "AQMCBA=="
+      },
+      "r": {
+        "dtype": "i1",
+        "bdata": "//4B/g=="
+      },
+      "offset": -15,
+      "theta0": 270,
+      "dtheta": 22.5,
+      "type": "barpolar"
+    },
+    {
+      "subplot": "polar4",
+      "width": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAA8D+amZmZmZnpPzMzMzMzM+M/mpmZmZmZ2T8="
+      },
+      "r": {
+        "dtype": "i1",
+        "bdata": "AQIDBA=="
+      },
+      "thetaunit": "radians",
+      "type": "barpolar"
+    },
+    {
+      "subplot": "polar4",
+      "width": {
+        "dtype": "f8",
+        "bdata": "mpmZmZmZ2T8zMzMzMzPjP5qZmZmZmek/AAAAAAAA8D8="
+      },
+      "r": {
+        "dtype": "i1",
+        "bdata": "AwIBAA=="
+      },
+      "thetaunit": "radians",
+      "type": "barpolar"
+    }
+  ],
+  "layout": {
+    "height": 600,
+    "width": 600,
+    "showlegend": false,
+    "grid": {
+      "rows": 2,
+      "columns": 2,
+      "xgap": 0.2,
+      "ygap": 0.2
+    },
+    "polar": {
+      "barmode": "overlay",
+      "domain": {
+        "row": 0,
+        "column": 0
+      }
+    },
+    "polar2": {
+      "barmode": "overlay",
+      "domain": {
+        "row": 0,
+        "column": 1
+      }
+    },
+    "polar3": {
+      "barmode": "overlay",
+      "domain": {
+        "row": 1,
+        "column": 0
+      }
+    },
+    "polar4": {
+      "barmode": "stack",
+      "domain": {
+        "row": 1,
+        "column": 1
+      }
+    }
+  }
+}

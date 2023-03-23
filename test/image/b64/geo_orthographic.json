@@ -1,0 +1,73 @@
+{
+  "data": [
+    {
+      "type": "choropleth",
+      "locations": [
+        "CAN",
+        "USA",
+        "RUS",
+        "AUS",
+        "FRA"
+      ],
+      "z": {
+        "dtype": "i1",
+        "bdata": "UBRkPCg="
+      },
+      "colorscale": "Portland",
+      "zmin": 0,
+      "zmax": 100
+    },
+    {
+      "type": "scattergeo",
+      "mode": "markers+text",
+      "name": "some marker trace",
+      "lon": {
+        "dtype": "i1",
+        "bdata": "ALVk"
+      },
+      "lat": {
+        "dtype": "i1",
+        "bdata": "AC3i"
+      },
+      "marker": {
+        "size": {
+          "dtype": "i1",
+          "bdata": "FB4P"
+        },
+        "symbol": [
+          "square",
+          "cross",
+          "diamond"
+        ]
+      },
+      "text": [
+        "A",
+        "B",
+        "C"
+      ],
+      "textfont": {
+        "size": 20
+      },
+      "textposition": "top right"
+    }
+  ],
+  "layout": {
+    "geo": {
+      "projection": {
+        "type": "orthographic",
+        "rotation": {
+          "lon": -75,
+          "lat": 45
+        }
+      },
+      "showcoastlines": true,
+      "showcountries": true,
+      "showland": true,
+      "showocean": true
+    },
+    "autosize": false,
+    "width": 500,
+    "height": 500,
+    "showlegend": false
+  }
+}

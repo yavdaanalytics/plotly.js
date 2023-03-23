@@ -1,0 +1,51 @@
+{
+  "data": [
+    {
+      "name": "plotly.js",
+      "type": "funnel",
+      "orientation": "h",
+      "y": [
+        "All tickets",
+        "Pull requests",
+        "Author: etpinard",
+        "Label: bug",
+        "Status: open"
+      ],
+      "x": {
+        "dtype": "i2",
+        "bdata": "rA4sBpcCVwEBAA=="
+      },
+      "textinfo": "value+percent total"
+    },
+    {
+      "name": "orca",
+      "type": "funnel",
+      "orientation": "h",
+      "y": [
+        "All tickets",
+        "Pull requests",
+        "Author: etpinard",
+        "Label: bug",
+        "Status: open"
+      ],
+      "x": {
+        "dtype": "i2",
+        "bdata": "4ABrAB8AAgAAAA=="
+      },
+      "textinfo": "value+percent total",
+      "cliponaxis": false
+    }
+  ],
+  "layout": {
+    "title": {
+      "text": "plotly repos | April 10 2019"
+    },
+    "margin": {
+      "l": 150
+    },
+    "height": 800,
+    "width": 800,
+    "funnelmode": "stack",
+    "showlegend": true
+  }
+}

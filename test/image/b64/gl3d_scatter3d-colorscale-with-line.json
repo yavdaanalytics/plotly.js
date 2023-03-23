@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQIECBA="
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "//78+PA="
+      },
+      "z": {
+        "dtype": "i1",
+        "bdata": "AAEAAQA="
+      },
+      "type": "scatter3d",
+      "mode": "lines",
+      "line": {
+        "color": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAAAAAAAAAAAADQPwAAAAAAAOA/AAAAAAAA6D8AAAAAAADwPw=="
+        },
+        "showscale": true,
+        "width": 10
+      }
+    }
+  ],
+  "layout": {
+    "title": {
+      "text": "Scatter3d show scale with line colors"
+    },
+    "width": 600,
+    "height": 600
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "data": [
+    {
+      "type": "scatterpolar",
+      "mode": "lines",
+      "r": {
+        "dtype": "i1",
+        "bdata": "AwMEAw=="
+      },
+      "theta": {
+        "dtype": "i1",
+        "bdata": "AC0AAA=="
+      },
+      "fill": "toself",
+      "hoveron": "fills"
+    },
+    {
+      "type": "scatterpolar",
+      "mode": "lines",
+      "r": {
+        "dtype": "i1",
+        "bdata": "AgICAgQC"
+      },
+      "theta": {
+        "dtype": "i2",
+        "bdata": "AABaALQADgFeAWgB"
+      },
+      "fill": "toself",
+      "hoveron": "fills"
+    },
+    {
+      "type": "scatterpolar",
+      "mode": "lines",
+      "r": {
+        "dtype": "i1",
+        "bdata": "BQECBAU="
+      },
+      "theta": {
+        "dtype": "i2",
+        "bdata": "AABaALQADgEAAA=="
+      },
+      "fill": "toself",
+      "hoveron": "fills",
+      "subplot": "polar2"
+    },
+    {
+      "type": "scatterpolar",
+      "mode": "markers",
+      "r": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAFEAAAAAAAADwPwAAAAAAAPg/AAAAAAAAEEAAAAAAAAAUQA=="
+      },
+      "theta": {
+        "dtype": "i2",
+        "bdata": "AAAOAbQAWgAAAA=="
+      },
+      "fill": "toself",
+      "hoveron": "fills",
+      "subplot": "polar2"
+    }
+  ],
+  "layout": {
+    "polar": {
+      "domain": {
+        "x": {
+          "dtype": "i1",
+          "bdata": "AAE="
+        },
+        "y": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAAAABxPQrXo3DdPw=="
+        }
+      },
+      "radialaxis": {
+        "range": [
+          0,
+          5
+        ]
+      }
+    },
+    "polar2": {
+      "domain": {
+        "x": {
+          "dtype": "i1",
+          "bdata": "AAE="
+        },
+        "y": {
+          "dtype": "f8",
+          "bdata": "SOF6FK5H4T8AAAAAAADwPw=="
+        }
+      },
+      "radialaxis": {
+        "range": [
+          2,
+          5
+        ]
+      }
+    },
+    "showlegend": false,
+    "margin": {
+      "t": 40,
+      "b": 40
+    },
+    "width": 500,
+    "height": 800
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "type": "barpolar",
+      "r": {
+        "dtype": "i1",
+        "bdata": "AQIDBA=="
+      },
+      "marker": {
+        "line": {
+          "width": 2
+        }
+      }
+    },
+    {
+      "type": "barpolar",
+      "r": {
+        "dtype": "i1",
+        "bdata": "AQIDAQ=="
+      },
+      "marker": {
+        "line": {
+          "width": 2
+        }
+      }
+    }
+  ],
+  "layout": {
+    "colorway": [
+      "#8dd3c7",
+      "#bebada"
+    ],
+    "width": 500,
+    "height": 500
+  }
+}

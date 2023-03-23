@@ -1,0 +1,60 @@
+{
+  "data": [
+    {
+      "y": {
+        "dtype": "i1",
+        "bdata": "AQ=="
+      },
+      "name": "AAAAAAAAAAAAaaaaaaa"
+    },
+    {
+      "y": {
+        "dtype": "i1",
+        "bdata": "Ag=="
+      },
+      "name": "BB"
+    },
+    {
+      "y": {
+        "dtype": "i1",
+        "bdata": "Aw=="
+      },
+      "name": "C"
+    },
+    {
+      "y": {
+        "dtype": "i1",
+        "bdata": "BA=="
+      },
+      "name": "D"
+    },
+    {
+      "y": {
+        "dtype": "i1",
+        "bdata": "BQ=="
+      },
+      "name": "E"
+    },
+    {
+      "y": {
+        "dtype": "i1",
+        "bdata": "Bg=="
+      },
+      "name": "F"
+    },
+    {
+      "y": {
+        "dtype": "i1",
+        "bdata": "Bw=="
+      },
+      "name": "G"
+    }
+  ],
+  "layout": {
+    "legend": {
+      "bgcolor": "red",
+      "orientation": "h"
+    },
+    "width": 600
+  }
+}

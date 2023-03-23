@@ -1,0 +1,196 @@
+{
+  "data": [
+    {
+      "type": "box",
+      "x": [
+        "day 1",
+        "day 1",
+        "day 1",
+        "day 1",
+        "day 1",
+        "day 1",
+        "day 2",
+        "day 2",
+        "day 2",
+        "day 2",
+        "day 2",
+        "day 2"
+      ],
+      "y": {
+        "dtype": "f8",
+        "bdata": "mpmZmZmZyT+amZmZmZnJPzMzMzMzM+M/AAAAAAAA8D8AAAAAAADgP5qZmZmZmdk/mpmZmZmZyT9mZmZmZmbmP83MzMzMzOw/mpmZmZmZuT8AAAAAAADgPzMzMzMzM9M/"
+      }
+    },
+    {
+      "type": "box",
+      "x": [
+        "day 1",
+        "day 1",
+        "day 1",
+        "day 1",
+        "day 1",
+        "day 1",
+        "day 2",
+        "day 2",
+        "day 2",
+        "day 2",
+        "day 2",
+        "day 2"
+      ],
+      "y": {
+        "dtype": "f8",
+        "bdata": "mpmZmZmZuT8zMzMzMzPTP5qZmZmZmbk/zczMzMzM7D8zMzMzMzPjPzMzMzMzM+M/zczMzMzM7D8AAAAAAADwPzMzMzMzM9M/MzMzMzMz4z+amZmZmZnpPwAAAAAAAOA/"
+      }
+    },
+    {
+      "type": "box",
+      "x": [
+        "day 1",
+        "day 1",
+        "day 1",
+        "day 1",
+        "day 1",
+        "day 1",
+        "day 2",
+        "day 2",
+        "day 2",
+        "day 2",
+        "day 2",
+        "day 2"
+      ],
+      "y": {
+        "dtype": "f8",
+        "bdata": "MzMzMzMz4z9mZmZmZmbmPzMzMzMzM9M/MzMzMzMz4z8AAAAAAAAAAAAAAAAAAOA/ZmZmZmZm5j/NzMzMzMzsPwAAAAAAAOA/mpmZmZmZ6T9mZmZmZmbmP5qZmZmZmck/"
+      }
+    },
+    {
+      "type": "bar",
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQIB"
+      },
+      "y": [
+        "apples",
+        "bananas",
+        "clementines"
+      ],
+      "orientation": "h",
+      "xaxis": "x2",
+      "yaxis": "y2"
+    },
+    {
+      "type": "bar",
+      "x": {
+        "dtype": "f8",
+        "bdata": "zczMzMzM9D+amZmZmZkBQJqZmZmZmek/"
+      },
+      "y": [
+        "apples",
+        "bananas",
+        "clementines"
+      ],
+      "orientation": "h",
+      "xaxis": "x2",
+      "yaxis": "y2"
+    },
+    {
+      "type": "bar",
+      "x": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAACECamZmZmZkJQM3MzMzMzPw/"
+      },
+      "y": [
+        "apples",
+        "bananas",
+        "clementines"
+      ],
+      "orientation": "h",
+      "xaxis": "x2",
+      "yaxis": "y2"
+    },
+    {
+      "type": "bar",
+      "name": "with dtick !== 1",
+      "x": [
+        "a",
+        "b",
+        "c",
+        "d",
+        "e",
+        "f",
+        "g",
+        "h"
+      ],
+      "y": {
+        "dtype": "i1",
+        "bdata": "AQIBAgEDBAE="
+      },
+      "xaxis": "x3",
+      "yaxis": "y3"
+    },
+    {
+      "mode": "markers",
+      "marker": {
+        "symbol": "square"
+      },
+      "name": "with overlapping tick labels",
+      "x": [
+        "A very long title",
+        "short",
+        "Another very long title"
+      ],
+      "y": {
+        "dtype": "i1",
+        "bdata": "AQQC"
+      },
+      "xaxis": "x4",
+      "yaxis": "y4"
+    }
+  ],
+  "layout": {
+    "boxmode": "group",
+    "grid": {
+      "rows": 4,
+      "columns": 1,
+      "pattern": "independent",
+      "ygap": 0.2
+    },
+    "xaxis": {
+      "ticks": "outside",
+      "tickson": "boundaries",
+      "gridcolor": "white",
+      "gridwidth": 4
+    },
+    "yaxis2": {
+      "ticks": "inside",
+      "tickson": "boundaries",
+      "gridcolor": "white",
+      "gridwidth": 4
+    },
+    "xaxis3": {
+      "ticks": "inside",
+      "tickson": "boundaries",
+      "gridcolor": "white",
+      "gridwidth": 4,
+      "dtick": 2
+    },
+    "xaxis4": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "KVyPwvUozD/2KFyPwvXoPw=="
+      },
+      "ticks": "outside",
+      "ticklen": 20,
+      "tickson": "boundaries",
+      "gridcolor": "white",
+      "gridwidth": 4
+    },
+    "plot_bgcolor": "lightgrey",
+    "showlegend": false,
+    "width": 500,
+    "height": 800,
+    "margin": {
+      "b": 140
+    }
+  }
+}

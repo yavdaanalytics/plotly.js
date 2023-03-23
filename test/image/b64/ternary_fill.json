@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "a": {
+        "dtype": "f8",
+        "bdata": "mpmZmZmZ2T+amZmZmZnZP5qZmZmZmck/mpmZmZmZ2T8="
+      },
+      "b": {
+        "dtype": "f8",
+        "bdata": "mpmZmZmZyT+amZmZmZnZP5qZmZmZmdk/mpmZmZmZyT8="
+      },
+      "type": "scatterternary",
+      "fill": "tonext"
+    },
+    {
+      "a": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAA4D8AAAAAAADgPwAAAAAAAAAAAAAAAAAA4D8="
+      },
+      "b": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAAAAAAAAAADgPwAAAAAAAOA/AAAAAAAAAAA="
+      },
+      "type": "scatterternary",
+      "fill": "tonext"
+    },
+    {
+      "a": [
+        0.8,
+        0.6,
+        0.6,
+        0.8,
+        null,
+        0.1,
+        0.1,
+        0.3,
+        0.1,
+        null,
+        0.1,
+        0.1,
+        0.3,
+        0.1
+      ],
+      "b": [
+        0.1,
+        0.1,
+        0.3,
+        0.1,
+        null,
+        0.8,
+        0.6,
+        0.6,
+        0.8,
+        null,
+        0.3,
+        0.1,
+        0.1,
+        0.3
+      ],
+      "type": "scatterternary",
+      "fill": "toself"
+    }
+  ],
+  "layout": {
+    "height": 400,
+    "width": 500
+  }
+}

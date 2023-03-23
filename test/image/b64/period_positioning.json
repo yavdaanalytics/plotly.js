@@ -1,0 +1,280 @@
+{
+  "data": [
+    {
+      "xaxis": "x",
+      "yaxis": "y",
+      "name": "bar (v)",
+      "type": "bar",
+      "y": {
+        "dtype": "i1",
+        "bdata": "AQIDBA=="
+      },
+      "x": [
+        "2001-01-01",
+        "2002-01-01",
+        "2003-01-01",
+        "2004-01-01"
+      ],
+      "xperiod": "M12",
+      "xperiodalignment": "middle"
+    },
+    {
+      "xaxis": "x",
+      "yaxis": "y",
+      "name": "scatter",
+      "type": "scatter",
+      "y": {
+        "dtype": "i1",
+        "bdata": "AQIDBA=="
+      },
+      "x": [
+        "2001-01-01",
+        "2002-01-01",
+        "2003-01-01",
+        "2004-01-01"
+      ],
+      "xperiod": "M12",
+      "xperiodalignment": "middle"
+    },
+    {
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "name": "bar (h)",
+      "type": "bar",
+      "orientation": "h",
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQIDBA=="
+      },
+      "y": [
+        "2001-01-01",
+        "2002-01-01",
+        "2003-01-01",
+        "2004-01-01"
+      ],
+      "yperiod": "M12",
+      "yperiodalignment": "middle"
+    },
+    {
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "name": "scatter2",
+      "type": "scatter",
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQIDBA=="
+      },
+      "y": [
+        "2001-01-01",
+        "2002-01-01",
+        "2003-01-01",
+        "2004-01-01"
+      ],
+      "yperiod": "M12",
+      "yperiodalignment": "middle"
+    },
+    {
+      "xaxis": "x3",
+      "yaxis": "y3",
+      "name": "waterfall",
+      "type": "waterfall",
+      "y": {
+        "dtype": "i1",
+        "bdata": "BP0C/w=="
+      },
+      "x": [
+        "2001-01-01",
+        "2002-01-01",
+        "2003-01-01",
+        "2004-01-01"
+      ],
+      "xperiod": "M12",
+      "xperiodalignment": "middle"
+    },
+    {
+      "xaxis": "x4",
+      "yaxis": "y4",
+      "name": "funnel",
+      "type": "funnel",
+      "x": {
+        "dtype": "i1",
+        "bdata": "BAMCAQ=="
+      },
+      "y": [
+        "2001-01-01",
+        "2002-01-01",
+        "2003-01-01",
+        "2004-01-01"
+      ],
+      "yperiod": "M12",
+      "yperiodalignment": "middle"
+    },
+    {
+      "xaxis": "x5",
+      "yaxis": "y5",
+      "name": "heatmap",
+      "type": "heatmap",
+      "zsmooth": "best",
+      "showscale": false,
+      "showlegend": true,
+      "x": [
+        "2001-01-01",
+        "2002-01-01",
+        "2003-01-01",
+        "2004-01-01"
+      ],
+      "y": [
+        "2001-01-01",
+        "2002-01-01",
+        "2003-01-01",
+        "2004-01-01"
+      ],
+      "z": {
+        "dtype": "i1",
+        "bdata": "AAEAAQEAAQAAAQABAQABAA==",
+        "shape": "4, 4"
+      },
+      "xperiod": "M12",
+      "xperiodalignment": "middle",
+      "yperiod": "M12",
+      "yperiodalignment": "middle"
+    },
+    {
+      "xaxis": "x6",
+      "yaxis": "y6",
+      "name": "contour",
+      "type": "contour",
+      "colorscale": "Portland",
+      "showscale": false,
+      "showlegend": true,
+      "x": [
+        "2001-01-01",
+        "2002-01-01",
+        "2003-01-01",
+        "2004-01-01"
+      ],
+      "y": [
+        "2001-01-01",
+        "2002-01-01",
+        "2003-01-01",
+        "2004-01-01"
+      ],
+      "z": {
+        "dtype": "i1",
+        "bdata": "AAEAAQEAAQAAAQABAQABAA==",
+        "shape": "4, 4"
+      },
+      "xperiod": "M12",
+      "xperiodalignment": "middle",
+      "yperiod": "M12",
+      "yperiodalignment": "middle"
+    }
+  ],
+  "layout": {
+    "width": 1000,
+    "height": 500,
+    "showlegend": true,
+    "hovermode": "closest",
+    "xaxis": {
+      "ticklabelmode": "period",
+      "tickcolor": "black",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAAAzMzMzMzPTPw=="
+      }
+    },
+    "xaxis2": {
+      "tickcolor": "black",
+      "anchor": "y2",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAAAzMzMzMzPTPw=="
+      }
+    },
+    "xaxis3": {
+      "ticklabelmode": "period",
+      "tickcolor": "black",
+      "anchor": "y3",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "ZmZmZmZm1j/NzMzMzMzkPw=="
+      }
+    },
+    "xaxis4": {
+      "anchor": "y4",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "ZmZmZmZm1j/NzMzMzMzkPw=="
+      }
+    },
+    "xaxis5": {
+      "ticklabelmode": "period",
+      "tickcolor": "black",
+      "anchor": "y5",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "ZmZmZmZm5j8AAAAAAADwPw=="
+      }
+    },
+    "xaxis6": {
+      "ticklabelmode": "period",
+      "tickcolor": "black",
+      "anchor": "y6",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "ZmZmZmZm5j8AAAAAAADwPw=="
+      }
+    },
+    "yaxis": {
+      "tickcolor": "black",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAADNzMzMzMzcPw=="
+      }
+    },
+    "yaxis2": {
+      "ticklabelmode": "period",
+      "tickcolor": "black",
+      "anchor": "x2",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "mpmZmZmZ4T8AAAAAAADwPw=="
+      }
+    },
+    "yaxis3": {
+      "tickcolor": "black",
+      "anchor": "x3",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAADNzMzMzMzcPw=="
+      }
+    },
+    "yaxis4": {
+      "ticklabelmode": "period",
+      "tickcolor": "black",
+      "anchor": "x4",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "mpmZmZmZ4T8AAAAAAADwPw=="
+      }
+    },
+    "yaxis5": {
+      "ticklabelmode": "period",
+      "tickcolor": "black",
+      "anchor": "x5",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAADNzMzMzMzcPw=="
+      }
+    },
+    "yaxis6": {
+      "ticklabelmode": "period",
+      "tickcolor": "black",
+      "anchor": "x6",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "mpmZmZmZ4T8AAAAAAADwPw=="
+      }
+    }
+  }
+}

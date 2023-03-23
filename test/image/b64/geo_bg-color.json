@@ -1,0 +1,88 @@
+{
+  "data": [
+    {
+      "type": "scattergeo",
+      "mode": "markers",
+      "name": "mah trace",
+      "lon": {
+        "dtype": "i1",
+        "bdata": "ALVk"
+      },
+      "lat": {
+        "dtype": "i1",
+        "bdata": "AC3i"
+      },
+      "marker": {
+        "size": 20,
+        "gradient": {
+          "type": "radial",
+          "color": "rgba(31,119,180,0.5)"
+        }
+      }
+    },
+    {
+      "type": "scattergeo",
+      "lon": {
+        "dtype": "i2",
+        "bdata": "tf8KAKAA"
+      },
+      "lat": {
+        "dtype": "i1",
+        "bdata": "LTI8"
+      },
+      "geo": "geo2",
+      "marker": {
+        "size": 20,
+        "gradient": {
+          "type": "vertical",
+          "color": [
+            "#000",
+            "#fff",
+            "#888"
+          ]
+        }
+      }
+    }
+  ],
+  "layout": {
+    "title": {
+      "text": "COLOURED GEOS"
+    },
+    "geo": {
+      "projection": {
+        "type": "mercator"
+      },
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAAAADNzMzMzMzcPw=="
+        },
+        "y": {
+          "dtype": "i1",
+          "bdata": "AAE="
+        }
+      },
+      "bgcolor": "rgba(0, 0, 255, 0.4)"
+    },
+    "geo2": {
+      "projection": {
+        "type": "mercator"
+      },
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "mpmZmZmZ4T8AAAAAAADwPw=="
+        },
+        "y": {
+          "dtype": "i1",
+          "bdata": "AAE="
+        }
+      },
+      "bgcolor": "rgba(255, 0, 0, 0.4)"
+    },
+    "height": 450,
+    "width": 1000,
+    "autosize": true,
+    "showlegend": true
+  }
+}

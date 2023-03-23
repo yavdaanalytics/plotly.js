@@ -1,0 +1,163 @@
+{
+  "data": [
+    {
+      "xaxis": "x",
+      "yaxis": "y",
+      "type": "bar",
+      "orientation": "h",
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQpk"
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AQpk"
+      }
+    },
+    {
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "type": "heatmap",
+      "colorbar": {
+        "tickangle": -90,
+        "dtick": 10,
+        "ticks": "inside",
+        "ticklen": 12,
+        "tickwidth": 4,
+        "ticklabelposition": "inside top"
+      },
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQpk"
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AQpk"
+      },
+      "z": {
+        "dtype": "i1",
+        "bdata": "ADJkMmQAZAAy",
+        "shape": "3, 3"
+      }
+    },
+    {
+      "xaxis": "x3",
+      "yaxis": "y3",
+      "type": "image",
+      "z": {
+        "dtype": "i2",
+        "bdata": "/wAAAAAA/wD/AAAAAAD/AAAAAAD/AP8AAAAAAP8A/wAAAP8A/wD/AAAAAAD/AAAAAAD/AP8AAAAAAP8A/wAAAP8A/wAAAAAAAAD/AAAAAAD/AP8AAAAAAP8A/wAAAP8A/wAAAAAA/wD/AAAAAAD/AP8AAAAAAP8A/wAAAP8A/wAAAAAA/wD/AAAAAAD/AAAAAAAAAP8A/wAAAP8A/wAAAAAA/wD/AAAAAAD/AAAAAAD/AP8A/wAAAP8A/wAAAAAA/wD/AAAAAAD/AAAAAAD/AP8AAAAAAP8A",
+        "shape": "6, 6, 3"
+      }
+    },
+    {
+      "xaxis": "x4",
+      "yaxis": "y4",
+      "type": "bar",
+      "orientation": "v",
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQpk"
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AQpk"
+      }
+    }
+  ],
+  "layout": {
+    "xaxis": {
+      "anchor": "y",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAABmZmZmZmbePw=="
+      },
+      "side": "bottom",
+      "ticklabelposition": "inside",
+      "gridcolor": "white"
+    },
+    "yaxis": {
+      "anchor": "x",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAABmZmZmZmbePw=="
+      },
+      "side": "left",
+      "ticklabelposition": "inside",
+      "gridcolor": "white"
+    },
+    "xaxis2": {
+      "anchor": "y2",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "zczMzMzM4D8AAAAAAADwPw=="
+      },
+      "side": "bottom",
+      "ticklabelposition": "inside",
+      "gridcolor": "white"
+    },
+    "yaxis2": {
+      "anchor": "x2",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAABmZmZmZmbePw=="
+      },
+      "side": "right",
+      "ticklabelposition": "inside",
+      "gridcolor": "white"
+    },
+    "xaxis3": {
+      "anchor": "y3",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "zczMzMzM4D8AAAAAAADwPw=="
+      },
+      "side": "top",
+      "ticklabelposition": "inside",
+      "gridcolor": "white"
+    },
+    "yaxis3": {
+      "anchor": "x3",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "zczMzMzM4D8AAAAAAADwPw=="
+      },
+      "side": "right",
+      "ticklabelposition": "inside",
+      "gridcolor": "white"
+    },
+    "xaxis4": {
+      "anchor": "y4",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAABmZmZmZmbePw=="
+      },
+      "side": "top",
+      "ticklabelposition": "inside",
+      "gridcolor": "white"
+    },
+    "yaxis4": {
+      "anchor": "x4",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "zczMzMzM4D8AAAAAAADwPw=="
+      },
+      "side": "left",
+      "ticklabelposition": "inside",
+      "gridcolor": "white"
+    },
+    "font": {
+      "size": 24
+    },
+    "plot_bgcolor": "lightblue",
+    "showlegend": false,
+    "width": 1000,
+    "height": 1000,
+    "margin": {
+      "t": 40,
+      "b": 40,
+      "l": 40,
+      "r": 40
+    }
+  }
+}

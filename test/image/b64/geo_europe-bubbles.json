@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "type": "scattergeo",
+      "mode": "markers",
+      "locations": [
+        "FRA",
+        "DEU",
+        "RUS",
+        "ESP"
+      ],
+      "marker": {
+        "size": {
+          "dtype": "i1",
+          "bdata": "FB4PCg=="
+        },
+        "color": {
+          "dtype": "i1",
+          "bdata": "ChQoMg=="
+        },
+        "colorbar": {
+          "title": {
+            "text": "wow"
+          }
+        }
+      }
+    }
+  ],
+  "layout": {
+    "geo": {
+      "scope": "europe",
+      "resolution": 50
+    },
+    "width": 500,
+    "height": 500,
+    "showlegend": false
+  }
+}

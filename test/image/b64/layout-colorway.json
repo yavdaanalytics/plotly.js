@@ -1,0 +1,75 @@
+{
+  "data": [
+    {
+      "y": {
+        "dtype": "i1",
+        "bdata": "CAcHBgUEBAMCAgM="
+      }
+    },
+    {
+      "y": {
+        "dtype": "i1",
+        "bdata": "BwcGBQQEAwICAwg="
+      }
+    },
+    {
+      "y": {
+        "dtype": "i1",
+        "bdata": "BwYFBAQDAgIDCAc="
+      }
+    },
+    {
+      "y": {
+        "dtype": "i1",
+        "bdata": "BgUEBAMCAgMIBwc="
+      }
+    },
+    {
+      "y": {
+        "dtype": "i1",
+        "bdata": "BQQEAwICAwgHBwY="
+      }
+    },
+    {
+      "labels": [
+        "a",
+        "b",
+        "c",
+        "c",
+        "c",
+        "a",
+        "d",
+        "e",
+        "f",
+        "f",
+        "g",
+        "h"
+      ],
+      "type": "pie",
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAAAACamZmZmZnZPw=="
+        }
+      }
+    }
+  ],
+  "layout": {
+    "title": {
+      "text": "Custom Trace Color Defaults"
+    },
+    "colorway": [
+      "#DE5845",
+      "#E83898",
+      "#A83DD1",
+      "#5A38E8",
+      "#3C71DE"
+    ],
+    "xaxis": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "mpmZmZmZ2T8AAAAAAADwPw=="
+      }
+    }
+  }
+}

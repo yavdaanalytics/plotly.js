@@ -1,0 +1,188 @@
+{
+  "data": [
+    {
+      "type": "bar",
+      "x": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "y": [
+        0,
+        null,
+        0.001,
+        1
+      ],
+      "text": [
+        0,
+        null,
+        0.001,
+        1
+      ],
+      "insidetextanchor": "middle",
+      "cliponaxis": false
+    },
+    {
+      "type": "bar",
+      "x": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "y": [
+        0,
+        null,
+        0.001,
+        1
+      ],
+      "text": [
+        0,
+        null,
+        0.001,
+        1
+      ],
+      "insidetextanchor": "middle",
+      "cliponaxis": false,
+      "xaxis": "x2",
+      "yaxis": "y2"
+    },
+    {
+      "type": "bar",
+      "orientation": "h",
+      "x": [
+        0,
+        null,
+        0.001,
+        1
+      ],
+      "y": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "text": [
+        0,
+        null,
+        0.001,
+        1
+      ],
+      "insidetextanchor": "middle",
+      "cliponaxis": false,
+      "xaxis": "x3",
+      "yaxis": "y3"
+    },
+    {
+      "type": "bar",
+      "orientation": "h",
+      "x": [
+        0,
+        null,
+        0.001,
+        1
+      ],
+      "y": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "text": [
+        0,
+        null,
+        0.001,
+        1
+      ],
+      "insidetextanchor": "middle",
+      "cliponaxis": false,
+      "xaxis": "x4",
+      "yaxis": "y4"
+    }
+  ],
+  "layout": {
+    "showlegend": false,
+    "width": 800,
+    "height": 800,
+    "dragmode": "pan",
+    "xaxis": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAAC4HoXrUbjePw=="
+      }
+    },
+    "xaxis2": {
+      "autorange": "reversed",
+      "anchor": "y2",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "pHA9Ctej4D8AAAAAAADwPw=="
+      }
+    },
+    "xaxis3": {
+      "range": [
+        -0.01,
+        1
+      ],
+      "zeroline": false,
+      "anchor": "y3",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAAC4HoXrUbjePw=="
+      }
+    },
+    "xaxis4": {
+      "range": [
+        -0.01,
+        1
+      ],
+      "zeroline": false,
+      "autorange": "reversed",
+      "anchor": "y4",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "pHA9Ctej4D8AAAAAAADwPw=="
+      }
+    },
+    "yaxis": {
+      "range": [
+        -0.01,
+        1
+      ],
+      "zeroline": false,
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAAC4HoXrUbjePw=="
+      }
+    },
+    "yaxis2": {
+      "range": [
+        -0.01,
+        1
+      ],
+      "zeroline": false,
+      "autorange": "reversed",
+      "anchor": "x2",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "pHA9Ctej4D8AAAAAAADwPw=="
+      }
+    },
+    "yaxis3": {
+      "anchor": "x3",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "pHA9Ctej4D8AAAAAAADwPw=="
+      }
+    },
+    "yaxis4": {
+      "autorange": "reversed",
+      "anchor": "x4",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAAC4HoXrUbjePw=="
+      }
+    }
+  }
+}

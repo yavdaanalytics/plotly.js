@@ -1,0 +1,275 @@
+{
+  "data": [
+    {
+      "name": "horizontal",
+      "title": {
+        "text": "horizontal",
+        "font": {
+          "size": 20
+        }
+      },
+      "insidetextorientation": "horizontal",
+      "textposition": "inside",
+      "type": "pie",
+      "hole": 0.5,
+      "labels": [
+        "Alpha",
+        "Bravo",
+        "Charlie",
+        "Delta",
+        "Echo",
+        "Foxtrot",
+        "Golf",
+        "Hotel",
+        "India",
+        "Juliet",
+        "Kilo",
+        "Lima",
+        "Mike",
+        "November",
+        "Oscar",
+        "Papa",
+        "Quebec",
+        "Romeo",
+        "Sierra",
+        "Tango",
+        "Uniform",
+        "Victor",
+        "Whiskey",
+        "X ray",
+        "Yankee",
+        "Zulu"
+      ],
+      "marker": {
+        "colors": [
+          "aquamarine",
+          "brown",
+          "chocolate",
+          "darkblue",
+          "darkgreen",
+          "forestgreen",
+          "gold",
+          "honeydew",
+          "indigo",
+          "navajowhite",
+          "khaki",
+          "lightblue",
+          "magenta",
+          "navy",
+          "orange",
+          "pink",
+          "aqua",
+          "red",
+          "silver",
+          "tomato",
+          "turquoise",
+          "violet",
+          "wheat",
+          "yellow",
+          "azure"
+        ]
+      },
+      "values": {
+        "dtype": "i1",
+        "bdata": "GhkYFxYVFBMSERAPDg0MCwoJCAcGBQQDAgE="
+      },
+      "textinfo": "label+value",
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "pHA9Ctej4D8AAAAAAADwPw=="
+        },
+        "y": {
+          "dtype": "f8",
+          "bdata": "pHA9Ctej4D8AAAAAAADwPw=="
+        }
+      }
+    },
+    {
+      "name": "radial",
+      "title": {
+        "text": "radial",
+        "font": {
+          "size": 20
+        }
+      },
+      "insidetextorientation": "radial",
+      "textposition": "inside",
+      "type": "pie",
+      "hole": 0.5,
+      "labels": [
+        "Alpha",
+        "Bravo",
+        "Charlie",
+        "Delta",
+        "Echo",
+        "Foxtrot",
+        "Golf",
+        "Hotel",
+        "India",
+        "Juliet",
+        "Kilo",
+        "Lima",
+        "Mike",
+        "November",
+        "Oscar",
+        "Papa",
+        "Quebec",
+        "Romeo",
+        "Sierra",
+        "Tango",
+        "Uniform",
+        "Victor",
+        "Whiskey",
+        "X ray",
+        "Yankee",
+        "Zulu"
+      ],
+      "values": {
+        "dtype": "i1",
+        "bdata": "GhkYFxYVFBMSERAPDg0MCwoJCAcGBQQDAgE="
+      },
+      "textinfo": "label+value",
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "pHA9Ctej4D8AAAAAAADwPw=="
+        },
+        "y": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAAAAC4HoXrUbjePw=="
+        }
+      }
+    },
+    {
+      "name": "tangential",
+      "title": {
+        "text": "tangential",
+        "font": {
+          "size": 20
+        }
+      },
+      "insidetextorientation": "tangential",
+      "textposition": "inside",
+      "type": "pie",
+      "hole": 0.5,
+      "labels": [
+        "Alpha",
+        "Bravo",
+        "Charlie",
+        "Delta",
+        "Echo",
+        "Foxtrot",
+        "Golf",
+        "Hotel",
+        "India",
+        "Juliet",
+        "Kilo",
+        "Lima",
+        "Mike",
+        "November",
+        "Oscar",
+        "Papa",
+        "Quebec",
+        "Romeo",
+        "Sierra",
+        "Tango",
+        "Uniform",
+        "Victor",
+        "Whiskey",
+        "X ray",
+        "Yankee",
+        "Zulu"
+      ],
+      "values": {
+        "dtype": "i1",
+        "bdata": "GhkYFxYVFBMSERAPDg0MCwoJCAcGBQQDAgE="
+      },
+      "textinfo": "label+value",
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAAAAC4HoXrUbjePw=="
+        },
+        "y": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAAAAC4HoXrUbjePw=="
+        }
+      }
+    },
+    {
+      "name": "auto",
+      "title": {
+        "text": "auto",
+        "font": {
+          "size": 20
+        }
+      },
+      "insidetextorientation": "auto",
+      "textposition": "inside",
+      "type": "pie",
+      "hole": 0.5,
+      "labels": [
+        "Alpha",
+        "Bravo",
+        "Charlie",
+        "Delta",
+        "Echo",
+        "Foxtrot",
+        "Golf",
+        "Hotel",
+        "India",
+        "Juliet",
+        "Kilo",
+        "Lima",
+        "Mike",
+        "November",
+        "Oscar",
+        "Papa",
+        "Quebec",
+        "Romeo",
+        "Sierra",
+        "Tango",
+        "Uniform",
+        "Victor",
+        "Whiskey",
+        "X ray",
+        "Yankee",
+        "Zulu"
+      ],
+      "values": {
+        "dtype": "i1",
+        "bdata": "GhkYFxYVFBMSERAPDg0MCwoJCAcGBQQDAgE="
+      },
+      "textinfo": "label+value",
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAAAAC4HoXrUbjePw=="
+        },
+        "y": {
+          "dtype": "f8",
+          "bdata": "pHA9Ctej4D8AAAAAAADwPw=="
+        }
+      }
+    }
+  ],
+  "layout": {
+    "width": 925,
+    "height": 750,
+    "margin": {
+      "t": 10,
+      "b": 10,
+      "l": 10,
+      "r": 10
+    },
+    "legend": {
+      "title": {
+        "text": "inside text orientation"
+      }
+    },
+    "font": {
+      "size": 14
+    }
+  }
+}

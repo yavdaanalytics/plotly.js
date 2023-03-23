@@ -1,0 +1,180 @@
+{
+  "data": [
+    {
+      "legendrank": 4,
+      "x": [
+        "a",
+        "b",
+        "c",
+        "d"
+      ],
+      "y": {
+        "dtype": "i1",
+        "bdata": "BAMCAQ=="
+      },
+      "name": "replace bar",
+      "type": "bar",
+      "marker": {
+        "line": {
+          "color": "lightblue",
+          "width": 2
+        },
+        "color": {
+          "dtype": "i1",
+          "bdata": "BAMCAQ=="
+        },
+        "pattern": {
+          "fillmode": "replace",
+          "shape": "/"
+        }
+      }
+    },
+    {
+      "legendrank": 3,
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "x": [
+        "a",
+        "b",
+        "c",
+        "d"
+      ],
+      "y": {
+        "dtype": "i1",
+        "bdata": "BAMCAQ=="
+      },
+      "name": "overlay bar",
+      "type": "bar",
+      "marker": {
+        "line": {
+          "color": "lightblue",
+          "width": 2
+        },
+        "color": {
+          "dtype": "i1",
+          "bdata": "BAMCAQ=="
+        },
+        "pattern": {
+          "fillmode": "overlay",
+          "shape": "/"
+        }
+      }
+    },
+    {
+      "legendrank": 2,
+      "t": [
+        "M",
+        "N",
+        "O",
+        "P"
+      ],
+      "r": {
+        "dtype": "i1",
+        "bdata": "BAMCAQ=="
+      },
+      "type": "barpolar",
+      "name": "replace polar",
+      "marker": {
+        "line": {
+          "color": "lightblue",
+          "width": 2
+        },
+        "color": {
+          "dtype": "i1",
+          "bdata": "BAMCAQ=="
+        },
+        "pattern": {
+          "fillmode": "replace",
+          "shape": "."
+        }
+      }
+    },
+    {
+      "legendrank": 1,
+      "subplot": "polar2",
+      "t": [
+        "M",
+        "N",
+        "O",
+        "P"
+      ],
+      "r": {
+        "dtype": "i1",
+        "bdata": "BAMCAQ=="
+      },
+      "type": "barpolar",
+      "name": "overlay polar",
+      "marker": {
+        "line": {
+          "color": "lightblue",
+          "width": 2
+        },
+        "color": {
+          "dtype": "i1",
+          "bdata": "BAMCAQ=="
+        },
+        "pattern": {
+          "fillmode": "overlay",
+          "shape": "."
+        }
+      }
+    }
+  ],
+  "layout": {
+    "title": {
+      "text": "pattern with colorscale and different fillmodes"
+    },
+    "width": 600,
+    "height": 600,
+    "xaxis": {
+      "domain": {
+        "dtype": "i1",
+        "bdata": "AAE="
+      }
+    },
+    "yaxis": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAAAzMzMzMzPTPw=="
+      }
+    },
+    "xaxis2": {
+      "anchor": "y2",
+      "domain": {
+        "dtype": "i1",
+        "bdata": "AAE="
+      }
+    },
+    "yaxis2": {
+      "anchor": "x2",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "ZmZmZmZm1j/NzMzMzMzkPw=="
+      }
+    },
+    "polar": {
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAAAABmZmZmZmbePw=="
+        },
+        "y": {
+          "dtype": "f8",
+          "bdata": "ZmZmZmZm5j8AAAAAAADwPw=="
+        }
+      }
+    },
+    "polar2": {
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "zczMzMzM4D8AAAAAAADwPw=="
+        },
+        "y": {
+          "dtype": "f8",
+          "bdata": "ZmZmZmZm5j8AAAAAAADwPw=="
+        }
+      }
+    }
+  }
+}

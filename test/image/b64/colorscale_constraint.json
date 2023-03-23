@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQIDBAU="
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AQIDBA=="
+      },
+      "marker": {
+        "color": {
+          "dtype": "i1",
+          "bdata": "AQIDBA=="
+        },
+        "cmin": 2,
+        "cmax": 3,
+        "colorbar": {
+          "title": {
+            "text": "trace 0"
+          },
+          "len": 0.3,
+          "y": 0,
+          "yanchor": "bottom"
+        }
+      }
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQIDBAU="
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "BAMCAQ=="
+      },
+      "marker": {
+        "color": {
+          "dtype": "i1",
+          "bdata": "AQIDBA=="
+        },
+        "cmin": 1,
+        "cmax": 4,
+        "colorbar": {
+          "title": {
+            "text": "trace 1"
+          },
+          "len": 0.3,
+          "y": 0.3,
+          "yanchor": "bottom"
+        }
+      }
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQIDBA=="
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAABEAAAAAAAAAEQAAAAAAAAARAAAAAAAAABEA="
+      },
+      "mode": "markers",
+      "marker": {
+        "color": {
+          "dtype": "i1",
+          "bdata": "AAAAAA=="
+        },
+        "size": 10,
+        "colorbar": {
+          "title": {
+            "text": "trace 2"
+          },
+          "len": 0.3,
+          "y": 0.6,
+          "yanchor": "bottom"
+        }
+      }
+    }
+  ],
+  "layout": {
+    "showlegend": false
+  }
+}

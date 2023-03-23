@@ -1,0 +1,110 @@
+{
+  "data": [
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "Bg=="
+      },
+      "y": [
+        "2"
+      ],
+      "error_y": {
+        "type": "data",
+        "array": {
+          "dtype": "i1",
+          "bdata": "Ag=="
+        },
+        "arrayminus": {
+          "dtype": "i1",
+          "bdata": "BA=="
+        }
+      },
+      "type": "scattergl"
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AAEC"
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "BgoC"
+      },
+      "error_y": {
+        "type": "data",
+        "array": {
+          "dtype": "i1",
+          "bdata": "AQID"
+        },
+        "visible": true
+      },
+      "type": "scattergl"
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQIDBA=="
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AgEDBA=="
+      },
+      "error_y": {
+        "type": "data",
+        "symmetric": false,
+        "array": {
+          "dtype": "f8",
+          "bdata": "mpmZmZmZuT+amZmZmZnJP5qZmZmZmbk/mpmZmZmZuT8="
+        },
+        "arrayminus": {
+          "dtype": "f8",
+          "bdata": "mpmZmZmZyT+amZmZmZnZPwAAAAAAAPA/mpmZmZmZyT8="
+        }
+      },
+      "type": "scattergl"
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQIDBA=="
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AgEDBA=="
+      },
+      "error_y": {
+        "type": "percent",
+        "symmetric": false,
+        "value": 15,
+        "valueminus": 25
+      },
+      "type": "scattergl"
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQIDBA=="
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AgEDBA=="
+      },
+      "error_x": {
+        "type": "percent",
+        "value": 10
+      },
+      "type": "scattergl"
+    },
+    {
+      "y": {
+        "dtype": "i1",
+        "bdata": "AwMGBQ=="
+      },
+      "error_x": {
+        "type": "constant",
+        "value": 0.1
+      },
+      "type": "scattergl"
+    }
+  ]
+}

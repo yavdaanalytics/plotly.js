@@ -1,0 +1,47 @@
+{
+  "data": [
+    {
+      "type": "scattermapbox",
+      "mode": "markers+text",
+      "lon": {
+        "dtype": "f8",
+        "bdata": "FK5H4XpkUsCPwvUoXM9TwKRwPQrXw17A"
+      },
+      "lat": {
+        "dtype": "f8",
+        "bdata": "AAAAAADARkAzMzMzM7NFQHE9CtejkEhA"
+      },
+      "text": [
+        "Montreal",
+        "Toronto",
+        "Vancouver"
+      ],
+      "texttemplate": "%{text} (%{lon}, %{lat}): %{customdata:.2s}",
+      "textposition": "top center",
+      "customdata": {
+        "dtype": "i4",
+        "bdata": "ICkbAFC1LACSTQoA"
+      }
+    }
+  ],
+  "layout": {
+    "width": 500,
+    "height": 500,
+    "title": {
+      "text": "Mapbox with texttemplate"
+    },
+    "margin": {
+      "t": 30,
+      "b": 0,
+      "l": 0,
+      "r": 0
+    },
+    "mapbox": {
+      "center": {
+        "lon": -90,
+        "lat": 45
+      },
+      "zoom": 1.5
+    }
+  }
+}

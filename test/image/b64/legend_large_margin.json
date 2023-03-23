@@ -1,0 +1,80 @@
+{
+  "data": [
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQIDBA=="
+      },
+      "y": [
+        "long y label long y label long y label",
+        "a",
+        "b",
+        "c"
+      ],
+      "name": "trace 1"
+    },
+    {
+      "x": {
+        "dtype": "f8",
+        "bdata": "mpmZmZmZ8T/NzMzMzMwAQM3MzMzMzAhAZmZmZmZmEEA="
+      },
+      "y": [
+        "long y label long y label long y label",
+        "a",
+        "b",
+        "c"
+      ],
+      "name": "trace 1"
+    },
+    {
+      "x": {
+        "dtype": "f8",
+        "bdata": "MzMzMzMz8z+amZmZmZkBQJqZmZmZmQlAzczMzMzMEEA="
+      },
+      "y": [
+        "long y label long y label long y label",
+        "a",
+        "b",
+        "c"
+      ],
+      "name": "trace 1"
+    },
+    {
+      "x": {
+        "dtype": "f8",
+        "bdata": "zczMzMzM9D9mZmZmZmYCQGZmZmZmZgpAMzMzMzMzEUA="
+      },
+      "y": [
+        "long y label long y label long y label",
+        "a",
+        "b",
+        "c"
+      ],
+      "name": "trace 1"
+    },
+    {
+      "x": {
+        "dtype": "f8",
+        "bdata": "ZmZmZmZm9j8zMzMzMzMDQDMzMzMzMwtAmpmZmZmZEUA="
+      },
+      "y": [
+        "long y label long y label long y label",
+        "a",
+        "b",
+        "c"
+      ],
+      "name": "trace 1"
+    }
+  ],
+  "layout": {
+    "width": 500,
+    "height": 500,
+    "legend": {
+      "orientation": "h",
+      "bgcolor": "#ffffff00"
+    },
+    "yaxis": {
+      "automargin": true
+    }
+  }
+}

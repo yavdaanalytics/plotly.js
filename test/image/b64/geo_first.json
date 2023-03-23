@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "type": "scattergeo",
+      "lon": {
+        "dtype": "i1",
+        "bdata": "ALUU"
+      },
+      "lat": {
+        "dtype": "i1",
+        "bdata": "AC0="
+      },
+      "marker": {
+        "size": {
+          "dtype": "i1",
+          "bdata": "FB4="
+        }
+      }
+    },
+    {
+      "type": "choropleth",
+      "locations": [
+        "USA",
+        "CAN",
+        "RUS"
+      ],
+      "z": {
+        "dtype": "i1",
+        "bdata": "AAUK"
+      },
+      "autocolorscale": true
+    }
+  ],
+  "layout": {
+    "width": 600,
+    "height": 440
+  }
+}

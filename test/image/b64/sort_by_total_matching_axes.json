@@ -1,0 +1,51 @@
+{
+  "data": [
+    {
+      "type": "scatter",
+      "x": [
+        "a",
+        "b",
+        "c"
+      ],
+      "y": {
+        "dtype": "i1",
+        "bdata": "BwID"
+      }
+    },
+    {
+      "type": "bar",
+      "x": [
+        "a",
+        "b",
+        "c"
+      ],
+      "y": {
+        "dtype": "i1",
+        "bdata": "ChQe"
+      },
+      "yaxis": "y2",
+      "xaxis": "x2"
+    }
+  ],
+  "layout": {
+    "xaxis": {
+      "type": "category",
+      "categoryorder": "total ascending"
+    },
+    "xaxis2": {
+      "matches": "x"
+    },
+    "yaxis": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAADNzMzMzMzcPw=="
+      }
+    },
+    "yaxis2": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "mpmZmZmZ4T8AAAAAAADwPw=="
+      }
+    }
+  }
+}

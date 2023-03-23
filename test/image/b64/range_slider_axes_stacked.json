@@ -1,0 +1,44 @@
+{
+  "data": [
+    {
+      "y": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "yaxis": "y2"
+    },
+    {
+      "fill": "tozeroy",
+      "y": {
+        "dtype": "i1",
+        "bdata": "HhQK"
+      }
+    }
+  ],
+  "layout": {
+    "xaxis": {
+      "rangeslider": {},
+      "title": {
+        "text": "x"
+      }
+    },
+    "yaxis": {
+      "title": {
+        "text": "y"
+      },
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAAAAAAAAAADQPw=="
+      }
+    },
+    "yaxis2": {
+      "title": {
+        "text": "y2"
+      },
+      "domain": {
+        "dtype": "f8",
+        "bdata": "MzMzMzMz0z8AAAAAAADwPw=="
+      }
+    }
+  }
+}

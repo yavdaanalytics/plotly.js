@@ -1,0 +1,164 @@
+{
+  "data": [
+    {
+      "xaxis": "x",
+      "yaxis": "y",
+      "x": [
+        "20-10",
+        "21-03"
+      ],
+      "y": {
+        "dtype": "f8",
+        "bdata": "mpmZmZmZuT8AAAAAgIQuQQ=="
+      }
+    },
+    {
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "x": [
+        "21-03",
+        "20-10"
+      ],
+      "y": {
+        "dtype": "f8",
+        "bdata": "AAAAAICELkGamZmZmZm5Pw=="
+      }
+    },
+    {
+      "xaxis": "x3",
+      "yaxis": "y3",
+      "x": [
+        "20",
+        "23"
+      ],
+      "y": {
+        "dtype": "f8",
+        "bdata": "mpmZmZmZuT8AAAAAgIQuQQ=="
+      }
+    },
+    {
+      "xaxis": "x4",
+      "yaxis": "y4",
+      "x": [
+        "23",
+        "20"
+      ],
+      "y": {
+        "dtype": "f8",
+        "bdata": "AAAAAICELkGamZmZmZm5Pw=="
+      }
+    }
+  ],
+  "layout": {
+    "xaxis": {
+      "anchor": "y",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAABmZmZmZmbePw=="
+      },
+      "type": "date",
+      "ticks": "outside",
+      "ticklabelmode": "period",
+      "side": "bottom",
+      "gridcolor": "white"
+    },
+    "yaxis": {
+      "anchor": "x",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAABmZmZmZmbePw=="
+      },
+      "type": "log",
+      "side": "left",
+      "ticks": "inside",
+      "ticklabelposition": "inside bottom",
+      "gridcolor": "white"
+    },
+    "xaxis2": {
+      "anchor": "y2",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "zczMzMzM4D8AAAAAAADwPw=="
+      },
+      "autorange": "reversed",
+      "type": "date",
+      "ticks": "outside",
+      "ticklabelmode": "period",
+      "side": "bottom",
+      "ticklabelposition": "inside left",
+      "gridcolor": "white"
+    },
+    "yaxis2": {
+      "anchor": "x2",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAABmZmZmZmbePw=="
+      },
+      "type": "log",
+      "side": "right",
+      "ticks": "inside",
+      "ticklabelposition": "inside bottom",
+      "gridcolor": "white"
+    },
+    "xaxis3": {
+      "anchor": "y3",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "zczMzMzM4D8AAAAAAADwPw=="
+      },
+      "type": "date",
+      "ticks": "outside",
+      "ticklabelmode": "period",
+      "side": "top",
+      "ticklabelposition": "inside right",
+      "gridcolor": "white"
+    },
+    "yaxis3": {
+      "anchor": "x3",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "zczMzMzM4D8AAAAAAADwPw=="
+      },
+      "type": "log",
+      "side": "right",
+      "ticks": "inside",
+      "ticklabelposition": "inside bottom",
+      "gridcolor": "white"
+    },
+    "xaxis4": {
+      "anchor": "y4",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAABmZmZmZmbePw=="
+      },
+      "autorange": "reversed",
+      "type": "date",
+      "ticks": "outside",
+      "ticklabelmode": "period",
+      "side": "top",
+      "gridcolor": "white"
+    },
+    "yaxis4": {
+      "anchor": "x4",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "zczMzMzM4D8AAAAAAADwPw=="
+      },
+      "type": "log",
+      "side": "left",
+      "ticks": "inside",
+      "ticklabelposition": "inside bottom",
+      "gridcolor": "white"
+    },
+    "plot_bgcolor": "lightblue",
+    "showlegend": false,
+    "width": 500,
+    "height": 500,
+    "margin": {
+      "t": 50,
+      "b": 50,
+      "l": 50,
+      "r": 50
+    }
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "data": [
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "BAUG"
+      }
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "FB4o"
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "MjxG"
+      },
+      "xaxis": "x2"
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "BAUG"
+      },
+      "yaxis": "y2"
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "FB4o"
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "MjxG"
+      },
+      "xaxis": "x2",
+      "yaxis": "y2"
+    }
+  ],
+  "layout": {
+    "showlegend": false,
+    "grid": {
+      "rows": 2,
+      "columns": 2
+    },
+    "xaxis": {
+      "automargin": true,
+      "ticks": "outside",
+      "showline": true,
+      "mirror": "all"
+    },
+    "xaxis2": {
+      "automargin": true,
+      "ticks": "outside",
+      "ticklen": 10,
+      "showline": true,
+      "mirror": "allticks"
+    },
+    "yaxis": {
+      "automargin": true,
+      "ticks": "outside",
+      "showline": true,
+      "zeroline": false,
+      "mirror": "all"
+    },
+    "yaxis2": {
+      "automargin": true,
+      "ticks": "outside",
+      "ticklen": 5,
+      "showline": true,
+      "linewidth": 5,
+      "zeroline": false,
+      "mirror": "allticks"
+    },
+    "margin": {
+      "l": 0,
+      "b": 0,
+      "t": 0,
+      "r": 0
+    },
+    "width": 500,
+    "height": 400
+  }
+}

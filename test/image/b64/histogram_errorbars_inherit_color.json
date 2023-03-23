@@ -1,0 +1,86 @@
+{
+  "data": [
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AAEFBgA="
+      },
+      "type": "histogram",
+      "barmode": "stack",
+      "error_y": {
+        "type": "sqrt"
+      }
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQIGBwE="
+      },
+      "type": "histogram",
+      "barmode": "stack",
+      "marker": {
+        "line": {
+          "width": 2,
+          "color": "gray"
+        }
+      },
+      "error_y": {
+        "type": "sqrt"
+      }
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AgMHCAI="
+      },
+      "type": "histogram",
+      "barmode": "stack",
+      "marker": {
+        "color": "yellow"
+      },
+      "error_y": {
+        "type": "sqrt"
+      }
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AwQICQM="
+      },
+      "type": "histogram",
+      "barmode": "stack",
+      "marker": {
+        "line": {
+          "color": "green"
+        }
+      },
+      "error_y": {
+        "type": "sqrt"
+      }
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "BAUJCgQ="
+      },
+      "type": "histogram",
+      "barmode": "stack",
+      "marker": {
+        "line": {
+          "color": "blue"
+        },
+        "color": "black"
+      },
+      "error_y": {
+        "type": "sqrt"
+      }
+    }
+  ],
+  "layout": {
+    "width": 600,
+    "heigh": 600,
+    "title": {
+      "text": "Histogram error bars inherit color from marker.line not marker"
+    }
+  }
+}

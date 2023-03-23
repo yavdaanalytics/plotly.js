@@ -1,0 +1,680 @@
+{
+  "data": [
+    {
+      "y": {
+        "dtype": "i1",
+        "bdata": "AQI="
+      },
+      "marker": {
+        "color": "red"
+      }
+    },
+    {
+      "y": {
+        "dtype": "i1",
+        "bdata": "AQI="
+      },
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "marker": {
+        "color": "red"
+      }
+    },
+    {
+      "y": {
+        "dtype": "i1",
+        "bdata": "AQI="
+      },
+      "xaxis": "x3",
+      "yaxis": "y3",
+      "marker": {
+        "color": "red"
+      }
+    },
+    {
+      "y": {
+        "dtype": "i1",
+        "bdata": "AQI="
+      },
+      "xaxis": "x4",
+      "yaxis": "y4",
+      "marker": {
+        "color": "red"
+      }
+    },
+    {
+      "y": {
+        "dtype": "i1",
+        "bdata": "AQI="
+      },
+      "xaxis": "x5",
+      "yaxis": "y5",
+      "marker": {
+        "color": "green"
+      }
+    },
+    {
+      "y": {
+        "dtype": "i1",
+        "bdata": "AQI="
+      },
+      "xaxis": "x6",
+      "yaxis": "y6",
+      "marker": {
+        "color": "green"
+      }
+    },
+    {
+      "y": {
+        "dtype": "i1",
+        "bdata": "AQI="
+      },
+      "xaxis": "x7",
+      "yaxis": "y7",
+      "marker": {
+        "color": "green"
+      }
+    },
+    {
+      "y": {
+        "dtype": "i1",
+        "bdata": "AQI="
+      },
+      "xaxis": "x8",
+      "yaxis": "y8",
+      "marker": {
+        "color": "green"
+      }
+    },
+    {
+      "y": {
+        "dtype": "i1",
+        "bdata": "AQI="
+      },
+      "xaxis": "x9",
+      "yaxis": "y9",
+      "marker": {
+        "color": "blue"
+      }
+    },
+    {
+      "y": {
+        "dtype": "i1",
+        "bdata": "AQI="
+      },
+      "xaxis": "x10",
+      "yaxis": "y10",
+      "marker": {
+        "color": "blue"
+      }
+    },
+    {
+      "y": {
+        "dtype": "i1",
+        "bdata": "AQI="
+      },
+      "xaxis": "x11",
+      "yaxis": "y11",
+      "marker": {
+        "color": "blue"
+      }
+    },
+    {
+      "y": {
+        "dtype": "i1",
+        "bdata": "AQI="
+      },
+      "xaxis": "x12",
+      "yaxis": "y12",
+      "marker": {
+        "color": "blue"
+      }
+    },
+    {
+      "y": {
+        "dtype": "i1",
+        "bdata": "AQI="
+      },
+      "xaxis": "x13",
+      "yaxis": "y13",
+      "marker": {
+        "color": "black"
+      }
+    },
+    {
+      "y": {
+        "dtype": "i1",
+        "bdata": "AQI="
+      },
+      "xaxis": "x14",
+      "yaxis": "y14",
+      "marker": {
+        "color": "black"
+      }
+    },
+    {
+      "y": {
+        "dtype": "i1",
+        "bdata": "AQI="
+      },
+      "xaxis": "x15",
+      "yaxis": "y15",
+      "marker": {
+        "color": "black"
+      }
+    },
+    {
+      "y": {
+        "dtype": "i1",
+        "bdata": "AQI="
+      },
+      "xaxis": "x16",
+      "yaxis": "y16",
+      "marker": {
+        "color": "black"
+      }
+    }
+  ],
+  "layout": {
+    "xaxis": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAACamZmZmZnJPw=="
+      },
+      "anchor": "y"
+    },
+    "yaxis": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAAAzMzMzMzPDPw=="
+      },
+      "anchor": "x",
+      "matches": "x"
+    },
+    "xaxis2": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAA0D/NzMzMzMzcPw=="
+      },
+      "anchor": "y2",
+      "scaleanchor": "y"
+    },
+    "yaxis2": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAAAzMzMzMzPDPw=="
+      },
+      "anchor": "x2",
+      "matches": "x2"
+    },
+    "xaxis3": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAA4D9mZmZmZmbmPw=="
+      },
+      "anchor": "y3",
+      "scaleanchor": "y2"
+    },
+    "yaxis3": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAAAzMzMzMzPDPw=="
+      },
+      "anchor": "x3",
+      "matches": "x3"
+    },
+    "xaxis4": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAA6D9mZmZmZmbuPw=="
+      },
+      "anchor": "y4",
+      "scaleanchor": "y3"
+    },
+    "yaxis4": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAAAzMzMzMzPDPw=="
+      },
+      "anchor": "x4",
+      "matches": "x4"
+    },
+    "xaxis5": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAACamZmZmZnJPw=="
+      },
+      "anchor": "y5",
+      "constrain": "domain"
+    },
+    "yaxis5": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAA0D+amZmZmZnZPw=="
+      },
+      "anchor": "x5",
+      "matches": "x5",
+      "constrain": "domain"
+    },
+    "xaxis6": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAA0D/NzMzMzMzcPw=="
+      },
+      "anchor": "y6",
+      "scaleanchor": "y5",
+      "constrain": "domain"
+    },
+    "yaxis6": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAA0D+amZmZmZnZPw=="
+      },
+      "anchor": "x6",
+      "matches": "x6",
+      "constrain": "domain"
+    },
+    "xaxis7": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAA4D9mZmZmZmbmPw=="
+      },
+      "anchor": "y7",
+      "scaleanchor": "y6",
+      "constrain": "domain"
+    },
+    "yaxis7": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAA0D+amZmZmZnZPw=="
+      },
+      "anchor": "x7",
+      "matches": "x7",
+      "constrain": "domain"
+    },
+    "xaxis8": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAA6D9mZmZmZmbuPw=="
+      },
+      "anchor": "y8",
+      "scaleanchor": "y7",
+      "constrain": "domain"
+    },
+    "yaxis8": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAA0D+amZmZmZnZPw=="
+      },
+      "anchor": "x8",
+      "matches": "x8",
+      "constrain": "domain"
+    },
+    "xaxis9": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAAAzMzMzMzPDPw=="
+      },
+      "anchor": "y9"
+    },
+    "yaxis9": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAA4D9mZmZmZmbmPw=="
+      },
+      "anchor": "x9",
+      "matches": "x9"
+    },
+    "xaxis10": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAA0D+amZmZmZnZPw=="
+      },
+      "anchor": "y10",
+      "scaleanchor": "y9"
+    },
+    "yaxis10": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAA4D9mZmZmZmbmPw=="
+      },
+      "anchor": "x10",
+      "matches": "x10"
+    },
+    "xaxis11": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAA4D/NzMzMzMzkPw=="
+      },
+      "anchor": "y11",
+      "scaleanchor": "y10"
+    },
+    "yaxis11": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAA4D9mZmZmZmbmPw=="
+      },
+      "anchor": "x11",
+      "matches": "x11"
+    },
+    "xaxis12": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAA6D/NzMzMzMzsPw=="
+      },
+      "anchor": "y12",
+      "scaleanchor": "y11"
+    },
+    "yaxis12": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAA4D9mZmZmZmbmPw=="
+      },
+      "anchor": "x12",
+      "matches": "x12"
+    },
+    "xaxis13": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAAAzMzMzMzPDPw=="
+      },
+      "anchor": "y13",
+      "constrain": "domain"
+    },
+    "yaxis13": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAA6D9mZmZmZmbuPw=="
+      },
+      "anchor": "x13",
+      "matches": "x13",
+      "constrain": "domain"
+    },
+    "xaxis14": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAA0D+amZmZmZnZPw=="
+      },
+      "anchor": "y14",
+      "scaleanchor": "y13",
+      "constrain": "domain"
+    },
+    "yaxis14": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAA6D9mZmZmZmbuPw=="
+      },
+      "anchor": "x14",
+      "matches": "x14",
+      "constrain": "domain"
+    },
+    "xaxis15": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAA4D/NzMzMzMzkPw=="
+      },
+      "anchor": "y15",
+      "scaleanchor": "y14",
+      "constrain": "domain"
+    },
+    "yaxis15": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAA6D9mZmZmZmbuPw=="
+      },
+      "anchor": "x15",
+      "matches": "x15",
+      "constrain": "domain"
+    },
+    "xaxis16": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAA6D/NzMzMzMzsPw=="
+      },
+      "anchor": "y16",
+      "scaleanchor": "y15",
+      "constrain": "domain"
+    },
+    "yaxis16": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAA6D9mZmZmZmbuPw=="
+      },
+      "anchor": "x16",
+      "matches": "x16",
+      "constrain": "domain"
+    },
+    "shapes": [
+      {
+        "x0": 0,
+        "x1": 0.2,
+        "y0": 0,
+        "y1": 0.15,
+        "type": "rect",
+        "xref": "paper",
+        "yref": "paper",
+        "line": {
+          "color": "#ccc",
+          "dash": "dot"
+        }
+      },
+      {
+        "x0": 0.25,
+        "x1": 0.45,
+        "y0": 0,
+        "y1": 0.15,
+        "type": "rect",
+        "xref": "paper",
+        "yref": "paper",
+        "line": {
+          "color": "#ccc",
+          "dash": "dot"
+        }
+      },
+      {
+        "x0": 0.5,
+        "x1": 0.7,
+        "y0": 0,
+        "y1": 0.15,
+        "type": "rect",
+        "xref": "paper",
+        "yref": "paper",
+        "line": {
+          "color": "#ccc",
+          "dash": "dot"
+        }
+      },
+      {
+        "x0": 0.75,
+        "x1": 0.95,
+        "y0": 0,
+        "y1": 0.15,
+        "type": "rect",
+        "xref": "paper",
+        "yref": "paper",
+        "line": {
+          "color": "#ccc",
+          "dash": "dot"
+        }
+      },
+      {
+        "x0": 0,
+        "x1": 0.2,
+        "y0": 0.25,
+        "y1": 0.4,
+        "type": "rect",
+        "xref": "paper",
+        "yref": "paper",
+        "line": {
+          "color": "#ccc",
+          "dash": "dot"
+        }
+      },
+      {
+        "x0": 0.25,
+        "x1": 0.45,
+        "y0": 0.25,
+        "y1": 0.4,
+        "type": "rect",
+        "xref": "paper",
+        "yref": "paper",
+        "line": {
+          "color": "#ccc",
+          "dash": "dot"
+        }
+      },
+      {
+        "x0": 0.5,
+        "x1": 0.7,
+        "y0": 0.25,
+        "y1": 0.4,
+        "type": "rect",
+        "xref": "paper",
+        "yref": "paper",
+        "line": {
+          "color": "#ccc",
+          "dash": "dot"
+        }
+      },
+      {
+        "x0": 0.75,
+        "x1": 0.95,
+        "y0": 0.25,
+        "y1": 0.4,
+        "type": "rect",
+        "xref": "paper",
+        "yref": "paper",
+        "line": {
+          "color": "#ccc",
+          "dash": "dot"
+        }
+      },
+      {
+        "x0": 0,
+        "x1": 0.15,
+        "y0": 0.5,
+        "y1": 0.7,
+        "type": "rect",
+        "xref": "paper",
+        "yref": "paper",
+        "line": {
+          "color": "#ccc",
+          "dash": "dot"
+        }
+      },
+      {
+        "x0": 0.25,
+        "x1": 0.4,
+        "y0": 0.5,
+        "y1": 0.7,
+        "type": "rect",
+        "xref": "paper",
+        "yref": "paper",
+        "line": {
+          "color": "#ccc",
+          "dash": "dot"
+        }
+      },
+      {
+        "x0": 0.5,
+        "x1": 0.65,
+        "y0": 0.5,
+        "y1": 0.7,
+        "type": "rect",
+        "xref": "paper",
+        "yref": "paper",
+        "line": {
+          "color": "#ccc",
+          "dash": "dot"
+        }
+      },
+      {
+        "x0": 0.75,
+        "x1": 0.9,
+        "y0": 0.5,
+        "y1": 0.7,
+        "type": "rect",
+        "xref": "paper",
+        "yref": "paper",
+        "line": {
+          "color": "#ccc",
+          "dash": "dot"
+        }
+      },
+      {
+        "x0": 0,
+        "x1": 0.15,
+        "y0": 0.75,
+        "y1": 0.95,
+        "type": "rect",
+        "xref": "paper",
+        "yref": "paper",
+        "line": {
+          "color": "#ccc",
+          "dash": "dot"
+        }
+      },
+      {
+        "x0": 0.25,
+        "x1": 0.4,
+        "y0": 0.75,
+        "y1": 0.95,
+        "type": "rect",
+        "xref": "paper",
+        "yref": "paper",
+        "line": {
+          "color": "#ccc",
+          "dash": "dot"
+        }
+      },
+      {
+        "x0": 0.5,
+        "x1": 0.65,
+        "y0": 0.75,
+        "y1": 0.95,
+        "type": "rect",
+        "xref": "paper",
+        "yref": "paper",
+        "line": {
+          "color": "#ccc",
+          "dash": "dot"
+        }
+      },
+      {
+        "x0": 0.75,
+        "x1": 0.9,
+        "y0": 0.75,
+        "y1": 0.95,
+        "type": "rect",
+        "xref": "paper",
+        "yref": "paper",
+        "line": {
+          "color": "#ccc",
+          "dash": "dot"
+        }
+      }
+    ],
+    "annotations": [
+      {
+        "x": 0,
+        "y": 1,
+        "xanchor": "left",
+        "yanchor": "top",
+        "xref": "paper",
+        "yref": "paper",
+        "showarrow": false,
+        "align": "left",
+        "text": "y matches same x, x scales to the previous y. Subplot aspect ratios compound"
+      }
+    ],
+    "width": 500,
+    "height": 500,
+    "margin": {
+      "l": 50,
+      "r": 0,
+      "t": 0,
+      "b": 50
+    },
+    "showlegend": false
+  }
+}

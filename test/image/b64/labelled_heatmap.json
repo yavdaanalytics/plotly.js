@@ -1,0 +1,24 @@
+{
+  "data": [
+    {
+      "z": {
+        "dtype": "i1",
+        "bdata": "ARQeMgEUATxQHh48AfYU",
+        "shape": "3, 5"
+      },
+      "x": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday"
+      ],
+      "y": [
+        "Morning",
+        "Afternoon",
+        "Evening"
+      ],
+      "type": "heatmap"
+    }
+  ]
+}

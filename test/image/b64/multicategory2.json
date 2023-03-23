@@ -1,0 +1,79 @@
+{
+  "data": [
+    {
+      "mode": "markers",
+      "marker": {
+        "symbol": "square"
+      },
+      "x": [
+        [
+          "2017",
+          "2017",
+          "2017",
+          "2017",
+          "2018",
+          "2018",
+          "2018"
+        ],
+        [
+          "q1",
+          "looooooooooooooooong",
+          "q3",
+          "q4",
+          "q1",
+          "q2",
+          "q3"
+        ]
+      ],
+      "y": {
+        "dtype": "i1",
+        "bdata": "AQIDAQMCAwE="
+      }
+    },
+    {
+      "mode": "markers",
+      "marker": {
+        "symbol": "square"
+      },
+      "x": [
+        [
+          "2017",
+          "2017",
+          "2017",
+          "2017",
+          "2018",
+          "2018",
+          "2018"
+        ],
+        [
+          "q1",
+          "looooooooooooooooong",
+          "q3",
+          "q4",
+          "q1",
+          "q2",
+          "q3"
+        ]
+      ],
+      "y": {
+        "dtype": "f8",
+        "bdata": "KVyPwvUo5D9cj8L1KFwBQOF6FK5H4QhAH4XrUbge8T+kcD0K16MIQArXo3A9Cv8/ZmZmZmZmBEDhehSuR+HiPw=="
+      }
+    }
+  ],
+  "layout": {
+    "xaxis": {
+      "title": {
+        "text": "MULTI-CATEGORY ON TOP"
+      },
+      "side": "top",
+      "tickson": "labels",
+      "ticks": "outside",
+      "ticklen": 25,
+      "automargin": true
+    },
+    "showlegend": false,
+    "width": 400,
+    "height": 800
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "type": "scattergl",
+      "mode": "lines",
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AQIB"
+      }
+    }
+  ],
+  "layout": {
+    "dragmode": "select",
+    "showlegend": false,
+    "width": 400,
+    "height": 400
+  }
+}

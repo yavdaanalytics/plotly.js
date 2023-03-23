@@ -1,0 +1,117 @@
+{
+  "data": [
+    {
+      "name": "L10000000",
+      "y": {
+        "dtype": "f8",
+        "bdata": "AAAAAITXl0EAAAAAgIQuQQAAAADQEmNB"
+      },
+      "type": "scatter"
+    },
+    {
+      "name": "dtick=0.5 | tick0=1",
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "y": {
+        "dtype": "f8",
+        "bdata": "AAAAAITXl0EAAAAAgIQuQQAAAADQEmNB"
+      },
+      "type": "scatter"
+    },
+    {
+      "name": "D1",
+      "xaxis": "x3",
+      "yaxis": "y3",
+      "y": {
+        "dtype": "f8",
+        "bdata": "AAAAAITXl0EAAAAAgIQuQQAAAADQEmNB"
+      },
+      "type": "scatter"
+    },
+    {
+      "name": "default",
+      "xaxis": "x4",
+      "yaxis": "y4",
+      "y": {
+        "dtype": "f8",
+        "bdata": "AAAAAITXl0EAAAAAgIQuQQAAAADQEmNB"
+      },
+      "type": "scatter"
+    }
+  ],
+  "layout": {
+    "width": 800,
+    "height": 800,
+    "xaxis": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAADNzMzMzMzcPw=="
+      }
+    },
+    "xaxis2": {
+      "anchor": "y2",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "MzMzMzMz4z8AAAAAAADwPw=="
+      }
+    },
+    "xaxis3": {
+      "anchor": "y3",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAADNzMzMzMzcPw=="
+      }
+    },
+    "xaxis4": {
+      "anchor": "y4",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "MzMzMzMz4z8AAAAAAADwPw=="
+      }
+    },
+    "yaxis": {
+      "tick0": 1,
+      "dtick": "L10000000",
+      "type": "log",
+      "tickprefix": "$",
+      "ticksuffix": "Hz",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAADNzMzMzMzcPw=="
+      }
+    },
+    "yaxis2": {
+      "tick0": 1,
+      "dtick": 0.5,
+      "type": "log",
+      "tickprefix": "$",
+      "ticksuffix": "Hz",
+      "anchor": "x2",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAADNzMzMzMzcPw=="
+      }
+    },
+    "yaxis3": {
+      "dtick": "D1",
+      "type": "log",
+      "tickprefix": "$",
+      "ticksuffix": "Hz",
+      "anchor": "x3",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "MzMzMzMz4z8AAAAAAADwPw=="
+      }
+    },
+    "yaxis4": {
+      "type": "log",
+      "tickprefix": "$",
+      "ticksuffix": "Hz",
+      "anchor": "x4",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "MzMzMzMz4z8AAAAAAADwPw=="
+      }
+    }
+  }
+}

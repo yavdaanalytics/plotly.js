@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "name": "with set contours",
+      "type": "contour",
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "z": {
+        "dtype": "i1",
+        "bdata": "AQIDAQID",
+        "shape": "2, 3"
+      },
+      "contours": {
+        "coloring": "heatmap",
+        "start": 0,
+        "end": 5
+      },
+      "colorbar": {
+        "x": -0.05,
+        "xanchor": "right",
+        "title": {
+          "text": "with set<br>contours"
+        }
+      }
+    },
+    {
+      "type": "contour",
+      "name": "auto contours",
+      "x": {
+        "dtype": "i1",
+        "bdata": "BQYH"
+      },
+      "z": {
+        "dtype": "i1",
+        "bdata": "AQIDAQID",
+        "shape": "2, 3"
+      },
+      "contours": {
+        "coloring": "heatmap"
+      },
+      "colorbar": {
+        "x": 1.05,
+        "xanchor": "left",
+        "title": {
+          "text": "auto<br>contours"
+        }
+      }
+    }
+  ]
+}

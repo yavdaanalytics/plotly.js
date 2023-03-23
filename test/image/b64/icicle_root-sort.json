@@ -1,0 +1,120 @@
+{
+  "data": [
+    {
+      "type": "icicle",
+      "sort": true,
+      "root": {
+        "color": "DodgerBlue"
+      },
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAAAADNzMzMzMzcPw=="
+        }
+      },
+      "textinfo": "label+percent parent",
+      "labels": [
+        "Fruit",
+        "Apple",
+        "Pear",
+        "Grape",
+        "Orange",
+        "Kiwi",
+        "Banana",
+        "Melon",
+        "Watermelon",
+        "Pineapple",
+        "Strawberry"
+      ],
+      "parents": [
+        "",
+        "Fruit",
+        "Fruit",
+        "Fruit",
+        "Fruit",
+        "Fruit",
+        "Fruit",
+        "Fruit",
+        "Fruit",
+        "Fruit",
+        "Fruit"
+      ],
+      "values": {
+        "dtype": "i1",
+        "bdata": "ZAUPCggUDAkFCAg="
+      },
+      "branchvalues": "total"
+    },
+    {
+      "type": "icicle",
+      "sort": false,
+      "root": {
+        "color": "DodgerBlue"
+      },
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "mpmZmZmZ4T8AAAAAAADwPw=="
+        },
+        "y": {
+          "dtype": "i1",
+          "bdata": "AAE="
+        }
+      },
+      "textinfo": "label+percent parent",
+      "labels": [
+        "Fruit",
+        "Apple",
+        "Pear",
+        "Grape",
+        "Orange",
+        "Kiwi",
+        "Banana",
+        "Melon",
+        "Watermelon",
+        "Pineapple",
+        "Strawberry"
+      ],
+      "parents": [
+        "",
+        "Fruit",
+        "Fruit",
+        "Fruit",
+        "Fruit",
+        "Fruit",
+        "Fruit",
+        "Fruit",
+        "Fruit",
+        "Fruit",
+        "Fruit"
+      ],
+      "values": {
+        "dtype": "i1",
+        "bdata": "ZAUPCggUDAkFCAg="
+      },
+      "branchvalues": "total"
+    }
+  ],
+  "layout": {
+    "width": 800,
+    "height": 700,
+    "annotations": [
+      {
+        "showarrow": false,
+        "text": "sort: <b>true</b>",
+        "x": 0.225,
+        "xanchor": "center",
+        "y": 1,
+        "yanchor": "bottom"
+      },
+      {
+        "showarrow": false,
+        "text": "sort: <b>false</b>",
+        "x": 0.775,
+        "xanchor": "center",
+        "y": 1,
+        "yanchor": "bottom"
+      }
+    ]
+  }
+}

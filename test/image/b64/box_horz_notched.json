@@ -1,0 +1,79 @@
+{
+  "data": [
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "Wlg3WEhkWBlcZFJSWkRVUihkXFI3PlVkS1hOUFxkWEhfUFpIZGRLUjxaVVomTlJkWlBQZEZkUj5cZFBkWFU="
+      },
+      "line": {
+        "color": "#1c9099"
+      },
+      "type": "box",
+      "name": "Notched = True",
+      "orientation": "h",
+      "notched": true
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "RkFVS0hLWlhVUFxVVUtIUCpQX1o+QUFSRDA5X0ZkUF9OUFBVWmQ0VUhGLUtVX0FGVUZVI1pfX0E+MDxVVVpGRA=="
+      },
+      "line": {
+        "color": "#1c9099"
+      },
+      "type": "box",
+      "name": "Notch width = 0.1",
+      "notched": true,
+      "orientation": "h",
+      "notchwidth": 0.1
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "X0tGSDRGUlpfUERYUjRQTjlYWGQyQU5cQTI8WGQyWkY8SEtfZC1ESC08TlVcLURGVVI+S2RQQTQwOWRIZFBB"
+      },
+      "line": {
+        "color": "#1c9099"
+      },
+      "type": "box",
+      "name": "Notch width = 0",
+      "notched": true,
+      "orientation": "h",
+      "notchwidth": 0
+    },
+    {
+      "x": {
+        "dtype": "f8",
+        "bdata": "AAAAAACAVUAAAAAAAABQQM3MzMzMjFVAZmZmZmbGVkAAAAAAAIBVQDMzMzMzU1VANDMzMzNTVUCamZmZmdlPQDQzMzMzs0dAzczMzMxMVkAzMzMzM9NWQGZmZmZm5lZAzMzMzMyMS0BmZmZmZgZQQM3MzMzMDFNAmpmZmZnZVkCamZmZmTlRQGZmZmZmZk5AAAAAAAAgUEDNzMzMzOxVQAAAAAAAADVAZmZmZmZmWECamZmZmblWQGZmZmZmplVAAAAAAAAAWUDNzMzMzMxAQM3MzMzMrFRAzMzMzMzMT0AAAAAAAMBLQM3MzMzMLFRAAAAAAABAVUA0MzMzMxNXQDMzMzMzc0hAAAAAAABAVUA="
+      },
+      "line": {
+        "color": "#1c9099"
+      },
+      "type": "box",
+      "name": "Outside of hinges",
+      "orientation": "h",
+      "notched": true
+    }
+  ],
+  "layout": {
+    "showlegend": false,
+    "xaxis": {
+      "title": {
+        "text": "Grade [%]"
+      },
+      "type": "linear"
+    },
+    "title": {
+      "text": "Based on Fig 4.4a: Course Grade Distributions"
+    },
+    "yaxis": {
+      "type": "category"
+    },
+    "height": 598,
+    "width": 1080,
+    "margin": {
+      "l": 110
+    },
+    "autosize": true
+  }
+}

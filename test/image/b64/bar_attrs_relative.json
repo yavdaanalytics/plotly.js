@@ -1,0 +1,104 @@
+{
+  "data": [
+    {
+      "width": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAA8D+amZmZmZnpPzMzMzMzM+M/mpmZmZmZ2T8="
+      },
+      "text": [
+        1,
+        2,
+        3333333333,
+        4
+      ],
+      "textposition": "outside",
+      "y": {
+        "dtype": "i1",
+        "bdata": "AQIDBA=="
+      },
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQIDBA=="
+      },
+      "type": "bar"
+    },
+    {
+      "width": {
+        "dtype": "f8",
+        "bdata": "mpmZmZmZ2T8zMzMzMzPjP5qZmZmZmek/AAAAAAAA8D8="
+      },
+      "text": [
+        "Three",
+        2,
+        "inside text",
+        0
+      ],
+      "textposition": "auto",
+      "textfont": {
+        "size": {
+          "dtype": "i1",
+          "bdata": "Cg=="
+        }
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AwIBAA=="
+      },
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQIDBA=="
+      },
+      "type": "bar"
+    },
+    {
+      "width": 1,
+      "text": {
+        "dtype": "i1",
+        "bdata": "//3+/A=="
+      },
+      "textposition": "inside",
+      "y": {
+        "dtype": "i1",
+        "bdata": "//3+/A=="
+      },
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQIDBA=="
+      },
+      "type": "bar"
+    },
+    {
+      "text": [
+        0,
+        "outside text",
+        -3,
+        -2
+      ],
+      "textposition": "auto",
+      "y": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAAAAAAAAAADQvwAAAAAAAAjAAAAAAAAAAMA="
+      },
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQIDBA=="
+      },
+      "type": "bar"
+    }
+  ],
+  "layout": {
+    "xaxis": {
+      "showgrid": true
+    },
+    "yaxis": {
+      "range": [
+        -6,
+        6
+      ]
+    },
+    "height": 400,
+    "width": 400,
+    "barmode": "relative",
+    "barnorm": ""
+  }
+}

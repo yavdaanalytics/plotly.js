@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "type": "choropleth",
+      "locations": [
+        "CAN",
+        "USA",
+        "RUS",
+        "AUS",
+        "FRA"
+      ],
+      "z": {
+        "dtype": "i1",
+        "bdata": "CAIKBgQ="
+      }
+    },
+    {
+      "type": "scattergeo",
+      "mode": "lines",
+      "lon": {
+        "dtype": "i1",
+        "bdata": "s3Q="
+      },
+      "lat": {
+        "dtype": "i1",
+        "bdata": "Jxg="
+      },
+      "name": "mah trace!",
+      "line": {
+        "color": "rgb(0, 255, 255)",
+        "width": 5
+      }
+    },
+    {
+      "type": "scattergeo",
+      "mode": "lines",
+      "lon": {
+        "dtype": "i2",
+        "bdata": "jACr/w=="
+      },
+      "lat": {
+        "dtype": "i1",
+        "bdata": "JSo="
+      },
+      "line": {
+        "color": "rgb(255, 0, 255)",
+        "width": 5
+      }
+    }
+  ],
+  "layout": {
+    "geo": {
+      "projection": {
+        "type": "kavrayskiy7",
+        "rotation": {
+          "lon": -90
+        }
+      },
+      "showcoastlines": true,
+      "coastlinecolor": "black",
+      "coastlinewidth": 2,
+      "showland": true,
+      "landcolor": "#aaa",
+      "showocean": true,
+      "lonaxis": {
+        "showgrid": true,
+        "gridwidth": 2,
+        "gridcolor": "black"
+      },
+      "lataxis": {
+        "showgrid": true,
+        "range": [
+          -75,
+          85
+        ],
+        "gridwidth": 2,
+        "gridcolor": "black"
+      }
+    },
+    "height": 450,
+    "width": 1000,
+    "autosize": true,
+    "showlegend": false
+  }
+}

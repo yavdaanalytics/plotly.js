@@ -1,0 +1,45 @@
+{
+  "data": [
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      }
+    },
+    {
+      "x": {
+        "dtype": "f8",
+        "bdata": "zczMzMzMAEAAAAAAAAAAQA=="
+      },
+      "xaxis": "x2"
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AwIB"
+      },
+      "xaxis": "x3"
+    }
+  ],
+  "layout": {
+    "xaxis": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAAAzMzMzMzPTPw=="
+      }
+    },
+    "xaxis2": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "ZmZmZmZm1j/NzMzMzMzkPw=="
+      }
+    },
+    "xaxis3": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "ZmZmZmZm5j8AAAAAAADwPw=="
+      }
+    },
+    "hovermode": "y"
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "data": [
+    {
+      "type": "scattergl",
+      "y": {
+        "dtype": "i1",
+        "bdata": "BQUFBQ=="
+      },
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQIDBA=="
+      },
+      "mode": "markers",
+      "marker": {
+        "color": "rgba(156, 165, 196, 0.8)",
+        "line": {
+          "color": "rgba(0, 0, 0, 0.8)",
+          "width": 5
+        },
+        "symbol": [
+          "circle",
+          "circle-cross-open",
+          "circle-cross",
+          "circle-open"
+        ],
+        "size": {
+          "dtype": "i1",
+          "bdata": "FBQUFA=="
+        }
+      }
+    },
+    {
+      "type": "scattergl",
+      "y": {
+        "dtype": "i1",
+        "bdata": "CgoKCg=="
+      },
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQIDBA=="
+      },
+      "mode": "markers",
+      "marker": {
+        "color": "rgba(156, 165, 196, 0.8)",
+        "line": {
+          "color": "rgba(0, 0, 0, 0.8)",
+          "width": 5
+        },
+        "symbol": [
+          "circle",
+          "circle-cross-open",
+          "circle-cross",
+          "circle-open"
+        ],
+        "size": 20
+      }
+    },
+    {
+      "type": "scattergl",
+      "y": {
+        "dtype": "i1",
+        "bdata": "Dw8PDw=="
+      },
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQIDBA=="
+      },
+      "mode": "markers",
+      "marker": {
+        "color": "rgba(156, 165, 196, 0.8)",
+        "line": {
+          "color": "rgba(0, 0, 0, 0.8)",
+          "width": {
+            "dtype": "i1",
+            "bdata": "BQUFBQ=="
+          }
+        },
+        "symbol": [
+          "circle",
+          "circle-cross-open",
+          "circle-cross",
+          "circle-open"
+        ],
+        "size": 20
+      }
+    },
+    {
+      "type": "scattergl",
+      "y": {
+        "dtype": "i1",
+        "bdata": "FBQUFA=="
+      },
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQIDBA=="
+      },
+      "mode": "markers",
+      "marker": {
+        "color": "rgba(156, 165, 196, 0.8)",
+        "line": {
+          "color": "rgba(0, 0, 0, 0.8)",
+          "width": {
+            "dtype": "i1",
+            "bdata": "BQUFBQ=="
+          }
+        },
+        "symbol": [
+          "circle",
+          "circle-cross-open",
+          "circle-cross",
+          "circle-open"
+        ],
+        "size": {
+          "dtype": "i1",
+          "bdata": "FBQUFA=="
+        }
+      }
+    }
+  ],
+  "layout": {
+    "margin": {
+      "l": 60,
+      "r": 60,
+      "b": 60,
+      "t": 60
+    },
+    "height": 400,
+    "width": 480,
+    "showlegend": false
+  },
+  "config": {
+    "plotGlPixelRatio": 4
+  }
+}

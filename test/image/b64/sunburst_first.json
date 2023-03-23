@@ -1,0 +1,86 @@
+{
+  "data": [
+    {
+      "type": "sunburst",
+      "textinfo": "label+percent parent",
+      "labels": [
+        "Eve",
+        "Cain",
+        "Seth",
+        "Enos",
+        "Noam",
+        "Abel",
+        "Awan",
+        "Enoch",
+        "Azura"
+      ],
+      "parents": [
+        "",
+        "Eve",
+        "Eve",
+        "Seth",
+        "Seth",
+        "Eve",
+        "Eve",
+        "Awan",
+        "Eve"
+      ],
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAAAAAAAAAAAADgPw=="
+        }
+      }
+    },
+    {
+      "type": "sunburst",
+      "textinfo": "label+percent root",
+      "labels": [
+        "Cain",
+        "Seth",
+        "Enos",
+        "Noam",
+        "Abel",
+        "Awan",
+        "Enoch",
+        "Azura"
+      ],
+      "parents": [
+        "Eve",
+        "Eve",
+        "Seth",
+        "Seth",
+        "Eve",
+        "Eve",
+        "Awan",
+        "Eve"
+      ],
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAA4D8AAAAAAADwPw=="
+        }
+      }
+    }
+  ],
+  "layout": {
+    "annotations": [
+      {
+        "showarrow": false,
+        "text": "percent parent",
+        "x": 0.25,
+        "xanchor": "center",
+        "y": 1,
+        "yanchor": "bottom"
+      },
+      {
+        "showarrow": false,
+        "text": "percent root",
+        "x": 0.75,
+        "xanchor": "center",
+        "y": 1,
+        "yanchor": "bottom"
+      }
+    ]
+  }
+}

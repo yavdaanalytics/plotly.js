@@ -1,0 +1,272 @@
+{
+  "data": [
+    {
+      "textposition": "bottom center",
+      "name": "Sept",
+      "tick0": 0,
+      "text": [
+        "1022 Guinea",
+        "3362 Liberia",
+        "3 Senegal",
+        "1940 Sierra Leone"
+      ],
+      "zmin": 0,
+      "lon": {
+        "dtype": "f8",
+        "bdata": "ZmZmZmZmI8Bcj8L1KNwiwGZmZmZm5izAj8L1KFyPJ8A="
+      },
+      "dtick": 1000,
+      "colorbar": {
+        "tickprefix": "",
+        "autotick": false,
+        "title": {
+          "text": ""
+        }
+      },
+      "lat": {
+        "dtype": "f8",
+        "bdata": "ZmZmZmbmI0C4HoXrUbgZQAAAAAAAAC1A7FG4HoXrIEA="
+      },
+      "sizemode": "diameter",
+      "mode": "markers+text",
+      "marker": {
+        "color": "rgb(33,113,181)",
+        "line": {
+          "width": 0
+        },
+        "size": {
+          "dtype": "f8",
+          "bdata": "cT0K16NwNECPwvUoXM9QQLgehetRuK4/ZmZmZmZmQ0A="
+        }
+      },
+      "type": "scattergeo"
+    },
+    {
+      "name": "Aug",
+      "tick0": 0,
+      "text": {
+        "dtype": "i2",
+        "bdata": "AwNzBQEAwAQ="
+      },
+      "zmin": 0,
+      "lon": {
+        "dtype": "f8",
+        "bdata": "ZmZmZmZmI8Bcj8L1KNwiwGZmZmZm5izAj8L1KFyPJ8A="
+      },
+      "dtick": 1000,
+      "colorbar": {
+        "tickprefix": "",
+        "autotick": false,
+        "title": {
+          "text": ""
+        }
+      },
+      "lat": {
+        "dtype": "f8",
+        "bdata": "ZmZmZmbmI0C4HoXrUbgZQAAAAAAAAC1A7FG4HoXrIEA="
+      },
+      "sizemode": "diameter",
+      "marker": {
+        "color": "rgb(107,174,214)",
+        "line": {
+          "width": 0
+        },
+        "size": {
+          "dtype": "f8",
+          "bdata": "16NwPQrXLkBmZmZmZuY7QHsUrkfhepQ/UrgehetROEA="
+        }
+      },
+      "type": "scattergeo"
+    },
+    {
+      "name": "July",
+      "tick0": 0,
+      "text": {
+        "dtype": "i2",
+        "bdata": "zAFJARUC"
+      },
+      "zmin": 0,
+      "lon": {
+        "dtype": "f8",
+        "bdata": "ZmZmZmZmI8Bcj8L1KNwiwI/C9ShcjyfA"
+      },
+      "dtick": 1000,
+      "colorbar": {
+        "tickprefix": "",
+        "autotick": false,
+        "title": {
+          "text": ""
+        }
+      },
+      "lat": {
+        "dtype": "f8",
+        "bdata": "ZmZmZmbmI0C4HoXrUbgZQOxRuB6F6yBA"
+      },
+      "sizemode": "diameter",
+      "marker": {
+        "color": "rgb(189,215,231)",
+        "line": {
+          "width": 0
+        },
+        "size": {
+          "dtype": "f8",
+          "bdata": "ZmZmZmZmIkBSuB6F61EaQFK4HoXrUSVA"
+        }
+      },
+      "type": "scattergeo"
+    },
+    {
+      "name": "June",
+      "tick0": 0,
+      "text": {
+        "dtype": "i2",
+        "bdata": "nQFrAO8A"
+      },
+      "zmin": 0,
+      "lon": {
+        "dtype": "f8",
+        "bdata": "ZmZmZmZmI8Bcj8L1KNwiwI/C9ShcjyfA"
+      },
+      "dtick": 1000,
+      "colorbar": {
+        "tickprefix": "",
+        "autotick": false,
+        "title": {
+          "text": ""
+        }
+      },
+      "lat": {
+        "dtype": "f8",
+        "bdata": "ZmZmZmbmI0C4HoXrUbgZQOxRuB6F6yBA"
+      },
+      "sizemode": "diameter",
+      "marker": {
+        "color": "rgb(239,243,255)",
+        "line": {
+          "width": 0
+        },
+        "size": {
+          "dtype": "f8",
+          "bdata": "hetRuB6FIEAfhetRuB4BQB+F61G4HhNA"
+        }
+      },
+      "type": "scattergeo"
+    },
+    {
+      "autocolorscale": false,
+      "colorscale": [
+        [
+          0,
+          "rgb(0, 0, 0)"
+        ],
+        [
+          1,
+          "rgb(0, 0, 0)"
+        ]
+      ],
+      "text": [
+        "Guinea",
+        "Liberia",
+        "Senegal",
+        "Sierra Leone"
+      ],
+      "locations": [
+        "Guinea",
+        "Liberia",
+        "Senegal",
+        "Sierra Leone"
+      ],
+      "geo": "geo2",
+      "showscale": false,
+      "type": "choropleth",
+      "z": {
+        "dtype": "i2",
+        "bdata": "/gMiDQMAlAc="
+      },
+      "locationmode": "country names",
+      "zmin": 3,
+      "zmax": 3362
+    },
+    {
+      "showlegend": false,
+      "text": [
+        "Africa"
+      ],
+      "lon": {
+        "dtype": "f8",
+        "bdata": "1edqK/YXNUA="
+      },
+      "geo": "geo2",
+      "mode": "text",
+      "lat": {
+        "dtype": "f8",
+        "bdata": "qoJRSZ3AHEA="
+      },
+      "type": "scattergeo"
+    }
+  ],
+  "layout": {
+    "geo2": {
+      "showland": true,
+      "domain": {
+        "y": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAAAAAzMzMzMzPjPw=="
+        },
+        "x": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAAAAAzMzMzMzPjPw=="
+        }
+      },
+      "landcolor": "rgb(229, 229, 229)",
+      "showframe": false,
+      "bgcolor": "rgba(255, 255, 255, 0.0)",
+      "showcountries": false,
+      "scope": "africa"
+    },
+    "geo": {
+      "showland": true,
+      "domain": {
+        "y": {
+          "dtype": "i1",
+          "bdata": "AAE="
+        },
+        "x": {
+          "dtype": "i1",
+          "bdata": "AAE="
+        }
+      },
+      "lonaxis": {
+        "range": [
+          -15,
+          -5
+        ]
+      },
+      "projection": {
+        "type": "Mercator"
+      },
+      "lataxis": {
+        "range": [
+          0,
+          12
+        ]
+      },
+      "showframe": false,
+      "landcolor": "rgb(229, 229, 229)",
+      "countrycolor": "rgb(255, 255, 255)",
+      "showcoastlines": true,
+      "coastlinecolor": "rgb(255, 255, 255)",
+      "scope": "africa",
+      "resolution": 50
+    },
+    "legend": {
+      "traceorder": "reversed"
+    },
+    "title": {
+      "text": "Ebola cases reported by month in West Africa 2014<br> Source: <a href=\"https://data.hdx.rwlabs.org/dataset/rowca-ebola-cases\">HDX</a>"
+    },
+    "autosize": true,
+    "height": 791,
+    "width": 1600
+  }
+}

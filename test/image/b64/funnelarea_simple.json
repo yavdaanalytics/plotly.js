@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "values": {
+        "dtype": "i1",
+        "bdata": "BQQDAgE="
+      },
+      "type": "funnelarea"
+    }
+  ],
+  "layout": {
+    "height": 300,
+    "width": 400
+  }
+}

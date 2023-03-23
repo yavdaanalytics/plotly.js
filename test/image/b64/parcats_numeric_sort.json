@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "type": "parcats",
+      "dimensions": [
+        {
+          "label": "A",
+          "values": {
+            "dtype": "i1",
+            "bdata": "AQID"
+          },
+          "categoryorder": "category ascending"
+        },
+        {
+          "label": "B",
+          "values": {
+            "dtype": "i1",
+            "bdata": "CQoL"
+          },
+          "categoryorder": "category ascending"
+        }
+      ]
+    }
+  ],
+  "layout": {
+    "width": 320,
+    "height": 200,
+    "margin": {
+      "t": 20,
+      "b": 20,
+      "l": 20,
+      "r": 20
+    },
+    "font": {
+      "size": 16
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "data": [
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQIDBA=="
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AgEDBA=="
+      },
+      "error_y": {
+        "type": "sqrt"
+      },
+      "type": "scatter"
+    }
+  ]
+}

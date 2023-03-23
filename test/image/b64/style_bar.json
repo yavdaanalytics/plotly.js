@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "x": {
+        "dtype": "i2",
+        "bdata": "ywfMB80HzgfPB9AH0QfSB9MH1AfVB9YH1wfYB9kH2gfbB9wH"
+      },
+      "y": {
+        "dtype": "i2",
+        "bdata": "2wCSAHAAfwB8ALQA7ADPAOwABwFeAa4B2gEOAugBGQL0AbcB"
+      },
+      "name": "Rest of world",
+      "marker": {
+        "color": "rgb(55, 83, 109)"
+      },
+      "type": "bar"
+    },
+    {
+      "x": {
+        "dtype": "i2",
+        "bdata": "ywfMB80HzgfPB9AH0QfSB9MH1AfVB9YH1wfYB9kH2gfbB9wH"
+      },
+      "y": {
+        "dtype": "i2",
+        "bdata": "EAANAAoACwAcACUAKwA3ADgAWABpAJwADgErAVQBkwElAvMB"
+      },
+      "name": "China",
+      "marker": {
+        "color": "rgb(26, 118, 255)"
+      },
+      "type": "bar"
+    }
+  ],
+  "layout": {
+    "title": {
+      "text": "US Export of Plastic Scrap"
+    },
+    "xaxis": {
+      "tickfont": {
+        "color": "rgb(107, 107, 107)",
+        "size": 14
+      }
+    },
+    "yaxis": {
+      "tickfont": {
+        "color": "rgb(107, 107, 107)",
+        "size": 14
+      },
+      "title": {
+        "font": {
+          "color": "rgb(107, 107, 107)",
+          "size": 16
+        },
+        "text": "USD (millions)"
+      }
+    },
+    "legend": {
+      "x": 0,
+      "y": 1,
+      "bgcolor": "rgba(255, 255, 255, 0)",
+      "bordercolor": "rgba(255, 255, 255, 0)"
+    },
+    "barmode": "group",
+    "bargap": 0.15,
+    "bargroupgap": 0.1
+  }
+}

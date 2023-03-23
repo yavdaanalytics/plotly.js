@@ -1,0 +1,141 @@
+{
+  "data": [
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AAEAAQABAAE="
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AAABAQAAAQE="
+      },
+      "z": {
+        "dtype": "i1",
+        "bdata": "AAAAAAEBAQE="
+      },
+      "i": {
+        "dtype": "i1",
+        "bdata": "AAMEBwAGAQcABQIH"
+      },
+      "j": {
+        "dtype": "i1",
+        "bdata": "AQIFBgIEAwUEAQYD"
+      },
+      "k": {
+        "dtype": "i1",
+        "bdata": "AwAHBAYABwEFAAcC"
+      },
+      "flatshading": true,
+      "lightposition": {
+        "x": 1000,
+        "y": 1000,
+        "z": 0
+      },
+      "opacity": 1,
+      "vertexcolor": [
+        "#F00",
+        "#FF0",
+        "#0F0",
+        "#0FF",
+        "#00F",
+        "#F0F"
+      ],
+      "type": "mesh3d",
+      "name": "mesh3d",
+      "scene": "scene"
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AAEAAQABAAE="
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AAABAQAAAQE="
+      },
+      "z": {
+        "dtype": "i1",
+        "bdata": "AAAAAAEBAQE="
+      },
+      "i": {
+        "dtype": "i1",
+        "bdata": "AAMEBwAGAQcABQIH"
+      },
+      "j": {
+        "dtype": "i1",
+        "bdata": "AQIFBgIEAwUEAQYD"
+      },
+      "k": {
+        "dtype": "i1",
+        "bdata": "AwAHBAYABwEFAAcC"
+      },
+      "flatshading": true,
+      "lightposition": {
+        "x": 1000,
+        "y": 1000,
+        "z": 0
+      },
+      "opacity": 1,
+      "facecolor": [
+        "#F00",
+        "#FF0",
+        "#0F0",
+        "#0FF",
+        "#00F",
+        "#F0F"
+      ],
+      "type": "mesh3d",
+      "name": "mesh3d",
+      "scene": "scene2"
+    }
+  ],
+  "layout": {
+    "paper_bgcolor": "#ddd",
+    "margin": {
+      "t": 0,
+      "b": 0,
+      "l": 0,
+      "r": 0
+    },
+    "width": 250,
+    "height": 500,
+    "scene": {
+      "domain": {
+        "x": {
+          "dtype": "i1",
+          "bdata": "AAE="
+        },
+        "y": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAAAAAAAAAAAADgPw=="
+        }
+      },
+      "camera": {
+        "eye": {
+          "x": 1.5,
+          "y": 3,
+          "z": 1
+        }
+      }
+    },
+    "scene2": {
+      "domain": {
+        "x": {
+          "dtype": "i1",
+          "bdata": "AAE="
+        },
+        "y": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAA4D8AAAAAAADwPw=="
+        }
+      },
+      "camera": {
+        "eye": {
+          "x": 1.5,
+          "y": 3,
+          "z": 1
+        }
+      }
+    }
+  }
+}

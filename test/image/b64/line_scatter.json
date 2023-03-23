@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQIDBA=="
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "Cg8NEQ=="
+      },
+      "mode": "markers",
+      "type": "scatter",
+      "marker": {
+        "opacity": 0.5
+      }
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AgMEBQ=="
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "EAULCQ=="
+      },
+      "mode": "lines",
+      "type": "scatter",
+      "opacity": 0.5
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQIDBA=="
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "DAkPDA=="
+      },
+      "mode": "lines+markers",
+      "type": "scatter",
+      "opacity": 0.707,
+      "marker": {
+        "opacity": 0.707
+      }
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "opacity": 0.2,
+      "line": {
+        "width": 10,
+        "color": "red"
+      },
+      "marker": {
+        "size": 20,
+        "color": "blue"
+      }
+    }
+  ]
+}

@@ -1,0 +1,419 @@
+{
+  "data": [
+    {
+      "type": "treemap",
+      "level": "",
+      "labels": [
+        "A1",
+        "A2",
+        "A3",
+        "A4",
+        "A5",
+        "B1",
+        "B2"
+      ],
+      "parents": [
+        "",
+        "A1",
+        "A2",
+        "A3",
+        "A4",
+        "",
+        "B1"
+      ],
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAAAAC4HoXrUbjOPw=="
+        },
+        "y": {
+          "dtype": "f8",
+          "bdata": "ZmZmZmZm5j8AAAAAAADwPw=="
+        }
+      }
+    },
+    {
+      "type": "treemap",
+      "level": "A1",
+      "labels": [
+        "A1",
+        "A2",
+        "A3",
+        "A4",
+        "A5",
+        "B1",
+        "B2"
+      ],
+      "parents": [
+        "",
+        "A1",
+        "A2",
+        "A3",
+        "A4",
+        "",
+        "B1"
+      ],
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAAAAC4HoXrUbjOPw=="
+        },
+        "y": {
+          "dtype": "f8",
+          "bdata": "ZmZmZmZm1j/NzMzMzMzkPw=="
+        }
+      }
+    },
+    {
+      "type": "treemap",
+      "level": "A4",
+      "labels": [
+        "A1",
+        "A2",
+        "A3",
+        "A4",
+        "A5",
+        "B1",
+        "B2"
+      ],
+      "parents": [
+        "",
+        "A1",
+        "A2",
+        "A3",
+        "A4",
+        "",
+        "B1"
+      ],
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAAAAC4HoXrUbjOPw=="
+        },
+        "y": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAAAAAzMzMzMzPTPw=="
+        }
+      }
+    },
+    {
+      "type": "treemap",
+      "level": "",
+      "labels": [
+        "C1",
+        "C2",
+        "C3",
+        "C4",
+        "C5",
+        "D1",
+        "D2"
+      ],
+      "parents": [
+        "Root",
+        "C1",
+        "C2",
+        "C3",
+        "C4",
+        "Root",
+        "D1"
+      ],
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "pHA9Ctej0D9cj8L1KFzfPw=="
+        },
+        "y": {
+          "dtype": "f8",
+          "bdata": "ZmZmZmZm5j8AAAAAAADwPw=="
+        }
+      }
+    },
+    {
+      "type": "treemap",
+      "level": "C1",
+      "labels": [
+        "C1",
+        "C2",
+        "C3",
+        "C4",
+        "C5",
+        "D1",
+        "D2"
+      ],
+      "parents": [
+        "Root",
+        "C1",
+        "C2",
+        "C3",
+        "C4",
+        "Root",
+        "D1"
+      ],
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "pHA9Ctej0D9cj8L1KFzfPw=="
+        },
+        "y": {
+          "dtype": "f8",
+          "bdata": "ZmZmZmZm1j/NzMzMzMzkPw=="
+        }
+      }
+    },
+    {
+      "type": "treemap",
+      "level": "C4",
+      "labels": [
+        "C1",
+        "C2",
+        "C3",
+        "C4",
+        "C5",
+        "D1",
+        "D2"
+      ],
+      "parents": [
+        "Root",
+        "C1",
+        "C2",
+        "C3",
+        "C4",
+        "Root",
+        "D1"
+      ],
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "pHA9Ctej0D9cj8L1KFzfPw=="
+        },
+        "y": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAAAAAzMzMzMzPTPw=="
+        }
+      }
+    },
+    {
+      "type": "sunburst",
+      "rotation": 180,
+      "level": "",
+      "labels": [
+        "A1",
+        "A2",
+        "A3",
+        "A4",
+        "A5",
+        "B1",
+        "B2"
+      ],
+      "parents": [
+        "",
+        "A1",
+        "A2",
+        "A3",
+        "A4",
+        "",
+        "B1"
+      ],
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "UrgehetR4D+uR+F6FK7nPw=="
+        },
+        "y": {
+          "dtype": "f8",
+          "bdata": "ZmZmZmZm5j8AAAAAAADwPw=="
+        }
+      }
+    },
+    {
+      "type": "treemap",
+      "level": "A2",
+      "maxdepth": 3,
+      "labels": [
+        "A1",
+        "A2",
+        "A3",
+        "A4",
+        "A5",
+        "B1",
+        "B2"
+      ],
+      "parents": [
+        "",
+        "A1",
+        "A2",
+        "A3",
+        "A4",
+        "",
+        "B1"
+      ],
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "UrgehetR4D+uR+F6FK7nPw=="
+        },
+        "y": {
+          "dtype": "f8",
+          "bdata": "ZmZmZmZm1j/NzMzMzMzkPw=="
+        }
+      }
+    },
+    {
+      "type": "treemap",
+      "level": "A2",
+      "maxdepth": 3,
+      "marker": {
+        "depthfade": "reversed"
+      },
+      "labels": [
+        "A1",
+        "A2",
+        "A3",
+        "A4",
+        "A5",
+        "B1",
+        "B2"
+      ],
+      "parents": [
+        "",
+        "A1",
+        "A2",
+        "A3",
+        "A4",
+        "",
+        "B1"
+      ],
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "UrgehetR4D+uR+F6FK7nPw=="
+        },
+        "y": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAAAAAzMzMzMzPTPw=="
+        }
+      }
+    },
+    {
+      "type": "sunburst",
+      "rotation": 90,
+      "level": "",
+      "labels": [
+        "C1",
+        "C2",
+        "C3",
+        "C4",
+        "C5",
+        "D1",
+        "D2"
+      ],
+      "parents": [
+        "Root",
+        "C1",
+        "C2",
+        "C3",
+        "C4",
+        "Root",
+        "D1"
+      ],
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "UrgehetR6D+uR+F6FK7vPw=="
+        },
+        "y": {
+          "dtype": "f8",
+          "bdata": "ZmZmZmZm5j8AAAAAAADwPw=="
+        }
+      }
+    },
+    {
+      "type": "treemap",
+      "level": "",
+      "marker": {
+        "colors": [
+          "red",
+          "green",
+          "blue",
+          "yellow",
+          "magenta",
+          "orange",
+          "gray"
+        ]
+      },
+      "labels": [
+        "E1",
+        "E2",
+        "E3",
+        "E4",
+        "E5",
+        "F1",
+        "F2"
+      ],
+      "parents": [
+        "",
+        "E1",
+        "E2",
+        "E3",
+        "E4",
+        "",
+        "F1"
+      ],
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "UrgehetR6D+uR+F6FK7vPw=="
+        },
+        "y": {
+          "dtype": "f8",
+          "bdata": "ZmZmZmZm1j/NzMzMzMzkPw=="
+        }
+      }
+    },
+    {
+      "type": "treemap",
+      "level": "",
+      "marker": {
+        "depthfade": "reversed"
+      },
+      "labels": [
+        "C1",
+        "C2",
+        "C3",
+        "C4",
+        "C5",
+        "B1",
+        "B2"
+      ],
+      "parents": [
+        "Root",
+        "C1",
+        "C2",
+        "C3",
+        "C4",
+        "Root",
+        "B1"
+      ],
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "UrgehetR6D+uR+F6FK7vPw=="
+        },
+        "y": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAAAAAzMzMzMzPTPw=="
+        }
+      }
+    }
+  ],
+  "layout": {
+    "width": 1200,
+    "height": 800,
+    "margin": {
+      "t": 0,
+      "b": 0,
+      "l": 0,
+      "r": 0
+    }
+  }
+}

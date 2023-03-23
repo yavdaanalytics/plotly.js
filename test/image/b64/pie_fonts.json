@@ -1,0 +1,123 @@
+{
+  "data": [
+    {
+      "values": {
+        "dtype": "f8",
+        "bdata": "0SLb+X5q8j/4U+Olm0QgQA=="
+      },
+      "text": [
+        "inherit from<br><b>global...</b>",
+        "font"
+      ],
+      "textposition": [
+        "outside",
+        "inside"
+      ],
+      "type": "pie",
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAAAACamZmZmZnZPw=="
+        },
+        "y": {
+          "dtype": "f8",
+          "bdata": "MzMzMzMz4z8AAAAAAADwPw=="
+        }
+      }
+    },
+    {
+      "values": {
+        "dtype": "f8",
+        "bdata": "0SLb+X5q8j/4U+Olm0QgQA=="
+      },
+      "text": [
+        "a font of...",
+        "my own"
+      ],
+      "type": "pie",
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "MzMzMzMz4z8AAAAAAADwPw=="
+        },
+        "y": {
+          "dtype": "f8",
+          "bdata": "MzMzMzMz4z8AAAAAAADwPw=="
+        }
+      },
+      "textfont": {
+        "family": "Times New Roman, Times, serif",
+        "size": 15,
+        "color": "#cc0"
+      }
+    },
+    {
+      "values": {
+        "dtype": "f8",
+        "bdata": "0SLb+X5q8j/4U+Olm0QgQA=="
+      },
+      "text": [
+        "outside and textfont<br>both modify...",
+        "global"
+      ],
+      "type": "pie",
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAAAACamZmZmZnZPw=="
+        },
+        "y": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAAAACamZmZmZnZPw=="
+        }
+      },
+      "textfont": {
+        "size": 12
+      },
+      "outsidetextfont": {
+        "color": "#c80"
+      }
+    },
+    {
+      "values": {
+        "dtype": "f8",
+        "bdata": "0SLb+X5q8j/4U+Olm0QgQA=="
+      },
+      "text": [
+        "independent fonts<br>outside and...",
+        "inside"
+      ],
+      "type": "pie",
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "MzMzMzMz4z8AAAAAAADwPw=="
+        },
+        "y": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAAAACamZmZmZnZPw=="
+        }
+      },
+      "outsidetextfont": {
+        "family": "Raleway, sans-serif",
+        "size": 10,
+        "color": "#800"
+      },
+      "insidetextfont": {
+        "family": "Courier New, monospace",
+        "size": 14,
+        "color": "#fff"
+      }
+    }
+  ],
+  "layout": {
+    "height": 500,
+    "width": 600,
+    "font": {
+      "family": "Old Standard TT, serif",
+      "size": 20
+    },
+    "showlegend": true,
+    "separators": "\u2206|"
+  }
+}

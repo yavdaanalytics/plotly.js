@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "type": "parcats",
+      "dimensions": [
+        {
+          "label": "One",
+          "values": {
+            "dtype": "i1",
+            "bdata": "AQECAQIBAQIB"
+          },
+          "displayindex": 1,
+          "categoryarray": {
+            "dtype": "i1",
+            "bdata": "AQI="
+          },
+          "ticktext": [
+            "One",
+            "Two"
+          ]
+        },
+        {
+          "label": "Two",
+          "values": [
+            "A",
+            "B",
+            "A",
+            "B",
+            "C",
+            "C",
+            "A",
+            "B",
+            "C"
+          ],
+          "displayindex": 2,
+          "categoryarray": [
+            "B",
+            "A",
+            "C"
+          ]
+        },
+        {
+          "label": "Three",
+          "values": {
+            "dtype": "i1",
+            "bdata": "CwsLCwsLCwsL"
+          },
+          "displayindex": 1
+        }
+      ]
+    }
+  ],
+  "layout": {
+    "height": 602,
+    "width": 592,
+    "margin": {
+      "l": 40,
+      "r": 40,
+      "t": 50,
+      "b": 40
+    }
+  }
+}

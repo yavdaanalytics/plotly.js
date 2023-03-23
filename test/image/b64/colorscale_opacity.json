@@ -1,0 +1,72 @@
+{
+  "data": [
+    {
+      "type": "contour",
+      "z": {
+        "dtype": "f8",
+        "bdata": "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",
+        "shape": "5, 100"
+      },
+      "colorscale": [
+        [
+          0,
+          "rgba(255,0,0,0.2)"
+        ],
+        [
+          1,
+          "rgba(0,255,0,0.8)"
+        ]
+      ]
+    },
+    {
+      "dx": 15,
+      "y": {
+        "dtype": "i1",
+        "bdata": "BQUFBQ=="
+      },
+      "mode": "markers",
+      "marker": {
+        "size": 40,
+        "colorscale": [
+          [
+            0,
+            "rgb(255,0.0,0.0)"
+          ],
+          [
+            1,
+            "rgba(0.0,0.0,255,0.5)"
+          ]
+        ],
+        "color": {
+          "dtype": "i1",
+          "bdata": "AAECAw=="
+        },
+        "cmin": 0,
+        "cmax": 3
+      }
+    }
+  ],
+  "layout": {
+    "title": {
+      "text": "RGBA colorscales"
+    },
+    "xaxis": {
+      "range": [
+        -0.271356783919598,
+        3.271356783919598
+      ],
+      "autorange": true
+    },
+    "yaxis": {
+      "type": "linear",
+      "range": [
+        4,
+        6
+      ],
+      "autorange": true
+    },
+    "height": 450,
+    "width": 1100,
+    "autosize": true
+  }
+}

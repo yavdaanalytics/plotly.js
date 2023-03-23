@@ -1,0 +1,108 @@
+{
+  "data": [
+    {
+      "x": {
+        "dtype": "f8",
+        "bdata": "AAAAAACIw0AtQxzr4jYaPw=="
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "LUMc6+I2Gj8AAAAAAIjDQA=="
+      },
+      "fill": "tozeroy",
+      "fillcolor": "blue"
+    },
+    {
+      "x": {
+        "dtype": "f8",
+        "bdata": "AAAAAACIw0AtQxzr4jYaPw=="
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "LUMc6+I2Gj8AAAAAAIjDQA=="
+      },
+      "fill": "tozeroy",
+      "line": {
+        "shape": "hvh"
+      }
+    },
+    {
+      "x": {
+        "dtype": "f8",
+        "bdata": "AAAAAACIw0AtQxzr4jYaPw=="
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "LUMc6+I2Gj8AAAAAAIjDQA=="
+      },
+      "fill": "tozeroy",
+      "line": {
+        "shape": "vhv"
+      }
+    },
+    {
+      "x": {
+        "dtype": "i2",
+        "bdata": "AACJEw=="
+      },
+      "y": {
+        "dtype": "i2",
+        "bdata": "ihMAAA=="
+      },
+      "line": {
+        "shape": "hv"
+      }
+    },
+    {
+      "x": {
+        "dtype": "i2",
+        "bdata": "ihMAAA=="
+      },
+      "y": {
+        "dtype": "i2",
+        "bdata": "AACLEw=="
+      },
+      "line": {
+        "shape": "vh"
+      }
+    },
+    {
+      "x": {
+        "dtype": "i2",
+        "bdata": "AACIE4kTihOLEw=="
+      },
+      "y": {
+        "dtype": "i2",
+        "bdata": "eOyIE4gTiBOYOg=="
+      },
+      "line": {
+        "shape": "spline"
+      }
+    }
+  ],
+  "layout": {
+    "xaxis": {
+      "range": [
+        4999,
+        5003
+      ]
+    },
+    "yaxis": {
+      "range": [
+        4998,
+        5004
+      ]
+    },
+    "shapes": [
+      {
+        "type": "line",
+        "x0": 10000,
+        "x1": 0.0001,
+        "y0": 10000,
+        "y1": 0.0001
+      }
+    ],
+    "height": 400,
+    "width": 600
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AAEC"
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AQEB"
+      },
+      "mode": "lines+markers+text",
+      "name": "Lines, Markers and (same) Text",
+      "text": "(same) text",
+      "textposition": "top",
+      "type": "scattergl"
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AAEC"
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AgIC"
+      },
+      "mode": "markers+text",
+      "name": "Markers and Text (same)",
+      "text": "text (same)",
+      "textposition": "bottom",
+      "type": "scattergl"
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AAEC"
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AwMD"
+      },
+      "mode": "lines+text",
+      "name": "Lines and Text",
+      "text": "text",
+      "textposition": "bottom",
+      "type": "scattergl"
+    }
+  ],
+  "layout": {
+    "showlegend": false
+  }
+}

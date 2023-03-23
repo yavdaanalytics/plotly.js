@@ -1,0 +1,107 @@
+{
+  "data": [
+    {
+      "type": "carpet",
+      "a": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAEEAAAAAAAAAQQAAAAAAAABBAAAAAAAAAEkAAAAAAAAASQAAAAAAAABJAAAAAAAAAFEAAAAAAAAAUQAAAAAAAABRAAAAAAAAAGEAAAAAAAAAYQAAAAAAAABhA"
+      },
+      "b": {
+        "dtype": "i1",
+        "bdata": "AQIDAQIDAQIDAQID"
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAEAAAAAAAAAMQAAAAAAAABBAAAAAAAAACEAAAAAAAAASQAAAAAAAABRAAAAAAAAAFkAAAAAAAAAaQAAAAAAAAB5AAAAAAAAAIEAAAAAAAAAhQAAAAAAAACRA"
+      },
+      "aaxis": {
+        "tickprefix": "a = ",
+        "ticksuffix": "m",
+        "smoothing": 1,
+        "minorgridcount": 9
+      },
+      "baxis": {
+        "tickprefix": "b = ",
+        "ticksuffix": "Pa",
+        "smoothing": 1,
+        "minorgridcount": 9
+      },
+      "carpet": "c0"
+    },
+    {
+      "type": "carpet",
+      "a": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAEEAAAAAAAAAQQAAAAAAAABBAAAAAAAAAEkAAAAAAAAASQAAAAAAAABJAAAAAAAAAFEAAAAAAAAAUQAAAAAAAABRAAAAAAAAAGEAAAAAAAAAYQAAAAAAAABhA"
+      },
+      "b": {
+        "dtype": "i1",
+        "bdata": "AQIDAQIDAQIDAQID"
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAANkAAAAAAAIA3QAAAAAAAADhAAAAAAAAAN0AAAAAAAIA4QAAAAAAAADlAAAAAAACAOUAAAAAAAIA6QAAAAAAAgDtAAAAAAAAAPEAAAAAAAIA8QAAAAAAAAD5A"
+      },
+      "aaxis": {
+        "tickprefix": "a = ",
+        "ticksuffix": "m",
+        "smoothing": 1,
+        "minorgridcount": 9
+      },
+      "baxis": {
+        "tickprefix": "b = ",
+        "ticksuffix": "Pa",
+        "smoothing": 1,
+        "minorgridcount": 9
+      },
+      "carpet": "c1"
+    },
+    {
+      "type": "scattercarpet",
+      "a": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAEEAAAAAAAAASQAAAAAAAABRAAAAAAAAAGEA="
+      },
+      "b": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAABEAAAAAAAAAEQAAAAAAAAARAAAAAAAAABEA="
+      },
+      "line": {
+        "shape": "spline",
+        "smoothing": 1,
+        "color": "blue"
+      },
+      "mode": "lines+markers",
+      "marker": {
+        "size": 15,
+        "symbol": "arrow",
+        "angleref": "previous"
+      },
+      "carpet": "c0"
+    },
+    {
+      "type": "scattercarpet",
+      "a": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAEEAAAAAAAAASQAAAAAAAABRAAAAAAAAAGEA="
+      },
+      "b": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAABEAAAAAAAAAEQAAAAAAAAARAAAAAAAAABEA="
+      },
+      "line": {
+        "shape": "spline",
+        "smoothing": 1,
+        "color": "red"
+      },
+      "mode": "lines+markers",
+      "marker": {
+        "size": 15,
+        "symbol": "arrow",
+        "angle": 90,
+        "angleref": "previous"
+      },
+      "carpet": "c1"
+    }
+  ]
+}

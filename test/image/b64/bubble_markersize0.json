@@ -1,0 +1,47 @@
+{
+  "data": [
+    {
+      "type": "scatter",
+      "mode": "markers",
+      "x": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAwWUApXI/C9bBjQNejcD0Kl2FAKVyPwvXAYEA="
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "uB6F61GoWcBSuB6F66FbwK5H4XoUPljAexSuR+FyZMA="
+      },
+      "marker": {
+        "size": {
+          "dtype": "i1",
+          "bdata": "ABQeKA=="
+        }
+      }
+    }
+  ],
+  "layout": {
+    "title": {
+      "text": "Bubble with marker.size[0] === 0"
+    },
+    "showlegend": true,
+    "xaxis": {
+      "type": "linear",
+      "range": [
+        97.17617854849068,
+        161.79670520231213
+      ],
+      "autorange": true
+    },
+    "yaxis": {
+      "type": "linear",
+      "range": [
+        -172.7879485636938,
+        -89.02449541284403
+      ],
+      "autorange": true
+    },
+    "height": 598,
+    "width": 1080,
+    "autosize": true
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "data": [
+    {
+      "values": {
+        "dtype": "i2",
+        "bdata": "EAQPBA4EDQQMBAsECgQJBAgEBwQGBAUEBAQDBAIEAQQABP8D/gP9A/wD+wP6A/kD+AP3A/YD9QP0A/MD8gPxA/AD7wPuA+0D7APrA+oD6QM="
+      },
+      "textposition": [
+        "inside",
+        "inside",
+        "outside",
+        "outside",
+        "inside",
+        "inside",
+        "outside",
+        "outside",
+        "inside",
+        "inside",
+        "outside",
+        "outside",
+        "inside",
+        "inside",
+        "outside",
+        "outside",
+        "inside",
+        "inside",
+        "outside",
+        "outside",
+        "auto",
+        "auto",
+        "auto",
+        "auto",
+        "auto",
+        "auto",
+        "auto",
+        "auto",
+        "auto",
+        "auto",
+        "auto",
+        "auto",
+        "auto",
+        "auto",
+        "auto",
+        "auto",
+        "auto",
+        "auto",
+        "none",
+        "none"
+      ],
+      "sort": false,
+      "textinfo": "value+percent",
+      "marker": {
+        "line": {
+          "color": [
+            "#000",
+            "#000",
+            "#000",
+            "#000",
+            "#000",
+            "#000",
+            "#000",
+            "#000",
+            "#000",
+            "#000",
+            "#fff",
+            "#fff",
+            "#fff",
+            "#fff",
+            "#fff",
+            "#fff",
+            "#fff",
+            "#fff",
+            "#fff",
+            "#fff",
+            "#000",
+            "#000",
+            "#000",
+            "#000",
+            "#000",
+            "#000",
+            "#000",
+            "#000",
+            "#000",
+            "#000",
+            "#fff",
+            "#fff",
+            "#fff",
+            "#fff",
+            "#fff",
+            "#fff",
+            "#fff",
+            "#fff",
+            "#fff",
+            "#fff"
+          ],
+          "width": {
+            "dtype": "i1",
+            "bdata": "AQIDAQIDAQIDAQIDAQIDAQIDAQIDAQIDAQIDAQIDAQIDAQIDAQIDAQ=="
+          }
+        }
+      },
+      "pull": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAAAAAAAAAADgPwAAAAAAAAAAAAAAAAAA4D8AAAAAAAAAAAAAAAAAAOA/AAAAAAAAAAAAAAAAAADgPwAAAAAAAAAAAAAAAAAA4D8AAAAAAAAAAAAAAAAAAOA/AAAAAAAAAAAAAAAAAADgPwAAAAAAAAAAAAAAAAAA4D8AAAAAAAAAAAAAAAAAAOA/AAAAAAAAAAAAAAAAAADgPwAAAAAAAAAAAAAAAAAA4D8AAAAAAAAAAAAAAAAAAOA/AAAAAAAAAAAAAAAAAADgPwAAAAAAAAAAAAAAAAAA4D8AAAAAAAAAAAAAAAAAAOA/AAAAAAAAAAAAAAAAAADgPwAAAAAAAAAAAAAAAAAA4D8AAAAAAAAAAAAAAAAAAOA/AAAAAAAAAAAAAAAAAADgPwAAAAAAAAAAAAAAAAAA4D8="
+      },
+      "type": "pie"
+    }
+  ],
+  "layout": {
+    "height": 600,
+    "width": 400,
+    "paper_bgcolor": "#ddd",
+    "margin": {
+      "b": 200
+    },
+    "showlegend": false
+  }
+}

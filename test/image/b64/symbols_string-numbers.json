@@ -1,0 +1,96 @@
+{
+  "data": [
+    {
+      "y": {
+        "dtype": "i1",
+        "bdata": "AAAAAA=="
+      },
+      "type": "scatter",
+      "mode": "markers",
+      "marker": {
+        "line": {
+          "width": 3,
+          "color": "black"
+        },
+        "size": 14,
+        "symbol": "1"
+      }
+    },
+    {
+      "y": {
+        "dtype": "i1",
+        "bdata": "AQEBAQ=="
+      },
+      "type": "scatter",
+      "mode": "markers",
+      "marker": {
+        "line": {
+          "width": 3,
+          "color": "black"
+        },
+        "size": 14,
+        "symbol": "101"
+      }
+    },
+    {
+      "y": {
+        "dtype": "i1",
+        "bdata": "AgICAg=="
+      },
+      "type": "scatter",
+      "mode": "markers",
+      "marker": {
+        "line": {
+          "width": 3,
+          "color": "black"
+        },
+        "size": 14,
+        "symbol": "201"
+      }
+    },
+    {
+      "y": {
+        "dtype": "i1",
+        "bdata": "AwMDAw=="
+      },
+      "type": "scatter",
+      "mode": "markers",
+      "marker": {
+        "line": {
+          "width": 3,
+          "color": "black"
+        },
+        "size": 14,
+        "symbol": "301"
+      }
+    },
+    {
+      "y": {
+        "dtype": "i1",
+        "bdata": "BAQEBA=="
+      },
+      "type": "scatter",
+      "mode": "markers",
+      "marker": {
+        "line": {
+          "width": 3,
+          "color": "black"
+        },
+        "size": 14,
+        "symbol": [
+          "1",
+          "101",
+          "201",
+          "301"
+        ]
+      }
+    }
+  ],
+  "layout": {
+    "title": {
+      "text": "Accept symbol numbers in string format"
+    },
+    "width": 400,
+    "height": 400
+  }
+}

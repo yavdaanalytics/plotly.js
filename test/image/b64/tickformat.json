@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "x": [
+        "2005-01",
+        "2005-02",
+        "2005-03",
+        "2005-04",
+        "2005-05",
+        "2005-06",
+        "2005-07"
+      ],
+      "y": {
+        "dtype": "f8",
+        "bdata": "AAAAAABq+EAAAAAAAGr4QAAAAACAhD5BAAAAAICEPkEAAAAAgIQ+QQAAAAA4nHxBAAAAADicfEE="
+      }
+    }
+  ],
+  "layout": {
+    "title": {
+      "text": "tickformat"
+    },
+    "xaxis": {
+      "tickformat": "%b %y",
+      "tickprefix": "~~ ",
+      "showtickprefix": "first",
+      "ticksuffix": " !!",
+      "showticksuffix": "last"
+    },
+    "yaxis": {
+      "type": "log",
+      "tickformat": ":^+12.3g"
+    }
+  }
+}

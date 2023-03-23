@@ -1,0 +1,120 @@
+{
+  "data": [
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "/P3+/wABAgMEBQY="
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "BwUGBAIDAQP//P4="
+      },
+      "z": {
+        "dtype": "i1",
+        "bdata": "AgMEBQQDAgEA//4="
+      },
+      "marker": {
+        "color": "purple"
+      },
+      "line": {
+        "width": 10,
+        "color": [
+          "rgb(166,206,227)",
+          "rgb(31,120,180)",
+          "rgb(31,120,180)",
+          "rgb(178,223,138)",
+          "rgb(51,160,44)",
+          "rgb(51,160,44)",
+          "rgb(251,154,153)",
+          "rgb(227,26,28)",
+          "rgb(255,127,0)",
+          "rgb(106,61,154)",
+          "rgb(106,61,154)"
+        ]
+      },
+      "type": "scatter3d"
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "/P3+/wABAgMEBQY="
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "CwoJBwUGBAIDAQM="
+      },
+      "z": {
+        "dtype": "i1",
+        "bdata": "AgMEBQQDAgEA//4="
+      },
+      "marker": {
+        "color": {
+          "dtype": "i1",
+          "bdata": "AQIDBAUGBwgJCgs="
+        }
+      },
+      "line": {
+        "width": 10,
+        "color": [
+          "rgb(166,206,227)",
+          "rgb(31,120,180)",
+          "rgb(31,120,180)",
+          "rgb(178,223,138)",
+          "rgb(51,160,44)",
+          "rgb(51,160,44)",
+          "rgb(251,154,153)",
+          "rgb(227,26,28)",
+          "rgb(255,127,0)",
+          "rgb(106,61,154)",
+          "rgb(106,61,154)"
+        ]
+      },
+      "type": "scatter3d"
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "/P3+/wABAgMEBQY="
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "EQ8ODAsKCQcFBgQ="
+      },
+      "z": {
+        "dtype": "i1",
+        "bdata": "AgMEBQQDAgEA//4="
+      },
+      "marker": {
+        "color": {
+          "dtype": "i1",
+          "bdata": "AQIDBAUGBwgJCgs="
+        },
+        "colorscale": "Viridis"
+      },
+      "line": {
+        "width": 10,
+        "color": [
+          "rgb(166,206,227)",
+          "rgb(31,120,180)",
+          "rgb(31,120,180)",
+          "rgb(178,223,138)",
+          "rgb(51,160,44)",
+          "rgb(51,160,44)",
+          "rgb(251,154,153)",
+          "rgb(227,26,28)",
+          "rgb(255,127,0)",
+          "rgb(106,61,154)",
+          "rgb(106,61,154)"
+        ]
+      },
+      "type": "scatter3d"
+    }
+  ],
+  "layout": {
+    "title": {
+      "text": "Color array for lines, and explicit color for markers"
+    },
+    "height": 758,
+    "width": 1310
+  }
+}

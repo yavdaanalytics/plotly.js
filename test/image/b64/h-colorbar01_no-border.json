@@ -1,0 +1,47 @@
+{
+  "data": [
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "/wAB"
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AAAA"
+      },
+      "mode": "markers",
+      "marker": {
+        "size": 100,
+        "color": {
+          "dtype": "i1",
+          "bdata": "ADJk"
+        },
+        "colorscale": "Reds",
+        "showscale": true,
+        "colorbar": {
+          "orientation": "h",
+          "ticks": "outside",
+          "ticklen": 10,
+          "bordercolor": "gray",
+          "title": {
+            "text": "Colorbar<br>title",
+            "font": {
+              "size": 16
+            }
+          }
+        }
+      }
+    }
+  ],
+  "layout": {
+    "width": 600,
+    "height": 400,
+    "plot_bgcolor": "lightblue",
+    "title": {
+      "text": "Graph title",
+      "font": {
+        "size": 24
+      }
+    }
+  }
+}

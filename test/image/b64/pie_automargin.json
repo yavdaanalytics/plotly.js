@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "type": "pie",
+      "labels": [
+        "Olive Development",
+        "Gap Development",
+        "Gap Extension",
+        "Gap Wildcat",
+        "Olive Injection",
+        "Olive Wildcat"
+      ],
+      "values": {
+        "dtype": "f8",
+        "bdata": "MzMzMzOzQ0DNzMzMzAxLQKRwPQrXowhA16NwPQrXB0Dn+6nx0k3aP+xRuB6F6+U/"
+      },
+      "textinfo": "label+percent",
+      "hole": 0.5,
+      "automargin": true
+    }
+  ],
+  "layout": {
+    "legend": {
+      "orientation": "h",
+      "y": 1.2,
+      "yanchor": "bottom",
+      "x": 0.5,
+      "xanchor": "center"
+    },
+    "width": 700,
+    "height": 450
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "type": "sankey",
+      "node": {
+        "pad": 5,
+        "label": [
+          "0",
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6"
+        ]
+      },
+      "link": {
+        "source": {
+          "dtype": "i1",
+          "bdata": "AAABAgUEAw=="
+        },
+        "target": {
+          "dtype": "i1",
+          "bdata": "BQMEAwACAg=="
+        },
+        "value": {
+          "dtype": "i1",
+          "bdata": "AQIBAQEBAQ=="
+        }
+      }
+    }
+  ],
+  "layout": {
+    "title": {
+      "text": "Sankey with circular data"
+    },
+    "width": 800,
+    "height": 800
+  }
+}

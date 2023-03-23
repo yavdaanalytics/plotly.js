@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "type": "bar",
+      "orientation": "h",
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQIDBAU="
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AQIDBAU="
+      },
+      "text": [
+        "9",
+        "iiiii",
+        "i",
+        "d",
+        "50"
+      ],
+      "textangle": 0
+    }
+  ],
+  "layout": {
+    "height": 300,
+    "width": 500,
+    "font": {
+      "size": 24
+    },
+    "uniformtext": {
+      "minsize": 9,
+      "mode": "hide"
+    }
+  }
+}

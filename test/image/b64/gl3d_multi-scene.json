@@ -1,0 +1,71 @@
+{
+  "data": [
+    {
+      "type": "scatter3d",
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQ=="
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AQ=="
+      },
+      "z": {
+        "dtype": "i1",
+        "bdata": "AQ=="
+      },
+      "marker": {
+        "color": "blue"
+      },
+      "scene": "scene"
+    },
+    {
+      "type": "scatter3d",
+      "x": {
+        "dtype": "i1",
+        "bdata": "Ag=="
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "Ag=="
+      },
+      "z": {
+        "dtype": "i1",
+        "bdata": "Ag=="
+      },
+      "marker": {
+        "color": "red"
+      },
+      "scene": "scene2"
+    }
+  ],
+  "layout": {
+    "title": {
+      "text": "scene should be the same as scene1"
+    },
+    "scene": {
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAAAAAAAAAAAADgPw=="
+        },
+        "y": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAAAAAAAAAAAADgPw=="
+        }
+      }
+    },
+    "scene2": {
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAA4D8AAAAAAADwPw=="
+        },
+        "y": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAA4D8AAAAAAADwPw=="
+        }
+      }
+    }
+  }
+}

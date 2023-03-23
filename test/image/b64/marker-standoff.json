@@ -1,0 +1,530 @@
+{
+  "data": [
+    {
+      "mode": "markers+lines",
+      "line": {
+        "width": 5,
+        "backoff": {
+          "dtype": "i1",
+          "bdata": "HhQ="
+        }
+      },
+      "marker": {
+        "standoff": [
+          5,
+          20,
+          null,
+          20,
+          10
+        ],
+        "angleref": "previous",
+        "symbol": "arrow",
+        "size": 20
+      },
+      "x": [
+        1,
+        2,
+        null,
+        2,
+        3
+      ],
+      "y": [
+        3,
+        1,
+        null,
+        1,
+        2
+      ]
+    },
+    {
+      "mode": "markers+text",
+      "marker": {
+        "opacity": 1,
+        "size": {
+          "dtype": "i1",
+          "bdata": "CigU"
+        }
+      },
+      "text": {
+        "dtype": "i1",
+        "bdata": "CigU"
+      },
+      "textposition": [
+        "right",
+        "center",
+        "top"
+      ],
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "AwEC"
+      }
+    },
+    {
+      "type": "scattergeo",
+      "mode": "markers+lines",
+      "line": {
+        "width": 5
+      },
+      "marker": {
+        "standoff": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAAFEAAAAAAAAA0QAAAAAAAACRAAAAAAAAABEA="
+        },
+        "angleref": "previous",
+        "symbol": "arrow-wide",
+        "size": 20
+      },
+      "lon": {
+        "dtype": "i1",
+        "bdata": "4gAeDw=="
+      },
+      "lat": {
+        "dtype": "i1",
+        "bdata": "FPsK7A=="
+      }
+    },
+    {
+      "type": "scattergeo",
+      "mode": "markers+text",
+      "marker": {
+        "opacity": 1,
+        "size": {
+          "dtype": "i1",
+          "bdata": "CigUBQ=="
+        }
+      },
+      "text": {
+        "dtype": "i1",
+        "bdata": "CigUBQ=="
+      },
+      "textposition": [
+        "right",
+        "center",
+        "top",
+        "bottom"
+      ],
+      "lon": {
+        "dtype": "i1",
+        "bdata": "4gAeDw=="
+      },
+      "lat": {
+        "dtype": "i1",
+        "bdata": "FPsK7A=="
+      }
+    },
+    {
+      "type": "scatterternary",
+      "mode": "markers+lines",
+      "line": {
+        "width": 5,
+        "backoff": {
+          "dtype": "i1",
+          "bdata": "HhQ="
+        }
+      },
+      "marker": {
+        "standoff": [
+          5,
+          20,
+          null,
+          20,
+          10
+        ],
+        "angleref": "previous",
+        "symbol": "arrow-wide",
+        "size": 20
+      },
+      "a": [
+        2,
+        1,
+        null,
+        1,
+        1
+      ],
+      "b": [
+        1,
+        2,
+        null,
+        2,
+        1
+      ],
+      "c": [
+        1,
+        1,
+        null,
+        1,
+        2
+      ]
+    },
+    {
+      "type": "scatterternary",
+      "mode": "markers+text",
+      "marker": {
+        "opacity": 1,
+        "size": {
+          "dtype": "i1",
+          "bdata": "CigU"
+        }
+      },
+      "text": {
+        "dtype": "i1",
+        "bdata": "CigU"
+      },
+      "textposition": [
+        "right",
+        "center",
+        "top"
+      ],
+      "a": {
+        "dtype": "i1",
+        "bdata": "AgEB"
+      },
+      "b": {
+        "dtype": "i1",
+        "bdata": "AQIB"
+      },
+      "c": {
+        "dtype": "i1",
+        "bdata": "AQEC"
+      }
+    },
+    {
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "type": "carpet",
+      "a": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAEEAAAAAAAAAQQAAAAAAAABBAAAAAAAAAEkAAAAAAAAASQAAAAAAAABJAAAAAAAAAFEAAAAAAAAAUQAAAAAAAABRAAAAAAAAAGEAAAAAAAAAYQAAAAAAAABhA"
+      },
+      "b": {
+        "dtype": "i1",
+        "bdata": "AQIDAQIDAQIDAQID"
+      },
+      "y": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAEAAAAAAAAAMQAAAAAAAABBAAAAAAAAACEAAAAAAAAASQAAAAAAAABRAAAAAAAAAFkAAAAAAAAAaQAAAAAAAAB5AAAAAAAAAIEAAAAAAAAAhQAAAAAAAACRA"
+      },
+      "aaxis": {
+        "tickprefix": "a = ",
+        "ticksuffix": "m",
+        "smoothing": 1,
+        "minorgridcount": 9
+      },
+      "baxis": {
+        "tickprefix": "b = ",
+        "ticksuffix": "Pa",
+        "smoothing": 1,
+        "minorgridcount": 9
+      },
+      "carpet": "c0"
+    },
+    {
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "type": "scattercarpet",
+      "mode": "markers+lines",
+      "line": {
+        "width": 5,
+        "backoff": {
+          "dtype": "i1",
+          "bdata": "HhQ="
+        }
+      },
+      "marker": {
+        "standoff": [
+          5,
+          20,
+          null,
+          20,
+          10
+        ],
+        "angleref": "previous",
+        "symbol": "arrow",
+        "size": 20
+      },
+      "a": [
+        4,
+        5,
+        null,
+        5,
+        6
+      ],
+      "b": [
+        2.5,
+        2.5,
+        null,
+        2.5,
+        2.5
+      ],
+      "carpet": "c0"
+    },
+    {
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "type": "scattercarpet",
+      "mode": "markers+text",
+      "marker": {
+        "opacity": 1,
+        "size": {
+          "dtype": "i1",
+          "bdata": "CigU"
+        }
+      },
+      "text": {
+        "dtype": "i1",
+        "bdata": "CigU"
+      },
+      "textposition": [
+        "right",
+        "center",
+        "top"
+      ],
+      "a": {
+        "dtype": "i1",
+        "bdata": "BAUG"
+      },
+      "b": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAABEAAAAAAAAAEQAAAAAAAAARA"
+      },
+      "carpet": "c0"
+    },
+    {
+      "subplot": "polar",
+      "type": "scatterpolar",
+      "mode": "markers+lines",
+      "line": {
+        "width": 5,
+        "backoff": {
+          "dtype": "i1",
+          "bdata": "HhQ="
+        }
+      },
+      "marker": {
+        "standoff": [
+          5,
+          20,
+          null,
+          20,
+          10
+        ],
+        "angleref": "previous",
+        "symbol": "arrow",
+        "size": 20
+      },
+      "r": [
+        1,
+        2,
+        null,
+        2,
+        3
+      ],
+      "theta": [
+        270,
+        90,
+        null,
+        90,
+        180
+      ]
+    },
+    {
+      "subplot": "polar",
+      "type": "scatterpolar",
+      "mode": "markers+text",
+      "marker": {
+        "opacity": 1,
+        "size": {
+          "dtype": "i1",
+          "bdata": "CigU"
+        }
+      },
+      "text": {
+        "dtype": "i1",
+        "bdata": "CigU"
+      },
+      "textposition": [
+        "right",
+        "center",
+        "top"
+      ],
+      "r": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "theta": {
+        "dtype": "i2",
+        "bdata": "DgFaALQA"
+      }
+    },
+    {
+      "subplot": "smith",
+      "type": "scattersmith",
+      "mode": "markers+lines",
+      "line": {
+        "width": 5,
+        "backoff": {
+          "dtype": "i1",
+          "bdata": "HhQ="
+        }
+      },
+      "marker": {
+        "standoff": [
+          5,
+          20,
+          null,
+          20,
+          10
+        ],
+        "angleref": "previous",
+        "symbol": "arrow-wide",
+        "size": 20
+      },
+      "real": [
+        1,
+        2,
+        null,
+        2,
+        0.5
+      ],
+      "imag": [
+        -0.5,
+        1,
+        null,
+        1,
+        1
+      ]
+    },
+    {
+      "subplot": "smith",
+      "type": "scattersmith",
+      "mode": "markers+text",
+      "marker": {
+        "opacity": 1,
+        "size": {
+          "dtype": "i1",
+          "bdata": "CigU"
+        }
+      },
+      "text": {
+        "dtype": "i1",
+        "bdata": "CigU"
+      },
+      "textposition": [
+        "right",
+        "center",
+        "top"
+      ],
+      "real": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAA8D8AAAAAAAAAQAAAAAAAAOA/"
+      },
+      "imag": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAA4L8AAAAAAADwPwAAAAAAAPA/"
+      }
+    }
+  ],
+  "layout": {
+    "xaxis": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAAAzMzMzMzPTPw=="
+      }
+    },
+    "yaxis": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAADNzMzMzMzcPw=="
+      }
+    },
+    "xaxis2": {
+      "anchor": "y2",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "ZmZmZmZm1j/NzMzMzMzkPw=="
+      }
+    },
+    "yaxis2": {
+      "anchor": "x2",
+      "domain": {
+        "dtype": "f8",
+        "bdata": "mpmZmZmZ4T8AAAAAAADwPw=="
+      }
+    },
+    "geo": {
+      "projection": {
+        "type": "satellite"
+      },
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "ZmZmZmZm1j/NzMzMzMzkPw=="
+        },
+        "y": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAAAADNzMzMzMzcPw=="
+        }
+      }
+    },
+    "ternary": {
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAAAAAzMzMzMzPTPw=="
+        },
+        "y": {
+          "dtype": "f8",
+          "bdata": "mpmZmZmZ4T8AAAAAAADwPw=="
+        }
+      },
+      "aaxis": {
+        "title": {
+          "text": "A"
+        }
+      },
+      "baxis": {
+        "title": {
+          "text": "B"
+        }
+      },
+      "caxis": {
+        "title": {
+          "text": "C"
+        }
+      }
+    },
+    "polar": {
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "ZmZmZmZm5j8AAAAAAADwPw=="
+        },
+        "y": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAAAADNzMzMzMzcPw=="
+        }
+      }
+    },
+    "smith": {
+      "domain": {
+        "x": {
+          "dtype": "f8",
+          "bdata": "ZmZmZmZm5j8AAAAAAADwPw=="
+        },
+        "y": {
+          "dtype": "f8",
+          "bdata": "mpmZmZmZ4T8AAAAAAADwPw=="
+        }
+      }
+    },
+    "height": 900,
+    "width": 1200,
+    "legend": {
+      "orientation": "h"
+    }
+  }
+}

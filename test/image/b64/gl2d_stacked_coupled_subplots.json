@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AAEC"
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "CgsM"
+      },
+      "type": "scattergl"
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AgME"
+      },
+      "y": {
+        "dtype": "i1",
+        "bdata": "ZG54"
+      },
+      "yaxis": "y2",
+      "type": "scattergl"
+    },
+    {
+      "x": {
+        "dtype": "i1",
+        "bdata": "AwQF"
+      },
+      "y": {
+        "dtype": "i2",
+        "bdata": "6ANMBLAE"
+      },
+      "yaxis": "y3",
+      "type": "scattergl"
+    }
+  ],
+  "layout": {
+    "width": 700,
+    "height": 500,
+    "yaxis": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAAAAAfhetRuB7VPw=="
+      }
+    },
+    "legend": {
+      "traceorder": "reversed"
+    },
+    "yaxis2": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "H4XrUbge1T8fhetRuB7lPw=="
+      }
+    },
+    "yaxis3": {
+      "domain": {
+        "dtype": "f8",
+        "bdata": "H4XrUbge5T8AAAAAAADwPw=="
+      }
+    }
+  }
+}

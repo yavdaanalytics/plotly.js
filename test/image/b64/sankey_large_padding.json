@@ -1,0 +1,152 @@
+{
+  "data": [
+    {
+      "node": {
+        "color": [
+          "#000000",
+          "#BFDAE3",
+          "#FF7080",
+          "#FF707F",
+          "#E64438",
+          "#B0F0FF",
+          "#F1483B",
+          "#98D6F8",
+          "#F2483A",
+          "#FF4C3C",
+          "#8599CC",
+          "#FF5446",
+          "#FF64FF",
+          "#97D6F9",
+          "#FE8EFE",
+          "#FF6F80",
+          "#B1BFDF",
+          "#B3C0DE",
+          "#FC8FFF",
+          "#FF5346",
+          "#90CAEC",
+          "#90CBED",
+          "#FF4B3E",
+          "#FE909C",
+          "#F2473B",
+          "#B0FFB8",
+          "#90CAED",
+          "#FF4A3D",
+          "#80C0E1",
+          "#F24839",
+          "#FF5C4E",
+          "#95A7D3",
+          "#A2B0D8",
+          "#96A6D2",
+          "#CAC7CB",
+          "#FD4B3C",
+          "#A2B1D7",
+          "#70FF70",
+          "#FF9B87",
+          "#FE8E9D",
+          "#FE5445",
+          "#F2483B",
+          "#CAC7CB",
+          "#CAC7CB",
+          "#CAC7CB",
+          "#CAC7CB",
+          "#CAC7CB",
+          "#FF9B87",
+          "#FF9B87",
+          "#FF9B87",
+          "#FF5C4E",
+          "#FC8FFF",
+          "#80C0E1",
+          "#70FF70",
+          "#70FF70"
+        ],
+        "line": {
+          "color": "black",
+          "width": 0.5
+        },
+        "label": [
+          "root",
+          "grey",
+          "BS",
+          "IB",
+          "HY",
+          "CH",
+          "LZ",
+          "CNU",
+          "LHA",
+          "MEZ",
+          "PAL",
+          "PVR",
+          "MB",
+          "STR",
+          "MBmot",
+          "TH",
+          "PALc",
+          "BST",
+          "PAG",
+          "MPO",
+          "LSX",
+          "LS",
+          "AHN",
+          "DORpm",
+          "LPO",
+          "CTX",
+          "LSr",
+          "VMH",
+          "sAMY",
+          "TU",
+          "PVZ",
+          "PALm",
+          "PALv",
+          "MSC",
+          "fiber tracts",
+          "PH",
+          "SI",
+          "CTXpl",
+          "HB",
+          "MTN",
+          "DMH",
+          "RCH",
+          "fiber tracts#1",
+          "fiber tracts#2",
+          "fiber tracts#3",
+          "fiber tracts#4",
+          "fiber tracts#5",
+          "HB#3",
+          "HB#4",
+          "HB#5",
+          "PVZ#5",
+          "PAG#5",
+          "sAMY#5",
+          "CTXpl#4",
+          "CTXpl#5"
+        ],
+        "pad": 20,
+        "thickness": 50
+      },
+      "link": {
+        "source": {
+          "dtype": "i1",
+          "bdata": "AAAiKissLQEBAgICJi8wAwMEBAQEBgYGBgkJCQsLHg8XDA4SBQUHBwoKChAfIA0NFBwZJTU="
+        },
+        "target": {
+          "dtype": "i1",
+          "bdata": "IgEqKywtLgIFJgMMLzAxBA8GCQseCBgpHRYjGygTMhcnDhIzBxkKDRAfIBEhJBQcFTQlNTY="
+        },
+        "value": {
+          "dtype": "f8",
+          "bdata": "AAAAAAAA8D8AAAAAAADwPwAAAAAAAOA/VVVVVVVV1T8AAAAAAADQP5qZmZmZmck/VVVVVVVVxT8AAAAAAADgPwAAAAAAAOA/VVVVVVVV1T9VVVVVVVXVP1VVVVVVVdU/AAAAAAAA0D+amZmZmZnJP1VVVVVVVcU/AAAAAAAA0D8AAAAAAADQP5qZmZmZmck/mpmZmZmZyT+amZmZmZnJP5qZmZmZmck/VVVVVVVVxT9VVVVVVVXFP1VVVVVVVcU/VVVVVVVVxT9VVVVVVVXFP1VVVVVVVcU/VVVVVVVVxT9VVVVVVVXFP1VVVVVVVcU/VVVVVVVVxT+amZmZmZnJP1VVVVVVVcU/AAAAAAAA0D+amZmZmZnJP1VVVVVVVcU/VVVVVVVV1T9VVVVVVVXVPwAAAAAAANA/AAAAAAAA0D+amZmZmZnJP5qZmZmZmck/mpmZmZmZyT9VVVVVVVXFP1VVVVVVVcU/VVVVVVVVxT+amZmZmZnJP5qZmZmZmck/VVVVVVVVxT9VVVVVVVXFPwAAAAAAANA/mpmZmZmZyT9VVVVVVVXFPw=="
+        }
+      },
+      "type": "sankey",
+      "orientation": "h"
+    }
+  ],
+  "layout": {
+    "font": {
+      "size": 10
+    },
+    "title": {
+      "text": "Injection in VISpm"
+    }
+  }
+}

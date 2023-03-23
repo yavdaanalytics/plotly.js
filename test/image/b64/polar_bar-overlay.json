@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "type": "barpolar",
+      "r": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      },
+      "theta": {
+        "dtype": "i2",
+        "bdata": "WgC0AGgB"
+      },
+      "opacity": 0.7
+    },
+    {
+      "type": "barpolar",
+      "r": {
+        "dtype": "i1",
+        "bdata": "AwM="
+      },
+      "theta": {
+        "dtype": "i1",
+        "bdata": "AC0="
+      },
+      "opacity": 0.7,
+      "marker": {
+        "line": {
+          "width": 5
+        }
+      }
+    }
+  ],
+  "layout": {
+    "polar": {
+      "barmode": "overlay"
+    },
+    "width": 500,
+    "height": 500
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "y": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAA8D+amZmZmZnxPwAAAAAAAPA/zczMzMzM7D8zMzMzMzPzPwAAAAAAAABAAAAAAAAA+D9mZmZmZmYCQDMzMzMzM/s/mpmZmZmZAUAAAAAAAADwP5qZmZmZmfE/MzMzMzMz8z/NzMzMzMzsP5qZmZmZmfE/"
+      },
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQEBAQEKCgoKCmRkZGRk"
+      },
+      "type": "box"
+    },
+    {
+      "y": {
+        "dtype": "f8",
+        "bdata": "mpmZmZmZAUBmZmZmZmYCQAAAAAAAAABAAAAAAAAABEDNzMzMzMwAQJqZmZmZmbk/AAAAAAAA4D+amZmZmZnpPzMzMzMzM9M/MzMzMzMz0z+amZmZmZnxPzMzMzMzM/M/zczMzMzM7D8AAAAAAADwPwAAAAAAAPA/MzMzMzMzA0AAAAAAAAAAQAAAAAAAAPg/mpmZmZmZ+T9mZmZmZmb+Pw=="
+      },
+      "x": {
+        "dtype": "i1",
+        "bdata": "AQEBAQEKCgoKCjIyMjIyZGRkZGQ="
+      },
+      "type": "box",
+      "boxmean": true
+    }
+  ],
+  "layout": {
+    "xaxis": {
+      "type": "log"
+    }
+  }
+}

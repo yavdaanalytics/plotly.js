@@ -1,0 +1,80 @@
+{
+  "data": [
+    {
+      "type": "splom",
+      "opacity": 0.9,
+      "showupperhalf": false,
+      "diagonal": {
+        "visible": false
+      },
+      "dimensions": [
+        {
+          "label": "numeric",
+          "values": {
+            "dtype": "i1",
+            "bdata": "AQIDBAUGBwgJCg=="
+          }
+        },
+        {
+          "label": "decimal",
+          "values": {
+            "dtype": "f8",
+            "bdata": "ZmZmZmZmCsCamZmZmZkBQJqZmZmZmfG/AAAAAAAAAACamZmZmZnxP5qZmZmZmQHAZmZmZmZmCkCamZmZmZkRQAAAAAAAABTAAAAAAAAAGEA="
+          }
+        },
+        {
+          "label": "bool",
+          "values": [
+            false,
+            true,
+            true,
+            true,
+            false,
+            true,
+            false,
+            false,
+            false,
+            true
+          ],
+          "axis": {
+            "type": "category"
+          }
+        },
+        {
+          "label": "0/1",
+          "values": {
+            "dtype": "i1",
+            "bdata": "AAEBAQEBAAAAAA=="
+          },
+          "axis": {
+            "type": "category"
+          }
+        },
+        {
+          "label": "string",
+          "values": [
+            "lyndon",
+            "richard",
+            "gerald",
+            "jimmy",
+            "ronald",
+            "george",
+            "bill",
+            "georgeW",
+            "barack",
+            "donald"
+          ]
+        }
+      ]
+    }
+  ],
+  "layout": {
+    "hovermode": "closest",
+    "margin": {
+      "b": 80,
+      "l": 80,
+      "r": 30,
+      "t": 30
+    }
+  }
+}

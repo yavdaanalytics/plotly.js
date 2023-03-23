@@ -1,0 +1,225 @@
+{
+  "config": {
+    "editable": true
+  },
+  "data": [
+    {
+      "y": {
+        "dtype": "i1",
+        "bdata": "AQID"
+      }
+    },
+    {
+      "y": {
+        "dtype": "i1",
+        "bdata": "AgQD"
+      }
+    },
+    {
+      "y": {
+        "dtype": "i1",
+        "bdata": "BAMC"
+      },
+      "xaxis": "x2",
+      "yaxis": "y2"
+    },
+    {
+      "type": "bar",
+      "y": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAA4D8AAAAAAADwPwAAAAAAAPg/"
+      },
+      "text": {
+        "dtype": "f8",
+        "bdata": "AAAAAAAA4D8AAAAAAADwPwAAAAAAAPg/"
+      }
+    },
+    {
+      "y": {
+        "dtype": "i1",
+        "bdata": "AwUE"
+      },
+      "xaxis": "x2",
+      "yaxis": "y2"
+    }
+  ],
+  "layout": {
+    "width": 600,
+    "height": 500,
+    "yaxis2": {
+      "anchor": "x2",
+      "title": {
+        "text": "y2"
+      }
+    },
+    "annotations": [
+      {
+        "text": "Hi!",
+        "x": 0,
+        "y": 3.5
+      },
+      {
+        "templateitemname": "watermark",
+        "font": {
+          "size": 120
+        },
+        "name": "new watermark"
+      },
+      {
+        "templateitemname": "watermark",
+        "font": {
+          "size": 110
+        }
+      },
+      {
+        "templateitemname": "watermark",
+        "font": {
+          "size": 100
+        }
+      },
+      {
+        "templateitemname": "nope",
+        "text": "Buh-bye"
+      }
+    ],
+    "shapes": [
+      {
+        "type": "line",
+        "xref": "paper",
+        "yref": "paper",
+        "x0": -0.1,
+        "x1": 1.15,
+        "y0": 1.05,
+        "y1": 1.05
+      }
+    ],
+    "template": {
+      "data": {
+        "scatter": [
+          {
+            "mode": "lines"
+          },
+          {
+            "mode": "markers",
+            "fill": "tonexty"
+          }
+        ],
+        "bar": [
+          {
+            "textposition": "inside",
+            "insidetextfont": {
+              "color": "white"
+            }
+          },
+          {
+            "textposition": "outside",
+            "outsidetextfont": {
+              "color": "red"
+            }
+          }
+        ]
+      },
+      "layout": {
+        "colorway": [
+          "red",
+          "green",
+          "blue"
+        ],
+        "xaxis": {
+          "domain": {
+            "dtype": "f8",
+            "bdata": "AAAAAAAAAADNzMzMzMzcPw=="
+          },
+          "color": "#CCC",
+          "title": {
+            "text": "XXX"
+          }
+        },
+        "xaxis2": {
+          "domain": {
+            "dtype": "f8",
+            "bdata": "mpmZmZmZ4T8AAAAAAADwPw=="
+          },
+          "title": {
+            "text": "XXX222"
+          }
+        },
+        "yaxis": {
+          "color": "#88F",
+          "title": {
+            "text": "y"
+          }
+        },
+        "legend": {
+          "bgcolor": "rgba(0,0,0,0)"
+        },
+        "annotationdefaults": {
+          "arrowcolor": "#8F8",
+          "arrowhead": 7,
+          "ax": 0
+        },
+        "annotations": [
+          {
+            "name": "warning",
+            "text": "Be Cool",
+            "xref": "paper",
+            "yref": "paper",
+            "x": 1,
+            "y": 0,
+            "xanchor": "left",
+            "yanchor": "bottom",
+            "showarrow": false
+          },
+          {
+            "name": "warning2",
+            "text": "Stay in School",
+            "xref": "paper",
+            "yref": "paper",
+            "x": 1,
+            "y": 0,
+            "xanchor": "left",
+            "yanchor": "top",
+            "showarrow": false
+          },
+          {
+            "name": "watermark",
+            "text": "Plotly",
+            "textangle": 25,
+            "xref": "paper",
+            "yref": "paper",
+            "x": 0.5,
+            "y": 0.5,
+            "font": {
+              "size": 40,
+              "color": "rgba(0,0,0,0.1)"
+            },
+            "showarrow": false
+          }
+        ],
+        "shapedefaults": {
+          "line": {
+            "color": "#C60",
+            "width": 4
+          }
+        },
+        "shapes": [
+          {
+            "name": "outline",
+            "type": "rect",
+            "xref": "paper",
+            "yref": "paper",
+            "x0": -0.15,
+            "x1": 1.2,
+            "y0": -0.1,
+            "y1": 1.1,
+            "fillcolor": "rgba(160,160,0,0.1)",
+            "line": {
+              "width": 2,
+              "color": "rgba(160,160,0,0.25)"
+            }
+          }
+        ]
+      }
+    }
+  }
+}
