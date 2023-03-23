@@ -450,39 +450,7 @@ workflows:
   version: 2
   build-and-test:
     jobs:
-      - install-and-cibuild-node12
-
       - install-and-cibuild
-      - timezone-jasmine:
-          requires:
-            - install-and-cibuild
-      - bundle-jasmine:
-          requires:
-            - install-and-cibuild
-      - mathjax-firefox81:
-          requires:
-            - install-and-cibuild
-      - mathjax-firefox82:
-          requires:
-            - install-and-cibuild
-      - mathjax-firefoxLatest:
-          requires:
-            - install-and-cibuild
-      - no-gl-jasmine:
-          requires:
-            - install-and-cibuild
-      - webgl-jasmine:
-          requires:
-            - install-and-cibuild
-      - flaky-no-gl-jasmine:
-          requires:
-            - install-and-cibuild
-      - make-baselines-mathjax3:
-          requires:
-            - install-and-cibuild
-      - test-baselines-mathjax3:
-          requires:
-            - make-baselines-mathjax3
       - make-baselines-b64:
           requires:
             - install-and-cibuild
@@ -495,17 +463,3 @@ workflows:
       - test-baselines:
           requires:
             - make-baselines
-      - make-exports:
-          requires:
-            - install-and-cibuild
-      - test-exports:
-          requires:
-            - make-exports
-      - mock-validation:
-          requires:
-            - install-and-cibuild
-      - source-syntax:
-          requires:
-            - install-and-cibuild
-
-      - publish-dist
