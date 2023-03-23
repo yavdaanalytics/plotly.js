@@ -11,7 +11,12 @@ elif len(sys.argv) > 1 :
     args = sys.argv
 
 root = os.getcwd()
-dirIn = os.path.join(root, 'test', 'image', 'mocks')
+
+if 'b64' in sys.argv or 'b64=' in sys.argv or 'b64-json' in sys.argv :
+    dirIn = os.path.join(root, 'test', 'image', 'b64')
+else :
+    dirIn = os.path.join(root, 'test', 'image', 'mocks')
+
 dirOut = os.path.join(root, 'build', 'test_images')
 
 # N.B. equal is the falg to write to baselines not test_images
@@ -110,13 +115,6 @@ for name in allNames :
                         width = layout['width']
                     if 'height' in layout :
                         height = layout['height']
-
-            if 'b64' in sys.argv or 'b64=' in sys.argv or 'b64-json' in sys.argv :
-                newFig = dict()
-                arraysToB64(fig, newFig)
-                fig = newFig
-                if 'b64-json' in sys.argv and attempt == 0 : print(json.dumps(fig, indent = 2))
-
             try :
                 pio.write_image(
                     fig=fig,
