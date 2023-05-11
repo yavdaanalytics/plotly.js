@@ -2139,22 +2139,23 @@ function createSpikelines(gd, closestPoints, opts) {
     }
 }
 
-function hoverChanged(gd, evt, oldhoverdata) {
-    // don't emit any events if nothing changed
-    if(!oldhoverdata || oldhoverdata.length !== gd._hoverdata.length) return true;
+function hoverChanged(/* gd, evt, oldhoverdata */) {
+    return true;
+    // // don't emit any events if nothing changed
+    // if(!oldhoverdata || oldhoverdata.length !== gd._hoverdata.length) return true;
 
-    for(var i = oldhoverdata.length - 1; i >= 0; i--) {
-        var oldPt = oldhoverdata[i];
-        var newPt = gd._hoverdata[i];
+    // for(var i = oldhoverdata.length - 1; i >= 0; i--) {
+    //     var oldPt = oldhoverdata[i];
+    //     var newPt = gd._hoverdata[i];
 
-        if(oldPt.curveNumber !== newPt.curveNumber ||
-            String(oldPt.pointNumber) !== String(newPt.pointNumber) ||
-            String(oldPt.pointNumbers) !== String(newPt.pointNumbers)
-        ) {
-            return true;
-        }
-    }
-    return false;
+    //     if(oldPt.curveNumber !== newPt.curveNumber ||
+    //         String(oldPt.pointNumber) !== String(newPt.pointNumber) ||
+    //         String(oldPt.pointNumbers) !== String(newPt.pointNumbers)
+    //     ) {
+    //         return true;
+    //     }
+    // }
+    // return false;
 }
 
 function spikesChanged(gd, oldspikepoints) {

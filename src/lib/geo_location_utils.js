@@ -338,7 +338,7 @@ function fetchTraceGeoData(calcData) {
                     return reject('Unexpected error while fetching from ' + url);
                 }
                 cnt++;
-            }, 50);
+            }, 1000);
         });
     }
 

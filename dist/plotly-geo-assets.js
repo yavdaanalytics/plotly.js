@@ -17,7 +17,7 @@
 return /******/ (function() { // webpackBootstrap
 /******/ 	var __webpack_modules__ = ({
 
-/***/ 506:
+/***/ 89:
 /***/ (function(__unused_webpack_module, exports) {
 
 "use strict";
@@ -28,14 +28,14 @@ exports.version = '2.22.0';
 
 /***/ }),
 
-/***/ 679:
+/***/ 264:
 /***/ (function(__unused_webpack_module, exports, __webpack_require__) {
 
 exports.world_110m = __webpack_require__(110)
 exports.world_50m = __webpack_require__(912)
 
 exports.africa_110m = __webpack_require__(389)
-exports.africa_50m = __webpack_require__(949)
+exports.africa_50m = __webpack_require__(301)
 
 exports.asia_110m = __webpack_require__(87)
 exports.asia_50m = __webpack_require__(354)
@@ -63,7 +63,7 @@ module.exports = JSON.parse('{"type":"Topology","objects":{"coastlines":{"type":
 
 /***/ }),
 
-/***/ 949:
+/***/ 301:
 /***/ (function(module) {
 
 "use strict";
@@ -201,8 +201,8 @@ var __webpack_exports__ = {};
 var exports = __webpack_exports__;
 
 
-var saneTopojson = __webpack_require__(679);
-exports.version = __webpack_require__(506).version;
+var saneTopojson = __webpack_require__(264);
+exports.version = __webpack_require__(89).version;
 exports.topojson = saneTopojson;
 }();
 /******/ 	return __webpack_exports__;

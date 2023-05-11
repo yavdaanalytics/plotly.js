@@ -2567,7 +2567,7 @@
      },
      "role": "object",
      "size": {
-      "dflt": 13,
+      "dflt": 12,
       "editType": "none",
       "min": 1,
       "valType": "number"
