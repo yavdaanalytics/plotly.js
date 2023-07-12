@@ -61521,7 +61521,8 @@ function calcAllAutoBins(gd, trace, pa, mainData, _overlayEdgeCase) {
     setBound('end', binOpts, newBinSpec);
   }
   pos0 = trace['_' + mainData + 'pos0'];
-  delete trace['_' + mainData + 'pos0'];
+  // When first trace is legend only, it throws error if we uncomment next line.
+  // delete trace['_' + mainData + 'pos0'];
 
   // Each trace can specify its own start/end, or if omitted
   // we ensure they're beyond the bounds of this trace's data,
@@ -62074,6 +62075,8 @@ module.exports = function eventData(out, pt, trace, cd, pointNumber) {
   // specific to histogram - CDFs do not have pts (yet?)
   if (!(trace.cumulative || {}).enabled) {
     var pts = Array.isArray(pointNumber) ? cd[0].pts[pointNumber[0]][pointNumber[1]] : cd[pointNumber].pts;
+    out.x0 = pt.cd[pointNumber].ph0;
+    out.x1 = pt.cd[pointNumber].ph1;
     out.pointNumbers = pts;
     out.binNumber = out.pointNumber;
     delete out.pointNumber;
@@ -62088,6 +62091,12 @@ module.exports = function eventData(out, pt, trace, cd, pointNumber) {
       pointIndices = pts;
     }
     out.pointIndices = pointIndices;
+  } else {
+    try {
+      var pts = Array.isArray(pointNumber) ? cd[0].pts[pointNumber[0]][pointNumber[1]] : cd[pointNumber].pts;
+      out.x0 = pt.cd[pointNumber].p0;
+      out.x1 = pt.cd[pointNumber].p1;
+    } catch {}
   }
   return out;
 };

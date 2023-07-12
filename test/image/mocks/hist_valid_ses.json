@@ -38,7 +38,13 @@
                 "end": 7,
                 "size": 2
             },
-            "type": "histogram"
+            "type": "histogram",
+            "hovertemplate": "none",
+            "cumulative": {
+                "enabled": true,
+                "direction": "increasing"
+            },
+            "histnorm": "probability"
         }
     ],
     "layout": {
