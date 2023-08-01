@@ -5408,7 +5408,7 @@ drawing.singlePointStyle = function (d, sel, trace, fns, gd) {
   var fillColor, lineColor, lineWidth;
 
   // 'so' is suspected outliers, for box plots
-  if (d.so) {
+  if (d.so || d.so1) {
     lineWidth = markerLine.outlierwidth;
     lineColor = markerLine.outliercolor;
     fillColor = marker.outliercolor;
@@ -56406,11 +56406,12 @@ function handlePointsDefaults(traceIn, traceOut, coerce, opts) {
   var outlierColorDflt = Lib.coerce2(traceIn, traceOut, attributes, 'marker.outliercolor');
   var lineoutliercolor = coerce('marker.line.outliercolor');
   var modeDflt = 'outliers';
-  if (traceOut._hasPreCompStats) {
-    modeDflt = 'all';
-  } else if (outlierColorDflt || lineoutliercolor) {
-    modeDflt = 'suspectedoutliers';
-  }
+  // if(traceOut._hasPreCompStats) {
+  //     modeDflt = 'all';
+  // } else if(outlierColorDflt || lineoutliercolor) {
+  //     modeDflt = 'suspectedoutliers';
+  // }
+
   var mode = coerce(prefix + 'points', modeDflt);
   if (mode) {
     coerce('jitter', mode === 'all' ? 0.3 : 0);
@@ -56420,12 +56421,15 @@ function handlePointsDefaults(traceIn, traceOut, coerce, opts) {
     coerce('marker.size');
     coerce('marker.angle');
     coerce('marker.color', traceOut.line.color);
+    coerce('marker.outliercolor', traceOut.marker.color);
     coerce('marker.line.color');
     coerce('marker.line.width');
-    if (mode === 'suspectedoutliers') {
-      coerce('marker.line.outliercolor', traceOut.marker.color);
-      coerce('marker.line.outlierwidth');
-    }
+
+    //if(mode === 'suspectedoutliers') {
+    coerce('marker.line.outliercolor', traceOut.marker.line.color);
+    coerce('marker.line.outlierwidth', traceOut.marker.line.width);
+    //}
+
     coerce('selected.marker.color');
     coerce('unselected.marker.color');
     coerce('selected.marker.size');
@@ -56476,7 +56480,13 @@ module.exports = function eventData(out, pt) {
   // Note: hoverOnBox property is needed for click-to-select
   // to ignore when a box was clicked. This is the reason box
   // implements this custom eventData function.
-  if (pt.hoverOnBox) out.hoverOnBox = pt.hoverOnBox;
+  if (pt.hoverOnBox) {
+    out.hoverOnBox = pt.hoverOnBox;
+    out.pointIndices = pt.cd[pt.index].pts.map(p => p.i);
+    out.customdata = pt.cd[pt.index].trace.customdata[out.pointIndices[0]];
+    out.attr = pt.attr;
+    out.attrVal = pt.yVal;
+  }
   if ('xVal' in pt) out.x = pt.xVal;
   if ('yVal' in pt) out.y = pt.yVal;
   if (pt.xa) out.xaxis = pt.xa;
@@ -57067,10 +57077,14 @@ function plotPoints(sel, axes, trace, t) {
       }
 
       // tag suspected outliers
-      if (mode === 'suspectedoutliers' && v < d.uo && v > d.lo) {
+      if ((mode === 'suspectedoutliers' || mode === 'all') && v < d.uo && v > d.lo && (v < d.lf || v > d.uf)) {
         pt.so = true;
+      } else if ((mode === 'outliers' || mode === 'all') && (v < d.lf || v > d.uf)) {
+        pt.so1 = true;
       }
+      //console.log({v, uo: d.uo, lo: d.lo, so: pt.so, d});
     }
+
     return pts;
   });
   paths.enter().append('path').classed('point', true);

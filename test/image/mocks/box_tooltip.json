@@ -1,0 +1,2654 @@
+{
+    "data": [
+        {
+            "type": "box",
+            "opacity": 1,
+            "orientation": "v",
+            "customdata": [
+                {
+                    "index": 0,
+                    "plotId": "plot_0",
+                    "x": "First Party",
+                    "y": 3,
+                    "legend": "A",
+                    "trellis": "Mango"
+                },
+                {
+                    "index": 1,
+                    "plotId": "plot_0",
+                    "x": "First Party",
+                    "y": 10,
+                    "legend": "A",
+                    "trellis": "Mango"
+                },
+                {
+                    "index": 2,
+                    "plotId": "plot_0",
+                    "x": "First Party",
+                    "y": 3,
+                    "legend": "A",
+                    "trellis": "Mango"
+                },
+                {
+                    "index": 3,
+                    "plotId": "plot_0",
+                    "x": "First Party",
+                    "y": 7,
+                    "legend": "A",
+                    "trellis": "Mango"
+                },
+                {
+                    "index": 4,
+                    "plotId": "plot_0",
+                    "x": "First Party",
+                    "y": 6,
+                    "legend": "A",
+                    "trellis": "Mango"
+                },
+                {
+                    "index": 5,
+                    "plotId": "plot_0",
+                    "x": "First Party",
+                    "y": 10,
+                    "legend": "A",
+                    "trellis": "Mango"
+                },
+                {
+                    "index": 6,
+                    "plotId": "plot_0",
+                    "x": "First Party",
+                    "y": 2,
+                    "legend": "A",
+                    "trellis": "Mango"
+                },
+                {
+                    "index": 84,
+                    "plotId": "plot_0",
+                    "x": "Second Party",
+                    "y": 8,
+                    "legend": "A",
+                    "trellis": "Mango"
+                },
+                {
+                    "index": 85,
+                    "plotId": "plot_0",
+                    "x": "Second Party",
+                    "y": 8,
+                    "legend": "A",
+                    "trellis": "Mango"
+                },
+                {
+                    "index": 86,
+                    "plotId": "plot_0",
+                    "x": "Second Party",
+                    "y": 3,
+                    "legend": "A",
+                    "trellis": "Mango"
+                },
+                {
+                    "index": 87,
+                    "plotId": "plot_0",
+                    "x": "Second Party",
+                    "y": 10,
+                    "legend": "A",
+                    "trellis": "Mango"
+                },
+                {
+                    "index": 88,
+                    "plotId": "plot_0",
+                    "x": "Second Party",
+                    "y": 9,
+                    "legend": "A",
+                    "trellis": "Mango"
+                },
+                {
+                    "index": 89,
+                    "plotId": "plot_0",
+                    "x": "Second Party",
+                    "y": 10,
+                    "legend": "A",
+                    "trellis": "Mango"
+                },
+                {
+                    "index": 90,
+                    "plotId": "plot_0",
+                    "x": "Second Party",
+                    "y": 9,
+                    "legend": "A",
+                    "trellis": "Mango"
+                }
+            ],
+            "marker": {
+                "symbol": 0,
+                "color": "#ff0000",
+                "opacity": 1,
+                "size": 16,
+                "line": {
+                    "color": "#0000ff",
+                    "width": 2,
+                    "outliercolor": "#00ffff",
+                    "outlierwidth": 5
+                },
+                "outliercolor": "#00ff00"
+            },
+            "y": [
+                3,
+                10,
+                3,
+                7,
+                6,
+                10,
+                2,
+                8,
+                8,
+                3,
+                10,
+                9,
+                10,
+                9
+            ],
+            "x": [
+                "First Party",
+                "First Party",
+                "First Party",
+                "First Party",
+                "First Party",
+                "First Party",
+                "First Party",
+                "Second Party",
+                "Second Party",
+                "Second Party",
+                "Second Party",
+                "Second Party",
+                "Second Party",
+                "Second Party"
+            ],
+            "unselected": {
+                "marker": {
+                    "opacity": 0
+                }
+            },
+            "meta": {
+                "caption": {
+                    "x": "Managed By",
+                    "y": "Tree Height",
+                    "legend": "Orchard",
+                    "trellis": "Tree Type"
+                }
+            },
+            "name": "A",
+            "offsetgroup": "0",
+            "fillcolor": "#01B8AA00",
+            "boxpoints": "all",
+            "jitter": 1,
+            "pointpos": 0,
+            "boxmean": false,
+            "whiskerwidth": 1,
+            "line": {
+                "color": "#01B8AA",
+                "width": 1
+            },
+            "quartilemethod": "linear",
+            "hoveron": "boxes+points",
+            "hovertemplate": "<span style='opacity:0.8;font-family:monospace;'> Managed By</span>  %{customdata.x}<br><span style='opacity:0.8;font-family:monospace;'>Tree Height</span>  %{customdata.y}<br><extra></extra>"
+        },
+        {
+            "type": "box",
+            "opacity": 1,
+            "orientation": "v",
+            "customdata": [
+                {
+                    "index": 28,
+                    "plotId": "plot_0",
+                    "x": "First Party",
+                    "y": 7,
+                    "legend": "A",
+                    "trellis": "Guava"
+                },
+                {
+                    "index": 29,
+                    "plotId": "plot_0",
+                    "x": "First Party",
+                    "y": 3,
+                    "legend": "A",
+                    "trellis": "Guava"
+                },
+                {
+                    "index": 30,
+                    "plotId": "plot_0",
+                    "x": "First Party",
+                    "y": 10,
+                    "legend": "A",
+                    "trellis": "Guava"
+                },
+                {
+                    "index": 31,
+                    "plotId": "plot_0",
+                    "x": "First Party",
+                    "y": 5,
+                    "legend": "A",
+                    "trellis": "Guava"
+                },
+                {
+                    "index": 32,
+                    "plotId": "plot_0",
+                    "x": "First Party",
+                    "y": 10,
+                    "legend": "A",
+                    "trellis": "Guava"
+                },
+                {
+                    "index": 33,
+                    "plotId": "plot_0",
+                    "x": "First Party",
+                    "y": 8,
+                    "legend": "A",
+                    "trellis": "Guava"
+                },
+                {
+                    "index": 34,
+                    "plotId": "plot_0",
+                    "x": "First Party",
+                    "y": 3,
+                    "legend": "A",
+                    "trellis": "Guava"
+                },
+                {
+                    "index": 112,
+                    "plotId": "plot_0",
+                    "x": "Second Party",
+                    "y": 7,
+                    "legend": "A",
+                    "trellis": "Guava"
+                },
+                {
+                    "index": 113,
+                    "plotId": "plot_0",
+                    "x": "Second Party",
+                    "y": 3,
+                    "legend": "A",
+                    "trellis": "Guava"
+                },
+                {
+                    "index": 114,
+                    "plotId": "plot_0",
+                    "x": "Second Party",
+                    "y": 7,
+                    "legend": "A",
+                    "trellis": "Guava"
+                },
+                {
+                    "index": 115,
+                    "plotId": "plot_0",
+                    "x": "Second Party",
+                    "y": 8,
+                    "legend": "A",
+                    "trellis": "Guava"
+                },
+                {
+                    "index": 116,
+                    "plotId": "plot_0",
+                    "x": "Second Party",
+                    "y": 4,
+                    "legend": "A",
+                    "trellis": "Guava"
+                },
+                {
+                    "index": 117,
+                    "plotId": "plot_0",
+                    "x": "Second Party",
+                    "y": 7,
+                    "legend": "A",
+                    "trellis": "Guava"
+                },
+                {
+                    "index": 118,
+                    "plotId": "plot_0",
+                    "x": "Second Party",
+                    "y": 6,
+                    "legend": "A",
+                    "trellis": "Guava"
+                }
+            ],
+            "marker": {
+                "symbol": 0,
+                "color": "#ff0000",
+                "opacity": 1,
+                "size": 16,
+                "line": {
+                    "color": "#0000ff",
+                    "width": 2,
+                    "outliercolor": "#00ffff",
+                    "outlierwidth": 5
+                },
+                "outliercolor": "#00ff00"
+            },
+            "y": [
+                7,
+                3,
+                10,
+                5,
+                10,
+                8,
+                3,
+                7,
+                3,
+                7,
+                8,
+                4,
+                7,
+                6
+            ],
+            "x": [
+                "First Party",
+                "First Party",
+                "First Party",
+                "First Party",
+                "First Party",
+                "First Party",
+                "First Party",
+                "Second Party",
+                "Second Party",
+                "Second Party",
+                "Second Party",
+                "Second Party",
+                "Second Party",
+                "Second Party"
+            ],
+            "unselected": {
+                "marker": {
+                    "opacity": 0
+                }
+            },
+            "meta": {
+                "caption": {
+                    "x": "Managed By",
+                    "y": "Tree Height",
+                    "legend": "Orchard",
+                    "trellis": "Tree Type"
+                }
+            },
+            "name": "A",
+            "offsetgroup": "0",
+            "fillcolor": "#01B8AA00",
+            "boxpoints": "all",
+            "jitter": 1,
+            "pointpos": 0,
+            "boxmean": false,
+            "whiskerwidth": 1,
+            "line": {
+                "color": "#01B8AA",
+                "width": 1
+            },
+            "quartilemethod": "linear",
+            "hoveron": "boxes+points",
+            "hovertemplate": "<span style='opacity:0.8;font-family:monospace;'> Managed By</span>  %{customdata.x}<br><span style='opacity:0.8;font-family:monospace;'>Tree Height</span>  %{customdata.y}<br><extra></extra>",
+            "xaxis": "x2",
+            "yaxis": "y2"
+        },
+        {
+            "type": "box",
+            "opacity": 1,
+            "orientation": "v",
+            "customdata": [
+                {
+                    "index": 56,
+                    "plotId": "plot_0",
+                    "x": "First Party",
+                    "y": 7,
+                    "legend": "A",
+                    "trellis": "Papaya"
+                },
+                {
+                    "index": 57,
+                    "plotId": "plot_0",
+                    "x": "First Party",
+                    "y": 5,
+                    "legend": "A",
+                    "trellis": "Papaya"
+                },
+                {
+                    "index": 58,
+                    "plotId": "plot_0",
+                    "x": "First Party",
+                    "y": 10,
+                    "legend": "A",
+                    "trellis": "Papaya"
+                },
+                {
+                    "index": 59,
+                    "plotId": "plot_0",
+                    "x": "First Party",
+                    "y": 9,
+                    "legend": "A",
+                    "trellis": "Papaya"
+                },
+                {
+                    "index": 60,
+                    "plotId": "plot_0",
+                    "x": "First Party",
+                    "y": 1,
+                    "legend": "A",
+                    "trellis": "Papaya"
+                },
+                {
+                    "index": 61,
+                    "plotId": "plot_0",
+                    "x": "First Party",
+                    "y": 2,
+                    "legend": "A",
+                    "trellis": "Papaya"
+                },
+                {
+                    "index": 62,
+                    "plotId": "plot_0",
+                    "x": "First Party",
+                    "y": 3,
+                    "legend": "A",
+                    "trellis": "Papaya"
+                },
+                {
+                    "index": 140,
+                    "plotId": "plot_0",
+                    "x": "Second Party",
+                    "y": 3,
+                    "legend": "A",
+                    "trellis": "Papaya"
+                },
+                {
+                    "index": 141,
+                    "plotId": "plot_0",
+                    "x": "Second Party",
+                    "y": 1,
+                    "legend": "A",
+                    "trellis": "Papaya"
+                },
+                {
+                    "index": 142,
+                    "plotId": "plot_0",
+                    "x": "Second Party",
+                    "y": 2,
+                    "legend": "A",
+                    "trellis": "Papaya"
+                },
+                {
+                    "index": 143,
+                    "plotId": "plot_0",
+                    "x": "Second Party",
+                    "y": 2,
+                    "legend": "A",
+                    "trellis": "Papaya"
+                },
+                {
+                    "index": 144,
+                    "plotId": "plot_0",
+                    "x": "Second Party",
+                    "y": 3,
+                    "legend": "A",
+                    "trellis": "Papaya"
+                },
+                {
+                    "index": 145,
+                    "plotId": "plot_0",
+                    "x": "Second Party",
+                    "y": 10,
+                    "legend": "A",
+                    "trellis": "Papaya"
+                },
+                {
+                    "index": 146,
+                    "plotId": "plot_0",
+                    "x": "Second Party",
+                    "y": 10,
+                    "legend": "A",
+                    "trellis": "Papaya"
+                }
+            ],
+            "marker": {
+                "symbol": 0,
+                "color": "#ff0000",
+                "opacity": 1,
+                "size": 16,
+                "line": {
+                    "color": "#0000ff",
+                    "width": 2,
+                    "outliercolor": "#00ffff",
+                    "outlierwidth": 5
+                },
+                "outliercolor": "#00ff00"
+            },
+            "y": [
+                7,
+                5,
+                10,
+                9,
+                1,
+                2,
+                3,
+                3,
+                1,
+                2,
+                2,
+                3,
+                10,
+                10
+            ],
+            "x": [
+                "First Party",
+                "First Party",
+                "First Party",
+                "First Party",
+                "First Party",
+                "First Party",
+                "First Party",
+                "Second Party",
+                "Second Party",
+                "Second Party",
+                "Second Party",
+                "Second Party",
+                "Second Party",
+                "Second Party"
+            ],
+            "unselected": {
+                "marker": {
+                    "opacity": 0
+                }
+            },
+            "meta": {
+                "caption": {
+                    "x": "Managed By",
+                    "y": "Tree Height",
+                    "legend": "Orchard",
+                    "trellis": "Tree Type"
+                }
+            },
+            "name": "A",
+            "offsetgroup": "0",
+            "fillcolor": "#01B8AA00",
+            "boxpoints": "all",
+            "jitter": 1,
+            "pointpos": 0,
+            "boxmean": false,
+            "whiskerwidth": 1,
+            "line": {
+                "color": "#01B8AA",
+                "width": 1
+            },
+            "quartilemethod": "linear",
+            "hoveron": "boxes+points",
+            "hovertemplate": "<span style='opacity:0.8;font-family:monospace;'> Managed By</span>  %{customdata.x}<br><span style='opacity:0.8;font-family:monospace;'>Tree Height</span>  %{customdata.y}<br><extra></extra>",
+            "xaxis": "x3",
+            "yaxis": "y3"
+        },
+        {
+            "type": "box",
+            "opacity": 1,
+            "orientation": "v",
+            "customdata": [
+                {
+                    "index": 7,
+                    "plotId": "plot_0",
+                    "x": "First Party",
+                    "y": 10,
+                    "legend": "B",
+                    "trellis": "Mango"
+                },
+                {
+                    "index": 8,
+                    "plotId": "plot_0",
+                    "x": "First Party",
+                    "y": 2,
+                    "legend": "B",
+                    "trellis": "Mango"
+                },
+                {
+                    "index": 9,
+                    "plotId": "plot_0",
+                    "x": "First Party",
+                    "y": 8,
+                    "legend": "B",
+                    "trellis": "Mango"
+                },
+                {
+                    "index": 10,
+                    "plotId": "plot_0",
+                    "x": "First Party",
+                    "y": 7,
+                    "legend": "B",
+                    "trellis": "Mango"
+                },
+                {
+                    "index": 11,
+                    "plotId": "plot_0",
+                    "x": "First Party",
+                    "y": 2,
+                    "legend": "B",
+                    "trellis": "Mango"
+                },
+                {
+                    "index": 12,
+                    "plotId": "plot_0",
+                    "x": "First Party",
+                    "y": 6,
+                    "legend": "B",
+                    "trellis": "Mango"
+                },
+                {
+                    "index": 13,
+                    "plotId": "plot_0",
+                    "x": "First Party",
+                    "y": 8,
+                    "legend": "B",
+                    "trellis": "Mango"
+                },
+                {
+                    "index": 91,
+                    "plotId": "plot_0",
+                    "x": "Second Party",
+                    "y": 10,
+                    "legend": "B",
+                    "trellis": "Mango"
+                },
+                {
+                    "index": 92,
+                    "plotId": "plot_0",
+                    "x": "Second Party",
+                    "y": 10,
+                    "legend": "B",
+                    "trellis": "Mango"
+                },
+                {
+                    "index": 93,
+                    "plotId": "plot_0",
+                    "x": "Second Party",
+                    "y": 1,
+                    "legend": "B",
+                    "trellis": "Mango"
+                },
+                {
+                    "index": 94,
+                    "plotId": "plot_0",
+                    "x": "Second Party",
+                    "y": 2,
+                    "legend": "B",
+                    "trellis": "Mango"
+                },
+                {
+                    "index": 95,
+                    "plotId": "plot_0",
+                    "x": "Second Party",
+                    "y": 7,
+                    "legend": "B",
+                    "trellis": "Mango"
+                },
+                {
+                    "index": 96,
+                    "plotId": "plot_0",
+                    "x": "Second Party",
+                    "y": 5,
+                    "legend": "B",
+                    "trellis": "Mango"
+                },
+                {
+                    "index": 97,
+                    "plotId": "plot_0",
+                    "x": "Second Party",
+                    "y": 6,
+                    "legend": "B",
+                    "trellis": "Mango"
+                }
+            ],
+            "marker": {
+                "symbol": 0,
+                "color": "#ff0000",
+                "opacity": 1,
+                "size": 16,
+                "line": {
+                    "color": "#0000ff",
+                    "width": 2,
+                    "outliercolor": "#00ffff",
+                    "outlierwidth": 5
+                },
+                "outliercolor": "#00ff00"
+            },
+            "y": [
+                10,
+                2,
+                8,
+                7,
+                2,
+                6,
+                8,
+                10,
+                10,
+                1,
+                2,
+                7,
+                5,
+                6
+            ],
+            "x": [
+                "First Party",
+                "First Party",
+                "First Party",
+                "First Party",
+                "First Party",
+                "First Party",
+                "First Party",
+                "Second Party",
+                "Second Party",
+                "Second Party",
+                "Second Party",
+                "Second Party",
+                "Second Party",
+                "Second Party"
+            ],
+            "unselected": {
+                "marker": {
+                    "opacity": 0
+                }
+            },
+            "meta": {
+                "caption": {
+                    "x": "Managed By",
+                    "y": "Tree Height",
+                    "legend": "Orchard",
+                    "trellis": "Tree Type"
+                }
+            },
+            "name": "B",
+            "offsetgroup": "1",
+            "fillcolor": "#37464900",
+            "boxpoints": "all",
+            "jitter": 1,
+            "pointpos": 0,
+            "boxmean": false,
+            "whiskerwidth": 1,
+            "line": {
+                "color": "#374649",
+                "width": 1
+            },
+            "quartilemethod": "linear",
+            "hoveron": "boxes+points",
+            "hovertemplate": "<span style='opacity:0.8;font-family:monospace;'> Managed By</span>  %{customdata.x}<br><span style='opacity:0.8;font-family:monospace;'>Tree Height</span>  %{customdata.y}<br><extra></extra>"
+        },
+        {
+            "type": "box",
+            "opacity": 1,
+            "orientation": "v",
+            "customdata": [
+                {
+                    "index": 35,
+                    "plotId": "plot_0",
+                    "x": "First Party",
+                    "y": 3,
+                    "legend": "B",
+                    "trellis": "Guava"
+                },
+                {
+                    "index": 36,
+                    "plotId": "plot_0",
+                    "x": "First Party",
+                    "y": 9,
+                    "legend": "B",
+                    "trellis": "Guava"
+                },
+                {
+                    "index": 37,
+                    "plotId": "plot_0",
+                    "x": "First Party",
+                    "y": 9,
+                    "legend": "B",
+                    "trellis": "Guava"
+                },
+                {
+                    "index": 38,
+                    "plotId": "plot_0",
+                    "x": "First Party",
+                    "y": 8,
+                    "legend": "B",
+                    "trellis": "Guava"
+                },
+                {
+                    "index": 39,
+                    "plotId": "plot_0",
+                    "x": "First Party",
+                    "y": 3,
+                    "legend": "B",
+                    "trellis": "Guava"
+                },
+                {
+                    "index": 40,
+                    "plotId": "plot_0",
+                    "x": "First Party",
+                    "y": 2,
+                    "legend": "B",
+                    "trellis": "Guava"
+                },
+                {
+                    "index": 41,
+                    "plotId": "plot_0",
+                    "x": "First Party",
+                    "y": 6,
+                    "legend": "B",
+                    "trellis": "Guava"
+                },
+                {
+                    "index": 119,
+                    "plotId": "plot_0",
+                    "x": "Second Party",
+                    "y": 7,
+                    "legend": "B",
+                    "trellis": "Guava"
+                },
+                {
+                    "index": 120,
+                    "plotId": "plot_0",
+                    "x": "Second Party",
+                    "y": 10,
+                    "legend": "B",
+                    "trellis": "Guava"
+                },
+                {
+                    "index": 121,
+                    "plotId": "plot_0",
+                    "x": "Second Party",
+                    "y": 4,
+                    "legend": "B",
+                    "trellis": "Guava"
+                },
+                {
+                    "index": 122,
+                    "plotId": "plot_0",
+                    "x": "Second Party",
+                    "y": 3,
+                    "legend": "B",
+                    "trellis": "Guava"
+                },
+                {
+                    "index": 123,
+                    "plotId": "plot_0",
+                    "x": "Second Party",
+                    "y": 8,
+                    "legend": "B",
+                    "trellis": "Guava"
+                },
+                {
+                    "index": 124,
+                    "plotId": "plot_0",
+                    "x": "Second Party",
+                    "y": 1,
+                    "legend": "B",
+                    "trellis": "Guava"
+                },
+                {
+                    "index": 125,
+                    "plotId": "plot_0",
+                    "x": "Second Party",
+                    "y": 3,
+                    "legend": "B",
+                    "trellis": "Guava"
+                }
+            ],
+            "marker": {
+                "symbol": 0,
+                "color": "#ff0000",
+                "opacity": 1,
+                "size": 16,
+                "line": {
+                    "color": "#0000ff",
+                    "width": 2,
+                    "outliercolor": "#00ffff",
+                    "outlierwidth": 5
+                },
+                "outliercolor": "#00ff00"
+            },
+            "y": [
+                3,
+                9,
+                9,
+                8,
+                3,
+                2,
+                6,
+                7,
+                10,
+                4,
+                3,
+                8,
+                1,
+                3
+            ],
+            "x": [
+                "First Party",
+                "First Party",
+                "First Party",
+                "First Party",
+                "First Party",
+                "First Party",
+                "First Party",
+                "Second Party",
+                "Second Party",
+                "Second Party",
+                "Second Party",
+                "Second Party",
+                "Second Party",
+                "Second Party"
+            ],
+            "unselected": {
+                "marker": {
+                    "opacity": 0
+                }
+            },
+            "meta": {
+                "caption": {
+                    "x": "Managed By",
+                    "y": "Tree Height",
+                    "legend": "Orchard",
+                    "trellis": "Tree Type"
+                }
+            },
+            "name": "B",
+            "offsetgroup": "1",
+            "fillcolor": "#37464900",
+            "boxpoints": "all",
+            "jitter": 1,
+            "pointpos": 0,
+            "boxmean": false,
+            "whiskerwidth": 1,
+            "line": {
+                "color": "#374649",
+                "width": 1
+            },
+            "quartilemethod": "linear",
+            "hoveron": "boxes+points",
+            "hovertemplate": "<span style='opacity:0.8;font-family:monospace;'> Managed By</span>  %{customdata.x}<br><span style='opacity:0.8;font-family:monospace;'>Tree Height</span>  %{customdata.y}<br><extra></extra>",
+            "xaxis": "x2",
+            "yaxis": "y2"
+        },
+        {
+            "type": "box",
+            "opacity": 1,
+            "orientation": "v",
+            "customdata": [
+                {
+                    "index": 63,
+                    "plotId": "plot_0",
+                    "x": "First Party",
+                    "y": 4,
+                    "legend": "B",
+                    "trellis": "Papaya"
+                },
+                {
+                    "index": 64,
+                    "plotId": "plot_0",
+                    "x": "First Party",
+                    "y": 9,
+                    "legend": "B",
+                    "trellis": "Papaya"
+                },
+                {
+                    "index": 65,
+                    "plotId": "plot_0",
+                    "x": "First Party",
+                    "y": 10,
+                    "legend": "B",
+                    "trellis": "Papaya"
+                },
+                {
+                    "index": 66,
+                    "plotId": "plot_0",
+                    "x": "First Party",
+                    "y": 2,
+                    "legend": "B",
+                    "trellis": "Papaya"
+                },
+                {
+                    "index": 67,
+                    "plotId": "plot_0",
+                    "x": "First Party",
+                    "y": 1,
+                    "legend": "B",
+                    "trellis": "Papaya"
+                },
+                {
+                    "index": 68,
+                    "plotId": "plot_0",
+                    "x": "First Party",
+                    "y": 8,
+                    "legend": "B",
+                    "trellis": "Papaya"
+                },
+                {
+                    "index": 69,
+                    "plotId": "plot_0",
+                    "x": "First Party",
+                    "y": 6,
+                    "legend": "B",
+                    "trellis": "Papaya"
+                },
+                {
+                    "index": 147,
+                    "plotId": "plot_0",
+                    "x": "Second Party",
+                    "y": 9,
+                    "legend": "B",
+                    "trellis": "Papaya"
+                },
+                {
+                    "index": 148,
+                    "plotId": "plot_0",
+                    "x": "Second Party",
+                    "y": 10,
+                    "legend": "B",
+                    "trellis": "Papaya"
+                },
+                {
+                    "index": 149,
+                    "plotId": "plot_0",
+                    "x": "Second Party",
+                    "y": 4,
+                    "legend": "B",
+                    "trellis": "Papaya"
+                },
+                {
+                    "index": 150,
+                    "plotId": "plot_0",
+                    "x": "Second Party",
+                    "y": 6,
+                    "legend": "B",
+                    "trellis": "Papaya"
+                },
+                {
+                    "index": 151,
+                    "plotId": "plot_0",
+                    "x": "Second Party",
+                    "y": 1,
+                    "legend": "B",
+                    "trellis": "Papaya"
+                },
+                {
+                    "index": 152,
+                    "plotId": "plot_0",
+                    "x": "Second Party",
+                    "y": 3,
+                    "legend": "B",
+                    "trellis": "Papaya"
+                },
+                {
+                    "index": 153,
+                    "plotId": "plot_0",
+                    "x": "Second Party",
+                    "y": 5,
+                    "legend": "B",
+                    "trellis": "Papaya"
+                }
+            ],
+            "marker": {
+                "symbol": 0,
+                "color": "#ff0000",
+                "opacity": 1,
+                "size": 16,
+                "line": {
+                    "color": "#0000ff",
+                    "width": 2,
+                    "outliercolor": "#00ffff",
+                    "outlierwidth": 5
+                },
+                "outliercolor": "#00ff00"
+            },
+            "y": [
+                4,
+                9,
+                10,
+                2,
+                1,
+                8,
+                6,
+                9,
+                10,
+                4,
+                6,
+                1,
+                3,
+                5
+            ],
+            "x": [
+                "First Party",
+                "First Party",
+                "First Party",
+                "First Party",
+                "First Party",
+                "First Party",
+                "First Party",
+                "Second Party",
+                "Second Party",
+                "Second Party",
+                "Second Party",
+                "Second Party",
+                "Second Party",
+                "Second Party"
+            ],
+            "unselected": {
+                "marker": {
+                    "opacity": 0
+                }
+            },
+            "meta": {
+                "caption": {
+                    "x": "Managed By",
+                    "y": "Tree Height",
+                    "legend": "Orchard",
+                    "trellis": "Tree Type"
+                }
+            },
+            "name": "B",
+            "offsetgroup": "1",
+            "fillcolor": "#37464900",
+            "boxpoints": "all",
+            "jitter": 1,
+            "pointpos": 0,
+            "boxmean": false,
+            "whiskerwidth": 1,
+            "line": {
+                "color": "#374649",
+                "width": 1
+            },
+            "quartilemethod": "linear",
+            "hoveron": "boxes+points",
+            "hovertemplate": "<span style='opacity:0.8;font-family:monospace;'> Managed By</span>  %{customdata.x}<br><span style='opacity:0.8;font-family:monospace;'>Tree Height</span>  %{customdata.y}<br><extra></extra>",
+            "xaxis": "x3",
+            "yaxis": "y3"
+        },
+        {
+            "type": "box",
+            "opacity": 1,
+            "orientation": "v",
+            "customdata": [
+                {
+                    "index": 14,
+                    "plotId": "plot_0",
+                    "x": "First Party",
+                    "y": 9,
+                    "legend": "C",
+                    "trellis": "Mango"
+                },
+                {
+                    "index": 15,
+                    "plotId": "plot_0",
+                    "x": "First Party",
+                    "y": 1,
+                    "legend": "C",
+                    "trellis": "Mango"
+                },
+                {
+                    "index": 16,
+                    "plotId": "plot_0",
+                    "x": "First Party",
+                    "y": 7,
+                    "legend": "C",
+                    "trellis": "Mango"
+                },
+                {
+                    "index": 17,
+                    "plotId": "plot_0",
+                    "x": "First Party",
+                    "y": 4,
+                    "legend": "C",
+                    "trellis": "Mango"
+                },
+                {
+                    "index": 18,
+                    "plotId": "plot_0",
+                    "x": "First Party",
+                    "y": 5,
+                    "legend": "C",
+                    "trellis": "Mango"
+                },
+                {
+                    "index": 19,
+                    "plotId": "plot_0",
+                    "x": "First Party",
+                    "y": 4,
+                    "legend": "C",
+                    "trellis": "Mango"
+                },
+                {
+                    "index": 20,
+                    "plotId": "plot_0",
+                    "x": "First Party",
+                    "y": 6,
+                    "legend": "C",
+                    "trellis": "Mango"
+                },
+                {
+                    "index": 98,
+                    "plotId": "plot_0",
+                    "x": "Second Party",
+                    "y": 7,
+                    "legend": "C",
+                    "trellis": "Mango"
+                },
+                {
+                    "index": 99,
+                    "plotId": "plot_0",
+                    "x": "Second Party",
+                    "y": 2,
+                    "legend": "C",
+                    "trellis": "Mango"
+                },
+                {
+                    "index": 100,
+                    "plotId": "plot_0",
+                    "x": "Second Party",
+                    "y": 4,
+                    "legend": "C",
+                    "trellis": "Mango"
+                },
+                {
+                    "index": 101,
+                    "plotId": "plot_0",
+                    "x": "Second Party",
+                    "y": 1,
+                    "legend": "C",
+                    "trellis": "Mango"
+                },
+                {
+                    "index": 102,
+                    "plotId": "plot_0",
+                    "x": "Second Party",
+                    "y": 9,
+                    "legend": "C",
+                    "trellis": "Mango"
+                },
+                {
+                    "index": 103,
+                    "plotId": "plot_0",
+                    "x": "Second Party",
+                    "y": 4,
+                    "legend": "C",
+                    "trellis": "Mango"
+                },
+                {
+                    "index": 104,
+                    "plotId": "plot_0",
+                    "x": "Second Party",
+                    "y": 7,
+                    "legend": "C",
+                    "trellis": "Mango"
+                }
+            ],
+            "marker": {
+                "symbol": 0,
+                "color": "#ff0000",
+                "opacity": 1,
+                "size": 16,
+                "line": {
+                    "color": "#0000ff",
+                    "width": 2,
+                    "outliercolor": "#00ffff",
+                    "outlierwidth": 5
+                },
+                "outliercolor": "#00ff00"
+            },
+            "y": [
+                9,
+                1,
+                7,
+                4,
+                5,
+                4,
+                6,
+                7,
+                2,
+                4,
+                1,
+                9,
+                4,
+                7
+            ],
+            "x": [
+                "First Party",
+                "First Party",
+                "First Party",
+                "First Party",
+                "First Party",
+                "First Party",
+                "First Party",
+                "Second Party",
+                "Second Party",
+                "Second Party",
+                "Second Party",
+                "Second Party",
+                "Second Party",
+                "Second Party"
+            ],
+            "unselected": {
+                "marker": {
+                    "opacity": 0
+                }
+            },
+            "meta": {
+                "caption": {
+                    "x": "Managed By",
+                    "y": "Tree Height",
+                    "legend": "Orchard",
+                    "trellis": "Tree Type"
+                }
+            },
+            "name": "C",
+            "offsetgroup": "2",
+            "fillcolor": "#FD625E00",
+            "boxpoints": "all",
+            "jitter": 1,
+            "pointpos": 0,
+            "boxmean": false,
+            "whiskerwidth": 1,
+            "line": {
+                "color": "#FD625E",
+                "width": 1
+            },
+            "quartilemethod": "linear",
+            "hoveron": "boxes+points",
+            "hovertemplate": "<span style='opacity:0.8;font-family:monospace;'> Managed By</span>  %{customdata.x}<br><span style='opacity:0.8;font-family:monospace;'>Tree Height</span>  %{customdata.y}<br><extra></extra>"
+        },
+        {
+            "type": "box",
+            "opacity": 1,
+            "orientation": "v",
+            "customdata": [
+                {
+                    "index": 42,
+                    "plotId": "plot_0",
+                    "x": "First Party",
+                    "y": 2,
+                    "legend": "C",
+                    "trellis": "Guava"
+                },
+                {
+                    "index": 43,
+                    "plotId": "plot_0",
+                    "x": "First Party",
+                    "y": 7,
+                    "legend": "C",
+                    "trellis": "Guava"
+                },
+                {
+                    "index": 44,
+                    "plotId": "plot_0",
+                    "x": "First Party",
+                    "y": 4,
+                    "legend": "C",
+                    "trellis": "Guava"
+                },
+                {
+                    "index": 45,
+                    "plotId": "plot_0",
+                    "x": "First Party",
+                    "y": 9,
+                    "legend": "C",
+                    "trellis": "Guava"
+                },
+                {
+                    "index": 46,
+                    "plotId": "plot_0",
+                    "x": "First Party",
+                    "y": 8,
+                    "legend": "C",
+                    "trellis": "Guava"
+                },
+                {
+                    "index": 47,
+                    "plotId": "plot_0",
+                    "x": "First Party",
+                    "y": 5,
+                    "legend": "C",
+                    "trellis": "Guava"
+                },
+                {
+                    "index": 48,
+                    "plotId": "plot_0",
+                    "x": "First Party",
+                    "y": 7,
+                    "legend": "C",
+                    "trellis": "Guava"
+                },
+                {
+                    "index": 126,
+                    "plotId": "plot_0",
+                    "x": "Second Party",
+                    "y": 7,
+                    "legend": "C",
+                    "trellis": "Guava"
+                },
+                {
+                    "index": 127,
+                    "plotId": "plot_0",
+                    "x": "Second Party",
+                    "y": 10,
+                    "legend": "C",
+                    "trellis": "Guava"
+                },
+                {
+                    "index": 128,
+                    "plotId": "plot_0",
+                    "x": "Second Party",
+                    "y": 8,
+                    "legend": "C",
+                    "trellis": "Guava"
+                },
+                {
+                    "index": 129,
+                    "plotId": "plot_0",
+                    "x": "Second Party",
+                    "y": 5,
+                    "legend": "C",
+                    "trellis": "Guava"
+                },
+                {
+                    "index": 130,
+                    "plotId": "plot_0",
+                    "x": "Second Party",
+                    "y": 3,
+                    "legend": "C",
+                    "trellis": "Guava"
+                },
+                {
+                    "index": 131,
+                    "plotId": "plot_0",
+                    "x": "Second Party",
+                    "y": 1,
+                    "legend": "C",
+                    "trellis": "Guava"
+                },
+                {
+                    "index": 132,
+                    "plotId": "plot_0",
+                    "x": "Second Party",
+                    "y": 10,
+                    "legend": "C",
+                    "trellis": "Guava"
+                }
+            ],
+            "marker": {
+                "symbol": 0,
+                "color": "#ff0000",
+                "opacity": 1,
+                "size": 16,
+                "line": {
+                    "color": "#0000ff",
+                    "width": 2,
+                    "outliercolor": "#00ffff",
+                    "outlierwidth": 5
+                },
+                "outliercolor": "#00ff00"
+            },
+            "y": [
+                2,
+                7,
+                4,
+                9,
+                8,
+                5,
+                7,
+                7,
+                10,
+                8,
+                5,
+                3,
+                1,
+                10
+            ],
+            "x": [
+                "First Party",
+                "First Party",
+                "First Party",
+                "First Party",
+                "First Party",
+                "First Party",
+                "First Party",
+                "Second Party",
+                "Second Party",
+                "Second Party",
+                "Second Party",
+                "Second Party",
+                "Second Party",
+                "Second Party"
+            ],
+            "unselected": {
+                "marker": {
+                    "opacity": 0
+                }
+            },
+            "meta": {
+                "caption": {
+                    "x": "Managed By",
+                    "y": "Tree Height",
+                    "legend": "Orchard",
+                    "trellis": "Tree Type"
+                }
+            },
+            "name": "C",
+            "offsetgroup": "2",
+            "fillcolor": "#FD625E00",
+            "boxpoints": "all",
+            "jitter": 1,
+            "pointpos": 0,
+            "boxmean": false,
+            "whiskerwidth": 1,
+            "line": {
+                "color": "#FD625E",
+                "width": 1
+            },
+            "quartilemethod": "linear",
+            "hoveron": "boxes+points",
+            "hovertemplate": "<span style='opacity:0.8;font-family:monospace;'> Managed By</span>  %{customdata.x}<br><span style='opacity:0.8;font-family:monospace;'>Tree Height</span>  %{customdata.y}<br><extra></extra>",
+            "xaxis": "x2",
+            "yaxis": "y2"
+        },
+        {
+            "type": "box",
+            "opacity": 1,
+            "orientation": "v",
+            "customdata": [
+                {
+                    "index": 70,
+                    "plotId": "plot_0",
+                    "x": "First Party",
+                    "y": 4,
+                    "legend": "C",
+                    "trellis": "Papaya"
+                },
+                {
+                    "index": 71,
+                    "plotId": "plot_0",
+                    "x": "First Party",
+                    "y": 4,
+                    "legend": "C",
+                    "trellis": "Papaya"
+                },
+                {
+                    "index": 72,
+                    "plotId": "plot_0",
+                    "x": "First Party",
+                    "y": 3,
+                    "legend": "C",
+                    "trellis": "Papaya"
+                },
+                {
+                    "index": 73,
+                    "plotId": "plot_0",
+                    "x": "First Party",
+                    "y": 5,
+                    "legend": "C",
+                    "trellis": "Papaya"
+                },
+                {
+                    "index": 74,
+                    "plotId": "plot_0",
+                    "x": "First Party",
+                    "y": 10,
+                    "legend": "C",
+                    "trellis": "Papaya"
+                },
+                {
+                    "index": 75,
+                    "plotId": "plot_0",
+                    "x": "First Party",
+                    "y": 7,
+                    "legend": "C",
+                    "trellis": "Papaya"
+                },
+                {
+                    "index": 76,
+                    "plotId": "plot_0",
+                    "x": "First Party",
+                    "y": 4,
+                    "legend": "C",
+                    "trellis": "Papaya"
+                },
+                {
+                    "index": 154,
+                    "plotId": "plot_0",
+                    "x": "Second Party",
+                    "y": 3,
+                    "legend": "C",
+                    "trellis": "Papaya"
+                },
+                {
+                    "index": 155,
+                    "plotId": "plot_0",
+                    "x": "Second Party",
+                    "y": 7,
+                    "legend": "C",
+                    "trellis": "Papaya"
+                },
+                {
+                    "index": 156,
+                    "plotId": "plot_0",
+                    "x": "Second Party",
+                    "y": 1,
+                    "legend": "C",
+                    "trellis": "Papaya"
+                },
+                {
+                    "index": 157,
+                    "plotId": "plot_0",
+                    "x": "Second Party",
+                    "y": 9,
+                    "legend": "C",
+                    "trellis": "Papaya"
+                },
+                {
+                    "index": 158,
+                    "plotId": "plot_0",
+                    "x": "Second Party",
+                    "y": 2,
+                    "legend": "C",
+                    "trellis": "Papaya"
+                },
+                {
+                    "index": 159,
+                    "plotId": "plot_0",
+                    "x": "Second Party",
+                    "y": 1,
+                    "legend": "C",
+                    "trellis": "Papaya"
+                },
+                {
+                    "index": 160,
+                    "plotId": "plot_0",
+                    "x": "Second Party",
+                    "y": 9,
+                    "legend": "C",
+                    "trellis": "Papaya"
+                }
+            ],
+            "marker": {
+                "symbol": 0,
+                "color": "#ff0000",
+                "opacity": 1,
+                "size": 16,
+                "line": {
+                    "color": "#0000ff",
+                    "width": 2,
+                    "outliercolor": "#00ffff",
+                    "outlierwidth": 5
+                },
+                "outliercolor": "#00ff00"
+            },
+            "y": [
+                4,
+                4,
+                3,
+                5,
+                10,
+                7,
+                4,
+                3,
+                7,
+                1,
+                9,
+                2,
+                1,
+                9
+            ],
+            "x": [
+                "First Party",
+                "First Party",
+                "First Party",
+                "First Party",
+                "First Party",
+                "First Party",
+                "First Party",
+                "Second Party",
+                "Second Party",
+                "Second Party",
+                "Second Party",
+                "Second Party",
+                "Second Party",
+                "Second Party"
+            ],
+            "unselected": {
+                "marker": {
+                    "opacity": 0
+                }
+            },
+            "meta": {
+                "caption": {
+                    "x": "Managed By",
+                    "y": "Tree Height",
+                    "legend": "Orchard",
+                    "trellis": "Tree Type"
+                }
+            },
+            "name": "C",
+            "offsetgroup": "2",
+            "fillcolor": "#FD625E00",
+            "boxpoints": "all",
+            "jitter": 1,
+            "pointpos": 0,
+            "boxmean": false,
+            "whiskerwidth": 1,
+            "line": {
+                "color": "#FD625E",
+                "width": 1
+            },
+            "quartilemethod": "linear",
+            "hoveron": "boxes+points",
+            "hovertemplate": "<span style='opacity:0.8;font-family:monospace;'> Managed By</span>  %{customdata.x}<br><span style='opacity:0.8;font-family:monospace;'>Tree Height</span>  %{customdata.y}<br><extra></extra>",
+            "xaxis": "x3",
+            "yaxis": "y3"
+        },
+        {
+            "type": "box",
+            "opacity": 1,
+            "orientation": "v",
+            "customdata": [
+                {
+                    "index": 21,
+                    "plotId": "plot_0",
+                    "x": "First Party",
+                    "y": 4,
+                    "legend": "D",
+                    "trellis": "Mango"
+                },
+                {
+                    "index": 22,
+                    "plotId": "plot_0",
+                    "x": "First Party",
+                    "y": 3,
+                    "legend": "D",
+                    "trellis": "Mango"
+                },
+                {
+                    "index": 23,
+                    "plotId": "plot_0",
+                    "x": "First Party",
+                    "y": 7,
+                    "legend": "D",
+                    "trellis": "Mango"
+                },
+                {
+                    "index": 24,
+                    "plotId": "plot_0",
+                    "x": "First Party",
+                    "y": 5,
+                    "legend": "D",
+                    "trellis": "Mango"
+                },
+                {
+                    "index": 25,
+                    "plotId": "plot_0",
+                    "x": "First Party",
+                    "y": 9,
+                    "legend": "D",
+                    "trellis": "Mango"
+                },
+                {
+                    "index": 26,
+                    "plotId": "plot_0",
+                    "x": "First Party",
+                    "y": 7,
+                    "legend": "D",
+                    "trellis": "Mango"
+                },
+                {
+                    "index": 27,
+                    "plotId": "plot_0",
+                    "x": "First Party",
+                    "y": 2,
+                    "legend": "D",
+                    "trellis": "Mango"
+                },
+                {
+                    "index": 105,
+                    "plotId": "plot_0",
+                    "x": "Second Party",
+                    "y": 8,
+                    "legend": "D",
+                    "trellis": "Mango"
+                },
+                {
+                    "index": 106,
+                    "plotId": "plot_0",
+                    "x": "Second Party",
+                    "y": 6,
+                    "legend": "D",
+                    "trellis": "Mango"
+                },
+                {
+                    "index": 107,
+                    "plotId": "plot_0",
+                    "x": "Second Party",
+                    "y": 8,
+                    "legend": "D",
+                    "trellis": "Mango"
+                },
+                {
+                    "index": 108,
+                    "plotId": "plot_0",
+                    "x": "Second Party",
+                    "y": 10,
+                    "legend": "D",
+                    "trellis": "Mango"
+                },
+                {
+                    "index": 109,
+                    "plotId": "plot_0",
+                    "x": "Second Party",
+                    "y": 5,
+                    "legend": "D",
+                    "trellis": "Mango"
+                },
+                {
+                    "index": 110,
+                    "plotId": "plot_0",
+                    "x": "Second Party",
+                    "y": 1,
+                    "legend": "D",
+                    "trellis": "Mango"
+                },
+                {
+                    "index": 111,
+                    "plotId": "plot_0",
+                    "x": "Second Party",
+                    "y": 6,
+                    "legend": "D",
+                    "trellis": "Mango"
+                }
+            ],
+            "marker": {
+                "symbol": 0,
+                "color": "#ff0000",
+                "opacity": 1,
+                "size": 16,
+                "line": {
+                    "color": "#0000ff",
+                    "width": 2,
+                    "outliercolor": "#00ffff",
+                    "outlierwidth": 5
+                },
+                "outliercolor": "#00ff00"
+            },
+            "y": [
+                4,
+                3,
+                7,
+                5,
+                9,
+                7,
+                2,
+                8,
+                6,
+                8,
+                10,
+                5,
+                1,
+                6
+            ],
+            "x": [
+                "First Party",
+                "First Party",
+                "First Party",
+                "First Party",
+                "First Party",
+                "First Party",
+                "First Party",
+                "Second Party",
+                "Second Party",
+                "Second Party",
+                "Second Party",
+                "Second Party",
+                "Second Party",
+                "Second Party"
+            ],
+            "unselected": {
+                "marker": {
+                    "opacity": 0
+                }
+            },
+            "meta": {
+                "caption": {
+                    "x": "Managed By",
+                    "y": "Tree Height",
+                    "legend": "Orchard",
+                    "trellis": "Tree Type"
+                }
+            },
+            "name": "D",
+            "offsetgroup": "3",
+            "fillcolor": "#F2C80F00",
+            "boxpoints": "all",
+            "jitter": 1,
+            "pointpos": 0,
+            "boxmean": false,
+            "whiskerwidth": 1,
+            "line": {
+                "color": "#F2C80F",
+                "width": 1
+            },
+            "quartilemethod": "linear",
+            "hoveron": "boxes+points",
+            "hovertemplate": "<span style='opacity:0.8;font-family:monospace;'> Managed By</span>  %{customdata.x}<br><span style='opacity:0.8;font-family:monospace;'>Tree Height</span>  %{customdata.y}<br><extra></extra>"
+        },
+        {
+            "type": "box",
+            "opacity": 1,
+            "orientation": "v",
+            "customdata": [
+                {
+                    "index": 49,
+                    "plotId": "plot_0",
+                    "x": "First Party",
+                    "y": 10,
+                    "legend": "D",
+                    "trellis": "Guava"
+                },
+                {
+                    "index": 50,
+                    "plotId": "plot_0",
+                    "x": "First Party",
+                    "y": 10,
+                    "legend": "D",
+                    "trellis": "Guava"
+                },
+                {
+                    "index": 51,
+                    "plotId": "plot_0",
+                    "x": "First Party",
+                    "y": 4,
+                    "legend": "D",
+                    "trellis": "Guava"
+                },
+                {
+                    "index": 52,
+                    "plotId": "plot_0",
+                    "x": "First Party",
+                    "y": 1,
+                    "legend": "D",
+                    "trellis": "Guava"
+                },
+                {
+                    "index": 53,
+                    "plotId": "plot_0",
+                    "x": "First Party",
+                    "y": 4,
+                    "legend": "D",
+                    "trellis": "Guava"
+                },
+                {
+                    "index": 54,
+                    "plotId": "plot_0",
+                    "x": "First Party",
+                    "y": 9,
+                    "legend": "D",
+                    "trellis": "Guava"
+                },
+                {
+                    "index": 55,
+                    "plotId": "plot_0",
+                    "x": "First Party",
+                    "y": 1,
+                    "legend": "D",
+                    "trellis": "Guava"
+                },
+                {
+                    "index": 133,
+                    "plotId": "plot_0",
+                    "x": "Second Party",
+                    "y": 7,
+                    "legend": "D",
+                    "trellis": "Guava"
+                },
+                {
+                    "index": 134,
+                    "plotId": "plot_0",
+                    "x": "Second Party",
+                    "y": 9,
+                    "legend": "D",
+                    "trellis": "Guava"
+                },
+                {
+                    "index": 135,
+                    "plotId": "plot_0",
+                    "x": "Second Party",
+                    "y": 3,
+                    "legend": "D",
+                    "trellis": "Guava"
+                },
+                {
+                    "index": 136,
+                    "plotId": "plot_0",
+                    "x": "Second Party",
+                    "y": 6,
+                    "legend": "D",
+                    "trellis": "Guava"
+                },
+                {
+                    "index": 137,
+                    "plotId": "plot_0",
+                    "x": "Second Party",
+                    "y": 10,
+                    "legend": "D",
+                    "trellis": "Guava"
+                },
+                {
+                    "index": 138,
+                    "plotId": "plot_0",
+                    "x": "Second Party",
+                    "y": 3,
+                    "legend": "D",
+                    "trellis": "Guava"
+                },
+                {
+                    "index": 139,
+                    "plotId": "plot_0",
+                    "x": "Second Party",
+                    "y": 6,
+                    "legend": "D",
+                    "trellis": "Guava"
+                }
+            ],
+            "marker": {
+                "symbol": 0,
+                "color": "#ff0000",
+                "opacity": 1,
+                "size": 16,
+                "line": {
+                    "color": "#0000ff",
+                    "width": 2,
+                    "outliercolor": "#00ffff",
+                    "outlierwidth": 5
+                },
+                "outliercolor": "#00ff00"
+            },
+            "y": [
+                10,
+                10,
+                4,
+                1,
+                4,
+                9,
+                1,
+                7,
+                9,
+                3,
+                6,
+                10,
+                3,
+                6
+            ],
+            "x": [
+                "First Party",
+                "First Party",
+                "First Party",
+                "First Party",
+                "First Party",
+                "First Party",
+                "First Party",
+                "Second Party",
+                "Second Party",
+                "Second Party",
+                "Second Party",
+                "Second Party",
+                "Second Party",
+                "Second Party"
+            ],
+            "unselected": {
+                "marker": {
+                    "opacity": 0
+                }
+            },
+            "meta": {
+                "caption": {
+                    "x": "Managed By",
+                    "y": "Tree Height",
+                    "legend": "Orchard",
+                    "trellis": "Tree Type"
+                }
+            },
+            "name": "D",
+            "offsetgroup": "3",
+            "fillcolor": "#F2C80F00",
+            "boxpoints": "all",
+            "jitter": 1,
+            "pointpos": 0,
+            "boxmean": false,
+            "whiskerwidth": 1,
+            "line": {
+                "color": "#F2C80F",
+                "width": 1
+            },
+            "quartilemethod": "linear",
+            "hoveron": "boxes+points",
+            "hovertemplate": "<span style='opacity:0.8;font-family:monospace;'> Managed By</span>  %{customdata.x}<br><span style='opacity:0.8;font-family:monospace;'>Tree Height</span>  %{customdata.y}<br><extra></extra>",
+            "xaxis": "x2",
+            "yaxis": "y2"
+        },
+        {
+            "type": "box",
+            "opacity": 1,
+            "orientation": "v",
+            "customdata": [
+                {
+                    "index": 77,
+                    "plotId": "plot_0",
+                    "x": "First Party",
+                    "y": 8,
+                    "legend": "D",
+                    "trellis": "Papaya"
+                },
+                {
+                    "index": 78,
+                    "plotId": "plot_0",
+                    "x": "First Party",
+                    "y": 4,
+                    "legend": "D",
+                    "trellis": "Papaya"
+                },
+                {
+                    "index": 79,
+                    "plotId": "plot_0",
+                    "x": "First Party",
+                    "y": 8,
+                    "legend": "D",
+                    "trellis": "Papaya"
+                },
+                {
+                    "index": 80,
+                    "plotId": "plot_0",
+                    "x": "First Party",
+                    "y": 7,
+                    "legend": "D",
+                    "trellis": "Papaya"
+                },
+                {
+                    "index": 81,
+                    "plotId": "plot_0",
+                    "x": "First Party",
+                    "y": 2,
+                    "legend": "D",
+                    "trellis": "Papaya"
+                },
+                {
+                    "index": 82,
+                    "plotId": "plot_0",
+                    "x": "First Party",
+                    "y": 4,
+                    "legend": "D",
+                    "trellis": "Papaya"
+                },
+                {
+                    "index": 83,
+                    "plotId": "plot_0",
+                    "x": "First Party",
+                    "y": 1,
+                    "legend": "D",
+                    "trellis": "Papaya"
+                },
+                {
+                    "index": 161,
+                    "plotId": "plot_0",
+                    "x": "Second Party",
+                    "y": 5,
+                    "legend": "D",
+                    "trellis": "Papaya"
+                },
+                {
+                    "index": 162,
+                    "plotId": "plot_0",
+                    "x": "Second Party",
+                    "y": 3,
+                    "legend": "D",
+                    "trellis": "Papaya"
+                },
+                {
+                    "index": 163,
+                    "plotId": "plot_0",
+                    "x": "Second Party",
+                    "y": 2,
+                    "legend": "D",
+                    "trellis": "Papaya"
+                },
+                {
+                    "index": 164,
+                    "plotId": "plot_0",
+                    "x": "Second Party",
+                    "y": 3,
+                    "legend": "D",
+                    "trellis": "Papaya"
+                },
+                {
+                    "index": 165,
+                    "plotId": "plot_0",
+                    "x": "Second Party",
+                    "y": 2,
+                    "legend": "D",
+                    "trellis": "Papaya"
+                },
+                {
+                    "index": 166,
+                    "plotId": "plot_0",
+                    "x": "Second Party",
+                    "y": 10,
+                    "legend": "D",
+                    "trellis": "Papaya"
+                },
+                {
+                    "index": 167,
+                    "plotId": "plot_0",
+                    "x": "Second Party",
+                    "y": 5,
+                    "legend": "D",
+                    "trellis": "Papaya"
+                }
+            ],
+            "marker": {
+                "symbol": 0,
+                "color": "#ff0000",
+                "opacity": 1,
+                "size": 16,
+                "line": {
+                    "color": "#0000ff",
+                    "width": 2,
+                    "outliercolor": "#00ffff",
+                    "outlierwidth": 5
+                },
+                "outliercolor": "#00ff00"
+            },
+            "y": [
+                8,
+                4,
+                8,
+                7,
+                2,
+                4,
+                1,
+                5,
+                3,
+                2,
+                3,
+                2,
+                10,
+                5
+            ],
+            "x": [
+                "First Party",
+                "First Party",
+                "First Party",
+                "First Party",
+                "First Party",
+                "First Party",
+                "First Party",
+                "Second Party",
+                "Second Party",
+                "Second Party",
+                "Second Party",
+                "Second Party",
+                "Second Party",
+                "Second Party"
+            ],
+            "unselected": {
+                "marker": {
+                    "opacity": 0
+                }
+            },
+            "meta": {
+                "caption": {
+                    "x": "Managed By",
+                    "y": "Tree Height",
+                    "legend": "Orchard",
+                    "trellis": "Tree Type"
+                }
+            },
+            "name": "D",
+            "offsetgroup": "3",
+            "fillcolor": "#F2C80F00",
+            "boxpoints": "all",
+            "jitter": 1,
+            "pointpos": 0,
+            "boxmean": false,
+            "whiskerwidth": 1,
+            "line": {
+                "color": "#F2C80F",
+                "width": 1
+            },
+            "quartilemethod": "linear",
+            "hoveron": "boxes+points",
+            "hovertemplate": "<span style='opacity:0.8;font-family:monospace;'> Managed By</span>  %{customdata.x}<br><span style='opacity:0.8;font-family:monospace;'>Tree Height</span>  %{customdata.y}<br><extra></extra>",
+            "xaxis": "x3",
+            "yaxis": "y3"
+        }
+    ],
+    "layout": {
+        "autosize": false,
+        "boxmode": "group",
+        "colorway": [
+            "#01B8AA",
+            "#374649",
+            "#FD625E",
+            "#F2C80F",
+            "#5F6B6D",
+            "#8AD4EB",
+            "#FE9666",
+            "#A66999"
+        ],
+        "margin": {
+            "l": 10,
+            "r": 10,
+            "b": 10,
+            "t": 10
+        },
+        "plot_bgcolor": "rgba(0, 0, 0, 0)",
+        "paper_bgcolor": "rgba(0, 0, 0, 0)",
+        "font": {},
+        "hoverlabel": {
+            "align": "left",
+            "bgcolor": "rgb(22, 22, 22)",
+            "bordercolor": "rgb(22, 22, 22)",
+            "font": {
+                "color": "rgb(251, 251, 251)"
+            }
+        },
+        "title": {
+            "text": "",
+            "font": {
+                "color": "rgb(0, 0, 0)",
+                "size": 16
+            },
+            "x": 0.5,
+            "y": -0.05,
+            "pad": {
+                "l": 10,
+                "r": 10,
+                "b": 10,
+                "t": 10
+            }
+        },
+        "showlegend": true,
+        "legend": {
+            "orientation": "v",
+            "xanchor": "left",
+            "yanchor": "middle",
+            "x": 1,
+            "y": 0.5,
+            "itemsizing": "constant"
+        },
+        "bargap": 0.19999999999999996,
+        "bargroupgap": 0,
+        "barmode": "group",
+        "barnorm": "",
+        "xaxis3": {
+            "automargin": true,
+            "visible": true,
+            "showdividers": false,
+            "type": "category",
+            "fixedrange": true,
+            "ticks": "",
+            "ticklen": 5,
+            "showticklabels": true,
+            "showline": false,
+            "showgrid": true,
+            "gridwidth": 1,
+            "griddash": "solid",
+            "domain": [
+                0,
+                1
+            ],
+            "zeroline": false,
+            "tickfont": {
+                "size": 12
+            },
+            "autorange": true,
+            "rangeslider": {
+                "visible": false,
+                "yaxis3": {}
+            },
+            "anchor": "y3",
+            "range": [
+                -0.5,
+                1.5
+            ]
+        },
+        "xaxis2": {
+            "automargin": true,
+            "visible": true,
+            "showdividers": false,
+            "type": "category",
+            "fixedrange": true,
+            "ticks": "",
+            "ticklen": 5,
+            "showticklabels": true,
+            "showline": false,
+            "showgrid": true,
+            "gridwidth": 1,
+            "griddash": "solid",
+            "domain": [
+                0,
+                1
+            ],
+            "zeroline": false,
+            "tickfont": {
+                "size": 12
+            },
+            "autorange": true,
+            "rangeslider": {
+                "visible": false,
+                "yaxis2": {}
+            },
+            "anchor": "y2",
+            "range": [
+                -0.5,
+                1.5
+            ]
+        },
+        "xaxis": {
+            "automargin": true,
+            "visible": true,
+            "showdividers": false,
+            "type": "category",
+            "fixedrange": true,
+            "ticks": "",
+            "ticklen": 5,
+            "showticklabels": true,
+            "showline": false,
+            "showgrid": true,
+            "gridwidth": 1,
+            "griddash": "solid",
+            "domain": [
+                0,
+                1
+            ],
+            "zeroline": false,
+            "tickfont": {
+                "size": 12
+            },
+            "autorange": true,
+            "rangeslider": {
+                "visible": false,
+                "yaxis": {}
+            },
+            "anchor": "y",
+            "range": [
+                -0.5,
+                1.5
+            ]
+        },
+        "yaxis": {
+            "automargin": true,
+            "visible": true,
+            "showdividers": false,
+            "type": "linear",
+            "fixedrange": true,
+            "ticks": "",
+            "ticklen": 5,
+            "showticklabels": true,
+            "showline": true,
+            "showgrid": true,
+            "gridwidth": 1,
+            "griddash": "solid",
+            "domain": [
+                0.6999999999999997,
+                0.9999999999999998
+            ],
+            "zeroline": false,
+            "tickfont": {
+                "size": 12
+            },
+            "autorange": true,
+            "rangeslider": {
+                "visible": false
+            },
+            "title": {
+                "standoff": 3,
+                "text": "Tree Height",
+                "font": {
+                    "color": "rgb(0, 0, 0)",
+                    "size": 16
+                }
+            },
+            "anchor": "x",
+            "range": [
+                0.5,
+                10.5
+            ]
+        },
+        "yaxis2": {
+            "automargin": true,
+            "visible": true,
+            "showdividers": false,
+            "type": "linear",
+            "fixedrange": true,
+            "ticks": "",
+            "ticklen": 5,
+            "showticklabels": true,
+            "showline": true,
+            "showgrid": true,
+            "gridwidth": 1,
+            "griddash": "solid",
+            "domain": [
+                0.3499999999999999,
+                0.6499999999999999
+            ],
+            "zeroline": false,
+            "tickfont": {
+                "size": 12
+            },
+            "autorange": true,
+            "rangeslider": {
+                "visible": false
+            },
+            "title": {
+                "standoff": 3,
+                "text": "Tree Height",
+                "font": {
+                    "color": "rgb(0, 0, 0)",
+                    "size": 16
+                }
+            },
+            "anchor": "x2",
+            "matches": "y",
+            "range": [
+                0.5,
+                10.5
+            ]
+        },
+        "yaxis3": {
+            "automargin": true,
+            "visible": true,
+            "showdividers": false,
+            "type": "linear",
+            "fixedrange": true,
+            "ticks": "",
+            "ticklen": 5,
+            "showticklabels": true,
+            "showline": true,
+            "showgrid": true,
+            "gridwidth": 1,
+            "griddash": "solid",
+            "domain": [
+                0,
+                0.3
+            ],
+            "zeroline": false,
+            "tickfont": {
+                "size": 12
+            },
+            "autorange": true,
+            "rangeslider": {
+                "visible": false
+            },
+            "title": {
+                "standoff": 3,
+                "text": "Tree Height",
+                "font": {
+                    "color": "rgb(0, 0, 0)",
+                    "size": 16
+                }
+            },
+            "anchor": "x3",
+            "matches": "y",
+            "range": [
+                0.5,
+                10.5
+            ]
+        },
+        "annotations": [
+            {
+                "showarrow": false,
+                "text": "Mango",
+                "xref": "paper",
+                "yref": "paper",
+                "standoff": 0,
+                "font": {
+                    "size": null,
+                    "color": null
+                },
+                "x": 0,
+                "xanchor": "left",
+                "xshift": 5,
+                "y": 0.9999999999999998,
+                "yanchor": "top",
+                "yshift": 5
+            },
+            {
+                "showarrow": false,
+                "text": "Guava",
+                "xref": "paper",
+                "yref": "paper",
+                "standoff": 0,
+                "font": {
+                    "size": null,
+                    "color": null
+                },
+                "x": 0,
+                "xanchor": "left",
+                "xshift": 5,
+                "y": 0.6499999999999999,
+                "yanchor": "top",
+                "yshift": 5
+            },
+            {
+                "showarrow": false,
+                "text": "Papaya",
+                "xref": "paper",
+                "yref": "paper",
+                "standoff": 0,
+                "font": {
+                    "size": null,
+                    "color": null
+                },
+                "x": 0,
+                "xanchor": "left",
+                "xshift": 5,
+                "y": 0.3,
+                "yanchor": "top",
+                "yshift": 5
+            }
+        ],
+        "width": 701,
+        "height": 444,
+        "shapes": []
+    }
+}

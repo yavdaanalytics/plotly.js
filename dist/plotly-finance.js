@@ -5388,7 +5388,7 @@ drawing.singlePointStyle = function (d, sel, trace, fns, gd) {
   var fillColor, lineColor, lineWidth;
 
   // 'so' is suspected outliers, for box plots
-  if (d.so) {
+  if (d.so || d.so1) {
     lineWidth = markerLine.outlierwidth;
     lineColor = markerLine.outliercolor;
     fillColor = marker.outliercolor;
@@ -55143,10 +55143,14 @@ function plotPoints(sel, axes, trace, t) {
       }
 
       // tag suspected outliers
-      if (mode === 'suspectedoutliers' && v < d.uo && v > d.lo) {
+      if ((mode === 'suspectedoutliers' || mode === 'all') && v < d.uo && v > d.lo && (v < d.lf || v > d.uf)) {
         pt.so = true;
+      } else if ((mode === 'outliers' || mode === 'all') && (v < d.lf || v > d.uf)) {
+        pt.so1 = true;
       }
+      //console.log({v, uo: d.uo, lo: d.lo, so: pt.so, d});
     }
+
     return pts;
   });
   paths.enter().append('path').classed('point', true);

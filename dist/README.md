@@ -114,7 +114,7 @@ The `cartesian` partial bundle contains trace modules `bar`, `box`, `contour`, `
 
 | Raw size | Minified size | Minified + gzip size |
 |------|-----------------|------------------------|
-| 3.3 MB | 1.2 MB | 407.9 kB |
+| 3.3 MB | 1.2 MB | 408 kB |
 
 #### CDN links
 > https://cdn.plot.ly/plotly-cartesian-2.22.0.js
@@ -229,7 +229,7 @@ The `finance` partial bundle contains trace modules `bar`, `candlestick`, `funne
 
 | Raw size | Minified size | Minified + gzip size |
 |------|-----------------|------------------------|
-| 2.8 MB | 1 MB | 350.9 kB |
+| 2.8 MB | 1 MB | 351 kB |
 
 #### CDN links
 > https://cdn.plot.ly/plotly-finance-2.22.0.js
