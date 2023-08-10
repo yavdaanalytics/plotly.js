@@ -12530,20 +12530,21 @@ module.exports = function style(s, gd, legend) {
     var pts = d3.select(this).select('g.legendpoints').selectAll('path.legendbox').data(trace.visible && Registry.traceIs(trace, 'box-violin') ? [d] : []);
     pts.enter().append('path').classed('legendbox', true)
     // if we want the median bar, prepend M6,0H-6
-    .attr('d', 'M6,6H-6V-6H6Z').attr('transform', centerTransform);
+    .attr('d', 'M 0 0 m -5 0 a 5 5 0 1 0 10 0 a 5 5 0 1 0 -10 0').attr('transform', centerTransform);
     pts.exit().remove();
     pts.each(function () {
       var p = d3.select(this);
       if ((trace.boxpoints === 'all' || trace.points === 'all') && Color.opacity(trace.fillcolor) === 0 && Color.opacity((trace.line || {}).color) === 0) {
-        var tMod = Lib.minExtend(trace, {
-          marker: {
-            size: constantItemSizing ? CST_MARKER_SIZE : Lib.constrain(trace.marker.size, 2, 16),
-            sizeref: 1,
-            sizemin: 1,
-            sizemode: 'diameter'
-          }
-        });
-        pts.call(Drawing.pointStyle, tMod, gd);
+        // var tMod = Lib.minExtend(trace, {
+        //     marker: {
+        //         size: constantItemSizing ? CST_MARKER_SIZE : Lib.constrain(trace.marker.size, 2, 16),
+        //         sizeref: 1,
+        //         sizemin: 1,
+        //         sizemode: 'diameter'
+        //     }
+        // });
+        // pts.call(Drawing.pointStyle, tMod, gd);
+        p.call(Color.fill, trace.marker.color);
       } else {
         var w = boundLineWidth(undefined, trace.line, MAX_MARKER_LINE_WIDTH, CST_MARKER_LINE_WIDTH);
         p.style('stroke-width', w + 'px').call(Color.fill, trace.fillcolor);
@@ -55494,6 +55495,10 @@ module.exports = {
     values: [true, 'sd', false],
     editType: 'calc'
   },
+  meancolor: {
+    valType: 'color',
+    editType: 'style'
+  },
   mean: {
     valType: 'data_array',
     editType: 'calc'
@@ -56238,6 +56243,8 @@ function supplyDefaults(traceIn, traceOut, defaultColor, layout) {
     }
   }
   coerce('boxmean', boxmeanDflt);
+  coerce('meancolor', traceOut.line.color); //TODO correct mean color
+
   coerce('whiskerwidth');
   coerce('width');
   coerce('quartilemethod');
@@ -56483,7 +56490,9 @@ module.exports = function eventData(out, pt) {
   if (pt.hoverOnBox) {
     out.hoverOnBox = pt.hoverOnBox;
     out.pointIndices = pt.cd[pt.index].pts.map(p => p.i);
-    out.customdata = pt.trace.customdata[out.pointIndices[0]];
+    if (pt.trace.customdata) {
+      out.customdata = pt.trace.customdata[out.pointIndices[0]];
+    }
     out.attr = pt.attr;
     out.attrVal = pt.yVal;
   }
@@ -57220,7 +57229,7 @@ function style(gd, cd, sel) {
       el.selectAll('path.mean').style({
         'stroke-width': lineWidth,
         'stroke-dasharray': 2 * lineWidth + 'px,' + lineWidth + 'px'
-      }).call(Color.stroke, trace.line.color);
+      }).call(Color.stroke, trace.meancolor);
       var pts = el.selectAll('path.point');
       Drawing.pointStyle(pts, trace, gd);
     }

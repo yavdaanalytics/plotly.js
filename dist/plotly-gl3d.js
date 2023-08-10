@@ -12490,20 +12490,21 @@ module.exports = function style(s, gd, legend) {
     var pts = d3.select(this).select('g.legendpoints').selectAll('path.legendbox').data(trace.visible && Registry.traceIs(trace, 'box-violin') ? [d] : []);
     pts.enter().append('path').classed('legendbox', true)
     // if we want the median bar, prepend M6,0H-6
-    .attr('d', 'M6,6H-6V-6H6Z').attr('transform', centerTransform);
+    .attr('d', 'M 0 0 m -5 0 a 5 5 0 1 0 10 0 a 5 5 0 1 0 -10 0').attr('transform', centerTransform);
     pts.exit().remove();
     pts.each(function () {
       var p = d3.select(this);
       if ((trace.boxpoints === 'all' || trace.points === 'all') && Color.opacity(trace.fillcolor) === 0 && Color.opacity((trace.line || {}).color) === 0) {
-        var tMod = Lib.minExtend(trace, {
-          marker: {
-            size: constantItemSizing ? CST_MARKER_SIZE : Lib.constrain(trace.marker.size, 2, 16),
-            sizeref: 1,
-            sizemin: 1,
-            sizemode: 'diameter'
-          }
-        });
-        pts.call(Drawing.pointStyle, tMod, gd);
+        // var tMod = Lib.minExtend(trace, {
+        //     marker: {
+        //         size: constantItemSizing ? CST_MARKER_SIZE : Lib.constrain(trace.marker.size, 2, 16),
+        //         sizeref: 1,
+        //         sizemin: 1,
+        //         sizemode: 'diameter'
+        //     }
+        // });
+        // pts.call(Drawing.pointStyle, tMod, gd);
+        p.call(Color.fill, trace.marker.color);
       } else {
         var w = boundLineWidth(undefined, trace.line, MAX_MARKER_LINE_WIDTH, CST_MARKER_LINE_WIDTH);
         p.style('stroke-width', w + 'px').call(Color.fill, trace.fillcolor);
